@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/das%20erste.png" group-title="IPTV",Das Erste
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/index_2692_av-p.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/zdf%20hd.png" group-title="IPTV",ZDF HD
+http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/3sat.png" group-title="IPTV",3sat
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8
+#EXTINF:-1 tvg-name="ARTE HD DE" tvg-id="ARTE.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/arte%20hd.png" group-title="IPTV",ARTE HD DE
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="ARTE HD FR" tvg-id="ARTE.fr" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/arte%20hd.png" group-title="IPTV",ARTE HD FR
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="ServusTV HD DE" tvg-id="ServusHD.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/servus%20tv%20hd.png" group-title="IPTV",ServusTV HD DE
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-p.m3u8
+#EXTINF:-1 tvg-name="ServusTV HD AT" tvg-id="ServusTV.at" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/servus%20tv%20hd.png" group-title="IPTV",ServusTV HD AT
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
+#EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltDerWunder.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/welt%20der%20wunder.png" group-title="IPTV",Welt der Wunder
+http://live.vidoo.de/live/weltderwunder/master.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/ard-alpha.png" group-title="IPTV",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/one%20hd.png" group-title="IPTV",one HD
+http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/index_7_av-p.m3u8
+#EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/zdf_neo.png" group-title="IPTV",ZDFneo
+http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/zdf.info.png" group-title="IPTV",ZDFinfo
+http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-name="RTL II You" tvg-id="RTL2You.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/RTL_II_YOU_Logo.png" group-title="IPTV",RTL II You
+http://rtl2ingest1-i.akamaihd.net/hls/live/225448/cbcyoumain/cbcyoumainstream1_.m3u8
+#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/anixe%20hd.png",ANIXE HD
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+#EXTINF:-1 tvg-name="blizz TV" tvg-id="Blizz.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Blizz.png/800px-Blizz.png" group-title="IPTV",blizz TV
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+#EXTINF:-1 tvg-name="Family TV" tvg-id="FamilyTV.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/family%20tv.png" group-title="IPTV",Family TV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
+#EXTINF:-1 tvg-name="eoTV HD" tvg-id="RiC.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/EO_TV_HD_Logo_2016.svg/800px-EO_TV_HD_Logo_2016.svg.png" group-title="IPTV",eoTV HD
+http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
+#EXTINF:-1 tvg-name="RiC / eoTV" tvg-id="RiC.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/ric.png" group-title="IPTV",RiC / eoTV
+http://5845e42425cc9.streamlock.net/live/rictv/master.m3u8
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/kika.png" group-title="IPTV",KiKA
+http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nick.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/nickelodeon.png" group-title="IPTV",Nickelodeon
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="disneychannel.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/disney%20channel.png" group-title="IPTV",Disney Channel
+https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8
+#EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/mtv%20germany.png" group-title="IPTV",MTV Germany
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music" tvg-id="DeLuxeMusic.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/deluxe%20music.png" group-title="IPTV",DELUXE MUSIC
+http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="gotv" tvg-id="go.tv" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/gotv.png" group-title="IPTV",gotv
+http://nstream17.gotv.at:1936/live/gotvlive_576p/playlist.m3u8
+#EXTINF:-1 tvg-name="XITE" tvg-id="" tvg-logo="http://www.xite.tv/img/xite_logo.png" group-title="IPTV",XITE
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNewsHD.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/sky%20sp%20newshd.png" group-title="IPTV",Sky Sport News HD
+http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299/index_3400_av-p.m3u8
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/tagesschau24.png" group-title="IPTV",tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="n-tv" tvg-id="ntv.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/n-tv.png" group-title="IPTV",n-tv
+http://p.live.akamai.n-tv.de/hls-live/ntvlive/ntvlive_1500.m3u8
+#EXTINF:-1 tvg-name="N24" tvg-id="n24.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/n24.png" group-title="IPTV",N24
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/phoenix.png" group-title="IPTV",Phoenix
+http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/index_1496_av-p.m3u8
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/wdr%20hd.png" group-title="IPTV",WDR HD
+http://tvstreamgeo.wdr.de/i/wdrfs_geogeblockt@112044/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="SWR HD Baden-Würrtemberg" tvg-id="SWR.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/swr%20bw%20hd.png" group-title="IPTV",SWR HD Baden-Würrtemberg
+http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-name="SWR HD Rheinland-Pfalz" tvg-id="SWR-rp.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/swr%20rp%20hd.png" group-title="IPTV",SWR HD Rheinland-Pfalz
+http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR HD Niedersachsen" tvg-id="ndr.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/ndr%20fs%20nds%20hd.png" group-title="IPTV",NDR HD Niedersachsen
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR HD Schleswig-Holstein" tvg-id="ndr.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/ndr%20fs%20sh%20hd.png" group-title="IPTV",NDR HD Schleswig-Holstein
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR HD Mecklenburg-Vorpommern" tvg-id="ndr.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/ndr%20fs%20mv%20hd.png" group-title="IPTV",NDR HD Mecklenburg-Vorpommern
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR HD Hamburg" tvg-id="ndr.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/ndr%20fs%20hh%20hd.png" group-title="IPTV",NDR HD Hamburg
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen HD Nord" tvg-id="BR.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/br%20fernsehen%20nord%20hd.png" group-title="IPTV",BR Fernsehen HD Nord
+http://livestreams.br.de/i/bfsnord_germany@119898/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen HD Süd" tvg-id="BR.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/br%20fernsehen%20s%C3%BCd%20hd.png" group-title="IPTV",BR Fernsehen HD Süd
+http://livestreams.br.de/i/bfssued_germany@119890/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="MDR HD Sachsen" tvg-id="MDRSachsen.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/mdr%20sachsen.png" group-title="IPTV",MDR HD Sachsen
+http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/index_3871_av-p.m3u8
+#EXTINF:-1 tvg-name="MDR HD Sachsen-Anhalt" tvg-id="MDRS-Anhalt.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/mdr%20s-anhalt%20hd.png" group-title="IPTV",MDR HD Sachsen-Anhalt
+http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="MDR HD Thüringen" tvg-id="MDRThuringen.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/mdr%20th%C3%BCringen%20hd.png" group-title="IPTV",MDR HD Thüringen
+http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/hr-fernsehen.png" group-title="IPTV",hr-fernsehen
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-name="rbb HD Berlin" tvg-id="rbbBerlin.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/rbb%20berlin%20hd.png" group-title="IPTV",rbb HD Berlin
+http://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_7_av-p.m3u8
+#EXTINF:-1 tvg-name="rbb HD Brandenburg" tvg-id="rbbBrandenburg.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/rbb%20brandenburg%20hd.png" group-title="IPTV",rbb HD Brandenburg
+http://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_7_av-p.m3u8
+#EXTINF:-1 tvg-name="SR HD" tvg-id="SRFernsehen.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/sr%20fernsehen%20hd.png" group-title="IPTV",SR HD
+http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/index_1662_av-p.m3u8
+#EXTINF:-1 tvg-name="rheinmaintv" tvg-id="rheinmaintv.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/rhein%20main%20tv.png" group-title="IPTV",rheinmaintv
+http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelle.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/dw%20europe.png" group-title="IPTV",Deutsche Welle
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/rfo.png" group-title="IPTV",RFO
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-name="SDF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/sdf%20s%C3%BCdtirol%20digital.png" group-title="IPTV",SDF
+http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
+#EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/orf1%20hd.png" group-title="IPTV",ORF eins HD
+http://orf2.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="ORF2.at" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/orf%202%20hd.png" group-title="IPTV",ORF 2 HD
+http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="ORF III HD" tvg-id="ORF3.at" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/orf%20iii%20hd.png" group-title="IPTV",ORF III HD
+http://orf2.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="ORF SPORT +" tvg-id="ORFSport.at" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/orf%20sport+%20hd.png" group-title="IPTV",ORF SPORT +
+http://orf2.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
