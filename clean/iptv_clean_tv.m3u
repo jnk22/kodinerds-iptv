@@ -23,15 +23,15 @@ http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/index_7_av-p.m
 http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfo.png" group-title="IPTV",ZDFinfo
 http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-name="RTL II You" tvg-id="RTL2You.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/tv/rtl2you.png" group-title="IPTV",RTL II You
+#EXTINF:-1 tvg-name="RTL II You" tvg-id="RTL2You.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtl2you.png" group-title="IPTV",RTL II You
 http://rtl2ingest1-i.akamaihd.net/hls/live/225448/cbcyoumain/cbcyoumainstream1_.m3u8
 #EXTINF:-1 tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
 http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
-#EXTINF:-1 tvg-name="blizz TV" tvg-id="Blizz.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/tv/blizztv.png" group-title="IPTV",blizz TV
+#EXTINF:-1 tvg-name="blizz TV" tvg-id="Blizz.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png" group-title="IPTV",blizz TV
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 #EXTINF:-1 tvg-name="Family TV" tvg-id="FamilyTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/familytv.png" group-title="IPTV",Family TV
 http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
-#EXTINF:-1 tvg-name="eoTV HD" tvg-id="RiC.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/tv/eotvhd.png" group-title="IPTV",eoTV HD
+#EXTINF:-1 tvg-name="eoTV HD" tvg-id="RiC.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png" group-title="IPTV",eoTV HD
 http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
 #EXTINF:-1 tvg-name="RiC / eoTV" tvg-id="RiC.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png" group-title="IPTV",RiC / eoTV
 http://5845e42425cc9.streamlock.net/live/rictv/master.m3u8
@@ -47,7 +47,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
 http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="gotv" tvg-id="go.tv" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/gotv.png" group-title="IPTV",gotv
 http://nstream17.gotv.at:1936/live/gotvlive_576p/playlist.m3u8
-#EXTINF:-1 tvg-name="XITE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/tv/xite.png" group-title="IPTV",XITE
+#EXTINF:-1 tvg-name="XITE" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/xite.png" group-title="IPTV",XITE
 http://highvolume03.streampartner.nl/vleugels_hd6/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNewsHD.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png" group-title="IPTV",Sky Sport News HD
 http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299/index_3400_av-p.m3u8
