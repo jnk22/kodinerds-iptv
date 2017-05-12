@@ -10,8 +10,10 @@
 * _tv.m3u - beinhaltet nur Fernsehsender
 * _radio.m3u - beinhaltet nur Radiosender
 * _full.m3u - beinhaltet alle Fernseh- und Radiosender
+<br><br>
 ## Anleitung
 * zu finden auf Kodinerds.net - https://www.kodinerds.net/index.php/Thread/56713/
+<br><br>
 ## Links
 * [Thread auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56498/)
 * [Aktuelle Bugs / To-Do Liste](https://github.com/jnk22/kodinerds-iptv/issues)
