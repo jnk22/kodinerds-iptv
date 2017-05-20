@@ -137,7 +137,7 @@ http://ndr-n-joy-mp3.akacast.akamaistream.net/7/665/273752/v1/gnl.akacast.akamai
 http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3
 #EXTINF:-1 tvg-name="planet radio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetradio.png" group-title="Radio" radio="true",planet radio
 http://mp3.planetradio.de/fs_planetradio/hqlivestream.mp3
-#EXTINF:-1 tvg-name="Radio B2 Berlin" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png" group-title="Radio" radio="true",radio B2
+#EXTINF:-1 tvg-name="radio B2" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png" group-title="Radio" radio="true",radio B2
 http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
 #EXTINF:-1 tvg-name="Radio TEDDY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png" group-title="Radio" radio="true",Radio TEDDY
 http://217.160.14.96:8000/intro.radioteddy.mp3
