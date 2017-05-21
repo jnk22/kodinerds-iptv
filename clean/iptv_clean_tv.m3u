@@ -23,7 +23,7 @@ http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/index_7_av-p.m
 http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfo.png" group-title="IPTV",ZDFinfo
 http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-name="RTL II You" tvg-id="RTL2You.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtl2you.png" group-title="IPTV",RTL II You
+#EXTINF:-1 tvg-name="RTL II You" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtl2you.png" group-title="IPTV",RTL II You
 http://rtl2ingest1-i.akamaihd.net/hls/live/225448/cbcyoumain/cbcyoumainstream1_.m3u8
 #EXTINF:-1 tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
 http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
@@ -97,6 +97,14 @@ http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" group-title="IPTV",RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-name="Franken TV" tvg-id="FrankenTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankentv.png" group-title="IPTV",Franken TV
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="intv" tvg-id="intv.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png" group-title="IPTV",intv
+https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Donau TV " tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/donautv.png" group-title="IPTV",Donau TV
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Allgäu TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png" group-title="IPTV",Allgäu TV
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
 #EXTINF:-1 tvg-name="SDF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png" group-title="IPTV",SDF
 http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png" group-title="IPTV",ORF eins HD
@@ -107,11 +115,3 @@ http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8
 http://orf2.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF SPORT +" tvg-id="ORFSport.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png" group-title="IPTV",ORF SPORT +
 http://orf2.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="",allgäu.tv
-http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/chunklist_w623765085.m3u8
-#EXTINF:-1 tvg-logo="",Donau TV
-http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/chunklist_w1075019676.m3u8
-#EXTINF:-1 tvg-logo="",Franken Fernsehen
-http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/chunklist_w343174988.m3u8
-#EXTINF:-1 tvg-logo="",intv
-http://ingolstadttv.iptv-playoutcenter.de:1935/ingolstadttv/ingolstadttv.stream_1/chunklist_w337734222.m3u8
