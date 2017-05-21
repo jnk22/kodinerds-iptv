@@ -107,3 +107,11 @@ http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8
 http://orf2.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF SPORT +" tvg-id="ORFSport.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png" group-title="IPTV",ORF SPORT +
 http://orf2.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="",allgäu.tv
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/chunklist_w623765085.m3u8
+#EXTINF:-1 tvg-logo="",Donau TV
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/chunklist_w1075019676.m3u8
+#EXTINF:-1 tvg-logo="",Franken Fernsehen
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/chunklist_w343174988.m3u8
+#EXTINF:-1 tvg-logo="",intv
+http://ingolstadttv.iptv-playoutcenter.de:1935/ingolstadttv/ingolstadttv.stream_1/chunklist_w337734222.m3u8
