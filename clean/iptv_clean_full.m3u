@@ -97,13 +97,13 @@ http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" group-title="IPTV",RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-name="Franken TV" tvg-id="FrankenTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankentv.png" group-title="IPTV",Franken TV
+#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="IPTV",Franken Fernsehen
 http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="intv" tvg-id="intv.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png" group-title="IPTV",intv
 https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Donau TV " tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/donautv.png" group-title="IPTV",Donau TV
 http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Allgäu TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png" group-title="IPTV",Allgäu TV
+#EXTINF:-1 tvg-name="allgäu.tv" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png" group-title="IPTV",allgäu.tv
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
 #EXTINF:-1 tvg-name="SDF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png" group-title="IPTV",SDF
 http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
