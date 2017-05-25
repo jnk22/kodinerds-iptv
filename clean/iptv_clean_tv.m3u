@@ -25,7 +25,7 @@ http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-p.m3u8
 http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="RTL II You" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtl2you.png" group-title="IPTV",RTL II You
 http://rtl2ingest1-i.akamaihd.net/hls/live/225448/cbcyoumain/cbcyoumainstream1_.m3u8
-#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
+#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png" group-title="IPTV",ANIXE HD
 http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
 #EXTINF:-1 tvg-name="blizz TV" tvg-id="Blizz.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png" group-title="IPTV",blizz TV
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
