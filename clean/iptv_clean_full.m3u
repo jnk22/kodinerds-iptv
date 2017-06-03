@@ -201,7 +201,7 @@ http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
 http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="YOU FM" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png" group-title="Radio" radio="true",YOU FM
 http://hr-mp3-m-youfm.akacast.akamaistream.net/7/246/142136/v1/gnl.akacast.akamaistream.net/hr-mp3-m-youfm
-#EXTINF:-1 tvg-name="Mouv'" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png" group-title="Radio-FR" radio="true",Mouv'
+#EXTINF:-1 tvg-name="Mouv'" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png" group-title="Radio" radio="true",Mouv'
 http://direct.mouv.fr/live/mouv-midfi.mp3
-#EXTINF:-1 tvg-name="Radio Nova" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radionova.png" group-title="Radio-FR" radio="true",Radio Nova
+#EXTINF:-1 tvg-name="Radio Nova" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radionova.png" group-title="Radio" radio="true",Radio Nova
 http://broadcast.infomaniak.net/radionova-high.mp3
