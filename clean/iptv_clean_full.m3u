@@ -125,6 +125,8 @@ http://stream.antenne1.de/a1stg/livestream2.mp3
 http://mp3channels.webradio.antenne.de:80/antenne
 #EXTINF:-1 tvg-name="Antenne Brandenburg" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebrandenburg.png" group-title="Radio" radio="true",Antenne Brandenburg
 http://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="AntenneSaar" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennesaar.png" group-title="Radio" radio="true",AntenneSaar
+http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm
 #EXTINF:-1 tvg-name="ANTENNE THÜRINGEN" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennethueringen.png" group-title="Radio" radio="true",ANTENNE THÜRINGEN
 http://stream.antennethueringen.de/live/mp3-192
 #EXTINF:-1 tvg-name="bigFM" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png" group-title="Radio" radio="true",bigFM
@@ -135,6 +137,8 @@ http://stream.blackbeatslive.de/
 http://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Bremen Vier rockt" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png" group-title="Radio" radio="true",Bremen Vier rockt
 http://80.252.104.101:8000/rockt
+#EXTINF:-1 tvg-name="DASDING" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png" group-title="Radio" radio="true",DASDING
+https://swr-dasding-live.sslcast.addradio.de/swr/dasding/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="DIE NEUE 107.7" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dieneue1077.png" group-title="Radio" radio="true",DIE NEUE 107.7
 http://edge.live.mp3.mdn.newmedia.nacamar.net:80/ps-dieneue_rock/livestream_hi.mp3
 #EXTINF:-1 tvg-name="HIT RADIO FFH" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioffh.png" group-title="Radio" radio="true",HIT RADIO FFH
@@ -153,10 +157,40 @@ http://ndr-n-joy-mp3.akacast.akamaistream.net/7/665/273752/v1/gnl.akacast.akamai
 http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3
 #EXTINF:-1 tvg-name="planet radio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetradio.png" group-title="Radio" radio="true",planet radio
 http://mp3.planetradio.de/fs_planetradio/hqlivestream.mp3
+#EXTINF:-1 tvg-name="Radio 7" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio7.png" group-title="Radio" radio="true",Radio 7
+http://stream.radio7.de/stream1/livestream.mp3
 #EXTINF:-1 tvg-name="radio B2" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png" group-title="Radio" radio="true",radio B2
 http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
+#EXTINF:-1 tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png" group-title="Radio" radio="true",RADIO BOB!
+http://streams.radiobob.de/bob-live/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="Radio Regenbogen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioregenbogen.png" group-title="Radio" radio="true",Radio Regenbogen
+http://streams.regenbogen.de/rr-mannheim-128-mp3
+#EXTINF:-1 tvg-name="radio SAW" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosaw.png" group-title="Radio" radio="true",radio SAW
+http://stream.radiosaw.de
+#EXTINF:-1 tvg-name="radio TOP 40" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotop40.png" group-title="Radio" radio="true",radio TOP 40
+http://stream.radiotop40.de/live/mp3-192
 #EXTINF:-1 tvg-name="Radio TEDDY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png" group-title="Radio" radio="true",Radio TEDDY
 http://217.160.14.96:8000/intro.radioteddy.mp3
+#EXTINF:-1 tvg-name="SR 1 Europawelle" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr1europawelle.png" group-title="Radio" radio="true",SR 1 Europawelle
+http://sr1m.akacast.akamaistream.net/7/725/142685/v1/gnl.akacast.akamaistream.net/sr1m
+#EXTINF:-1 tvg-name="SR 2 Kulturradio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr2kulturradio.png" group-title="Radio" radio="true",SR 2 Kulturradio
+http://sr2m.akacast.akamaistream.net/7/375/142686/v1/gnl.akacast.akamaistream.net/sr2m
+#EXTINF:-1 tvg-name="SR 3 Saarlandwelle" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr3saarlandwelle.png" group-title="Radio" radio="true",SR 3 Saarlandwelle
+http://sr3m.akacast.akamaistream.net/7/722/142687/v1/gnl.akacast.akamaistream.net/sr3m
+#EXTINF:-1 tvg-name="SWR1 Baden-Württemberg" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1bw.png" group-title="Radio" radio="true",SWR1 Baden-Württemberg
+http://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="SWR1 Rheinland-Pfalz" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1rp.png" group-title="Radio" radio="true",SWR1 Rheinland-Pfalz
+http://swr-swr1-rp.cast.addradio.de/swr/swr1/rp/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="SWR2" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr2.png" group-title="Radio" radio="true",SWR2
+http://swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3
+#EXTINF:-1 tvg-name="SWR3" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png" group-title="Radio" radio="true",SWR3
+http://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="SWR4 Baden-Württemberg" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4bw.png" group-title="Radio" radio="true",SWR4 Baden-Württemberg
+http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="SWR4 Rheinland-Pfalz" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4rp.png" group-title="Radio" radio="true",SWR4 Rheinland-Pfalz
+http://swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="UNSERDING" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png" group-title="Radio" radio="true",UNSERDING
+http://udm.akacast.akamaistream.net/7/384/142688/v1/gnl.akacast.akamaistream.net/udm
 #EXTINF:-1 tvg-name="WDR 2" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr2.png" group-title="Radio" radio="true",WDR 2
 http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="WDR 3" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr3.png" group-title="Radio" radio="true",WDR 3
