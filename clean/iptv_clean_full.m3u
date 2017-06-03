@@ -125,10 +125,10 @@ http://stream.antenne1.de/a1stg/livestream2.mp3
 http://mp3channels.webradio.antenne.de:80/antenne
 #EXTINF:-1 tvg-name="Antenne Brandenburg" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebrandenburg.png" group-title="Radio" radio="true",Antenne Brandenburg
 http://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-name="AntenneSaar" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennesaar.png" group-title="Radio" radio="true",AntenneSaar
-http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm
 #EXTINF:-1 tvg-name="ANTENNE THÜRINGEN" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennethueringen.png" group-title="Radio" radio="true",ANTENNE THÜRINGEN
 http://stream.antennethueringen.de/live/mp3-192
+#EXTINF:-1 tvg-name="AntenneSaar" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennesaar.png" group-title="Radio" radio="true",AntenneSaar
+http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm
 #EXTINF:-1 tvg-name="bigFM" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png" group-title="Radio" radio="true",bigFM
 http://217.151.152.245:80/bigfm-mp3-96
 #EXTINF:-1 tvg-name="BlackBeats.FM" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/blackbeatsfm.png" group-title="Radio" radio="true",BlackBeats.FM
@@ -147,7 +147,7 @@ http://mp3.ffh.de/radioffh/hqlivestream.mp3
 http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="LandesWelle Thüringen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/landeswellethueringen.png" group-title="Radio" radio="true",LandesWelle Thüringen
 http://stream.landeswelle.de/lwt/mp3-192
-#EXTINF:-1 tvg-name="MDR JUMP" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrjump.png" group-title="Radio" radio="true",MDR Jump
+#EXTINF:-1 tvg-name="MDR JUMP" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrjump.png" group-title="Radio" radio="true",MDR JUMP
 http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="MDR THÜRINGEN" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrthueringen.png" group-title="Radio" radio="true",MDR THÜRINGEN
 http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
