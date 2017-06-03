@@ -31,7 +31,7 @@ http://mp3.ffh.de/radioffh/hqlivestream.mp3
 http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="LandesWelle Thüringen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/landeswellethueringen.png" group-title="Radio" radio="true",LandesWelle Thüringen
 http://stream.landeswelle.de/lwt/mp3-192
-#EXTINF:-1 tvg-name="MDR JUMP" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrjump.png" group-title="Radio" radio="true",MDR Jump
+#EXTINF:-1 tvg-name="MDR JUMP" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrjump.png" group-title="Radio" radio="true",MDR JUMP
 http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="MDR THÜRINGEN" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrthueringen.png" group-title="Radio" radio="true",MDR THÜRINGEN
 http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
