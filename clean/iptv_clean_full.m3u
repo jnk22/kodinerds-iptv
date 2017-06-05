@@ -128,11 +128,11 @@ http://zdf0708-lh.akamaihd.net/i/de07_v1@392868/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 6" tvg-id="ZDFEvent6.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png" group-title="IPTV-Extra",ZDF Event 6
 http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="Arte Event 1" tvg-id="ArteEvent1.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png" group-title="IPTV-Extra",Arte Event 1
-https://arteevent01-lh.akamaihd.net/i/arte_event01@395110/master.m3u8
+https://arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="Arte Event 2" tvg-id="ArteEvent2.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png" group-title="IPTV-Extra",Arte Event 2
-https://arteevent02-lh.akamaihd.net/i/arte_event02@308866/master.m3u8
+https://arteevent02-lh.akamaihd.net/i/arte_event02@308866/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="Arte Event 3" tvg-id="ArteEvent3.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png" group-title="IPTV-Extra",Arte Event 3
-https://arteevent03-lh.akamaihd.net/i/arte_event03@305298/master.m3u8
+https://arteevent03-lh.akamaihd.net/i/arte_event03@305298/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="WDR Event 1" tvg-id="WDREvent1.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png" group-title="IPTV-Extra",WDR Event 1
 http://wdr_ardevent1-lh.akamaihd.net/i/wdrardevent1_weltweit@112049/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="WDR Event 2" tvg-id="WDREvent2.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png" group-title="IPTV-Extra",WDR Event 2
