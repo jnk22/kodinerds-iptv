@@ -294,7 +294,7 @@ http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="WDR 5" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr5.png" group-title="Radio" radio="true",WDR 5
 http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="YOU FM" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png" group-title="Radio" radio="true",YOU FM
-http://hr-mp3-m-youfm.akacast.akamaistream.net/7/246/142136/v1/gnl.akacast.akamaistream.net/hr-mp3-m-youfm
+http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="FM4" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png" group-title="Radio-AT" radio="true",FM4
 http://mp3stream1.apasf.apa.at:8000/
 #EXTINF:-1 tvg-name="Hitradio Ö3" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png" group-title="Radio-AT" radio="true",Hitradio Ö3
