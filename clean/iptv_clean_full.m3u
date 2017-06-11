@@ -324,9 +324,9 @@ http://stream.srg-ssr.ch/m/drs2/mp3_128
 #EXTINF:-1 tvg-name="Radio SRF 3" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf3.png" group-title="Radio-CH" radio="true",Radio SRF 3
 http://stream.srg-ssr.ch/m/drs3/mp3_128
 #EXTINF:-1 tvg-name="Radio SRF 4 News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf4news.png" group-title="Radio-CH" radio="true",Radio SRF 4 News
-http://stream.srg-ssr.ch/m/drsvirus/mp3_128
+http://stream.srg-ssr.ch/m/drs4news/mp3_128
 #EXTINF:-1 tvg-name="Radio SRF Musikwelle" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfmusikwelle.png" group-title="Radio-CH" radio="true",Radio SRF Musikwelle
-http://stream.srg-ssr.ch/m/drsvirus/mp3_128
+http://stream.srg-ssr.ch/m/drsmw/mp3_128
 #EXTINF:-1 tvg-name="Radio SRF Virus" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfvirus.png" group-title="Radio-CH" radio="true",Radio SRF Virus
 http://stream.srg-ssr.ch/m/drsvirus/mp3_128
 #EXTINF:-1 tvg-name="Mouv'" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png" group-title="Radio-FR" radio="true",Mouv'
