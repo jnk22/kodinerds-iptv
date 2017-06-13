@@ -59,6 +59,8 @@ http://p.live.akamai.n-tv.de/hls-live/ntvlive/ntvlive_1500.m3u8
 http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png" group-title="IPTV",Phoenix
 http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/index_1496_av-p.m3u8
+#EXTINF:-1 tvg-name="euronews" tvg-id="Euronews.nws" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png" group-title="IPTV",euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" group-title="IPTV",WDR HD
 http://tvstreamgeo.wdr.de/i/wdrfs_geogeblockt@112044/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="SWR HD Baden-Würrtemberg" tvg-id="SWR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" group-title="IPTV",SWR HD Baden-Würrtemberg
@@ -105,6 +107,10 @@ https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist
 http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="allgäu.tv" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png" group-title="IPTV",allgäu.tv
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-name="tv.berlin" tvg-id="TVBerlin.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png" group-title="IPTV",tv.berlin
+http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8
+#EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png" group-title="IPTV",ALEX Berlin
+https://alex-front.rosebud-media.de/live/smil:alexlivetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="SDF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png" group-title="IPTV",SDF
 http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png" group-title="IPTV",ORF eins HD
@@ -183,6 +189,10 @@ http://hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8
 http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
 #EXTINF:-1 tvg-name="RBB Event" tvg-id="RBBEvent.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png" group-title="IPTV-Extra",RBB Event
 http://rbb_event-lh.akamaihd.net/i/rbbevent_nongeo@107643/index_1728_av-p.m3u8
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="IPTV-Extra",Parlamentsfernsehen 1
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="IPTV-Extra",Parlamentsfernsehen 2
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 #EXTINF:-1 tvg-name="1LIVE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1live.png" group-title="Radio" radio="true",1LIVE
 http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="1LIVE diggi" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1livediggi.png" group-title="Radio" radio="true",1LIVE diggi
