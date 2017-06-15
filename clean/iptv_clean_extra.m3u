@@ -67,3 +67,7 @@ http://hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8
 http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
 #EXTINF:-1 tvg-name="RBB Event" tvg-id="RBBEvent.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png" group-title="IPTV-Extra",RBB Event
 http://rbb_event-lh.akamaihd.net/i/rbbevent_nongeo@107643/index_1728_av-p.m3u8
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="IPTV-Extra",Parlamentsfernsehen 1
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="IPTV-Extra",Parlamentsfernsehen 2
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
