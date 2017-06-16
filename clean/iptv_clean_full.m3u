@@ -95,8 +95,10 @@ http://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_7_av-p.m3u8
 http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/index_1662_av-p.m3u8
 #EXTINF:-1 tvg-name="rheinmaintv" tvg-id="rheinmaintv.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png" group-title="IPTV",rheinmaintv
 http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelle.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="IPTV",Deutsche Welle
+#EXTINF:-1 tvg-name="Deutsche Welle DE" tvg-id="DeutscheWelleDE.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="IPTV",Deutsche Welle DE
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="Deutsche Welle EN" tvg-id="DeutscheWelleEN.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="IPTV",Deutsche Welle EN
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" group-title="IPTV",RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
 #EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="IPTV",Franken Fernsehen
@@ -262,7 +264,9 @@ http://mp3.planetradio.de/fs_planetradio/hqlivestream.mp3
 #EXTINF:-1 tvg-name="PULS" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/puls.png" group-title="Radio" radio="true",PULS
 http://br-puls-live.cast.addradio.de/br/puls/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Radio 7" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio7.png" group-title="Radio" radio="true",Radio 7
-http://stream.radio7.de/stream1/livestream.mp3 
+http://stream.radio7.de/stream1/livestream.mp3
+#EXTINF:-1 tvg-name="Radio 90,1" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio901.png" group-title="Radio" radio="true",Radio 90,1
+http://mp3.radiomg.c.nmdn.net/radiomg/livestream.mp3
 #EXTINF:-1 tvg-name="radio B2" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png" group-title="Radio" radio="true",radio B2
 http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
 #EXTINF:-1 tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png" group-title="Radio" radio="true",RADIO BOB!
