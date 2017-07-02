@@ -118,10 +118,10 @@ https://alex-front.rosebud-media.de/live/smil:alexlivetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="SDF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png" group-title="IPTV",SDF
 http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png" group-title="IPTV",ORF eins HD
-http://orf2.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8
+http://orf1.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="ORF2.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png" group-title="IPTV",ORF 2 HD
 http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF III HD" tvg-id="ORF3.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png" group-title="IPTV",ORF III HD
-http://orf2.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8
+http://orf3.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF SPORT +" tvg-id="ORFSport.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png" group-title="IPTV",ORF SPORT +
-http://orf2.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
+http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
