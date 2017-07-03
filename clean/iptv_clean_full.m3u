@@ -117,6 +117,8 @@ http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8
 https://alex-front.rosebud-media.de/live/smil:alexlivetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="SDF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png" group-title="IPTV",SDF
 http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
+#EXTINF:-1 tvg-name="Puls 8" tvg-id="Puls8.ch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/puls8.png" group-title="IPTV",Puls 8
+https://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png" group-title="IPTV",ORF eins HD
 http://orf1.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="ORF2.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png" group-title="IPTV",ORF 2 HD
@@ -155,6 +157,10 @@ http://wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_1_av-p.m3u8
 http://swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/index_3584_av-p.m3u8
 #EXTINF:-1 tvg-name="SWR Event 2" tvg-id="SWREvent2.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png" group-title="IPTV-Extra",SWR Event 2
 http://swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-name="SWR Event 3" tvg-id="SWREvent3.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png" group-title="IPTV-Extra",SWR Event 3
+http://swr_event03_uni-lh.akamaihd.net/i/swr_event03@198168/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-name="SWR Event 4" tvg-id="SWREvent4.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png" group-title="IPTV-Extra",SWR Event 4
+http://swr_event04_uni-lh.akamaihd.net/i/swr_event04@198169/index_3584_av-p.m3u8
 #EXTINF:-1 tvg-name="NDR Event 1" tvg-id="NDREvent1.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png" group-title="IPTV-Extra",NDR Event 1
 http://ndr_events-lh.akamaihd.net/i/ndrevent_1@119220/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="NDR Event 2" tvg-id="NDREvent2.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png" group-title="IPTV-Extra",NDR Event 2
@@ -197,6 +203,8 @@ http://rbb_event-lh.akamaihd.net/i/rbbevent_nongeo@107643/index_1728_av-p.m3u8
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-name="Parlamentsfernsehen 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="IPTV-Extra",Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
+#EXTINF:-1 tvg-name="Kronehit TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png" group-title="IPTV-Extra",Kronehit TV
+http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 #EXTINF:-1 tvg-name="105'5 Spreeradio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png" group-title="Radio" radio="true",105'5 Spreeradio
 http://stream.spreeradio.de/spree-live/mp3-128/konsole
 #EXTINF:-1 tvg-name="105'5 Spreeradio 80er" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png" group-title="Radio" radio="true",105'5 Spreeradio 80er
