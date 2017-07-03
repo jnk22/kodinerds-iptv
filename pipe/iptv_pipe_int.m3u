@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="MetroTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png" group-title="IPTV-Int",MetroTV
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_provider=IPTV-Int -metadata service_name=MetroTV -mpegts_service_type advanced_codec_digital_sdtv -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-name="KVF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png" group-title="IPTV-Int",KVF
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://netvarp.kringvarp.fo/uttanlands/video/playlist.m3u8 -vcodec copy -acodec copy -metadata service_provider=IPTV-Int -metadata service_name=KVF -mpegts_service_type advanced_codec_digital_sdtv -f mpegts -tune zerolatency pipe:1
