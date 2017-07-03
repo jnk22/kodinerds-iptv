@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="MetroTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png" group-title="IPTV-Int",MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KVF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png" group-title="IPTV-Int",KVF
+http://netvarp.kringvarp.fo/uttanlands/video/playlist.m3u8
