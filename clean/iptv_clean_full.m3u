@@ -23,8 +23,6 @@ http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/index_7_av-p.m
 http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfo.png" group-title="IPTV",ZDFinfo
 http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-name="RTL II You" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtl2you.png" group-title="IPTV",RTL II You
-http://rtl2ingest1-i.akamaihd.net/hls/live/225448/cbcyoumain/cbcyoumainstream1_.m3u8
 #EXTINF:-1 tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png" group-title="IPTV",ANIXE HD
 http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
 #EXTINF:-1 tvg-name="blizz TV" tvg-id="Blizz.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png" group-title="IPTV",blizz TV
@@ -39,8 +37,6 @@ http://5845e42425cc9.streamlock.net/live/rictv/master.m3u8
 http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nick.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png" group-title="IPTV",Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
-#EXTINF:-1 tvg-name="Disney Channel" tvg-id="disneychannel.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/disneychannel.png" group-title="IPTV",Disney Channel
-https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8
 #EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png" group-title="IPTV",MTV Germany
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
 #EXTINF:-1 tvg-name="Deluxe Music" tvg-id="DeLuxeMusic.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png" group-title="IPTV",DELUXE MUSIC
