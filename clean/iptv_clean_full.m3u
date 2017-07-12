@@ -204,7 +204,7 @@ https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-name="Parlamentsfernsehen 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" group-title="IPTV-Extra",Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 #EXTINF:-1 tvg-name="Kronehit TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png" group-title="IPTV-Extra",Kronehit TV
-http://bitcdn-kronehit-live.bitmovin.com/Oktos/bitcodin.m3u8
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
 #EXTINF:-1 tvg-name="105'5 Spreeradio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png" group-title="Radio" radio="true",105'5 Spreeradio
 http://stream.spreeradio.de/spree-live/mp3-128/konsole
 #EXTINF:-1 tvg-name="105'5 Spreeradio 80er" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png" group-title="Radio" radio="true",105'5 Spreeradio 80er
