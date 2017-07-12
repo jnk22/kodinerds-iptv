@@ -273,6 +273,8 @@ http://st03.dlf.de/dlf/03/128/mp3/stream.mp3
 http://edge.live.mp3.mdn.newmedia.nacamar.net:80/ps-dieneue_rock/livestream_hi.mp3
 #EXTINF:-1 tvg-name="egoFM" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/egofm.png" group-title="Radio" radio="true",egoFM
 http://mp3ad.egofm.c.nmdn.net/ps-egofm_192/livestream.mp3
+#EXTINF:-1 tvg-name="FluxFM" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png" group-title="Radio" radio="true",FluxFM
+http://streams.fluxfm.de/live/mp3-320/audio/
 #EXTINF:-1 tvg-name="Fritz" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png" group-title="Radio" radio="true",Fritz
 http://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="harmony.fm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/harmonyfm.png" group-title="Radio" radio="true",harmony.fm
