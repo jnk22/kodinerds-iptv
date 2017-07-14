@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ABC News" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png" group-title="IPTV-Int",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="AlJazeeraArabe.nws" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeera.png" group-title="IPTV-Int",Al Jazeera
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-id="AlJazeera.nws" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png" group-title="IPTV-Int",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 tvg-name="MetroTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png" group-title="IPTV-Int",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KVF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png" group-title="IPTV-Int",KVF
