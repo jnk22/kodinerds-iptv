@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="ABC News" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png" group-title="IPTV-Int",ABC News
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8 -vcodec copy -acodec copy -metadata service_provider=IPTV-Int -metadata service_name=ABC\ News -mpegts_service_type advanced_codec_digital_hdtv -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeera.png" group-title="IPTV-Int",Al Jazeera
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8 -vcodec copy -acodec copy -metadata service_provider=IPTV-Int -metadata service_name=Al\ Jazeera -mpegts_service_type advanced_codec_digital_sdtv -f mpegts -tune zerolatency pipe:1
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png" group-title="IPTV-Int",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8 -vcodec copy -acodec copy -metadata service_provider=IPTV-Int -metadata service_name=Al\ Jazeera\ English -mpegts_service_type advanced_codec_digital_sdtv -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-name="MetroTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png" group-title="IPTV-Int",MetroTV
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_provider=IPTV-Int -metadata service_name=MetroTV -mpegts_service_type advanced_codec_digital_sdtv -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-name="KVF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png" group-title="IPTV-Int",KVF
