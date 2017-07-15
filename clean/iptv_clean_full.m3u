@@ -111,6 +111,12 @@ http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlis
 http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8
 #EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png" group-title="IPTV",ALEX Berlin
 https://alex-front.rosebud-media.de/live/smil:alexlivetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="center.tv Düsseldorf" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/centertv.png" group-title="IPTV",center.tv Düsseldorf
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="pearl.tv" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png" group-title="IPTV",pearl.tv
+http://enstyle.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 tvg-name="Telebasel" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebasel.png" group-title="IPTV",Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 #EXTINF:-1 tvg-name="SDF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png" group-title="IPTV",SDF
 http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
 #EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png" group-title="IPTV",Okto
