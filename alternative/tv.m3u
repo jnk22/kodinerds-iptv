@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,ARTE
+https://artelivessl-i.akamaihd.net/hls/live/262215/artelive_de/master.m3u8
+#EXTINF:-1,HR Event 1
+http://eventgeo.hr.de/i/hr_event@309242/master.m3u8
+#EXTINF:-1,ARD Event 1 
+http://ardevent1.wdr.de/i/wdrardevent1_weltweit@112049/master.m3u8
+#EXTINF:-1,ARD Event 2
+http://ardevent2geo.wdr.de/i/wdrardevent2_geogeblockt@112050/master.m3u8
+#EXTINF:-1,WDR Event 2
+http://event2.wdr.de/i/wdrevent2_weltweit@112052/master.m3u8
+#EXTINF:-1,WDR Event 3
+http://event3.wdr.de/i/wdrevent3_weltweit@112053/master.m3u8
+#EXTINF:-1,WDR Event 4
+http://event4.wdr.de/i/wdrevent4_weltweit@112054/master.m3u8
