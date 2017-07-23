@@ -9,3 +9,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KVF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png" group-title="IPTV-Int",KVF
 http://netvarp.kringvarp.fo/uttanlands/video/playlist.m3u8
+#EXTINF:-1 tvg-name="TVNZ 1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz1.png" group-title="IPTV-Int",TVNZ 1
+https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
+#EXTINF:-1 tvg-name="TVNZ 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz2.png" group-title="IPTV-Int",TVNZ 2
+https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
