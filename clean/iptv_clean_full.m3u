@@ -58,7 +58,7 @@ http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/index_1496_av-p.m3u8
 #EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png" group-title="IPTV",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png" group-title="IPTV",WDR HD
-http://tvstreamgeo.wdr.de/i/wdrfs_geogeblockt@112044/index_3776_av-p.m3u8
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="SWR HD Baden-Würrtemberg" tvg-id="SWR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" group-title="IPTV",SWR HD Baden-Würrtemberg
 http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/index_3584_av-p.m3u8
 #EXTINF:-1 tvg-name="SWR HD Rheinland-Pfalz" tvg-id="SWR-rp.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png" group-title="IPTV",SWR HD Rheinland-Pfalz
