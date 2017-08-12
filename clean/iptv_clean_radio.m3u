@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="100'5 Alemannia" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/1005dashitradio.png",100’5 Alemannia
+#EXTINF:-1 tvg-name="100'5 Alemannia" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/1005dashitradio.png",100'5 Alemannia
 http://dashitradio-alemannia.skydisc.net:8000/Alemannia.mp3
-#EXTINF:-1 tvg-name="100'5 DAS HITRADIO" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/1005dashitradio.png",100’5 DAS HITRADIO
+#EXTINF:-1 tvg-name="100'5 DAS HITRADIO" group-title="Radio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/1005dashitradio.png",100'5 DAS HITRADIO
 http://dashitradio-mp3-8000.skydisc.net:8000/dashitradio-live.mp3
 #EXTINF:-1 tvg-name="105'5 Spreeradio" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png" group-title="Radio" radio="true",105'5 Spreeradio
 http://stream.spreeradio.de/spree-live/mp3-128/konsole
