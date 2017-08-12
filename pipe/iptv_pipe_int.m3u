@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TVM3" tvg-id="TVM3.ch" group-title="IPTV-CH" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png",TVM3
-pipe:///usr/bin/ffmpeg -loglevel fatal -i http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8 -vcodec copy -acodec copy -metadata service_provider=IPTV-CH -metadata service_name=TVM3 -mpegts_service_type advanced_codec_digital_sdtv -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-name="ABC News" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png" group-title="IPTV-US",ABC News
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8 -vcodec copy -acodec copy -metadata service_provider=IPTV-US -metadata service_name=ABC\ News -mpegts_service_type advanced_codec_digital_hdtv -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 tvg-name="Capital TV" tvg-id="CapitalTV.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/capitaltv.png",Capital TV
