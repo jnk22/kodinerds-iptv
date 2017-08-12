@@ -1,17 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ABC News" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png" group-title="IPTV-Int",ABC News
+#EXTINF:-1 tvg-name="ABC News" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png" group-title="IPTV-US",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="AlJazeeraArabe.nws" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeera.png" group-title="IPTV-Int",Al Jazeera
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-id="AlJazeera.nws" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png" group-title="IPTV-Int",Al Jazeera English
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
-#EXTINF:-1 tvg-name="Dubai One" tvg-id="DubaiOne.net" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dubaione.png" group-title="IPTV-Int",Dubai One
-http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-name="MetroTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png" group-title="IPTV-Int",MetroTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="KVF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png" group-title="IPTV-Int",KVF
-http://netvarp.kringvarp.fo/uttanlands/video/playlist.m3u8
-#EXTINF:-1 tvg-name="TVNZ 1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz1.png" group-title="IPTV-Int",TVNZ 1
+#EXTINF:-1 tvg-name="Capital TV" tvg-id="CapitalTV.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/capitaltv.png",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-name="Heart TV" tvg-id="HeartTV.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hearttv.png",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-name="TVNZ 1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz1.png" group-title="IPTV-NZ",TVNZ 1
 https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
-#EXTINF:-1 tvg-name="TVNZ 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz2.png" group-title="IPTV-Int",TVNZ 2
+#EXTINF:-1 tvg-name="TVNZ 2" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz2.png" group-title="IPTV-NZ",TVNZ 2
 https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
+#EXTINF:-1 tvg-name="NRJ HITS TV" tvg-id="NRJHits.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrjhitstv.png",NRJ HITS TV
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1 tvg-name="TV 538" tvg-id="TV538.nl" group-title="IPTV-NL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tv538.png",TV 538
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
+#EXTINF:-1 tvg-name="Fjorton" tvg-id="" group-title="IPTV-SW" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fjorton.png",Fjorton
+http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
+#EXTINF:-1 tvg-name="CMC" tvg-id="" group-title="IPTV-HR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png",CMC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1 tvg-name="Sitel" tvg-id="" group-title="IPTV-MK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sitel.png",Sitel
+http://51.255.92.232:1935/sitel/sitel.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 5" tvg-id="" group-title="IPTV-MK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kanal5.png",Kanal 5
+http://37.187.158.217:8081/kanal5/kanal5/playlist.m3u8
+#EXTINF:-1 tvg-name="Alfa" tvg-id="Alfa.hr" group-title="IPTV-MK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alfa.png",Alfa
+http://37.187.158.217:8081/alfa/tvalfa2/playlist.m3u8
+#EXTINF:-1 tvg-name="Telma" tvg-id="" group-title="IPTV-MK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telma.png",Telma
+http://37.187.158.217:8081/telma/telma_360pp/playlist.m3u8
+#EXTINF:-1 tvg-name="24 Vesti" tvg-id="" group-title="IPTV-MK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/24vesti.png",24 Vesti
+http://37.187.158.217:8081/24vesti/24vesti/playlist.m3u8
+#EXTINF:-1 tvg-name="MetroTV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png" group-title="IPTV-ID",MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="NHK WORLD TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png" group-title="IPTV-JP",NHK WORLD TV
+https://nhkwtv-i.akamaihd.net/hls/live/263942/nhkwtv/index_2100.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="AlJazeeraArabe.nws" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeera.png" group-title="IPTV-QA",Al Jazeera
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-id="AlJazeera.nws" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png" group-title="IPTV-QA",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+#EXTINF:-1 tvg-name="Dubai One" tvg-id="DubaiOne.net" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dubaione.png" group-title="IPTV-AE",Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-name="KVF" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png" group-title="IPTV-FO",KVF
+http://netvarp.kringvarp.fo/uttanlands/video/playlist.m3u8
