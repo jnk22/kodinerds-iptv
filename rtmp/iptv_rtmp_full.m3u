@@ -27,8 +27,6 @@ rtmp://62.113.210.250/medienasa-live/ok-stendal_high
 rtmp://stream-cdn.ok54.de/tv/okweinstrasse
 #EXTINF:-1 tvg-name="OK Wernigerode" tvg-id="" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png",OK Wernigerode
 rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
-#EXTINF:-1 tvg-name="OK Wettin" tvg-id="" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwettin.png",OK Wettin
-rtmp://62.113.210.250/medienasa-live/ok-wettin_high
 #EXTINF:-1 tvg-name="P3tv" tvg-id="" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/p3tv.png",P3tv
 rtmp://p3-6.mov.at:1935/live/weekstream
 #EXTINF:-1 tvg-name="PUNKTum" tvg-id="" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png",PUNKTum
@@ -41,3 +39,5 @@ rtmp://62.113.210.250/medienasa-live/rbw_high
 rtmp://62.113.210.250/medienasa-live/RFH_high
 #EXTINF:-1 tvg-name="TV Halle" tvg-id="" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvhalle.png",TV Halle
 rtmp://62.113.210.250/medienasa-live/tvhalle_high
+#EXTINF:-1 tvg-name="WTV" tvg-id="" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wtv.png",WTV
+rtmp://62.113.210.250/medienasa-live/ok-wettin_high
