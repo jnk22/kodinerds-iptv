@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="OK Weinstraße" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png" group-title="IPTV",OK Weinstraße
+rtmp://stream-cdn.ok54.de/tv/okweinstrasse
+#EXTINF:-1 tvg-name="OK Ludwigshafen" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okludwigshafen.png" group-title="IPTV",OK Ludwigshafen
+rtmp://vstream.twl-kom.de:1935/live/demo.stream_720p
+#EXTINF:-1 tvg-name="Nahe TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nahetv.png" group-title="IPTV",Nahe TV
+rtmp://stream-cdn.ok54.de/tv/nahetv
+#EXTINF:-1 tvg-name="FS1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fs1.png" group-title="IPTV",FS1
+rtmp://stream.fs1.tv/stream/webstream
+#EXTINF:-1 tvg-name="P3 tv" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/p3tv.png" group-title="IPTV",P3 tv
+rtmp://p3-6.mov.at:1935/live/weekstream
