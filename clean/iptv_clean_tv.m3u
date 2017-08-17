@@ -199,8 +199,6 @@ http://www.reeins.tv:1935/live/re1/playlist.m3u8
 http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
 #EXTINF:-1 tvg-name="oe24 TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24.png" group-title="IPTV",oe24 TV
 http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Südtirol Digital Fernsehen" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/suedtiroltv.png" group-title="IPTV",Südtirol Digital Fernsehen
-http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
 #EXTINF:-1 tvg-name="M4 TV (Austria)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png" group-title="IPTV",M4 TV (Austria)
 http://streaming.austria24.tv/live/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="W24 TV (Austria)" tvg-id="W24.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/w24.png" group-title="IPTV",W24 TV (Austria)
