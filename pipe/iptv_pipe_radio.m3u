@@ -69,6 +69,8 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -i http://st02.dlf.de/dlf/02/128/mp3/stre
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://st03.dlf.de/dlf/03/128/mp3/stream.mp3 -vcodec copy -acodec copy -metadata service_provider=Radio -metadata service_name=Deutschlandfunk\ Nova -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="DIE NEUE 107.7" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dieneue1077.png",DIE NEUE 107.7
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://edge.live.mp3.mdn.newmedia.nacamar.net:80/ps-dieneue_rock/livestream_hi.mp3 -vcodec copy -acodec copy -metadata service_provider=Radio -metadata service_name=DIE\ NEUE\ 107.7 -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+#EXTINF:-1 tvg-name="DONAU 3 FM" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/donau3fm.png",DONAU 3 FM
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://mp3.donau3fm.c.nmdn.net/donau3fm/live.mp3 -vcodec copy -acodec copy -metadata service_provider=Radio -metadata service_name=DONAU\ 3\ FM -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="egoFM" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/egofm.png",egoFM
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://mp3ad.egofm.c.nmdn.net/ps-egofm_192/livestream.mp3 -vcodec copy -acodec copy -metadata service_provider=Radio -metadata service_name=egoFM -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="FluxFM" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png",FluxFM
@@ -139,6 +141,8 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -i http://mp3channels.webradio.rockantenn
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://188.94.97.90/rockland.mp3 -vcodec copy -acodec copy -metadata service_provider=Radio -metadata service_name=Rockland\ Radio -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="ROCKLAND.FM" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandfm.png",ROCKLAND.FM
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://stream.rockland-digital.de -vcodec copy -acodec copy -metadata service_provider=Radio -metadata service_name=ROCKLAND.FM -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+#EXTINF:-1 tvg-name="RPR1" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rpr1.png",RPR1
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://streams.rpr1.de/rpr-koeln-128-mp3 -vcodec copy -acodec copy -metadata service_provider=Radio -metadata service_name=RPR1 -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="RTF.3" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rtf3.png",RTF.3
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://37.187.93.104:8414/stream -vcodec copy -acodec copy -metadata service_provider=Radio -metadata service_name=RTF.3 -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="SR 1 Europawelle" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr1europawelle.png",SR 1 Europawelle
