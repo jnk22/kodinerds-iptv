@@ -145,9 +145,9 @@ https://alex-front.rosebud-media.de/live/smil:alexlivetv.smil/playlist.m3u8
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="pearl.tv" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png" group-title="IPTV",pearl.tv
 http://enstyle.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1 tvg-name="noa4 Hamburg FHD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png" group-title="IPTV",noa4 Hamburg FHD
+#EXTINF:-1 tvg-name="noa4 Hamburg HD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png" group-title="IPTV",noa4 Hamburg HD
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-name="noa4 Norderstedt FHD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png" group-title="IPTV",noa4 Norderstedt FHD
+#EXTINF:-1 tvg-name="noa4 Norderstedt HD" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png" group-title="IPTV",noa4 Norderstedt HD
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-name="NRW TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwtv.png" group-title="IPTV",NRW TV
 http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8
