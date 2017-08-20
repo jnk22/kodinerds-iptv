@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="SWR Backup" tvg-id="SWR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png" group-title="IPTV-DE",SWR Backup
+http://swrdash-i.akamaihd.net/dash/live/925020-b/swrdash_1/dash.mpd
+#EXTINF:-1 tvg-name="NDR Spezial 1" tvg-id="NDRSpezial1.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png" group-title="IPTV-DE",NDR Spezial 1
+http://ndrspezial.edgesuite.net/dash/live/923078/ndrspezial_1/spezial_1.mpd
+#EXTINF:-1 tvg-name="NDR Spezial 2" tvg-id="NDRSpezial2.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png" group-title="IPTV-DE",NDR Spezial 2
+http://ndrspezial.edgesuite.net/dash/live/923079/ndrspezial_2/spezial_2.mpd
+#EXTINF:-1 tvg-name="NDR Spezial 3" tvg-id="NDRSpezial3.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png" group-title="IPTV-DE",NDR Spezial 3
+http://ndrspezial.edgesuite.net/dash/live/254139/ndrspezial_3/spezial_3.mpd
+#EXTINF:-1 tvg-name="NDR Spezial 4" tvg-id="NDRSpezial4.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png" group-title="IPTV-DE",NDR Spezial 4
+http://ndrspezial.edgesuite.net/dash/live/923081/ndrspezial_4/spezial_4.mpd
+#EXTINF:-1 tvg-name="NDR Spezial 5" tvg-id="NDRSpezial5.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png" group-title="IPTV-DE",NDR Spezial 5
+http://ndrspezial.edgesuite.net/dash/live/926240/ndrspezial_5/spezial_5.mpd
+#EXTINF:-1 tvg-name="NDR Spezial 6" tvg-id="NDRSpezial6.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png" group-title="IPTV-DE",NDR Spezial 6
+http://ndrspezial.edgesuite.net/dash/live/926241/ndrspezial_6/spezial_6.mpd
