@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1",Das Erste
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/index_2692_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=Das\ Erste -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",ZDF HD
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=ZDF\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",3sat
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=3sat -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",ARTE HD
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=ARTE\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",ServusTV HD
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=ServusTV\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",Welt der Wunder
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://live.vidoo.de/live/weltderwunder/master.m3u8 -vcodec copy -acodec copy -metadata service_name=Welt\ der\ Wunder -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",ARD-alpha
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://livestreams.br.de/i/bralpha_germany@119899/index_3776_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=ARD-alpha -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",one HD
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/index_7_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=one\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",ZDFneo
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=ZDFneo -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",ZDFinfo
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=ZDFinfo -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",ANIXE HD
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://video1.anixehd.tv:8080/Apple/wifistream.m3u8 -vcodec copy -acodec copy -metadata service_name=ANIXE\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",blizz TV
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8 -vcodec copy -acodec copy -metadata service_name=blizz\ TV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",Family TV
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8 -vcodec copy -acodec copy -metadata service_name=Family\ TV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",eoTV HD
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=eoTV\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",RiC / eoTV
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://5845e42425cc9.streamlock.net/live/rictv/master.m3u8 -vcodec copy -acodec copy -metadata service_name=RiC\ /\ eoTV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",KiKA
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/index_3776_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=KiKA -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",Nickelodeon
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=Nickelodeon -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",MTV Germany
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=MTV\ Germany -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",Deluxe Music
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Deluxe\ Music -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",tagesschau24
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=tagesschau24 -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",n-tv
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://p.live.akamai.n-tv.de/hls-live/ntvlive/ntvlive_1500.m3u8 -vcodec copy -acodec copy -metadata service_name=n-tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",N24
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=N24 -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",Phoenix
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/index_1496_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=Phoenix -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",Sky Sport News HD
+pipe:///usr/bin/ffmpeg -loglevel fatal -i https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8 -vcodec copy -acodec copy -metadata service_name=Sky\ Sport\ News\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",FC Bayern.tv
+pipe:///usr/bin/ffmpeg -loglevel fatal -i https://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s32-v1-a1.m3u8 -vcodec copy -acodec copy -metadata service_name=FC\ Bayern.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",Bibel TV
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Bibel\ TV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",K-TV
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8 -vcodec copy -acodec copy -metadata service_name=K-TV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",pearl.tv
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://enstyle.cdn.ses-ps.com/index.m3u8 -vcodec copy -acodec copy -metadata service_name=pearl.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1",VISIT-X.tv
+pipe:///usr/bin/ffmpeg -loglevel fatal -i https://stream.visit-x.tv/vxtv/live/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=VISIT-X.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
