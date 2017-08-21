@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png" group-title="IPTV-DE",Das Erste
+#EXTINF:-1 tvg-name="Das Erste" group-title="IPTV-DE",Das Erste
 http://irtdashreference-i.akamaihd.net/dash/live/901161/bfs/manifestARD.mpd
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="IPTV-DE",ARD-alpha
+#EXTINF:-1 tvg-name="ARD-alpha" group-title="IPTV-DE",ARD-alpha
 http://brdashdvbt2-i.akamaihd.net/dash/live/268335/dvbt2/manifest.mpd
-#EXTINF:-1 tvg-name="one" tvg-id="One.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/one.png" group-title="IPTV-DE",one
+#EXTINF:-1 tvg-name="one" group-title="IPTV-DE",one
 http://einfest_dash-i.akamaihd.net/dash/live/925660/rbbtest/manifest.mpd
