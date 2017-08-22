@@ -28,7 +28,7 @@ http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
 #EXTINF:-1 tvg-name="eoTV HD" tvg-id="RiC.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png",eoTV HD
 http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
 #EXTINF:-1 tvg-name="RiC / eoTV" tvg-id="RiC.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png",RiC / eoTV
-http://5845e42425cc9.streamlock.net/live/rictv/master.m3u8
+https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8
 #EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
 http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nick.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
