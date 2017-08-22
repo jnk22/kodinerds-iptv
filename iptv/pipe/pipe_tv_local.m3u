@@ -1,65 +1,65 @@
 #EXTM3U
-#EXTINF:-1",a.tv
-pipe:///usr/bin/ffmpeg -loglevel fatal -i http://atvhd.iptv-playoutcenter.de/atvHD/ngrp:atvhd.stream_all/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=a.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",ALEX Berlin
+#EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://atvhd.iptv-playoutcenter.de/atvHD/ngrp:atvhd.stream_all/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=a.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png",ALEX Berlin
 pipe:///usr/bin/ffmpeg -loglevel fatal -i https://alex-front.rosebud-media.de/live/smil:alexlivetv.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=ALEX\ Berlin -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",allgäu.tv
-pipe:///usr/bin/ffmpeg -loglevel fatal -i http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=allgäu.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",center.tv Düsseldorf
-pipe:///usr/bin/ffmpeg -loglevel fatal -i https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=center.tv\ Düsseldorf -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",Chemnitz Fernsehen
+#EXTINF:-1 tvg-name="allgäu.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=allgau.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="center.tv Düsseldorf" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/centertv.png",center.tv Düsseldorf
+pipe:///usr/bin/ffmpeg -loglevel fatal -i https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=center.tv\ Dusseldorf -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="Chemnitz Fernsehen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chemnitzfernsehen.png",Chemnitz Fernsehen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://regio-tv-stream.de:1935/chemnitzfernsehenlive/livestream.sdp/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Chemnitz\ Fernsehen -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",Donau TV
+#EXTINF:-1 tvg-name="Donau TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/donautv.png",Donau TV
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Donau\ TV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",Dresden Fernsehen
+#EXTINF:-1 tvg-name="Dresden Fernsehen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png",Dresden Fernsehen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://regio-tv-stream.de:1935/dresdenfernsehenlive/livestream.sdp/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Dresden\ Fernsehen -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",eRtv
+#EXTINF:-1 tvg-name="eRtv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ertv.png",eRtv
 pipe:///usr/bin/ffmpeg -loglevel fatal -i https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5679_nYMRJQdgpK3WDGr/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=eRtv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",Franken Fernsehen
+#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Franken\ Fernsehen -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",Hamburg 1
+#EXTINF:-1 tvg-name="Hamburg 1" tvg-id="Hamburg1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hamburg1.png",Hamburg 1
 pipe:///usr/bin/ffmpeg -loglevel fatal -i https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5655_F7KT9xCQkXwbNmq/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Hamburg\ 1 -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",intv
+#EXTINF:-1 tvg-name="intv" tvg-id="intv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png",intv
 pipe:///usr/bin/ffmpeg -loglevel fatal -i https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=intv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",Isar TV
+#EXTINF:-1 tvg-name="Isar TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/isartv.png",Isar TV
 pipe:///usr/bin/ffmpeg -loglevel fatal -i https://586c13b083c0d.streamlock.net/isar-tv/isar-tv.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Isar\ TV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",KabelJournal
+#EXTINF:-1 tvg-name="KabelJournal" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kabeljournal.png",KabelJournal
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=KabelJournal -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",Leipzig Fernsehen
+#EXTINF:-1 tvg-name="Leipzig Fernsehen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/leipzigfernsehen.png",Leipzig Fernsehen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://regio-tv-stream.de:1935/leipzigfernsehenlive/livestream.sdp/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Leipzig\ Fernsehen -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",münchen.tv
-pipe:///usr/bin/ffmpeg -loglevel fatal -i https://586dce1287bfd.streamlock.net/muenchentv/muenchentv.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=münchen.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",noa4 Hamburg HD
-pipe:///usr/bin/ffmpeg -loglevel fatal -i http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8 -vcodec copy -acodec copy -metadata service_name=noa4\ Hamburg\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",noa4 Norderstedt HD
-pipe:///usr/bin/ffmpeg -loglevel fatal -i http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8 -vcodec copy -acodec copy -metadata service_name=noa4\ Norderstedt\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",NRW TV
+#EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",münchen.tv
+pipe:///usr/bin/ffmpeg -loglevel fatal -i https://586dce1287bfd.streamlock.net/muenchentv/muenchentv.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=munchen.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="noa4 Hamburg HD" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Hamburg HD
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8 -vcodec copy -acodec copy -metadata service_name=noa4\ Hamburg\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="noa4 Norderstedt HD" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Norderstedt HD
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8 -vcodec copy -acodec copy -metadata service_name=noa4\ Norderstedt\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="NRW TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwtv.png",NRW TV
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=NRW\ TV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",nrwision
+#EXTINF:-1 tvg-name="nrwision" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png",nrwision
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://129.217.183.165:1935/live/livestream/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=nrwision -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",OK Koblenz
+#EXTINF:-1 tvg-name="OK Koblenz" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png",OK Koblenz
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://stream-cdn.ok54.de/hls/ok4.m3u8 -vcodec copy -acodec copy -metadata service_name=OK\ Koblenz -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",OK Trier
+#EXTINF:-1 tvg-name="OK Trier" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png",OK Trier
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://stream-cdn.ok54.de/hls/ok54.m3u8 -vcodec copy -acodec copy -metadata service_name=OK\ Trier -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",Potsdam TV
+#EXTINF:-1 tvg-name="Potsdam TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png",Potsdam TV
 pipe:///usr/bin/ffmpeg -loglevel fatal -i https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Potsdam\ TV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",RFO
+#EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=RFO -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",Rhein Neckar Fernsehen
+#EXTINF:-1 tvg-name="Rhein Neckar Fernsehen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png",Rhein Neckar Fernsehen
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Rhein\ Neckar\ Fernsehen -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",rheinmaintv
+#EXTINF:-1 tvg-name="rheinmaintv" tvg-id="rheinmaintv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png",rheinmaintv
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=rheinmaintv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",Sylt1
+#EXTINF:-1 tvg-name="Sylt1" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8 -vcodec copy -acodec copy -metadata service_name=Sylt1 -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",TRP1
+#EXTINF:-1 tvg-name="TRP1" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png",TRP1
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=TRP1 -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",TV Würzburg
-pipe:///usr/bin/ffmpeg -loglevel fatal -i http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=TV\ Würzburg -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",tv.berlin
+#EXTINF:-1 tvg-name="TV Würzburg" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png",TV Würzburg
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=TV\ Wurzburg -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="tv.berlin" tvg-id="TVBerlin.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png",tv.berlin
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.berlin -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",TVA
-pipe:///usr/bin/ffmpeg -loglevel fatal -i https://586c13b083c0d.streamlock.net/tvaktuellHD/ngrp:tvaktuellHD.stream_all/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=TVA -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",TVO
+#EXTINF:-1 tvg-name="TVA" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png",TVA
+pipe:///usr/bin/ffmpeg -loglevel fatal -i https://586c13b083c0d.streamlock.net/tvaktuellHD/ngrp:tvaktuellHD.stream_all/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=TVA -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="TVO" tvg-id="tvo.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png",TVO
 pipe:///usr/bin/ffmpeg -loglevel fatal -i https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=TVO -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1",Westerwald TV
-pipe:///usr/bin/ffmpeg -loglevel fatal -i https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Westerwald\ TV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="Westerwald TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png",Westerwald TV
+pipe:///usr/bin/ffmpeg -loglevel fatal -i https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Westerwald\ TV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
