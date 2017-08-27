@@ -53,6 +53,8 @@ https://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs
 http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
+http://123tv.cdn.ses-ps.com/stream070101/playlist.m3u8
 #EXTINF:-1 tvg-name="pearl.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
 http://enstyle.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1 tvg-name="VISIT-X.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png",VISIT-X.tv
