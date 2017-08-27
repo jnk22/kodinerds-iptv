@@ -89,7 +89,7 @@ http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
 http://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_7_av-p.m3u8
 #EXTINF:-1 tvg-name="rbb Brandenburg HD" tvg-id="rbbBrandenburg.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Brandenburg HD
 http://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_7_av-p.m3u8
-#EXTINF:-1 tvg-name="SR HD" tvg-id="SRFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR HD
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/index_1662_av-p.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelleDE.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
