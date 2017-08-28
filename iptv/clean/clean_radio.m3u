@@ -105,6 +105,12 @@ http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
 http://stream.multicult.fm:8000/hifi
 #EXTINF:-1 tvg-name="N-JOY" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/njoy.png",N-JOY
 http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="nice" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png",nice
+http://edge.audio.3qsdn.com/rG7JYcRNgKdh3XV
+#EXTINF:-1 tvg-name="nice DELUXE" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png",nice DELUXE
+http://edge.audio.3qsdn.com/5939_twjx732yFMfvzPY
+#EXTINF:-1 tvg-name="nice URBAN" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png",nice URBAN
+http://edge.audio.3qsdn.com/DKrFftd7QJWmGgy
 #EXTINF:-1 tvg-name="Ostseewelle HIT-RADIO" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ostseewelle.png",Ostseewelle HIT-RADIO
 http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3
 #EXTINF:-1 tvg-name="planet radio" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetradio.png",planet radio
