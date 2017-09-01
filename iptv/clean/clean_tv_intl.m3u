@@ -11,6 +11,12 @@ https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
 #EXTINF:-1 tvg-name="CBN News" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-id="CNN.nws" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cnn.png",CNN
+http://109.123.114.178:1935/Livenewson/Livenewson2/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-id="Bloomberg.nws" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bloombergtv.png",Bloomberg TV
+https://mediaeuwest.akamaized.net/eu/EU1000kb_live.m3u8
+#EXTINF:-1 tvg-name="SBN" tvg-id="SonLife.uk" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sbn.png",SBN
+http://sonlife-i.akamaihd.net/hls/live/250091/englishvtt/englishvtt0/englishvtt0.m3u8
 #EXTINF:-1 tvg-name="GOD TV" tvg-id="GODChannel.uk" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/godtv.png",GOD TV
 https://ooyalahd2-f.akamaihd.net/i/godtv02_delivery@17351/index_3200_av-p.m3u8
 #EXTINF:-1 tvg-name="Voice of America" tvg-id="VOA.com" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/voiceofamerica.png",Voice of America
@@ -49,6 +55,10 @@ http://37.187.158.217:8081/alfa/tvalfa2/playlist.m3u8
 http://37.187.158.217:8081/telma/telma_360pp/playlist.m3u8
 #EXTINF:-1 tvg-name="24 Vesti" tvg-id="" group-title="IPTV-MK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/24vesti.png",24 Vesti
 http://37.187.158.217:8081/24vesti/24vesti/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT World HD" tvg-id="TRTworld.nws" group-title="IPTV-TR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trtworldhd.png",TRT World HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-p.m3u8
+#EXTINF:-1 tvg-name="RT HD" tvg-id="RussiaToday.uk" group-title="IPTV-RU" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png",RT HD
+https://secure-streams.akamaized.net/rt/index2500.m3u8
 #EXTINF:-1 tvg-name="RT Documentary" tvg-id="RTDocumentary.pl" group-title="IPTV-RU" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtdocumentary.png",RT Documentary
 https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
 #EXTINF:-1 tvg-name="MetroTV" tvg-id="" group-title="IPTV-ID" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png",MetroTV

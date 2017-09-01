@@ -17,3 +17,5 @@ http://event3.wdr.de/i/wdrevent3_weltweit@112053/master.m3u8
 http://event4.wdr.de/i/wdrevent4_weltweit@112054/master.m3u8
 #EXTINF:-1,HR Event 1
 http://eventgeo.hr.de/i/hr_event@309242/master.m3u8
+#EXTINF:-1,Bloomberg TV
+https://mediauseast.akamaized.net/us/us3_live.m3u8
