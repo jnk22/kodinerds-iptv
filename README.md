@@ -2,6 +2,8 @@
 ## Beschreibung
 Die folgenden Listen enthalten alle gesammelten Streams der TV- und Radiosender.
 Unterteilt sind diese in Sendertyp, Übertragung und Inhalt.
+<br>
+Dieses Angebot stellt ein Parallelangebot zu [Entertain IPTV](https://github.com/jnk22/entertain-iptv) dar.
 <br><br>
 ## Anleitung
 Eine ausführliche Anleitung zur optimalen Benutzung mit Kodi und allen weiteren unterstützen Clients gibt es auf Kodinerds.net.
