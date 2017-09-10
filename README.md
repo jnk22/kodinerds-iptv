@@ -42,7 +42,6 @@ Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste. 
 [typ]_radio.m3u - beinhaltet nur Radiosender aus Frankreich
 [typ]_radio.m3u - beinhaltet nur Radiosender aus den Niederlanden
 ```
-<br><br>
 ## Listen (Inhalt)
 ### iptv_kodi (PVR IPTV Simple Client mit Inhaltskategorien - Kodi)
 [https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/...](https://github.com/jnk22/kodinerds-iptv/tree/structure/iptv/kodi)
