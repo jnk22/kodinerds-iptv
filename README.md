@@ -47,7 +47,7 @@ Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste. 
 <br><br>
 ## Listen (Inhalt)
 ### iptv_kodi (PVR IPTV Simple Client mit Inhaltskategorien - Kodi)
-[https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/...](https://github.com/jnk22/kodinerds-iptv/tree/structure/iptv/kodi)
+[https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/...](https://github.com/jnk22/kodinerds-iptv/tree/master/iptv/kodi)
 * [kodi.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi.m3u)
   * [kodi_tv.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_tv.m3u)
     * [kodi_tv_main.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_tv_main.m3u)
@@ -66,7 +66,7 @@ Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste. 
     * [kodi_radio_nl.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_radio_nl.m3u)
 <br><br>
 ### iptv_clean (Basisliste - VLC media player)
-[https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/clean/...](https://github.com/jnk22/kodinerds-iptv/tree/structure/iptv/clean)
+[https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/clean/...](https://github.com/jnk22/kodinerds-iptv/tree/master/iptv/clean)
 * [clean.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/clean/clean.m3u)
   * [clean_tv.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/clean/clean_tv.m3u)
     * [clean_tv_main.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/clean/clean_tv_main.m3u)
@@ -85,7 +85,7 @@ Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste. 
     * [clean_radio_nl.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/clean/clean_radio_nl.m3u)
 <br><br>
 ### iptv_pipe (Integration in TV-Backend - Tvheadend)
-[https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/pipe/...](https://github.com/jnk22/kodinerds-iptv/tree/structure/iptv/pipe)
+[https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/pipe/...](https://github.com/jnk22/kodinerds-iptv/tree/master/iptv/pipe)
 * [pipe.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/pipe/pipe.m3u)
   * [pipe_tv.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/pipe/pipe_tv.m3u)
     * [pipe_tv_main.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/pipe/pipe_tv_main.m3u)
@@ -104,7 +104,7 @@ Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste. 
     * [pipe_radio_nl.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/pipe/pipe_radio_nl.m3u)
 <br><br>
 ### iptv_dash
-[https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/dash/...](https://github.com/jnk22/kodinerds-iptv/tree/structure/iptv/dash)
+[https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/dash/...](https://github.com/jnk22/kodinerds-iptv/tree/master/iptv/dash)
 * [dash.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/dash/dash.m3u)
   * [dash_tv.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/dash/dash_tv.m3u)
     * [dash_tv_main.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/dash/dash_tv_main.m3u)
@@ -112,7 +112,7 @@ Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste. 
     * [dash_tv_extra.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/dash/dash_tv_extra.m3u)
 <br><br>
 ### iptv_rtmp
-[https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/rtmp/...](https://github.com/jnk22/kodinerds-iptv/tree/structure/iptv/rtmp)
+[https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/rtmp/...](https://github.com/jnk22/kodinerds-iptv/tree/master/iptv/rtmp)
 * [rtmp.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/rtmp/rtmp.m3u)
   * [rtmp_tv.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/rtmp/rtmp_tv.m3u)
     * [rtmp_tv_main.m3u](https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/rtmp/rtmp_tv_main.m3u)
