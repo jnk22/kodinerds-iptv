@@ -21,7 +21,7 @@ Das Angebot sowie weitere Infos dazu hier: https://github.com/jnk22/entertain-ip
 ## Erklärung
 Die Listen sind unterteilt für den jeweiligen Gebrauch/Client. Die Listen "kodi", "clean" und "pipe" sind inhaltlich identisch. Die Liste "dash" und "rtmp" enthalten deutlich weniger Sender und können stark abweichen. Diese sind mehr zu Testzwecken und zur Ergänzung vorhanden.
 <br><br>
-Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste. So stellen beispielsweise die Listen "kodi_tv.m3u" und "kodi_radio.m3u" dar. Die Benutzung von "kodi.m3u" oder weiteren Unterlisten würde daher keinen Mehrwert bringen.
+Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste. So stellen beispielsweise die Listen "kodi_tv.m3u" und "kodi_radio.m3u" die Liste "kodi.m3u" dar. Die Benutzung von "kodi.m3u" oder weiteren Unterlisten würde daher keinen Mehrwert bringen.
 ```
 [typ].m3u - beinhaltet alle TV- und Radiosender
 
