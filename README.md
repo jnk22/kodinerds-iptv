@@ -130,5 +130,5 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
 ## Weiterführende Links
 * [Aktuelle To-Do Liste](https://github.com/jnk22/kodinerds-iptv/issues)
 * [Kodinerds IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56713/)
-* [Entertain IPTV auf Kodinerds.net](https://missing/)
+* [Entertain IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/58228/)
 * [Entertain IPTV auf GitHub](https://github.com/jnk22/entertain-iptv)
