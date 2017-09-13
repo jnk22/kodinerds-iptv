@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="FM4" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
+http://mp3stream1.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
+http://mp3stream7.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="KRONEHIT" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT
+http://onair.krone.at:80/kronehit.mp3
+#EXTINF:-1 tvg-name="KRONEHIT Dance" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT Dance
+http://onair.krone.at:80/kronehit-dance.mp3
+#EXTINF:-1 tvg-name="Life Radio" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png",Life Radio
+http://liferadio.stream.kapper.net:8000/liferadio
+#EXTINF:-1 tvg-name="Ö1" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1
+http://mp3stream3.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Ö1 Campus" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1 Campus
+http://mp3stream4.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio Niederösterreich" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioniederoesterreich.png",Radio Niederösterreich
+http://mp3stream8.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio Steiermark" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosteiermark.png",Radio Steiermark
+http://mp3stream9.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio Tirol" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotirol.png",Radio Tirol
+http://mp3stream10.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio Wien" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiowien.png",Radio Wien
+http://mp3stream2.apasf.apa.at:8000/

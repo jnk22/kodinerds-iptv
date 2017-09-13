@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
+http://123tv.cdn.ses-ps.com/stream070101/playlist.m3u8
+#EXTINF:-1 tvg-name="pearl.tv" tvg-id="" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
+http://enstyle.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 tvg-name="QVC" tvg-id="QVC.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/bitrate1-audio_track=64000-video=1500000.m3u8?DVR
+#EXTINF:-1 tvg-name="QVC PLUS" tvg-id="QVCPlus.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png",QVC PLUS
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/bitrate1-audio_track=64000-video=1500000.m3u8?DVR
+#EXTINF:-1 tvg-name="QVC Beauty & Style" tvg-id="" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcbeautystyle.png",QVC Beauty & Style
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/bitrate1-audio_track=64000-video=1500000.m3u8?DVR
