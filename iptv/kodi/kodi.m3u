@@ -311,8 +311,6 @@ https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
 #EXTINF:-1 tvg-name="CBN News" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-id="CNN.nws" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cnn.png",CNN
-http://109.123.114.178:1935/Livenewson/Livenewson2/playlist.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-id="Bloomberg.nws" group-title="International;Wirtschaft" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bloombergtv.png",Bloomberg TV
 https://mediaeuwest.akamaized.net/eu/EU1000kb_live.m3u8
 #EXTINF:-1 tvg-name="SBN" tvg-id="SonLife.uk" group-title="International;Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sbn.png",SBN
