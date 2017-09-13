@@ -1,5 +1,5 @@
 # Kodinerds IPTV
-## Beschreibung
+## Einleitung
 Kodinerds IPTV ist eine Sammlung von frei empfangbaren Streams für TV- und Radiosendern.
 <br><br>
 Eine ausführliche Anleitung und Beschreibung findet sich auf Kodinerds.net: [Kodinerds IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56713/)
@@ -43,7 +43,7 @@ Jede der Listen ist unterteilt in eine Struktur, die dem Benutzer ein individuel
 
 Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste. So stellen beispielsweise die Listen kodi_tv und kodi_radio die Liste kodi dar. Die Benutzung von kodi oder weiteren Unterlisten würde daher keinen Mehrwert bringen.
 <br><br>
-## Listen (Inhalt)
+## Links zu den Listen
 ### kodi - für PVR IPTV Simple Client mit Inhaltskategorien (Kodi)
 * http://bit.ly/kn-kodi
 
