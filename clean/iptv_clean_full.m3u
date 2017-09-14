@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="[UPDATE FÜR LISTE VERFÜGBAR]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/ressources/update_notification.png",[UPDATE FÜR LISTE VERFÜGBAR]
+#EXTINF:-1 tvg-name="[UPDATE FÜR LISTE VERFÜGBAR]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/resources/update_notification.png",[UPDATE FÜR LISTE VERFÜGBAR]
 https://www.kodinerds.net/index.php/Thread/56713/
-#EXTINF:-1 tvg-name="[BITTE BIS 30.09.2017 AKTUALISIEREN]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/ressources/update_notification.png",[BITTE BIS 30.09.2017 AKTUALISIEREN]
+#EXTINF:-1 tvg-name="[BITTE BIS 30.09.2017 AKTUALISIEREN]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/resources/update_notification.png",[BITTE BIS 30.09.2017 AKTUALISIEREN]
 https://www.kodinerds.net/index.php/Thread/56713/
-#EXTINF:-1 tvg-name="[BESUCHE bit.ly/kodinerds-iptv-thread]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/ressources/update_notification.png",[BESUCHE bit.ly/kodinerds-iptv-thread]
+#EXTINF:-1 tvg-name="[BESUCHE bit.ly/kodinerds-iptv-thread]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/resources/update_notification.png",[BESUCHE bit.ly/kodinerds-iptv-thread]
 https://www.kodinerds.net/index.php/Thread/56713/
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",Das Erste
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/index_2692_av-p.m3u8
@@ -517,6 +517,45 @@ http://stream.srg-ssr.ch/m/drsvirus/mp3_128
 http://direct.mouv.fr/live/mouv-midfi.mp3
 #EXTINF:-1 tvg-name="Radio Nova" group-title="Radio-FR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radionova.png",Radio Nova
 http://broadcast.infomaniak.net/radionova-high.mp3
+<<<<<<< HEAD
+
+
+
+#EXTINF:-1 pullrequest
+
+#EXTINF:-1 tvg-name="deutschlandkultur" tvg-logo="special://userdata/iptv/logo/deutschlandkultur.png" group-title="Radio-DE" radio="true",Deutschlandfunk Kultur
+http://st02.dlf.de/dlf/02/128/mp3/stream.mp3
+
+#EXTINF:-1 tvg-name="radioberlin" tvg-logo="special://userdata/iptv/logo/radioberlin.png" group-title="Radio-DE" radio="true",radioBERLIN 88
+http://rbb-radioberlin-live.cast.addradio.de/rbb/radioberlin/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-name="absolutrelax" tvg-logo="special://userdata/iptv/logo/absolutrelax.png" group-title="Radio-DE" radio="true",Absolut relax
+http://stream.absolutradio.de/relax/mp3-128/absolutrelax.de/stream.mp3
+
+#EXTINF:-1 tvg-name="rtf3" tvg-logo="special://userdata/iptv/logo/rtf3.png" group-title="Radio-DE" radio="true",RTF3 - Reutlingen
+http://37.187.93.104:8414/stream
+
+#EXTINF:-1 tvg-name="multicult.fm" tvg-logo="special://userdata/iptv/logo/multikultfm.png" group-title="Radio-DE" radio="true",multicult.fm - spanisch
+http://ber.radiostream.de:36525/listen.pls
+
+#EXTINF:-1 tvg-name="reboot.fm" tvg-logo="special://userdata/iptv/logo/reboot.fm.png" group-title="Radio-DE" radio="true",reboot.fm - berlin
+http://87.118.122.220:8002/stream
+
+#EXTINF:-1 tvg-name="spreeradiolive" tvg-logo="special://userdata/iptv/logo/spreeradio.png" group-title="Radio-DE" radio="true",Spreeradio Live
+http://stream.spreeradio.de/spree-live/mp3-128/konsole/
+
+#EXTINF:-1 tvg-name="spreeradio80er" tvg-logo="special://userdata/iptv/logo/spree80er.png" group-title="Radio-DE" radio="true",Spreeradio 80er
+http://stream.spreeradio.de/spree-80er/mp3-128/konsole/
+
+#EXTINF:-1 tvg-name="spreeradiolove" tvg-logo="special://userdata/iptv/logo/spreelove.png" group-title="Radio-DE" radio="true",Spreeradio Love
+http://stream.spreeradio.de/spree-love/mp3-128/konsole/
+
+#EXTINF:-1 tvg-name="spreeradiorock" tvg-logo="special://userdata/iptv/logo/spreerock.png" group-title="Radio-DE" radio="true",Spreeradio Rock
+http://stream.spreeradio.de/spree-rock/mp3-128/konsole/
+
+
+
+=======
 #EXTINF:-1 tvg-name="HitRadio Veronica" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hitradioveronica.png",HitRadio Veronica
 http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3
 #EXTINF:-1 tvg-name="Radio 538" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/radio538.png",Radio 538
@@ -543,3 +582,4 @@ http://vip-icecast.538.lw.triple-it.nl/WEB21_MP3
 http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
 #EXTINF:-1 tvg-name="Sky Radio 101 FM" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skyradio101fm.png",Sky Radio 101 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
+>>>>>>> upstream/master

@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="[UPDATE FÜR LISTE VERFÜGBAR]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/ressources/update_notification.png",[UPDATE FÜR LISTE VERFÜGBAR]
+#EXTINF:-1 tvg-name="[UPDATE FÜR LISTE VERFÜGBAR]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/resources/update_notification.png",[UPDATE FÜR LISTE VERFÜGBAR]
 https://www.kodinerds.net/index.php/Thread/56713/
-#EXTINF:-1 tvg-name="[BITTE BIS 30.09.2017 AKTUALISIEREN]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/ressources/update_notification.png",[BITTE BIS 30.09.2017 AKTUALISIEREN]
+#EXTINF:-1 tvg-name="[BITTE BIS 30.09.2017 AKTUALISIEREN]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/resources/update_notification.png",[BITTE BIS 30.09.2017 AKTUALISIEREN]
 https://www.kodinerds.net/index.php/Thread/56713/
-#EXTINF:-1 tvg-name="[BESUCHE bit.ly/kodinerds-iptv-thread]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/ressources/update_notification.png",[BESUCHE bit.ly/kodinerds-iptv-thread]
+#EXTINF:-1 tvg-name="[BESUCHE bit.ly/kodinerds-iptv-thread]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/resources/update_notification.png",[BESUCHE bit.ly/kodinerds-iptv-thread]
 https://www.kodinerds.net/index.php/Thread/56713/
 #EXTINF:-1 tvg-name="100'5 Alemannia" group-title="Radio" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/1005dashitradio.png",100'5 Alemannia
 http://dashitradio-alemannia.skydisc.net:8000/Alemannia.mp3

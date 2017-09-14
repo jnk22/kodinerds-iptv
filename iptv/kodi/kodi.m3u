@@ -371,6 +371,39 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KVF" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png",KVF
 http://netvarp.kringvarp.fo/uttanlands/video/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="[PULL_REQUEST]" tvg-id="Kodinerds.net" group-title="PULL_REQUEST" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/resources/update_notification.png",[pr by pm-steiner]
+https://www.kodinerds.net/index.php/Thread/56713/
+#EXTINF:-1 tvg-name="djing-hot" tvg-id="djing-hot" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/pm-steiner/kodinerds-iptv/master/logos/tv/djing_hot.png",DJing hot
+http://www.djing.com/tv/hothothot-fta.m3u8
+#EXTINF:-1 tvg-name="djing-live" tvg-id="djing-live" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/pm-steiner/kodinerds-iptv/master/logos/tv/djing_live.png",DJing live
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-name="djing-ibiza" tvg-id="djing-ibiza" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/pm-steiner/kodinerds-iptv/master/logos/tv/djing_ibiza.png",DJing Ibiza
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-name="djing-hits" tvg-id="djing-hits" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/pm-steiner/kodinerds-iptv/master/logos/tv/djing_classics.png",DJing Classics
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-name="djing-animated" tvg-id="djing-animated" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/pm-steiner/kodinerds-iptv/master/logos/tv/djing_animated.png",DJing Animated
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-name="djing-underground" tvg-id="djing-underground" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/pm-steiner/kodinerds-iptv/master/logos/tv/djing_underground.png",DJing Underground
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-name="djing-summer-vibes" tvg-id="djing-summer-vibes" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/pm-steiner/kodinerds-iptv/master/logos/tv/djing_summervibes.png",DJing Summer Vibes
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-name="djing-electro-rock" tvg-id="djing-electro-rock" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/pm-steiner/kodinerds-iptv/master/logos/tv/djing_electro-rock.png",DJing Electro Rock
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-name="djing-french-touch" tvg-id="djing-french-touch" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/pm-steiner/kodinerds-iptv/master/logos/tv/djing_french-touch.png",DJing French Touch
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-name="djing-karaoke" tvg-id="djing-karaoke" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/pm-steiner/kodinerds-iptv/master/logos/tv/djing_karaoke.png",DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-name="djing-hedonist" tvg-id="djing-hedonist" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/pm-steiner/kodinerds-iptv/master/logos/tv/djing_hedonist.png",DJing Hedonist
+http://www.djing.com/tv/session_hedonist.m3u8
+#EXTINF:-1 tvg-name="djing-wild-edm" tvg-id="djing-wild-edm" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/pm-steiner/kodinerds-iptv/master/logos/tv/djing_wild-edm.png",DJing Wild EDM
+http://www.djing.com/tv/session_wild-edm.m3u8
+#EXTINF:-1 tvg-name="[PULL_REQUEST]" tvg-id="Kodinerds.net" group-title="PULL_REQUEST" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/resources/update_notification.png",[end pr by pm-steiner]
+https://www.kodinerds.net/index.php/Thread/56713/
+
+
+
 #EXTINF:-1 tvg-name="100'5 Alemannia" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 Alemannia
 http://dashitradio-alemannia.skydisc.net:8000/Alemannia.mp3
 #EXTINF:-1 tvg-name="100'5 DAS HITRADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 DAS HITRADIO
