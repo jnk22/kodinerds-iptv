@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="nice" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nice.png",nice
+rtmp://edge.3qsdn.com/live/_definst_/mp4:3015_ycN4x2vJK8fQDXR

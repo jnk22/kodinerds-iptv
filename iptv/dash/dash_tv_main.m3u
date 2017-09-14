@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Das Erste" group-title="IPTV-DE",Das Erste
+http://irtdashreference-i.akamaihd.net/dash/live/901161/bfs/manifestARD.mpd
+#EXTINF:-1 tvg-name="ARD-alpha" group-title="IPTV-DE",ARD-alpha
+http://brdashdvbt2-i.akamaihd.net/dash/live/268335/dvbt2/manifest.mpd
+#EXTINF:-1 tvg-name="one" group-title="IPTV-DE",one
+http://einfest_dash-i.akamaihd.net/dash/live/925660/rbbtest/manifest.mpd
+#EXTINF:-1 tvg-name="nice" tvg-id="" group-title="IPTV-DE",nice
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:3015_ycN4x2vJK8fQDXR/manifest.mpd

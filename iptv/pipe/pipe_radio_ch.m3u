@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Radio SRF 1" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf1.png",Radio SRF 1
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://stream.srg-ssr.ch/m/drs1/mp3_128 -vcodec copy -acodec copy -metadata service_name=Radio\ SRF\ 1 -metadata service_provider=Radio-CH -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+#EXTINF:-1 tvg-name="Radio SRF 2 Kultur" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf2kultur.png",Radio SRF 2 Kultur
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://stream.srg-ssr.ch/m/drs2/mp3_128 -vcodec copy -acodec copy -metadata service_name=Radio\ SRF\ 2\ Kultur -metadata service_provider=Radio-CH -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+#EXTINF:-1 tvg-name="Radio SRF 3" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf3.png",Radio SRF 3
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://stream.srg-ssr.ch/m/drs3/mp3_128 -vcodec copy -acodec copy -metadata service_name=Radio\ SRF\ 3 -metadata service_provider=Radio-CH -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+#EXTINF:-1 tvg-name="Radio SRF 4 News" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf4news.png",Radio SRF 4 News
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://stream.srg-ssr.ch/m/drs4news/mp3_128 -vcodec copy -acodec copy -metadata service_name=Radio\ SRF\ 4\ News -metadata service_provider=Radio-CH -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+#EXTINF:-1 tvg-name="Radio SRF Musikwelle" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfmusikwelle.png",Radio SRF Musikwelle
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://stream.srg-ssr.ch/m/drsmw/mp3_128 -vcodec copy -acodec copy -metadata service_name=Radio\ SRF\ Musikwelle -metadata service_provider=Radio-CH -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+#EXTINF:-1 tvg-name="Radio SRF Virus" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfvirus.png",Radio SRF Virus
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://stream.srg-ssr.ch/m/drsvirus/mp3_128 -vcodec copy -acodec copy -metadata service_name=Radio\ SRF\ Virus -metadata service_provider=Radio-CH -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
