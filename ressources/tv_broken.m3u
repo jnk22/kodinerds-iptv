@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,FC Bayern.tv live
 https://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s32-v1-a1.m3u8
+#EXTINF:-1,nice
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3015-mbr.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,WDR HD
 http://tvstreamgeo.wdr.de/i/wdrfs_geogeblockt@112044/master.m3u8
