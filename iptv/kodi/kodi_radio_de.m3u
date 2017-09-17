@@ -73,6 +73,8 @@ http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3
 http://mp3.donau3fm.c.nmdn.net/donau3fm/live.mp3
 #EXTINF:-1 tvg-name="egoFM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/egofm.png",egoFM
 http://mp3ad.egofm.c.nmdn.net/ps-egofm_192/livestream.mp3
+#EXTINF:-1 tvg-name="ENERGY SACHSEN" group-title="Deutschland" radio="true" tvg-logo="http://www.energy.de/sites/default/files/logo_white.png",ENERGY SACHSEN
+http://185.52.127.131/de/33013/mp3_128.mp3
 #EXTINF:-1 tvg-name="FluxFM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png",FluxFM
 http://streams.fluxfm.de/live/mp3-320/audio/
 #EXTINF:-1 tvg-name="Fritz" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png",Fritz
@@ -97,6 +99,8 @@ http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3
 http://stream.landeswelle.de/lwt/mp3-192
 #EXTINF:-1 tvg-name="MDR JUMP" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrjump.png",MDR JUMP
 http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
+#EXTINF:-1 tvg-name="MDR SACHSEN" group-title="Deutschland" radio="true" ,MDR SACHSEN
+http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="MDR SPUTNIK" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrsputnik.png",MDR SPUTNIK
 http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="MDR THÜRINGEN" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrthueringen.png",MDR THÜRINGEN
