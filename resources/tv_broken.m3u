@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:-1,FC Bayern.tv live
 https://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s32-v1-a1.m3u8
 #EXTINF:-1,nice
