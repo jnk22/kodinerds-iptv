@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="[UPDATE FÜR LISTE VERFÜGBAR]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/ressources/update_notification.png",[UPDATE FÜR LISTE VERFÜGBAR]
-pipe:///usr/bin/ffmpeg -loglevel fatal -i https://www.kodinerds.net/index.php/Thread/56713/ -vcodec copy -acodec copy -metadata service_provider=UPDATE -metadata service_name=[UPDATE FÜR LISTE VERFÜGBAR] -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="[BITTE AKTUALISIEREN]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/ressources/update_notification.png",[BITTE AKTUALISIEREN]
-pipe:///usr/bin/ffmpeg -loglevel fatal -i https://www.kodinerds.net/index.php/Thread/56713/ -vcodec copy -acodec copy -metadata service_provider=UPDATE -metadata service_name=[BITTE AKTUALISIEREN] -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="[BESUCHE bit.ly/kodinerds-iptv-thread]" tvg-id="Kodinerds.net" group-title="UPDATE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/ressources/update_notification.png",[BESUCHE bit.ly/kodinerds-iptv-thread]
-pipe:///usr/bin/ffmpeg -loglevel fatal -i https://www.kodinerds.net/index.php/Thread/56713/ -vcodec copy -acodec copy -metadata service_provider=UPDATE -metadata service_name=[BESUCHE bit.ly/kodinerds-iptv-thread] -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
