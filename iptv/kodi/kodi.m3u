@@ -673,6 +673,38 @@ http://stream.srg-ssr.ch/m/drs4news/mp3_128
 http://stream.srg-ssr.ch/m/drsmw/mp3_128
 #EXTINF:-1 tvg-name="Radio SRF Virus" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfvirus.png",Radio SRF Virus
 http://stream.srg-ssr.ch/m/drsvirus/mp3_128
+#EXTINF:-1 tvg-name="BBC Asian Network" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcasiannetwork.png",BBC Asian Network
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 1" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1.png",BBC Radio 1
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 1Xtra" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1xtra.png",BBC Radio 1Xtra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 2" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio2.png",BBC Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 3" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio3.png",BBC Radio 3
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 4" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4.png",BBC Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 4 Extra" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4extra.png",BBC Radio 4 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 5 Live" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio5live.png",BBC Radio 5 Live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 6 Music" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio6music.png",BBC Radio 6 Music
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Cymru" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiocymru.png",BBC Radio Cymru
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Foyle" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiofoyle.png",BBC Radio Foyle
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p
+#EXTINF:-1 tvg-name="BBC Radio nan Gàidheal" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradionangaidheal.png",BBC Radio nan Gàidheal
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Scotland" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioscotland.png",BBC Radio Scotland
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Ulster" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioulster.png",BBC Radio Ulster
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Wales" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiowales.png",BBC Radio Wales
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p
+#EXTINF:-1 tvg-name="BBC World Service" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcworldservice.png",BBC World Service
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
 #EXTINF:-1 tvg-name="Mouv'" group-title="Frankreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png",Mouv'
 http://direct.mouv.fr/live/mouv-midfi.mp3
 #EXTINF:-1 tvg-name="Radio Nova" group-title="Frankreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radionova.png",Radio Nova
