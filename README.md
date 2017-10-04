@@ -34,11 +34,12 @@ Jede der Listen ist unterteilt in eine Struktur, die dem Benutzer ein individuel
 
 - - [typ]_radio - beinhaltet nur Radiosender
 
-- - - [typ]_radio - nur Radiosender aus Deutschland
-- - - [typ]_radio - nur Radiosender aus Österreich
-- - - [typ]_radio - nur Radiosender aus der Schweiz
-- - - [typ]_radio - nur Radiosender aus Frankreich
-- - - [typ]_radio - nur Radiosender aus den Niederlanden
+- - - [typ]_radio_de - nur Radiosender aus Deutschland
+- - - [typ]_radio_at - nur Radiosender aus Österreich
+- - - [typ]_radio_ch - nur Radiosender aus der Schweiz
+- - - [typ]_radio_uk - nur Radiosender aus Großbritannien
+- - - [typ]_radio_fr - nur Radiosender aus Frankreich
+- - - [typ]_radio_nl - nur Radiosender aus den Niederlanden
 ```
 
 Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste. So stellen beispielsweise die Listen kodi_tv und kodi_radio die Liste kodi dar. Die Benutzung von kodi oder weiteren Unterlisten würde daher keinen Mehrwert bringen.
