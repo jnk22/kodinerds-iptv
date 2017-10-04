@@ -64,6 +64,7 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
     * http://bit.ly/kn-kodi-radio-de
     * http://bit.ly/kn-kodi-radio-at
     * http://bit.ly/kn-kodi-radio-ch
+    * http://bit.ly/kn-kodi-radio-uk
     * http://bit.ly/kn-kodi-radio-fr
     * http://bit.ly/kn-kodi-radio-nl
 <br><br>
@@ -86,6 +87,7 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
     * http://bit.ly/kn-clean-radio-de
     * http://bit.ly/kn-clean-radio-at
     * http://bit.ly/kn-clean-radio-ch
+    * http://bit.ly/kn-clean-radio-uk
     * http://bit.ly/kn-clean-radio-fr
     * http://bit.ly/kn-clean-radio-nl
 <br><br>
@@ -108,6 +110,7 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
     * http://bit.ly/kn-pipe-radio-de
     * http://bit.ly/kn-pipe-radio-at
     * http://bit.ly/kn-pipe-radio-ch
+    * http://bit.ly/kn-pipe-radio-uk
     * http://bit.ly/kn-pipe-radio-fr
     * http://bit.ly/kn-pipe-radio-nl
 <br><br>
@@ -118,6 +121,7 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
 
     * http://bit.ly/kn-rtmp-tv-main
     * http://bit.ly/kn-rtmp-tv-local
+    * http://bit.ly/kn-rtmp-tv-international
 <br><br>
 ### dash - DASH-Streams
 * http://bit.ly/kn-dash
@@ -127,6 +131,10 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
     * http://bit.ly/kn-dash-tv-main
     * http://bit.ly/kn-dash-tv-regional
     * http://bit.ly/kn-dash-tv-extra
+
+  * http://bit.ly/kn-dash-radio
+
+    * http://bit.ly/kn-dash-radio-uk
 <br><br>
 ## Weiterführende Links
 * [Aktuelle To-Do Liste](https://github.com/jnk22/kodinerds-iptv/issues)
