@@ -191,6 +191,8 @@ http://hr-youfm-sounds.cast.addradio.de/hr/youfm/sounds/mp3/128/stream.mp3
 http://mp3stream1.apasf.apa.at:8000/
 #EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
 http://mp3stream7.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Klassik Radio" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png",Klassik Radio
+http://klassikradio.hoerradar.de/klassikradio-live-mp3-mq
 #EXTINF:-1 tvg-name="KRONEHIT" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT
 http://onair.krone.at:80/kronehit.mp3
 #EXTINF:-1 tvg-name="KRONEHIT Dance" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT Dance
