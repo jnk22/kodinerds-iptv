@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="nice" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nice.png",nice
 rtmp://edge.3qsdn.com/live/_definst_/mp4:3015_ycN4x2vJK8fQDXR
+#EXTINF:-1 tvg-name="Der Aktionär TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deraktionaertv.png",Der Aktionär TV
+rtmp://fms.daf.tmt.de/live/dafstream100
 #EXTINF:-1 tvg-name="BLK Regional TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blkregionaltv.png",BLK Regional TV
 rtmp://62.113.210.250/medienasa-live/BLKonline_high
 #EXTINF:-1 tvg-name="ELBEKANAL" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/elbekanal.png",ELBEKANAL
@@ -29,6 +31,8 @@ rtmp://62.113.210.250/medienasa-live/ok-stendal_high
 rtmp://stream-cdn.ok54.de/tv/okweinstrasse
 #EXTINF:-1 tvg-name="OK Wernigerode" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png",OK Wernigerode
 rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF:-1 tvg-name="Oldenburg 1" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",Oldenburg 1
+rtsp://188.40.16.94:1935/live/mp4:studio_360p
 #EXTINF:-1 tvg-name="P3tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/p3tv.png",P3tv
 rtmp://p3-6.mov.at:1935/live/weekstream
 #EXTINF:-1 tvg-name="PUNKTum" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png",PUNKTum
@@ -43,3 +47,5 @@ rtmp://62.113.210.250/medienasa-live/RFH_high
 rtmp://62.113.210.250/medienasa-live/tvhalle_high
 #EXTINF:-1 tvg-name="WTV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wtv.png",WTV
 rtmp://62.113.210.250/medienasa-live/ok-wettin_high
+#EXTINF:-1 tvg-name="Realitatea Plus" tvg-id="RealitateaPlus.ro" group-title="IPTV-RO" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/realitateatv.png",Realitatea Plus
+rtmp://plus.realitatea.net:1935/livertmp/plus

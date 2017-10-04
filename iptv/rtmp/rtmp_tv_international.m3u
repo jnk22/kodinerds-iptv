@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Realitatea Plus" tvg-id="RealitateaPlus.ro" group-title="IPTV-RO" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/realitateatv.png",Realitatea Plus
+rtmp://plus.realitatea.net:1935/livertmp/plus
