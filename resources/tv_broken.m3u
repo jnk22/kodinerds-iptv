@@ -1,11 +1,23 @@
 #EXTM3U
+#EXTINF:-1,ALBUK 2 TV
+http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+#EXTINF:-1,Antena 3
+http://ivm.antenaplay.ro/live/a3free/playlist.m3u8?free=1&starttime=1505409522&endtime=1505416752&source=web&token=fvJhaS7BhVU9HKN96huaIG68Wyc=
+#EXTINF:-1,Antena International
+http://ivm.antenaplay.ro/live/ai/playlist.m3u8?starttime=1505409751&endtime=1505416981&source=web&token=VPkGoUv_MKUW1Vz3UmNgYHdpZH0=
+#EXTINF:-1,b1 TV
+http://fms75.mediadirect.ro:1937/live3/_definst_/b1_low/playlist.m3u8?publisher=6&token=c6323e26b0a556704cef9486e50cdac975ed7cbb777c2a39
 #EXTINF:-1,Dubai One
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:-1,FC Bayern.tv live
 https://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s32-v1-a1.m3u8
+#EXTINF:-1,Newsmax
+http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8
 #EXTINF:-1,nice
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3015-mbr.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,rbb Event 1
 http://rbb_event-lh.akamaihd.net/i/rbbevent_nongeo@107643/master.m3u8
+#EXTINF:-1,TVR International
+http://fms84.mediadirect.ro:1937/live3/_definst_/tvr/playlist.m3u8
 #EXTINF:-1,WDR HD
 http://tvstreamgeo.wdr.de/i/wdrfs_geogeblockt@112044/master.m3u8
