@@ -27,7 +27,7 @@ rtmp://62.113.210.250/medienasa-live/ok-stendal_high
 rtmp://stream-cdn.ok54.de/tv/okweinstrasse
 #EXTINF:-1 tvg-name="OK Wernigerode" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png",OK Wernigerode
 rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
-#EXTINF:-1 tvg-name="Oldenburg 1" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",Oldenburg 1
+#EXTINF:-1 tvg-name="oldenburg eins" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
 rtsp://188.40.16.94:1935/live/mp4:studio_360p
 #EXTINF:-1 tvg-name="P3tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/p3tv.png",P3tv
 rtmp://p3-6.mov.at:1935/live/weekstream
