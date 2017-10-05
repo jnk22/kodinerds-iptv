@@ -73,7 +73,7 @@ https://deluxe-radio.mivitec.net:8443/0002
 https://deluxe-radio.mivitec.net:8443/0011
 #EXTINF:-1 tvg-name="DELUXE EASY" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeasy.png",DELUXE EASY
 https://deluxe-radio.mivitec.net:8443/0009
-#EXTINF:-1 tvg-name="DELUXE LOUNGE RADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeloungeradio.png",DELUXE LOUNGE RADIO
+#EXTINF:-1 tvg-name="DELUXE LOUNGE RADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeloungeradio.png",DELUXE LOUNGE RADIO
 https://deluxe-radio.mivitec.net:8443/0010
 #EXTINF:-1 tvg-name="DELUXE MUSIC RADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxemusicradio.png",DELUXE MUSIC RADIO
 https://deluxe-radio.mivitec.net:8443/0005
