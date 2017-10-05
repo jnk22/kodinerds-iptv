@@ -40,7 +40,7 @@ Jede der Listen ist unterteilt in eine Struktur, die dem Benutzer ein individuel
 - - - [typ]_radio_uk - nur Radiosender aus Großbritannien
 - - - [typ]_radio_fr - nur Radiosender aus Frankreich
 - - - [typ]_radio_nl - nur Radiosender aus den Niederlanden
-- - - [typ]_radio_pl - nur Radiosender aus Polen
+- - - [typ]_radio_pl1 - nur Radiosender aus Polen
 ```
 
 Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Oberliste. So stellen beispielsweise die Listen kodi_tv und kodi_radio die Liste kodi dar. Die Benutzung von kodi oder weiteren Unterlisten würde daher keinen Mehrwert bringen.
@@ -68,7 +68,7 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
     * http://bit.ly/kn-kodi-radio-uk
     * http://bit.ly/kn-kodi-radio-fr
     * http://bit.ly/kn-kodi-radio-nl
-    * http://bit.ly/kn-kodi-radio-pl
+    * http://bit.ly/kn-kodi-radio-pl1
 <br><br>
 ### clean - Basisliste mit IPTV-Kanälen (VLC media player)
 * http://bit.ly/kn-clean
@@ -92,7 +92,7 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
     * http://bit.ly/kn-clean-radio-uk
     * http://bit.ly/kn-clean-radio-fr
     * http://bit.ly/kn-clean-radio-nl
-    * http://bit.ly/kn-clean-radio-pl
+    * http://bit.ly/kn-clean-radio-pl1
 <br><br>
 ### pipe - Basisliste mit IPTV-Kanälen (VLC media player)
 * http://bit.ly/kn-pipe
@@ -116,7 +116,7 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
     * http://bit.ly/kn-pipe-radio-uk
     * http://bit.ly/kn-pipe-radio-fr
     * http://bit.ly/kn-pipe-radio-nl
-    * http://bit.ly/kn-pipe-radio-pl
+    * http://bit.ly/kn-pipe-radio-pl1
 <br><br>
 ### rtmp - RTMP-Streams
 * http://bit.ly/kn-rtmp
