@@ -11,6 +11,8 @@ https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:3015_ycN4x2vJK8f
 http://wdrfsdash15-i.akamaihd.net/dash/live/275009/wdrfs/dash.mpd
 #EXTINF:-1 tvg-name="SWR" group-title="IPTV-DE",SWR
 http://swrdash-i.akamaihd.net/dash/live/925020/swrdash_1/dash.mpd
+#EXTINF:-1 tvg-name="NDR" group-title="IPTV-DE",NDR
+http://ndrfs-i.akamaihd.net/dash/live/923084/ndr_fs/ndr_nds.mpd
 #EXTINF:-1 tvg-name="BR Fernsehen" group-title="IPTV-DE",BR Fernsehen
 http://brdashdvbt2-i.akamaihd.net/dash/live/268329/dvbt2/manifest.mpd
 #EXTINF:-1 tvg-name="hr-fernsehen" group-title="IPTV-DE",hr-fernsehen
