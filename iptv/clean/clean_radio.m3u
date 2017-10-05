@@ -73,7 +73,7 @@ https://deluxe-radio.mivitec.net:8443/0002
 https://deluxe-radio.mivitec.net:8443/0011
 #EXTINF:-1 tvg-name="DELUXE EASY" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeasy.png",DELUXE EASY
 https://deluxe-radio.mivitec.net:8443/0009
-#EXTINF:-1 tvg-name="DELUXE LOUNGE RADIO" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeloungeradio.png",DELUXE LOUNGE RADIO
+#EXTINF:-1 tvg-name="DELUXE LOUNGE RADIO" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeloungeradio.png",DELUXE LOUNGE RADIO
 https://deluxe-radio.mivitec.net:8443/0010
 #EXTINF:-1 tvg-name="DELUXE MUSIC RADIO" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxemusicradio.png",DELUXE MUSIC RADIO
 https://deluxe-radio.mivitec.net:8443/0005
@@ -359,3 +359,35 @@ http://vip-icecast.538.lw.triple-it.nl/WEB21_MP3
 http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
 #EXTINF:-1 tvg-name="Sky Radio 101 FM" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/skyradio101fm.png",Sky Radio 101 FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
+#EXTINF:-1 tvg-name="Planeta FM" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM
+http://pla01.cdn.eurozet.pl:8700/pla-net.mp3
+#EXTINF:-1 tvg-name="Planeta FM Dope Hits" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM Dope Hits
+http://pla02.cdn.eurozet.pl:8208/PLAHOU.mp3
+#EXTINF:-1 tvg-name="Planeta FM Electronic Wave" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM Electronic Wave
+http://pla02.cdn.eurozet.pl:8228/PLAEDM.mp3
+#EXTINF:-1 tvg-name="Planeta FM Good Vibes" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM Good Vibes
+http://pla01.cdn.eurozet.pl:8204/PLACHI.mp3
+#EXTINF:-1 tvg-name="Planeta FM Indie Day Mood" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM Indie Day Mood
+http://pla02.cdn.eurozet.pl:8230/PLAIDM.mp3
+#EXTINF:-1 tvg-name="Radio ZET" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET
+http://n-4-14.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+#EXTINF:-1 tvg-name="Radio ZET 2000" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET 2000
+http://zet.cdn.eurozet.pl/ZET200.mp3
+#EXTINF:-1 tvg-name="Radio ZET 80" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET 80
+http://zet.cdn.eurozet.pl/ZET080.mp3
+#EXTINF:-1 tvg-name="Radio ZET 90" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET 90
+http://zet.cdn.eurozet.pl/ZET090.mp3
+#EXTINF:-1 tvg-name="Radio ZET Dance" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET Dance
+http://zet.cdn.eurozet.pl/ZETDAN.mp3
+#EXTINF:-1 tvg-name="Radio ZET Hits" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET Hits
+http://zet.cdn.eurozet.pl/ZETHIT.mp3
+#EXTINF:-1 tvg-name="Radio ZET Hot" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET Hot
+http://zet.cdn.eurozet.pl/ZETHOT.mp3
+#EXTINF:-1 tvg-name="Radio ZET Party" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET Party
+http://zet.cdn.eurozet.pl/ZETPAR.mp3
+#EXTINF:-1 tvg-name="Radio ZET PL" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET PL
+http://zet.cdn.eurozet.pl/ZETPL1.mp3
+#EXTINF:-1 tvg-name="Radio ZET Rock" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET Rock
+http://zet.cdn.eurozet.pl/ZETROK.mp3
+#EXTINF:-1 tvg-name="RMF FM" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png",RMF FM
+http://195.150.20.243/RMFFM48
