@@ -305,8 +305,8 @@ https://www.djing.com/tv/underground.m3u8
 http://www.djing.com/tv/session_wild-edm.m3u8
 #EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-id="ServusTV.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD (AT)
 http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
-#EXTINF:-1 tvg-name="gotv" tvg-id="go.tv" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/gotv.png",gotv
-http://nstream17.gotv.at:1936/live/gotvlive_576p/playlist.m3u8
+#EXTINF:-1 tvg-name="gotv" tvg-id="Gotv.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/gotv.png",gotv
+http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
 #EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
 https://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF eins HD

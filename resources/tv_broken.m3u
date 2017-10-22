@@ -11,6 +11,8 @@ http://fms75.mediadirect.ro:1937/live3/_definst_/b1_low/playlist.m3u8?publisher=
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:-1,FC Bayern.tv live
 https://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s32-v1-a1.m3u8
+#EXTINF:-1,gotv
+http://nstream17.gotv.at:1936/live/gotvlive_576p/playlist.m3u8
 #EXTINF:-1,Newsmax
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8
 #EXTINF:-1,nice
