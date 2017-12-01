@@ -19,6 +19,8 @@ http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3015-mbr.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,rbb Event 1
 http://rbb_event-lh.akamaihd.net/i/rbbevent_nongeo@107643/master.m3u8
+#EXTINF:-1,ServusTV HD (DE)
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-p.m3u8
 #EXTINF:-1,TVR International
 http://fms84.mediadirect.ro:1937/live3/_definst_/tvr/playlist.m3u8
 #EXTINF:-1,WDR HD
