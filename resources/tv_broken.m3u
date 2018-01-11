@@ -23,6 +23,8 @@ https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3015-mbr.smil/c
 http://rbb_event-lh.akamaihd.net/i/rbbevent_nongeo@107643/master.m3u8
 #EXTINF:-1,ServusTV HD (DE)
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/index_2592_av-p.m3u8
+#EXTINF:-1,ServusTV HD (DE)
+https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master_fbr2192.m3u8
 #EXTINF:-1,TVR International
 http://fms84.mediadirect.ro:1937/live3/_definst_/tvr/playlist.m3u8
 #EXTINF:-1,WDR HD
