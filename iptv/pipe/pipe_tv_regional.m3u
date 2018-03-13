@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
-pipe:///usr/bin/ffmpeg -loglevel fatal -i http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_1_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=WDR\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3776_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=WDR\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="SWR Baden-Würrtemberg HD " tvg-id="SWR.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Würrtemberg HD 
 pipe:///usr/bin/ffmpeg -loglevel fatal -i https://swrbw-lh.akamaihd.net/i/swrbw_live@196738/index_3584_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=SWR\ Baden-Wurrtemberg\ HD  -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWR-rp.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Rheinland-Pfalz HD
