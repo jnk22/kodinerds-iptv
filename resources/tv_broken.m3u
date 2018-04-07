@@ -5,6 +5,8 @@ http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
 http://ivm.antenaplay.ro/live/a3free/playlist.m3u8?free=1&starttime=1505409522&endtime=1505416752&source=web&token=fvJhaS7BhVU9HKN96huaIG68Wyc=
 #EXTINF:-1,Antena International
 http://ivm.antenaplay.ro/live/ai/playlist.m3u8?starttime=1505409751&endtime=1505416981&source=web&token=VPkGoUv_MKUW1Vz3UmNgYHdpZH0=
+#EXTINF:-1,ARTE HD (DE)
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
 #EXTINF:-1,b1 TV
 http://fms75.mediadirect.ro:1937/live3/_definst_/b1_low/playlist.m3u8?publisher=6&token=c6323e26b0a556704cef9486e50cdac975ed7cbb777c2a39
 #EXTINF:-1,Dubai One
