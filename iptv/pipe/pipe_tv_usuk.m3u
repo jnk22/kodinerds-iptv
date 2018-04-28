@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ABC News" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
-pipe:///usr/bin/ffmpeg -loglevel fatal -i http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=ABC\ News -metadata service_provider=IPTV-US -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -loglevel fatal -i https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8 -vcodec copy -acodec copy -metadata service_name=ABC\ News -metadata service_provider=IPTV-US -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Adult Swim" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8 -vcodec copy -acodec copy -metadata service_name=Adult\ Swim -metadata service_provider=IPTV-US -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="JUCE TV" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/jucetv.png",JUCE TV
@@ -12,7 +12,7 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -i https://cbsnhls-i.akamaihd.net/hls/liv
 #EXTINF:-1 tvg-name="CBN News" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",CBN News
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-b.m3u8 -vcodec copy -acodec copy -metadata service_name=CBN\ News -metadata service_provider=IPTV-US -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-id="Bloomberg.nws" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bloombergtv.png",Bloomberg TV
-pipe:///usr/bin/ffmpeg -loglevel fatal -i https://mediaeuwest.akamaized.net/eu/EU1000kb_live.m3u8 -vcodec copy -acodec copy -metadata service_name=Bloomberg\ TV -metadata service_provider=IPTV-US -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -loglevel fatal -i https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8 -vcodec copy -acodec copy -metadata service_name=Bloomberg\ TV -metadata service_provider=IPTV-US -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="SBN" tvg-id="SonLife.uk" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sbn.png",SBN
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://sonlife8-i.akamaihd.net/hls/live/585012/ch8/ch81/ch81.m3u8 -vcodec copy -acodec copy -metadata service_name=SBN -metadata service_provider=IPTV-US -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="GOD TV" tvg-id="GODChannel.uk" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/godtv.png",GOD TV

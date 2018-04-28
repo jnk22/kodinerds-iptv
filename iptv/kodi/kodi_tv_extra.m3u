@@ -14,7 +14,7 @@ http://zdf0506-lh.akamaihd.net/i/de06_v1@392858/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 5" tvg-id="ZDFEvent5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 5
 http://zdf0708-lh.akamaihd.net/i/de07_v1@392868/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 6" tvg-id="ZDFEvent6.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 6
-http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_3096_av-p.m3u8
+http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_229_av-b.m3u8
 #EXTINF:-1 tvg-name="ARTE Event 1" tvg-id="ArteEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 1
 https://arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="ARTE Event 2" tvg-id="ArteEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 2
@@ -64,7 +64,7 @@ http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="BR Event 3" tvg-id="BREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 3
 http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="BR Event 4" tvg-id="BREvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 4
-http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-p.m3u8
+http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-b.m3u8
 #EXTINF:-1 tvg-name="MDR+ 1" tvg-id="MDRPlus1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 1
 http://liveevent1.mdr.de/i/livetvmdrevent1_ww@106904/index_3871_av-p.m3u8
 #EXTINF:-1 tvg-name="MDR+ 2" tvg-id="MDRPlus2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 2
