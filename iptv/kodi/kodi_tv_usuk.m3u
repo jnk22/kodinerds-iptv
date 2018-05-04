@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ABC News" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
 #EXTINF:-1 tvg-name="Adult Swim" tvg-id="" group-title="International;Comedy" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 #EXTINF:-1 tvg-name="JUCE TV" tvg-id="" group-title="International;Religion;Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/jucetv.png",JUCE TV
@@ -10,9 +10,9 @@ https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
 #EXTINF:-1 tvg-name="CBSN" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbsn.png",CBSN
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
 #EXTINF:-1 tvg-name="CBN News" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",CBN News
-http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-b.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-id="Bloomberg.nws" group-title="International;Wirtschaft" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bloombergtv.png",Bloomberg TV
-https://mediaeuwest.akamaized.net/eu/EU1000kb_live.m3u8
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-name="SBN" tvg-id="SonLife.uk" group-title="International;Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sbn.png",SBN
 http://sonlife8-i.akamaihd.net/hls/live/585012/ch8/ch81/ch81.m3u8
 #EXTINF:-1 tvg-name="GOD TV" tvg-id="GODChannel.uk" group-title="International;Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/godtv.png",GOD TV
