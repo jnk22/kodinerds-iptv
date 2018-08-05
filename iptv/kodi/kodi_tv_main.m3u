@@ -26,7 +26,7 @@ http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
 #EXTINF:-1 tvg-name="blizz TV" tvg-id="Blizz.de" group-title="Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png",blizz TV
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 #EXTINF:-1 tvg-name="Family TV" tvg-id="FamilyTV.de" group-title="Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/familytv.png",Family TV
-http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/index_500_av-p.m3u8
 #EXTINF:-1 tvg-name="eoTV HD" tvg-id="RiC.de" group-title="Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png",eoTV HD
 http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
 #EXTINF:-1 tvg-name="RiC / eoTV" tvg-id="RiC.de" group-title="Filme / Serien;Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png",RiC / eoTV
