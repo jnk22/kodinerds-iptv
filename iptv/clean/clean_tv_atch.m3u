@@ -46,6 +46,6 @@ http://livevideo.infomaniak.com/streaming/livecast/tvo/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleBielingue" tvg-id="TeleBielingue.ch" group-title="IPTV-CH" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebielingue.png",TeleBielingue
 http://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
 #EXTINF:-1 tvg-name="TVM3" tvg-id="TVM3.ch" group-title="IPTV-CH" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png",TVM3
-http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-name="Telebasel" tvg-id="" group-title="IPTV-CH" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebasel.png",Telebasel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
