@@ -75,7 +75,5 @@ http://5.135.142.110:1935/albuk/albuk.stream/playlist.m3u8
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Mello TV" tvg-id="" group-title="IPTV-JM" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mellotv.png",Mello TV
 https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f_1_1900544/chunklist.m3u8
-#EXTINF:-1 tvg-name="Arirang TV" tvg-id="ArirangTv.kr" group-title="IPTV-KR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arirangtv.png",Arirang TV
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel NewsAsia" tvg-id="" group-title="IPTV-SG" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/channelnewsasia.png",Channel NewsAsia
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-b.m3u8

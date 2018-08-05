@@ -7,6 +7,8 @@ http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
 http://ivm.antenaplay.ro/live/a3free/playlist.m3u8?free=1&starttime=1505409522&endtime=1505416752&source=web&token=fvJhaS7BhVU9HKN96huaIG68Wyc=
 #EXTINF:-1,Antena International
 http://ivm.antenaplay.ro/live/ai/playlist.m3u8?starttime=1505409751&endtime=1505416981&source=web&token=VPkGoUv_MKUW1Vz3UmNgYHdpZH0=
+#EXTINF:-1,Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,ARTE HD (DE)
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
 #EXTINF:-1,b1 TV
