@@ -94,7 +94,7 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
     * http://bit.ly/kn-clean-radio-nl
     * http://bit.ly/kn-clean-radio-pl1
 <br><br>
-### pipe - Basisliste mit IPTV-Kanälen (VLC media player)
+### pipe - Basisliste mit IPTV-Kanälen (Tvheadend)
 * http://bit.ly/kn-pipe
 
   * http://bit.ly/kn-pipe-tv
