@@ -83,7 +83,7 @@ https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master_fb12192.m
 https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master_f102192.m3u8
 #EXTINF:-1,ServusTV HD (DE)
 https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master_fb1322192.m3u8
-#EXTINF:-1,ServusTV HD
+#EXTINF:-1,ServusTV HD (DE)
 https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master_fb92192.m3u8
 #EXTINF:-1,TVR International
 http://fms84.mediadirect.ro:1937/live3/_definst_/tvr/playlist.m3u8
