@@ -57,9 +57,9 @@ http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/pla
 http://orf1.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8
 #EXTINF:-1,ORF 2 HD
 http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="ORF III HD" tvg-id="ORF3.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF III HD
+#EXTINF:-1,ORF III HD
 http://orf3.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="ORF SPORT +" tvg-id="ORFSport.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",ORF SPORT +
+#EXTINF:-1,ORF SPORT +
 http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
 #EXTINF:-1,QVC
 https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/bitrate1-audio_track=64000-video=1500000.m3u8?DVR
