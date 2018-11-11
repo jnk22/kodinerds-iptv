@@ -6,11 +6,11 @@ http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
 #EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
 https://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF eins HD
-http://orf1.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8
+https://orf1.cdn.ors.at/out/u/orf1/qxb/manifest.m3u8
 #EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="ORF2.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png",ORF 2 HD
-http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8
+https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest.m3u8
 #EXTINF:-1 tvg-name="ORF III HD" tvg-id="ORF3.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF III HD
-http://orf3.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8
+https://orf3.cdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 #EXTINF:-1 tvg-name="ORF SPORT +" tvg-id="ORFSport.at" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",ORF SPORT +
 http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="dorf tv" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png",dorf tv

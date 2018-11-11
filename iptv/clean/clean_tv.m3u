@@ -10,7 +10,7 @@ https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-p.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-b.m3u8
 #EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD
-https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master_fb92192.m3u8
+https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master_fb82192.m3u8
 #EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltDerWunder.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
 http://live.vidoo.de/live/weltderwunder/master.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
@@ -28,7 +28,7 @@ http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 #EXTINF:-1 tvg-name="Family TV" tvg-id="FamilyTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/familytv.png",Family TV
 http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/index_500_av-p.m3u8
 #EXTINF:-1 tvg-name="eoTV HD" tvg-id="RiC.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png",eoTV HD
-http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
+http://cdn-europe.smartcast.de:1935/eotvhd/eotvhd/playlist.m3u
 #EXTINF:-1 tvg-name="RiC / eoTV" tvg-id="RiC.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png",RiC / eoTV
 https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8
 #EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
@@ -310,11 +310,11 @@ http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
 #EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
 https://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
 #EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF eins HD
-http://orf1.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8
+https://orf1.cdn.ors.at/out/u/orf1/qxb/manifest.m3u8
 #EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="ORF2.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png",ORF 2 HD
-http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8
+https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest.m3u8
 #EXTINF:-1 tvg-name="ORF III HD" tvg-id="ORF3.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF III HD
-http://orf3.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8
+https://orf3.cdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 #EXTINF:-1 tvg-name="ORF SPORT +" tvg-id="ORFSport.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",ORF SPORT +
 http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="dorf tv" tvg-id="" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png",dorf tv
