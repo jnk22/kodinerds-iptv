@@ -68,7 +68,7 @@ http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="VISIT-X.tv" tvg-id="" group-title="Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png",VISIT-X.tv
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
-https://edge0750-01mx1.flex-cdn.net/2504f986eca8b3e93c02fc22a1888a7923c1b9cc74837f835487/index.m3u8
+https://123tv.cdn.ses-ps.com/stream070101/playlist.m3u8
 #EXTINF:-1 tvg-name="pearl.tv" tvg-id="" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
 http://enstyle.cdn.ses-ps.com/index.m3u8
 #EXTINF:-1 tvg-name="QVC" tvg-id="QVC.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC
