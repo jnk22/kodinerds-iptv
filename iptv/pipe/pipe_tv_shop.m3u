@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
-pipe:///usr/bin/ffmpeg -loglevel fatal -i https://123tv.cdn.ses-ps.com/stream070101/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=1-2-3.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -loglevel fatal -i http://123tv.cdn.ses-ps.com/stream070101/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=1-2-3.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="pearl.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
 pipe:///usr/bin/ffmpeg -loglevel fatal -i http://enstyle.cdn.ses-ps.com/index.m3u8 -vcodec copy -acodec copy -metadata service_name=pearl.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="QVC" tvg-id="QVC.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC
