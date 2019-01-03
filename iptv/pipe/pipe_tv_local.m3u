@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
-pipe:///usr/bin/ffmpeg -loglevel fatal -i https://www.augsburg.tv/storage/videos/78810/videos/78810_hls_1080/1080.m3u8 -vcodec copy -acodec copy -metadata service_name=a.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -loglevel fatal -i https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=a.tv -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png",ALEX Berlin
 pipe:///usr/bin/ffmpeg -loglevel fatal -i https://alex-net.rosebud-media.de/bounce/alexlivetv20.smil/master.m3u8 -vcodec copy -acodec copy -metadata service_name=ALEX\ Berlin -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="allgäu.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv
