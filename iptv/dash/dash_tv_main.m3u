@@ -7,3 +7,5 @@ http://brdashdvbt2-i.akamaihd.net/dash/live/268335/dvbt2/manifest.mpd
 http://einfest_dash-i.akamaihd.net/dash/live/925660/rbbtest/manifest.mpd
 #EXTINF:-1 tvg-name="nice" tvg-id="" group-title="IPTV-DE",nice
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:3015_ycN4x2vJK8fQDXR/manifest.mpd
+#EXTINF:-1 tvg-name="n-tv" tvg-id="ntv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ntv.png",n-tv
+https://pliventvuso-a.akamaihd.net/live/ntvhomelive/ntvhomelive.isml/.mpd
