@@ -193,8 +193,20 @@ http://stream.radio7.de/stream1/livestream.mp3
 http://mp3.radiomg.c.nmdn.net/radiomg/livestream.mp3
 #EXTINF:-1 tvg-name="radio B2" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png",radio B2
 http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
-#EXTINF:-1 tvg-name="RADIO BOB!" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB!
+#EXTINF:-1 tvg-name="Radio Bob!" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",Radio Bob!
 http://streams.radiobob.de/bob-live/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="Radio Bob Harte Saite" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",Radio Bob Harte Saite
+http://streams.radiobob.de/bob-hartesaite/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="Radio Bob  Alternative" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",Radio Bob Alternative
+http://streams.radiobob.de/bob-alternative/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="Radio Bob Best of Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",Radio Bob Best of Rock
+http://streams.radiobob.de/bob-bestofrock/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="Radio Bob Rock Hits" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",Radio Bob Rockhits
+http://streams.radiobob.de/bob-rockhits/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="Radio Bob Classic Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",Radio Bob Classicrock
+http://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer
+#EXTINF:-1 tvg-name="Radio Bob Wacken" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",Radio Bob Wacken
+http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="Radio Brocken" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobrocken.png",Radio Brocken
 http://stream.radiobrocken.de/live/mp3-256
 #EXTINF:-1 tvg-name="RADIO ENERGY Sachsen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Sachsen
