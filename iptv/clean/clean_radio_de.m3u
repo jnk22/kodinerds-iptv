@@ -261,5 +261,5 @@ http://hr-youfm-club.cast.addradio.de/hr/youfm/club/mp3/128/stream.mp3
 http://hr-youfm-justmusic.cast.addradio.de/hr/youfm/justmusic/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="YOU FM Sounds" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png",YOU FM Sounds
 http://hr-youfm-sounds.cast.addradio.de/hr/youfm/sounds/mp3/128/stream.mp3
-#EXTINF:-1 tvg-name="rbbKultur" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/",rbbKultur
+#EXTINF:-1 tvg-name="rbbKultur" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbkultur.png",rbbKultur
 http://rbb-kulturradio-live.cast.addradio.de/rbb/kulturradio/live/mp3/192/stream.mp3
