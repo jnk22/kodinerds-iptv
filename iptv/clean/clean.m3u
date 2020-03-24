@@ -595,6 +595,8 @@ http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3
 http://ice.kultradio.fm/kult128.mp3
 #EXTINF:-1 tvg-name="LandesWelle Thüringen" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/landeswellethueringen.png",LandesWelle Thüringen
 http://stream.landeswelle.de/lwt/mp3-192
+#EXTINF:-1 tvg-name="Maus Radio" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mausradio.png",Maus Radio
+https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="MDR AKTUELL" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdraktuell.png",MDR AKTUELL
 http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="MDR JUMP" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrjump.png",MDR JUMP
