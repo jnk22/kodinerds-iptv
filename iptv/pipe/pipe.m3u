@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
-pipe://ffmpeg -loglevel fatal -i https://mcdn.daserste.de/daserste/de/master_3744.m3u8 -vcodec copy -acodec copy -metadata service_name=Das\ Erste\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+pipe://ffmpeg -loglevel fatal -i https://derste247livede.akamaized.net/hls/live/658317/daserste_de/profile6/6.m3u8 -vcodec copy -acodec copy -metadata service_name=Das\ Erste\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 pipe://ffmpeg -loglevel fatal -i https://zdf-hls-01.akamaized.net/hls/live/2002460/de/veryhigh/master.m3u8 -vcodec copy -acodec copy -metadata service_name=ZDF\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
@@ -24,7 +24,7 @@ pipe://ffmpeg -loglevel fatal -i http://cdn-europe.smartcast.de:1935/eotvhd/eotv
 #EXTINF:-1 tvg-name="RiC / eoTV" tvg-id="RiC.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png",RiC / eoTV
 pipe://ffmpeg -loglevel fatal -i https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=RiC\ /\ eoTV -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
-pipe://ffmpeg -loglevel fatal -i https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/index_3776_av-b.m3u8 -vcodec copy -acodec copy -metadata service_name=KiKA -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+pipe://ffmpeg -loglevel fatal -i https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master_1080.m3u8 -vcodec copy -acodec copy -metadata service_name=KiKA -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nick.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
 pipe://ffmpeg -loglevel fatal -i http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=Nickelodeon -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Germany
@@ -292,7 +292,7 @@ pipe://ffmpeg -loglevel fatal -i https://www.djing.com/tv/underground.m3u8 -vcod
 #EXTINF:-1 tvg-name="DJing Wild EDM" tvg-id="" group-title="IPTV-XX" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing Wild EDM
 pipe://ffmpeg -loglevel fatal -i http://www.djing.com/tv/session_wild-edm.m3u8 -vcodec copy -acodec copy -metadata service_name=DJing\ Wild\ EDM -metadata service_provider=IPTV-XX -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-id="ServusTV.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD (AT)
-pipe://ffmpeg -loglevel fatal -i http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=ServusTV\ HD\ (AT) -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+pipe://ffmpeg -loglevel fatal -i https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8 -vcodec copy -acodec copy -metadata service_name=ServusTV\ HD\ (AT) -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="gotv" tvg-id="Gotv.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/gotv.png",gotv
 pipe://ffmpeg -loglevel fatal -i http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=gotv -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
