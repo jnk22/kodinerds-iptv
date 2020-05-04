@@ -44,7 +44,7 @@ http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
 #EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
 https://zdfhls19-i.akamaihd.net/hls/live/744752/de/4/4.m3u8
 #EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNewsHD.de" group-title="Nachrichten;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD
-https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/mastervideo-3400.m3u8
 #EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV
 http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png",K-TV
