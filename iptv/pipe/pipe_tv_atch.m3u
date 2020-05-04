@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-id="ServusTV.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD (AT)
-pipe://ffmpeg -loglevel fatal -i http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=ServusTV\ HD\ (AT) -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+pipe://ffmpeg -loglevel fatal -i https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8 -vcodec copy -acodec copy -metadata service_name=ServusTV\ HD\ (AT) -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="gotv" tvg-id="Gotv.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/gotv.png",gotv
 pipe://ffmpeg -loglevel fatal -i http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=gotv -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
