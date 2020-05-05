@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/profile6/6.m3u8
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf-hls-01.akamaized.net/hls/live/2002460/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
