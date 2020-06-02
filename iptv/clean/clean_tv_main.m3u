@@ -38,7 +38,7 @@ http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
 #EXTINF:-1 tvg-name="WELT" tvg-id="n24.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
 http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
 #EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
