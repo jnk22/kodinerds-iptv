@@ -789,6 +789,8 @@ http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p
 #EXTINF:-1 tvg-name="BBC World Service" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcworldservice.png",BBC World Service
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+#EXTINF:-1 tvg-name="Classic FM" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ classicfm.png",Classic FM
+http://media-ice.musicradio.com:80/ClassicFMMP3
 #EXTINF:-1 tvg-name="Mouv'" group-title="Frankreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png",Mouv'
 http://direct.mouv.fr/live/mouv-midfi.mp3
 #EXTINF:-1 tvg-name="Radio Nova" group-title="Frankreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radionova.png",Radio Nova
