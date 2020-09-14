@@ -446,9 +446,9 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera" tvg-id="AlJazeeraArabe.nws" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeera.png",Al Jazeera
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-id="AlJazeera.nws" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png",Al Jazeera English
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-name="Dubai One" tvg-id="DubaiOne.net" group-title="International;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dubaione.png",Dubai One
-http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-name="KVF" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png",KVF
 http://netvarp.kringvarp.fo/uttanlands/video/playlist.m3u8
 #EXTINF:-1 tvg-name="ALBUK TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/albuktv.png",ALBUK TV
@@ -458,7 +458,7 @@ http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Mello TV" tvg-id="" group-title="International;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mellotv.png",Mello TV
 https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/a1e0ad3f_1_1900544/chunklist.m3u8
 #EXTINF:-1 tvg-name="Channel NewsAsia" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/channelnewsasia.png",Channel NewsAsia
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_4_av-b.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-name="100'5 Alemannia" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 Alemannia
 http://dashitradio-alemannia.skydisc.net:8000/Alemannia.mp3
 #EXTINF:-1 tvg-name="100'5 DAS HITRADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 DAS HITRADIO
