@@ -156,7 +156,7 @@ https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3
 #EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO
 https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Rhein Neckar Fernsehen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png",Rhein Neckar Fernsehen
-http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="rheinmaintv" tvg-id="rheinmaintv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png",rheinmaintv
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sylt1" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
