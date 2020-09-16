@@ -155,7 +155,7 @@ https://s.ok54.de/nahetv/webstream/chunks.m3u8
 https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
 #EXTINF:-1 tvg-name="OK Suedwestpfalz" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksuedwestpfalz.png",OK Suedwestpfalz
 https://s.ok54.de/okswp/test/chunks.m3u8
-#EXTINF:-1 tvg-name="OK Weinstrasse" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png",OK Weinstrasse
+#EXTINF:-1 tvg-name="OK Weinstraße (Neustadt)" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png",OK Weinstraße (Neustadt)
 https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
 #EXTINF:-1 tvg-name="oldenburg eins" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
 https://5d9af227241aa.streamlock.net:1443/live/studio/chunklist_w1341441045.m3u8
