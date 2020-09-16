@@ -368,7 +368,7 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-name="CMC" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-name="Hunt Channel" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/huntchannel.png",Hunt Channel
-https://nimble.huntchannel.tv:4433/abr/huntchannel/live/huntchannelhq/chunks.m3u8
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-name="Create & Craft TV" tvg-id="CreateCraft.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/createandcraft.png",Create & Craft TV
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 #EXTINF:-1 tvg-name="Capital TV" tvg-id="CapitalTV.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/capitaltv.png",Capital TV
