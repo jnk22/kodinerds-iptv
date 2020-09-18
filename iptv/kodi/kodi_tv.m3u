@@ -476,6 +476,6 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="RTÉ News Now" tvg-id="RTENewsNow.ie" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png",RTÉ News Now
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Mello TV" tvg-id="" group-title="International;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mellotv.png",Mello TV
-https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/a1e0ad3f_1_1900544/chunklist.m3u8
+https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/a1e0ad3f_1_1376000/chunklist.m3u8
 #EXTINF:-1 tvg-name="Channel NewsAsia" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/channelnewsasia.png",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
