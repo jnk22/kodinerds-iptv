@@ -690,7 +690,7 @@ http://stream.radiosaw.de
 #EXTINF:-1 tvg-name="radio TOP 40" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotop40.png",radio TOP 40
 http://stream.radiotop40.de/live/mp3-192
 #EXTINF:-1 tvg-name="Radio TEDDY" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY
-http://217.160.14.96:8000/intro.radioteddy.mp3
+http://streamtdy.ir-media-tec.com/live/mp3-128/web/play.mp3
 #EXTINF:-1 tvg-name="radioeins" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioeins.png",radioeins
 http://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="rbb 88.8" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbb888.png",rbb 88.8
