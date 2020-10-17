@@ -578,7 +578,7 @@ http://st04.dlf.de/dlf/04/128/mp3/stream.mp3
 #EXTINF:-1 tvg-name="DIE NEUE 107.7" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dieneue1077.png",DIE NEUE 107.7
 http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3
 #EXTINF:-1 tvg-name="DISCO DELUXE" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DISCO DELUXE
-https://deluxe-radio.mivitec.net:8443/0003
+https://audiostreams.deluxemusic.tv/disco/aac-64
 #EXTINF:-1 tvg-name="domradio.de" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/domradiode.png",domradio.de
 http://domradio-mp3-l.akacast.akamaistream.net/7/809/237368/v1/gnl.akacast.akamaistream.net/domradio-mp3-l
 #EXTINF:-1 tvg-name="DONAU 3 FM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/donau3fm.png",DONAU 3 FM
@@ -594,7 +594,7 @@ http://streams.fluxfm.de/live/mp3-320/audio/
 #EXTINF:-1 tvg-name="Fritz" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png",Fritz
 http://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="harmony.fm" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/harmonyfm.png",harmony.fm
-http://mp3ad.harmony.c.nmdn.net/fs_harmonyfm/hqlivestream.mp3
+https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac
 #EXTINF:-1 tvg-name="HIT RADIO FFH" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioffh.png",HIT RADIO FFH
 http://mp3.ffh.de/radioffh/hqlivestream.mp3
 #EXTINF:-1 tvg-name="hr-info" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hrinfo.png",hr-info
