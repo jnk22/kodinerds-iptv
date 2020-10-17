@@ -614,7 +614,7 @@ http://stream.jam.fm/jamfm-bl/mp3-128/konsole/
 #EXTINF:-1 tvg-name="JAM FM New Music Radio" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM New Music Radio
 http://stream.jam.fm/jamfm-nmr/mp3-128/konsole/
 #EXTINF:-1 tvg-name="JUKEBOX RADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",JUKEBOX RADIO
-https://deluxe-radio.mivitec.net:8443/0004
+https://audiostreams.deluxemusic.tv/jukebox/aac-64
 #EXTINF:-1 tvg-name="KiRaKa" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kiraka.png",KiRaKa
 http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="KULTRADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kultradio.png",KULTRADIO
