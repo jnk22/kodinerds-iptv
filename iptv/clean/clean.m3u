@@ -835,7 +835,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
 #EXTINF:-1 tvg-name="Radio 538 Party" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png",Radio 538 Party
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3
-#EXTINF:-1 tvg-name="Radio 538 Top 40 Radio" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png",Radio 538 Top 40 Radio
+#EXTINF:-1 tvg-name="Radio 538 Top 50 Radio" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png",Radio 538 Top 50 Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3
 #EXTINF:-1 tvg-name="Radio 538 Verrückte Stunde" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png",Radio 538 Verrückte Stunde
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3
