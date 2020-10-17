@@ -865,8 +865,8 @@ http://zet.cdn.eurozet.pl/ZET090.mp3
 http://zet.cdn.eurozet.pl/ZETDAN.mp3
 #EXTINF:-1 tvg-name="Radio ZET Hits" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET Hits
 http://zet.cdn.eurozet.pl/ZETHIT.mp3
-#EXTINF:-1 tvg-name="Radio ZET Hot" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET Hot
-http://zet.cdn.eurozet.pl/ZETHOT.mp3
+#EXTINF:-1 tvg-name="Radio ZET Love" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET Love
+https://zt.cdn.eurozet.pl/ZETLOV.mp3
 #EXTINF:-1 tvg-name="Radio ZET Party" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET Party
 http://zet.cdn.eurozet.pl/ZETPAR.mp3
 #EXTINF:-1 tvg-name="Radio ZET PL" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET PL
