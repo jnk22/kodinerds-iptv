@@ -816,7 +816,7 @@ http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
 #EXTINF:-1 tvg-name="Mouv'" group-title="Frankreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png",Mouv'
 http://direct.mouv.fr/live/mouv-midfi.mp3
 #EXTINF:-1 tvg-name="Radio Nova" group-title="Frankreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radionova.png",Radio Nova
-http://broadcast.infomaniak.net/radionova-high.mp3
+http://novazz.ice.infomaniak.ch/novazz-128.mp3
 #EXTINF:-1 tvg-name="HitRadio Veronica" group-title="Niederlande" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioveronica.png",HitRadio Veronica
 http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3
 #EXTINF:-1 tvg-name="Radio 538" group-title="Niederlande" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png",Radio 538

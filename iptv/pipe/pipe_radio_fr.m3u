@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-name="Mouv'" group-title="Radio-FR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png",Mouv'
 pipe://ffmpeg -loglevel fatal -i http://direct.mouv.fr/live/mouv-midfi.mp3 -vcodec copy -acodec copy -metadata service_name=Mouv' -metadata service_provider=Radio-FR -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Radio Nova" group-title="Radio-FR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radionova.png",Radio Nova
-pipe://ffmpeg -loglevel fatal -i http://broadcast.infomaniak.net/radionova-high.mp3 -vcodec copy -acodec copy -metadata service_name=Radio\ Nova -metadata service_provider=Radio-FR -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+pipe://ffmpeg -loglevel fatal -i http://novazz.ice.infomaniak.ch/novazz-128.mp3 -vcodec copy -acodec copy -metadata service_name=Radio\ Nova -metadata service_provider=Radio-FR -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
