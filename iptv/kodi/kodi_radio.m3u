@@ -339,8 +339,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3
 #EXTINF:-1 tvg-name="Radio 538 Dance Department" group-title="Niederlande" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png",Radio 538 Dance Department
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
-#EXTINF:-1 tvg-name="Radio 538 Global Dance Chart" group-title="Niederlande" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png",Radio 538 Global Dance Chart
-http://vip-icecast.538.lw.triple-it.nl/WEB05_MP3
+#EXTINF:-1 tvg-name="Radio 538 Drops" group-title="Niederlande" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png",Radio 538 Drops
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3
 #EXTINF:-1 tvg-name="Radio 538 Hitzone" group-title="Niederlande" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png",Radio 538 Hitzone
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
 #EXTINF:-1 tvg-name="Radio 538 Ibiza" group-title="Niederlande" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png",Radio 538 Ibiza
