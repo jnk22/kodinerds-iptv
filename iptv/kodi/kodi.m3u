@@ -617,6 +617,8 @@ http://stream.jam.fm/jamfm-nmr/mp3-128/konsole/
 https://audiostreams.deluxemusic.tv/jukebox/aac-64
 #EXTINF:-1 tvg-name="KiRaKa" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kiraka.png",KiRaKa
 http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="Maus Radio" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mausradio.png",Maus Radio
+https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="LandesWelle Thüringen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/landeswellethueringen.png",LandesWelle Thüringen
 http://stream.landeswelle.de/lwt/mp3-192
 #EXTINF:-1 tvg-name="MDR AKTUELL" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdraktuell.png",MDR AKTUELL
