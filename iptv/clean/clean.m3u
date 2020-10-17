@@ -672,7 +672,7 @@ http://mp3.planetradio.de/planetradio/hqlivestream.mp3
 #EXTINF:-1 tvg-name="PULS" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/puls.png",PULS
 https://br-puls-live.cast.addradio.de/br/puls/live/mp3/mid
 #EXTINF:-1 tvg-name="Radio 7" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio7.png",Radio 7
-http://stream.radio7.de/stream1/livestream.mp3
+https://edge04.streamonkey.net/radio7-dab
 #EXTINF:-1 tvg-name="Radio 90.1" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio901.png",Radio 90.1
 http://mp3.radiomg.c.nmdn.net/radiomg/livestream.mp3
 #EXTINF:-1 tvg-name="radio B2" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png",radio B2

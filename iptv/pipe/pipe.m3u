@@ -672,7 +672,7 @@ pipe://ffmpeg -loglevel fatal -i http://mp3.planetradio.de/planetradio/hqlivestr
 #EXTINF:-1 tvg-name="PULS" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/puls.png",PULS
 pipe://ffmpeg -loglevel fatal -i https://br-puls-live.cast.addradio.de/br/puls/live/mp3/mid -vcodec copy -acodec copy -metadata service_name=PULS -metadata service_provider=Radio-DE -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Radio 7" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio7.png",Radio 7
-pipe://ffmpeg -loglevel fatal -i http://stream.radio7.de/stream1/livestream.mp3 -vcodec copy -acodec copy -metadata service_name=Radio\ 7 -metadata service_provider=Radio-DE -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+pipe://ffmpeg -loglevel fatal -i https://edge04.streamonkey.net/radio7-dab -vcodec copy -acodec copy -metadata service_name=Radio\ 7 -metadata service_provider=Radio-DE -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Radio 90.1" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio901.png",Radio 90.1
 pipe://ffmpeg -loglevel fatal -i http://mp3.radiomg.c.nmdn.net/radiomg/livestream.mp3 -vcodec copy -acodec copy -metadata service_name=Radio\ 90.1 -metadata service_provider=Radio-DE -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="radio B2" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png",radio B2
