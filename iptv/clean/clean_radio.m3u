@@ -231,17 +231,17 @@ http://sr2m.akacast.akamaistream.net/7/375/142686/v1/gnl.akacast.akamaistream.ne
 http://sr3m.akacast.akamaistream.net/7/722/142687/v1/gnl.akacast.akamaistream.net/sr3m
 #EXTINF:-1 tvg-name="sunshine live" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",sunshine live
 http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq
-#EXTINF:-1 tvg-name="SWR1 Baden-Württemberg" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1bw.png",SWR1 Baden-Württemberg
+#EXTINF:-1 tvg-name="SWR1 Baden-Württemberg" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png",SWR1 Baden-Württemberg
 http://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3
-#EXTINF:-1 tvg-name="SWR1 Rheinland-Pfalz" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1rp.png",SWR1 Rheinland-Pfalz
+#EXTINF:-1 tvg-name="SWR1 Rheinland-Pfalz" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png",SWR1 Rheinland-Pfalz
 http://swr-swr1-rp.cast.addradio.de/swr/swr1/rp/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="SWR2" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr2.png",SWR2
 http://swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3
 #EXTINF:-1 tvg-name="SWR3" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png",SWR3
 http://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-name="SWR4 Baden-Württemberg" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4bw.png",SWR4 Baden-Württemberg
+#EXTINF:-1 tvg-name="SWR4 Baden-Württemberg" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4.png",SWR4 Baden-Württemberg
 http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3
-#EXTINF:-1 tvg-name="SWR4 Rheinland-Pfalz" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4rp.png",SWR4 Rheinland-Pfalz
+#EXTINF:-1 tvg-name="SWR4 Rheinland-Pfalz" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4.png",SWR4 Rheinland-Pfalz
 http://swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="UNSERDING" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png",UNSERDING
 http://udm.akacast.akamaistream.net/7/384/142688/v1/gnl.akacast.akamaistream.net/udm
