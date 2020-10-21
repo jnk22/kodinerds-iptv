@@ -79,7 +79,7 @@ https://audiostreams.deluxemusic.tv/lounge/aac-64
 https://audiostreams.deluxemusic.tv/music/aac-64
 #EXTINF:-1 tvg-name="DELUXE NEW ARRIVALS" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE NEW ARRIVALS
 https://audiostreams.deluxemusic.tv/arrivals/aac-64
-#EXTINF:-1 tvg-name="Deluxe TOP 40" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",Deluxe TOP 40
+#EXTINF:-1 tvg-name="DELUXE TOP 40" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE TOP 40
 https://audiostreams.deluxemusic.tv/top40/aac-64
 #EXTINF:-1 tvg-name="Deutschlandfunk" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunk.png",Deutschlandfunk
 http://st01.dlf.de/dlf/01/128/mp3/stream.mp3
@@ -91,7 +91,7 @@ http://st03.dlf.de/dlf/03/128/mp3/stream.mp3
 http://st04.dlf.de/dlf/04/128/mp3/stream.mp3
 #EXTINF:-1 tvg-name="DIE NEUE 107.7" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dieneue1077.png",DIE NEUE 107.7
 http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3
-#EXTINF:-1 tvg-name="DISCO DELUXE" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DISCO DELUXE
+#EXTINF:-1 tvg-name="DELUXE DISCO" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE DISCO
 https://audiostreams.deluxemusic.tv/disco/aac-64
 #EXTINF:-1 tvg-name="domradio.de" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/domradiode.png",domradio.de
 http://domradio-mp3-l.akacast.akamaistream.net/7/809/237368/v1/gnl.akacast.akamaistream.net/domradio-mp3-l
