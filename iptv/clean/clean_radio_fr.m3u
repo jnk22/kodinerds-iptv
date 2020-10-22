@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-name="Mouv'" group-title="Radio-FR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png",Mouv'
 http://direct.mouv.fr/live/mouv-midfi.mp3
 #EXTINF:-1 tvg-name="Radio Nova" group-title="Radio-FR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radionova.png",Radio Nova
-http://broadcast.infomaniak.net/radionova-high.mp3
+http://novazz.ice.infomaniak.ch/novazz-128.mp3
