@@ -87,7 +87,7 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
 https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-name="NDR Hamburg HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Hamburg HD
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png",Radio Bremen TV HD
+#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png",Radio Bremen TV HD
 https://rbfs-lh.akamaihd.net/i/rb_fs@438960/index_3584_av-p.m3u8
 #EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
 https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
@@ -151,29 +151,29 @@ https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playl
 https://s.ok54.de/ok4/live/chunks.m3u8
 #EXTINF:-1 tvg-name="OK54 (Trier)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png",OK54 (Trier)
 https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="OK Kaiserslautern" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkaiserslautern.png",OK Kaiserslautern
+#EXTINF:-1 tvg-name="OK Kaiserslautern" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkaiserslautern.png",OK Kaiserslautern
 https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK naheTV (Idar-Oberstein)" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oknahetv.png",OK naheTV (Idar-Oberstein)
+#EXTINF:-1 tvg-name="OK naheTV (Idar-Oberstein)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oknahetv.png",OK naheTV (Idar-Oberstein)
 https://s.ok54.de/nahetv/webstream/chunks.m3u8
-#EXTINF:-1 tvg-name="OK RheinLokal (Worms)" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinlokal.png",OK RheinLokal (Worms)
+#EXTINF:-1 tvg-name="OK RheinLokal (Worms)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinlokal.png",OK RheinLokal (Worms)
 https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
-#EXTINF:-1 tvg-name="OK Suedwestpfalz" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksuedwestpfalz.png",OK Suedwestpfalz
+#EXTINF:-1 tvg-name="OK Suedwestpfalz" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksuedwestpfalz.png",OK Suedwestpfalz
 https://s.ok54.de/okswp/test/chunks.m3u8
-#EXTINF:-1 tvg-name="OK Weinstraße (Neustadt)" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png",OK Weinstraße (Neustadt)
+#EXTINF:-1 tvg-name="OK Weinstraße (Neustadt)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png",OK Weinstraße (Neustadt)
 https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
-#EXTINF:-1 tvg-name="OK Flensburg" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fltv.png",OK Flensburg
+#EXTINF:-1 tvg-name="OK Flensburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fltv.png",OK Flensburg
 https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1 tvg-name="OK Kiel" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kieltv.png",OK Kiel
+#EXTINF:-1 tvg-name="OK Kiel" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kieltv.png",OK Kiel
 https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
-#EXTINF:-1 tvg-name="OK Rhein-Main (Offenbach Frankfurt)" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinmain.png",OK Rhein-Main (Offenbach Frankfurt)
+#EXTINF:-1 tvg-name="OK Rhein-Main (Offenbach Frankfurt)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinmain.png",OK Rhein-Main (Offenbach Frankfurt)
 https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Fulda" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okfulda.png",OK Fulda
+#EXTINF:-1 tvg-name="OK Fulda" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okfulda.png",OK Fulda
 https://s.ok54.de/mok-fu/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Gießen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okgiessen.png",OK Gießen
+#EXTINF:-1 tvg-name="OK Gießen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okgiessen.png",OK Gießen
 https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Kassel" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkassel.png",OK Kassel
+#EXTINF:-1 tvg-name="OK Kassel" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkassel.png",OK Kassel
 https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:-1 tvg-name="seenluft24" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png",seenluft24
+#EXTINF:-1 tvg-name="seenluft24" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png",seenluft24
 https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8
 #EXTINF:-1 tvg-name="oldenburg eins" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
 https://oeins.de/live/studio.m3u8
@@ -289,9 +289,9 @@ https://rbbevent02-lh.akamaihd.net/i/rbbevent02_nongeo@22197/index_2692_av-p.m3u
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-name="Parlamentsfernsehen 2" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-name="EbS Live (Europe by Satellite)" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png",EbS Live (Europe by Satellite)
+#EXTINF:-1 tvg-name="EbS Live (Europe by Satellite)" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png",EbS Live (Europe by Satellite)
 https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
-#EXTINF:-1 tvg-name="EbS+ Live (Europe by Satellite)" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png",EbS+ Live (Europe by Satellite)
+#EXTINF:-1 tvg-name="EbS+ Live (Europe by Satellite)" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png",EbS+ Live (Europe by Satellite)
 https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
 #EXTINF:-1 tvg-name="DJing" tvg-id="" group-title="Extra;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png",DJing
 https://www.djing.com/tv/live.m3u8
