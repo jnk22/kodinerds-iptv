@@ -321,6 +321,8 @@ https://streaming5.huberwebmedia.at/hls-live/live_tiroltv/_definst_/liveevent/li
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="M4TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
+#EXTINF:-1 tvg-name="RTV (AT)" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png",RTV (AT)
+http://iptv.rtv-ooe.at/stream.m3u8
 #EXTINF:-1 tvg-name="W24 TV" tvg-id="W24.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/w24.png",W24 TV
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kronehit TV" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png",Kronehit TV

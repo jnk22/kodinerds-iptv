@@ -321,6 +321,8 @@ pipe://ffmpeg -loglevel fatal -i https://streaming5.huberwebmedia.at/hls-live/li
 pipe://ffmpeg -loglevel fatal -i https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=oe24\ TV -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="M4TV" tvg-id="" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png",M4TV
 pipe://ffmpeg -loglevel fatal -i https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8 -vcodec copy -acodec copy -metadata service_name=M4TV -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="RTV (AT)" tvg-id="" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png",RTV (AT)
+pipe://ffmpeg -loglevel fatal -i http://iptv.rtv-ooe.at/stream.m3u8 -vcodec copy -acodec copy -metadata service_name=RTV\ (AT) -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="W24 TV" tvg-id="W24.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/w24.png",W24 TV
 pipe://ffmpeg -loglevel fatal -i https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=W24\ TV -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Kronehit TV" tvg-id="" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png",Kronehit TV
