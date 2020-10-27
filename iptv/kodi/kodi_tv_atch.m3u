@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-id="ServusTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD (AT)
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
+#EXTINF:-1 tvg-name="Krone.TV" tvg-id="KroneTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronetv.png",Krone.TV
+https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 #EXTINF:-1 tvg-name="gotv" tvg-id="Gotv.at" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/gotv.png",gotv
 https://nstream17.gotv.at:1443/live/gotvlive_360p/manifest.mpd
 #EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
