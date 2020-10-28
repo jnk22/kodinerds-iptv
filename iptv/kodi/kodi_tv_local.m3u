@@ -83,7 +83,7 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/play
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
 #EXTINF:-1 tvg-name="RFH" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfh.png",RFH
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
-#EXTINF:-1 tvg-name="WTV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wtv.png",WTV
+#EXTINF:-1 tvg-name="WTV (OK Wettin)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wtv.png",WTV (OK Wettin)
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wettin_high/playlist.m3u8
 #EXTINF:-1 tvg-name="RAN1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ran1.png",RAN1
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
