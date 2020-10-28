@@ -61,6 +61,38 @@ https://s.ok54.de/mok-fu/livestream/playlist.m3u8
 https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Kassel" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkassel.png",OK Kassel
 https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Ludwigshafen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okludwigshafen.png",OK Ludwigshafen
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Dessau" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png",OK Dessau
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Magdeburg" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png",OK Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Salzwedel" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png",OK Salzwedel
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Stendal" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png",OK Stendal
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Wernigerode" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png",OK Wernigerode
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-name="BLK Regional TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blkregionaltv.png",BLK Regional TV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-name="kulturmd" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kulturmd.png",kulturmd
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-name="MDF.1" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdf1.png",MDF.1
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-name="PUNKTum" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png",PUNKTum
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-name="RFH" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfh.png",RFH
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-name="WTV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wtv.png",WTV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wettin_high/playlist.m3u8
+#EXTINF:-1 tvg-name="RAN1" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ran1.png",RAN1
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-name="RBW" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbw.png",RBW
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Halle" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvhalle.png",TV Halle
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
+#EXTINF:-1 tvg-name="ELBEKANAL" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/elbekanal.png",ELBEKANAL
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
 #EXTINF:-1 tvg-name="seenluft24" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png",seenluft24
 https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8
 #EXTINF:-1 tvg-name="oldenburg eins" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
