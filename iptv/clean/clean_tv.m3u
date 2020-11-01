@@ -6,7 +6,7 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
-https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-b.m3u8
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 #EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
