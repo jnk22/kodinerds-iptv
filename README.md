@@ -1,6 +1,6 @@
 # Kodinerds IPTV
 ## Einleitung
-Kodinerds IPTV ist eine Sammlung von frei empfangbaren Streams für TV- und Radiosendern.
+Kodinerds IPTV ist eine Sammlung von frei empfangbaren Streams für TV- und Radiosender.
 <br><br>
 Eine ausführliche Anleitung und Beschreibung findet sich auf Kodinerds.net: [Kodinerds IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56713/)
 <br><br>
