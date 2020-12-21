@@ -140,6 +140,14 @@ Hinweis: Alle Unterlisten zusammen beinhalten jeweils den gesamten Inhalt der Ob
 
     * http://bit.ly/kn-dash-radio-uk
 <br><br>
+## Stream URL ermitteln
+Um die Stream URL für einen bestimmten Stream zu ermitteln, lässt sich z.B. Firefox nutzen:
+1. Stream in Firefox abspielen
+2. Entwicklertools öffnen (F12)
+3. Netzwerkanalyse Tab öffnen
+4. Stream Datei in der Liste suchen (typischerweise `.m3u8`)
+5. Stream URL im Detailfenster (rechte Seite) unter "Kopfzeilen" finden
+<br><br>
 ## Weiterführende Links
 * [Aktuelle To-Do Liste](https://github.com/jnk22/kodinerds-iptv/issues)
 * [Kodinerds IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56713/)
