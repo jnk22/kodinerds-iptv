@@ -8,7 +8,7 @@ Es ist nicht erforderlich, das Repository auszuchecken. Alle Änderungen können
 4. Änderungen in `iptv/clean/clean_<kategorie>.m3u` einbauen (z.B. `clean_tv.m3u`)
 5. Änderungen in `iptv/clean/clean_<kategorie>_<unterkategorie>.m3u` einbauen (z.B. `clean_tv_local.m3u`)
 6. Schritte 3-5 für `kodi`, `pipe` und `rtmp` wiederholen
-7. Pull Reqeust erstellen (Titel z.B. "Fix ..." oder "Add ...")
+7. Pull Request erstellen (Titel z.B. "Fix ..." oder "Add ...")
 
 # Links
 - [GitHub - Mitwirken an einem Projekt](https://git-scm.com/book/de/v2/GitHub-Mitwirken-an-einem-Projekt)
