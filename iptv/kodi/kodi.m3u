@@ -545,8 +545,16 @@ http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net
 https://br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/mid
 #EXTINF:-1 tvg-name="B5 plus" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/b5plus.png",B5 plus
 https://br-b5plus-live.cast.addradio.de/br/b5plus/live/mp3/mid
-#EXTINF:-1 tvg-name="Bayern 1" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1
+#EXTINF:-1 tvg-name="Bayern 1 Mittel- und Oberfranken" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Mittel- und Oberfranken
+https://br-br1-franken.cast.addradio.de/br/br1/franken/mp3/mid
+#EXTINF:-1 tvg-name="Bayern 1 Mainfranken" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Mainfranken
+https://br-br1-mainfranken.cast.addradio.de/br/br1/mainfranken/mp3/mid
+#EXTINF:-1 tvg-name="Bayern 1 Oberbayern" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Oberbayern
 https://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/mid
+#EXTINF:-1 tvg-name="Bayern 1 Niederbayern und Oberpfalz" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Niederbayern und Oberpfalz
+https://br-br1-nbopf.cast.addradio.de/br/br1/nbopf/mp3/mid
+#EXTINF:-1 tvg-name="Bayern 1 Schwaben" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Schwaben
+https://br-br1-schwaben.cast.addradio.de/br/br1/schwaben/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 2 Nord" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",Bayern 2 Nord
 https://br-br2-nord.cast.addradio.de/br/br2/nord/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 2 Süd" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",Bayern 2 Süd
