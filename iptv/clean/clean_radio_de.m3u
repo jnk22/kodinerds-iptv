@@ -127,6 +127,8 @@ http://stream.jam.fm/jamfm-live/mp3-128/konsole/
 http://stream.jam.fm/jamfm-bl/mp3-128/konsole/
 #EXTINF:-1 tvg-name="JAM FM New Music Radio" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM New Music Radio
 http://stream.jam.fm/jamfm-nmr/mp3-128/konsole/
+#EXTINF:-1 tvg-name="JazzRadio Berlin" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jazzradio.png",JazzRadio Berlin
+http://streaming.radio.co:80/s774887f7b/listen
 #EXTINF:-1 tvg-name="JUKEBOX RADIO" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",JUKEBOX RADIO
 https://audiostreams.deluxemusic.tv/jukebox/aac-64
 #EXTINF:-1 tvg-name="KiRaKa" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kiraka.png",KiRaKa
