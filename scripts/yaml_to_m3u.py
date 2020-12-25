@@ -69,7 +69,7 @@ def write_pipe(content):
                                 codec = "advanced_codec_digital_radio"
                             else:
                                 tvg_id_str = " tvg-id=\"" + stream["tvg_id"] + "\""
-                                codec = "advanced_codec_digital_hdtv"
+                                codec = "advanced_codec_digital_" + stream["quality"] + "tv"
                             header_line = "#EXTINF:-1 tvg-name=\"" + stream["tvg_name"] + "\"" + tvg_id_str + " group-title=\"" + stream["group_title"] + "\"" + radio_str + " tvg-logo=\"" + stream["tvg_logo"] + "\"," + stream["name"] + "\n"
                             service_name = stream["name"].replace("Ä", "Ae")
                             service_name = service_name.replace("ä", "ae")
