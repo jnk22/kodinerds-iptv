@@ -11,7 +11,8 @@ def write_clean(content):
                 for subcategory_name, subcategory in category.items():
                     with open("iptv/clean/clean_" + category_name + "_" + subcategory_name + ".m3u", 'w') as subcategory_file:
                         subcategory_file.write("#EXTM3U\n")
-                        for stream_name, stream in subcategory.items():
+                        for stream in subcategory:
+                            stream_name = stream["name"]
                             header_line = "#EXTINF:-1 tvg-name=\"" + stream["tvg_name"] + "\" tvg-id=\"" + stream["tvg_id"] + "\" group-title=\"" + stream["group_title"] + "\" radio=\"" + str(stream["radio"]).lower() + "\" tvg-logo=\"" + stream["tvg_logo"] + "\"," + stream_name + "\n"
                             line = stream["url"] + "\n"
                             file.write(header_line)
@@ -30,7 +31,8 @@ def write_kodi(content):
                 for subcategory_name, subcategory in category.items():
                     with open("iptv/kodi/kodi_" + category_name + "_" + subcategory_name + ".m3u", 'w') as subcategory_file:
                         subcategory_file.write("#EXTM3U\n")
-                        for stream_name, stream in subcategory.items():
+                        for stream in subcategory:
+                            stream_name = stream["name"]
                             header_line = "#EXTINF:-1 tvg-name=\"" + stream["tvg_name"] + "\" tvg-id=\"" + stream["tvg_id"] + "\" group-title=\"" + stream["group_title_kodi"] + "\" radio=\"" + str(stream["radio"]).lower() + "\" tvg-logo=\"" + stream["tvg_logo"] + "\"," + stream_name + "\n"
                             line = stream["url"] + "\n"
                             file.write(header_line)
@@ -49,7 +51,8 @@ def write_pipe(content):
                 for subcategory_name, subcategory in category.items():
                     with open("iptv/pipe/pipe_" + category_name + "_" + subcategory_name + ".m3u", 'w') as subcategory_file:
                         subcategory_file.write("#EXTM3U\n")
-                        for stream_name, stream in subcategory.items():
+                        for stream in subcategory:
+                            stream_name = stream["name"]
                             header_line = "#EXTINF:-1 tvg-name=\"" + stream["tvg_name"] + "\" tvg-id=\"" + stream["tvg_id"] + "\" group-title=\"" + stream["group_title"] + "\" radio=\"" + str(stream["radio"]).lower() + "\" tvg-logo=\"" + stream["tvg_logo"] + "\"," + stream_name + "\n"
                             service_name = stream_name.replace("Ä", "Ae")
                             service_name = service_name.replace("ä", "ae")

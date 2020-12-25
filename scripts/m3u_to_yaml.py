@@ -15,7 +15,7 @@ for filename in m3u_files:
         streams[category] = {}
     subcategory = m.group(2)
     if not subcategory in streams[category]:
-        streams[category][subcategory] = {}
+        streams[category][subcategory] = []
 
     extinf_found = False
     with open(filename) as m3u:
@@ -41,9 +41,9 @@ for filename in m3u_files:
                     if name in streams[category][subcategory]:
                         print("WARNING: duplicate name \"" + name + "\". Ignoring.")
                     else:
-                        stream = {"tvg_id": tvg_id, "tvg_name": tvg_name, "group_title": group_title, "group_title_kodi": "", "tvg_logo": tvg_logo, "url": url}
+                        stream = {"name": name, "tvg_id": tvg_id, "tvg_name": tvg_name, "group_title": group_title, "group_title_kodi": "", "tvg_logo": tvg_logo, "url": url}
                         stream["radio"] = (category == "radio")
-                        streams[category][subcategory][name] = stream
+                        streams[category][subcategory].append(stream)
                     extinf_found = False
 
 # read .m3u for Kodi (uses different group titles)
@@ -65,9 +65,13 @@ for filename in m3u_files:
                 group_title = m.group(1)
                 m = re.search(".*,(.*)", line)
                 name = m.group(1).strip()
-                if (category in streams) and (subcategory in streams[category]) and (name in streams[category][subcategory]):
-                    streams[category][subcategory][name]["group_title_kodi"] = group_title
-                else:
+                found = False
+                for stream in streams[category][subcategory]:
+                    if stream["name"] == name:
+                        stream["group_title_kodi"] = group_title
+                        found = True
+                        break
+                if not found:
                     print("WARNING: category \"" + category + "\", subcategory \"" + subcategory + "\", name \"" + name + "\" exists only in Kodi list. Ignoring.")
 
 # write yaml
