@@ -66,8 +66,10 @@ def write_pipe(content):
                             tvg_id_str = ""
                             if stream["radio"]:
                                 radio_str = " radio=\"" + str(stream["radio"]).lower() + "\""
+                                codec = "advanced_codec_digital_radio"
                             else:
                                 tvg_id_str = " tvg-id=\"" + stream["tvg_id"] + "\""
+                                codec = "advanced_codec_digital_hdtv"
                             header_line = "#EXTINF:-1 tvg-name=\"" + stream["tvg_name"] + "\"" + tvg_id_str + " group-title=\"" + stream["group_title"] + "\"" + radio_str + " tvg-logo=\"" + stream["tvg_logo"] + "\"," + stream["name"] + "\n"
                             service_name = stream["name"].replace("Ä", "Ae")
                             service_name = service_name.replace("ä", "ae")
@@ -76,7 +78,7 @@ def write_pipe(content):
                             service_name = service_name.replace("Ü", "Ue")
                             service_name = service_name.replace("ü", "ue")
                             service_name = service_name.replace(" ", "\ ")
-                            line = "pipe://ffmpeg -loglevel fatal -i " + stream["url"] + " -vcodec copy -acodec copy -metadata service_name=" + service_name + " -metadata service_provider=" + stream["group_title"] + " -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1\n"
+                            line = "pipe://ffmpeg -loglevel fatal -i " + stream["url"] + " -vcodec copy -acodec copy -metadata service_name=" + service_name + " -metadata service_provider=" + stream["group_title"] + " -mpegts_service_type " + codec + " -f mpegts pipe:1\n"
                             file.write(header_line)
                             file.write(line)
                             category_file.write(header_line)
