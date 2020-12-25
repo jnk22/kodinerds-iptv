@@ -13,9 +13,12 @@ def write_clean(content):
                         subcategory_file.write("#EXTM3U\n")
                         for stream in subcategory:
                             radio_str = ""
+                            tvg_id_str = ""
                             if stream["radio"]:
                                 radio_str = " radio=\"" + str(stream["radio"]).lower() + "\""
-                            header_line = "#EXTINF:-1 tvg-name=\"" + stream["tvg_name"] + "\" tvg-id=\"" + stream["tvg_id"] + "\" group-title=\"" + stream["group_title"] + "\"" + radio_str + " tvg-logo=\"" + stream["tvg_logo"] + "\"," + stream["name"] + "\n"
+                            else:
+                                tvg_id_str = " tvg-id=\"" + stream["tvg_id"] + "\""
+                            header_line = "#EXTINF:-1 tvg-name=\"" + stream["tvg_name"] + "\"" + tvg_id_str + " group-title=\"" + stream["group_title"] + "\"" + radio_str + " tvg-logo=\"" + stream["tvg_logo"] + "\"," + stream["name"] + "\n"
                             line = stream["url"] + "\n"
                             file.write(header_line)
                             file.write(line)
@@ -35,9 +38,12 @@ def write_kodi(content):
                         subcategory_file.write("#EXTM3U\n")
                         for stream in subcategory:
                             radio_str = ""
+                            tvg_id_str = ""
                             if stream["radio"]:
                                 radio_str = " radio=\"" + str(stream["radio"]).lower() + "\""
-                            header_line = "#EXTINF:-1 tvg-name=\"" + stream["tvg_name"] + "\" tvg-id=\"" + stream["tvg_id"] + "\" group-title=\"" + stream["group_title_kodi"] + "\"" + radio_str + " tvg-logo=\"" + stream["tvg_logo"] + "\"," + stream["name"] + "\n"
+                            else:
+                                tvg_id_str = " tvg-id=\"" + stream["tvg_id"] + "\""
+                            header_line = "#EXTINF:-1 tvg-name=\"" + stream["tvg_name"] + "\"" + tvg_id_str + " group-title=\"" + stream["group_title_kodi"] + "\"" + radio_str + " tvg-logo=\"" + stream["tvg_logo"] + "\"," + stream["name"] + "\n"
                             line = stream["url"] + "\n"
                             file.write(header_line)
                             file.write(line)
@@ -57,9 +63,12 @@ def write_pipe(content):
                         subcategory_file.write("#EXTM3U\n")
                         for stream in subcategory:
                             radio_str = ""
+                            tvg_id_str = ""
                             if stream["radio"]:
                                 radio_str = " radio=\"" + str(stream["radio"]).lower() + "\""
-                            header_line = "#EXTINF:-1 tvg-name=\"" + stream["tvg_name"] + "\" tvg-id=\"" + stream["tvg_id"] + "\" group-title=\"" + stream["group_title"] + "\"" + radio_str + " tvg-logo=\"" + stream["tvg_logo"] + "\"," + stream["name"] + "\n"
+                            else:
+                                tvg_id_str = " tvg-id=\"" + stream["tvg_id"] + "\""
+                            header_line = "#EXTINF:-1 tvg-name=\"" + stream["tvg_name"] + "\"" + tvg_id_str + " group-title=\"" + stream["group_title"] + "\"" + radio_str + " tvg-logo=\"" + stream["tvg_logo"] + "\"," + stream["name"] + "\n"
                             service_name = stream["name"].replace("Ä", "Ae")
                             service_name = service_name.replace("ä", "ae")
                             service_name = service_name.replace("Ö", "Oe")
