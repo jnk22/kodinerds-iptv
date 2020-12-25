@@ -3,6 +3,7 @@ radio:
   - group_title: Radio-AT
     group_title_kodi: Österreich
     name: FM4
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png
@@ -11,6 +12,7 @@ radio:
   - group_title: Radio-AT
     group_title_kodi: Österreich
     name: Hitradio Ö3
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png
@@ -19,6 +21,7 @@ radio:
   - group_title: Radio-AT
     group_title_kodi: Österreich
     name: Klassik Radio
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png
@@ -27,6 +30,7 @@ radio:
   - group_title: Radio-AT
     group_title_kodi: Österreich
     name: KRONEHIT
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png
@@ -35,6 +39,7 @@ radio:
   - group_title: Radio-AT
     group_title_kodi: Österreich
     name: KRONEHIT Dance
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png
@@ -43,6 +48,7 @@ radio:
   - group_title: Radio-AT
     group_title_kodi: Österreich
     name: Life Radio
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png
@@ -51,6 +57,7 @@ radio:
   - group_title: Radio-AT
     group_title_kodi: Österreich
     name: Ö1
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png
@@ -59,6 +66,7 @@ radio:
   - group_title: Radio-AT
     group_title_kodi: Österreich
     name: Ö1 Campus
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png
@@ -67,6 +75,7 @@ radio:
   - group_title: Radio-AT
     group_title_kodi: Österreich
     name: Radio Niederösterreich
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioniederoesterreich.png
@@ -75,6 +84,7 @@ radio:
   - group_title: Radio-AT
     group_title_kodi: Österreich
     name: Radio Steiermark
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosteiermark.png
@@ -83,6 +93,7 @@ radio:
   - group_title: Radio-AT
     group_title_kodi: Österreich
     name: Radio Tirol
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotirol.png
@@ -91,6 +102,7 @@ radio:
   - group_title: Radio-AT
     group_title_kodi: Österreich
     name: Radio Wien
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiowien.png
@@ -100,6 +112,7 @@ radio:
   - group_title: Radio-CH
     group_title_kodi: Schweiz
     name: Radio SRF 1
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf1.png
@@ -108,6 +121,7 @@ radio:
   - group_title: Radio-CH
     group_title_kodi: Schweiz
     name: Radio SRF 2 Kultur
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf2kultur.png
@@ -116,6 +130,7 @@ radio:
   - group_title: Radio-CH
     group_title_kodi: Schweiz
     name: Radio SRF 3
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf3.png
@@ -124,6 +139,7 @@ radio:
   - group_title: Radio-CH
     group_title_kodi: Schweiz
     name: Radio SRF 4 News
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf4news.png
@@ -132,6 +148,7 @@ radio:
   - group_title: Radio-CH
     group_title_kodi: Schweiz
     name: Radio SRF Musikwelle
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfmusikwelle.png
@@ -140,6 +157,7 @@ radio:
   - group_title: Radio-CH
     group_title_kodi: Schweiz
     name: Radio SRF Virus
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfvirus.png
@@ -149,6 +167,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: 100'5 Alemannia
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png
@@ -157,6 +176,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: 100'5 DAS HITRADIO
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png
@@ -165,6 +185,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: 105'5 Spreeradio
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png
@@ -173,6 +194,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: 105'5 Spreeradio 80er
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png
@@ -181,6 +203,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: 105'5 Spreeradio Love
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png
@@ -189,6 +212,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: 105'5 Spreeradio Rock
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png
@@ -197,6 +221,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: 105'5 Spreeradio Weihnachtsradio
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png
@@ -205,6 +230,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: 1LIVE
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1live.png
@@ -213,6 +239,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: 1LIVE diggi
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1livediggi.png
@@ -221,6 +248,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: 89.0 RTL
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png
@@ -229,6 +257,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Absolut Radio
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png
@@ -237,6 +266,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Absolut relax
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutrelax.png
@@ -245,6 +275,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: antenne 1
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antenne1.png
@@ -253,6 +284,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: ANTENNE BAYERN
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png
@@ -261,6 +293,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Antenne Brandenburg
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebrandenburg.png
@@ -269,6 +302,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: ANTENNE THÜRINGEN
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennethueringen.png
@@ -277,6 +311,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: AntenneSaar
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennesaar.png
@@ -285,6 +320,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: B5 aktuell
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/b5aktuell.png
@@ -293,6 +329,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: B5 plus
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/b5plus.png
@@ -301,6 +338,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bayern 1 Mittel- und Oberfranken
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png
@@ -309,6 +347,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bayern 1 Mainfranken
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png
@@ -317,6 +356,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bayern 1 Oberbayern
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png
@@ -325,6 +365,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bayern 1 Niederbayern und Oberpfalz
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png
@@ -333,6 +374,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bayern 1 Schwaben
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png
@@ -341,6 +383,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bayern 2 Nord
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png
@@ -349,6 +392,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bayern 2 Süd
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png
@@ -357,6 +401,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bayern 3
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png
@@ -365,6 +410,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bayern plus
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayernplus.png
@@ -373,6 +419,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: bigFM
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png
@@ -381,6 +428,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: BlackBeats.FM
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/blackbeatsfm.png
@@ -389,6 +437,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: BR Heimat
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brheimat.png
@@ -397,6 +446,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: BR-Klassik
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png
@@ -405,6 +455,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bremen Eins
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremeneins.png
@@ -413,6 +464,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bremen Vier
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png
@@ -421,6 +473,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bremen Vier rockt
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png
@@ -429,6 +482,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Bremen Zwei
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenzwei.png
@@ -437,6 +491,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: DASDING
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png
@@ -445,6 +500,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: DELUXE 80S EXTREME
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
@@ -453,6 +509,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: DELUXE RCK Radio
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
@@ -461,6 +518,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: DELUXE CHEFSESSEL by WAGNER
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
@@ -469,6 +527,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: DELUXE EASY
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeasy.png
@@ -477,6 +536,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: DELUXE LOUNGE RADIO
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeloungeradio.png
@@ -485,6 +545,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: DELUXE MUSIC RADIO
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxemusicradio.png
@@ -493,6 +554,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: DELUXE NEW ARRIVALS
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
@@ -501,6 +563,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: DELUXE TOP 40
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
@@ -509,6 +572,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Deutschlandfunk
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunk.png
@@ -517,6 +581,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Deutschlandfunk Kultur
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunkkultur.png
@@ -525,6 +590,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Deutschlandfunk Nova
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunknova.png
@@ -533,6 +599,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Deutschlandradio Dokumente und Debatten
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandradiodud.png
@@ -541,6 +608,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: DIE NEUE 107.7
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dieneue1077.png
@@ -549,6 +617,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: DELUXE DISCO
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
@@ -557,6 +626,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: domradio.de
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/domradiode.png
@@ -565,6 +635,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: DONAU 3 FM
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/donau3fm.png
@@ -573,6 +644,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: egoFM
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/egofm.png
@@ -581,6 +653,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: ERF Plus
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/erfplus.png
@@ -589,6 +662,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: ERF Pop
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/erfpop.png
@@ -597,6 +671,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: FluxFM
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png
@@ -605,6 +680,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Fritz
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png
@@ -613,6 +689,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: harmony.fm
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/harmonyfm.png
@@ -621,6 +698,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: HIT RADIO FFH
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioffh.png
@@ -629,6 +707,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: hr-info
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hrinfo.png
@@ -637,6 +716,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: hr1
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr1.png
@@ -645,6 +725,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: hr2-kultur
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr2kultur.png
@@ -653,6 +734,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: hr3
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr3.png
@@ -661,6 +743,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: hr4
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr4.png
@@ -669,6 +752,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: JAM FM
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png
@@ -677,6 +761,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: JAM FM Black Label
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png
@@ -685,6 +770,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: JAM FM New Music Radio
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png
@@ -693,6 +779,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: JazzRadio Berlin
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jazzradio.png
@@ -701,6 +788,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: JUKEBOX RADIO
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
@@ -709,6 +797,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: KiRaKa
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kiraka.png
@@ -717,6 +806,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: WDR Die Maus
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mausradio.png
@@ -725,6 +815,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: LandesWelle Thüringen
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/landeswellethueringen.png
@@ -733,6 +824,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: MDR AKTUELL
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdraktuell.png
@@ -741,6 +833,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: MDR JUMP
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrjump.png
@@ -749,6 +842,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: MDR KLASSIK
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrklassik.png
@@ -757,6 +851,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: MDR KULTUR
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrkultur.png
@@ -765,6 +860,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: MDR SACHSEN
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrsachsen.png
@@ -773,6 +869,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: MDR SPUTNIK
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrsputnik.png
@@ -781,6 +878,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: MDR THÜRINGEN
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrthueringen.png
@@ -789,6 +887,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Metal Only
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/metalonly.png
@@ -797,6 +896,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: multicult.fm
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/multicultfm.png
@@ -805,6 +905,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: N-JOY
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/njoy.png
@@ -813,6 +914,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: NDR 1 Niedersachsen
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1niedersachsen.png
@@ -821,6 +923,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: NDR 1 Radio MV
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1radiomv.png
@@ -829,6 +932,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: NDR 1 Welle Nord
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1wellenord.png
@@ -837,6 +941,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: NDR 2
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr2.png
@@ -845,6 +950,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: NDR 90.3
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr903.png
@@ -853,6 +959,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: NDR Blue
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrblue.png
@@ -861,6 +968,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: NDR Info
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrinfo.png
@@ -869,6 +977,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: NDR Info Spezial
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrinfospezial.png
@@ -877,6 +986,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: NDR kultur
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrkultur.png
@@ -885,6 +995,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: NDR Plus
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrplus.png
@@ -893,6 +1004,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: nice
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png
@@ -901,6 +1013,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: nice DELUXE
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png
@@ -909,6 +1022,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: nice URBAN
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png
@@ -917,6 +1031,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: oldenburg eins
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oldenburgeins.png
@@ -925,6 +1040,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Ostseewelle HIT-RADIO
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ostseewelle.png
@@ -933,6 +1049,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: planet radio
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetradio.png
@@ -941,6 +1058,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: PULS
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/puls.png
@@ -949,6 +1067,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Radio 7
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio7.png
@@ -957,6 +1076,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Radio 90.1
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio901.png
@@ -965,6 +1085,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: radio B2
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png
@@ -973,6 +1094,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: RADIO BOB!
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
@@ -981,6 +1103,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Radio Brocken
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobrocken.png
@@ -989,6 +1112,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: RADIO ENERGY Sachsen
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png
@@ -997,6 +1121,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Radio Paloma
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiopaloma.png
@@ -1005,6 +1130,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Radio Regenbogen
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioregenbogen.png
@@ -1013,6 +1139,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: radio SAW
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosaw.png
@@ -1021,6 +1148,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: radio TOP 40
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotop40.png
@@ -1029,6 +1157,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Radio TEDDY
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png
@@ -1037,6 +1166,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: radioeins
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioeins.png
@@ -1045,6 +1175,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: rbb 88.8
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbb888.png
@@ -1053,6 +1184,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: reboot.fm
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rebootfm.png
@@ -1061,6 +1193,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: ROCK ANTENNE
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png
@@ -1069,6 +1202,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: Rockland Radio
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandradio.png
@@ -1077,6 +1211,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: ROCKLAND.FM
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandfm.png
@@ -1085,6 +1220,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: RPR1
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png
@@ -1093,6 +1229,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: RTF.3
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rtf3.png
@@ -1101,6 +1238,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: SR 1 Europawelle
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr1europawelle.png
@@ -1109,6 +1247,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: SR 2 Kulturradio
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr2kulturradio.png
@@ -1117,6 +1256,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: SR 3 Saarlandwelle
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr3saarlandwelle.png
@@ -1125,6 +1265,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: sunshine live
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
@@ -1133,6 +1274,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: SWR1 Baden-Württemberg
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png
@@ -1141,6 +1283,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: SWR1 Rheinland-Pfalz
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png
@@ -1149,6 +1292,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: SWR2
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr2.png
@@ -1157,6 +1301,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: SWR3
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png
@@ -1165,6 +1310,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: SWR4 Baden-Württemberg
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4.png
@@ -1173,6 +1319,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: SWR4 Rheinland-Pfalz
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4.png
@@ -1181,6 +1328,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: UNSERDING
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png
@@ -1189,6 +1337,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: WDR 2
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr2.png
@@ -1197,6 +1346,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: WDR 3
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr3.png
@@ -1205,6 +1355,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: WDR 4
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr4.png
@@ -1213,6 +1364,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: WDR 5
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr5.png
@@ -1221,6 +1373,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: YOU FM
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png
@@ -1229,6 +1382,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: YOU FM Club
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png
@@ -1237,6 +1391,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: YOU FM Just Music
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png
@@ -1245,6 +1400,7 @@ radio:
   - group_title: Radio-DE
     group_title_kodi: Deutschland
     name: YOU FM Sounds
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png
@@ -1254,6 +1410,7 @@ radio:
   - group_title: Radio-FR
     group_title_kodi: Frankreich
     name: Mouv'
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png
@@ -1262,6 +1419,7 @@ radio:
   - group_title: Radio-FR
     group_title_kodi: Frankreich
     name: Radio Nova
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radionova.png
@@ -1271,6 +1429,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: HitRadio Veronica
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioveronica.png
@@ -1279,6 +1438,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: Radio 538
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png
@@ -1287,6 +1447,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: Radio 538 Zomer
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png
@@ -1295,6 +1456,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: Radio 538 Dance Department
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png
@@ -1303,6 +1465,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: Radio 538 Drops
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png
@@ -1311,6 +1474,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: Radio 538 Hitzone
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png
@@ -1319,6 +1483,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: Radio 538 Ibiza
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png
@@ -1327,6 +1492,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: Radio 538 Non-Stop
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png
@@ -1335,6 +1501,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: Radio 538 Party
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png
@@ -1343,6 +1510,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: Radio 538 Top 50 Radio
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png
@@ -1351,6 +1519,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: Radio 538 Verrückte Stunde
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png
@@ -1359,6 +1528,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: Radio Veronica
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioveronica.png
@@ -1367,6 +1537,7 @@ radio:
   - group_title: Radio-NL
     group_title_kodi: Niederlande
     name: Sky Radio 101 FM
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/skyradio101fm.png
@@ -1376,6 +1547,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Planeta FM
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
@@ -1384,6 +1556,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Planeta FM Dope Hits
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
@@ -1392,6 +1565,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Planeta FM Electronic Wave
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
@@ -1400,6 +1574,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Planeta FM Good Vibes
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
@@ -1408,6 +1583,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Planeta FM Indie Day Mood
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
@@ -1416,6 +1592,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Radio ZET
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
@@ -1424,6 +1601,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Radio ZET 2000
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
@@ -1432,6 +1610,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Radio ZET 80
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
@@ -1440,6 +1619,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Radio ZET 90
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
@@ -1448,6 +1628,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Radio ZET Dance
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
@@ -1456,6 +1637,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Radio ZET Hits
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
@@ -1464,6 +1646,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Radio ZET Love
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
@@ -1472,6 +1655,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Radio ZET Party
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
@@ -1480,6 +1664,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Radio ZET PL
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
@@ -1488,6 +1673,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: Radio ZET Rock
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
@@ -1496,6 +1682,7 @@ radio:
   - group_title: Radio-PL
     group_title_kodi: Polen
     name: RMF FM
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png
@@ -1505,6 +1692,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Asian Network
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcasiannetwork.png
@@ -1513,6 +1701,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio 1
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1.png
@@ -1521,6 +1710,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio 1Xtra
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1xtra.png
@@ -1529,6 +1719,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio 2
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio2.png
@@ -1537,6 +1728,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio 3
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio3.png
@@ -1545,6 +1737,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio 4
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4.png
@@ -1553,6 +1746,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio 4 Extra
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4extra.png
@@ -1561,6 +1755,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio 5 Live
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio5live.png
@@ -1569,6 +1764,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio 6 Music
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio6music.png
@@ -1577,6 +1773,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio Cymru
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiocymru.png
@@ -1585,6 +1782,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio Foyle
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiofoyle.png
@@ -1593,6 +1791,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio nan Gàidheal
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradionangaidheal.png
@@ -1601,6 +1800,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio Scotland
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioscotland.png
@@ -1609,6 +1809,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio Ulster
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioulster.png
@@ -1617,6 +1818,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC Radio Wales
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiowales.png
@@ -1625,6 +1827,7 @@ radio:
   - group_title: Radio-UK
     group_title_kodi: Großbritannien
     name: BBC World Service
+    quality: ''
     radio: true
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcworldservice.png
@@ -1635,6 +1838,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International;Spartenprogramm
     name: ServusTV HD (AT)
+    quality: hd
     radio: false
     tvg_id: ServusTV.at
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png
@@ -1643,6 +1847,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International;Spartenprogramm
     name: Krone.TV
+    quality: sd
     radio: false
     tvg_id: KroneTV.at
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronetv.png
@@ -1651,6 +1856,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International;Musik
     name: gotv
+    quality: sd
     radio: false
     tvg_id: Gotv.at
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/gotv.png
@@ -1659,6 +1865,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International
     name: Okto
+    quality: sd
     radio: false
     tvg_id: OKTO.at
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png
@@ -1667,6 +1874,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International
     name: ORF eins HD
+    quality: hd
     radio: false
     tvg_id: ORF1.at
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png
@@ -1675,6 +1883,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International
     name: ORF 2 HD
+    quality: hd
     radio: false
     tvg_id: ORF2.at
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png
@@ -1683,6 +1892,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International
     name: ORF III HD
+    quality: hd
     radio: false
     tvg_id: ORF3.at
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png
@@ -1691,6 +1901,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International;Sport
     name: ORF SPORT +
+    quality: hd
     radio: false
     tvg_id: ORFSport.at
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png
@@ -1699,6 +1910,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International
     name: dorf tv
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png
@@ -1707,6 +1919,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International
     name: RE eins TV
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/reeins.png
@@ -1715,6 +1928,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International
     name: Tirol TV
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tiroltv.png
@@ -1723,6 +1937,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International
     name: oe24 TV
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png
@@ -1731,6 +1946,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International
     name: M4TV
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png
@@ -1739,6 +1955,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International
     name: RTV (AT)
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png
@@ -1747,6 +1964,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International
     name: W24 TV
+    quality: sd
     radio: false
     tvg_id: W24.at
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/w24.png
@@ -1755,6 +1973,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International;Musik
     name: Kronehit TV
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png
@@ -1763,6 +1982,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International;Musik
     name: Sporttime TV 1
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png
@@ -1771,6 +1991,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International;Sport
     name: Sporttime TV 2
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png
@@ -1779,6 +2000,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International;Information / Bildung
     name: Sporttime TV 4
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png
@@ -1787,6 +2009,7 @@ tv:
   - group_title: IPTV-AT
     group_title_kodi: International
     name: Sporttime TV 5
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png
@@ -1795,6 +2018,7 @@ tv:
   - group_title: IPTV-CH
     group_title_kodi: International
     name: TeleZüri HD
+    quality: sd
     radio: false
     tvg_id: TeleZuri.ch
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png
@@ -1803,6 +2027,7 @@ tv:
   - group_title: IPTV-CH
     group_title_kodi: International
     name: TeleBärn HD
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebaern.png
@@ -1811,6 +2036,7 @@ tv:
   - group_title: IPTV-CH
     group_title_kodi: International
     name: Tele M1 HD
+    quality: sd
     radio: false
     tvg_id: TeleM1.ch
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telem1.png
@@ -1819,6 +2045,7 @@ tv:
   - group_title: IPTV-CH
     group_title_kodi: International
     name: TVO (CH)
+    quality: sd
     radio: false
     tvg_id: TVO.ch
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo_ch.png
@@ -1827,6 +2054,7 @@ tv:
   - group_title: IPTV-CH
     group_title_kodi: International
     name: TeleBielingue
+    quality: sd
     radio: false
     tvg_id: TeleBielingue.ch
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebielingue.png
@@ -1835,6 +2063,7 @@ tv:
   - group_title: IPTV-CH
     group_title_kodi: International;Musik
     name: TVM3
+    quality: sd
     radio: false
     tvg_id: TVM3.ch
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png
@@ -1843,6 +2072,7 @@ tv:
   - group_title: IPTV-CH
     group_title_kodi: International
     name: Telebasel
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebasel.png
@@ -1852,6 +2082,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: ARD Event 1
+    quality: hd
     radio: false
     tvg_id: ARDEvent1.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png
@@ -1860,6 +2091,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: ARD Event 2
+    quality: hd
     radio: false
     tvg_id: ARDEvent2.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png
@@ -1868,6 +2100,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: ZDF Event 1
+    quality: hd
     radio: false
     tvg_id: ZDFEvent1.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png
@@ -1876,6 +2109,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: ZDF Event 2
+    quality: hd
     radio: false
     tvg_id: ZDFEvent2.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png
@@ -1884,6 +2118,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: ZDF Event 3
+    quality: hd
     radio: false
     tvg_id: ZDFEvent.de3
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png
@@ -1892,6 +2127,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: ZDF Event 4
+    quality: hd
     radio: false
     tvg_id: ZDFEvent4.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png
@@ -1900,6 +2136,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: ZDF Event 5
+    quality: hd
     radio: false
     tvg_id: ZDFEvent5.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png
@@ -1908,6 +2145,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: ZDF Event 6
+    quality: hd
     radio: false
     tvg_id: ZDFEvent6.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png
@@ -1916,6 +2154,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: ARTE Event 1
+    quality: hd
     radio: false
     tvg_id: ArteEvent1.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png
@@ -1924,6 +2163,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: ARTE Event 2
+    quality: hd
     radio: false
     tvg_id: ArteEvent2.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png
@@ -1932,6 +2172,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: ARTE Event 3
+    quality: hd
     radio: false
     tvg_id: ArteEvent3.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png
@@ -1940,6 +2181,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: ARTE Event 4
+    quality: hd
     radio: false
     tvg_id: ArteEvent4.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png
@@ -1948,6 +2190,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: WDR Event 1
+    quality: hd
     radio: false
     tvg_id: WDREvent1.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png
@@ -1956,6 +2199,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: WDR Event 2
+    quality: hd
     radio: false
     tvg_id: WDREvent2.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png
@@ -1964,6 +2208,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: WDR Event 3
+    quality: hd
     radio: false
     tvg_id: WDREvent3.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png
@@ -1972,6 +2217,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: WDR Event 4
+    quality: hd
     radio: false
     tvg_id: WDREvent4.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png
@@ -1980,6 +2226,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: SWR Event 1
+    quality: hd
     radio: false
     tvg_id: SWREvent1.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png
@@ -1988,6 +2235,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: SWR Event 2
+    quality: hd
     radio: false
     tvg_id: SWREvent2.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png
@@ -1996,6 +2244,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: SWR Event 3
+    quality: hd
     radio: false
     tvg_id: SWREvent3.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png
@@ -2004,6 +2253,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: SWR Event 4
+    quality: hd
     radio: false
     tvg_id: SWREvent4.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png
@@ -2012,6 +2262,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: NDR Event 1
+    quality: hd
     radio: false
     tvg_id: NDREvent1.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
@@ -2020,6 +2271,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: NDR Event 2
+    quality: hd
     radio: false
     tvg_id: NDREvent2.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
@@ -2028,6 +2280,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: NDR Event 3
+    quality: hd
     radio: false
     tvg_id: NDREvent3.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
@@ -2036,6 +2289,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: NDR Spezial 1
+    quality: hd
     radio: false
     tvg_id: NDRSpezial1.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
@@ -2044,6 +2298,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: NDR Spezial 2
+    quality: hd
     radio: false
     tvg_id: NDRSpezial2.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
@@ -2052,6 +2307,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: NDR Spezial 3
+    quality: hd
     radio: false
     tvg_id: NDRSpezial3.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
@@ -2060,6 +2316,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: NDR Spezial 4
+    quality: hd
     radio: false
     tvg_id: NDRSpezial4.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
@@ -2068,6 +2325,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: NDR Spezial 5
+    quality: hd
     radio: false
     tvg_id: NDRSpezial5.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
@@ -2076,6 +2334,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: NDR Spezial 6
+    quality: hd
     radio: false
     tvg_id: NDRSpezial6.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
@@ -2084,6 +2343,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: BR Event 1
+    quality: hd
     radio: false
     tvg_id: BREvent1.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png
@@ -2092,6 +2352,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: BR Event 2
+    quality: hd
     radio: false
     tvg_id: BREvent2.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png
@@ -2100,6 +2361,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: BR Event 3
+    quality: hd
     radio: false
     tvg_id: BREvent3.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png
@@ -2108,6 +2370,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: BR Event 4
+    quality: hd
     radio: false
     tvg_id: BREvent4.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png
@@ -2116,6 +2379,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: MDR+ 1
+    quality: hd
     radio: false
     tvg_id: MDRPlus1.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png
@@ -2124,6 +2388,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: MDR+ 2
+    quality: hd
     radio: false
     tvg_id: MDRPlus2.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png
@@ -2132,6 +2397,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: MDR+ 3
+    quality: hd
     radio: false
     tvg_id: MDRPlus3.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png
@@ -2140,6 +2406,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: HR Event 1
+    quality: hd
     radio: false
     tvg_id: HREvent1.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png
@@ -2148,6 +2415,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: HR Event 2
+    quality: hd
     radio: false
     tvg_id: HREvent2.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png
@@ -2156,6 +2424,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: rbb Event 1
+    quality: hd
     radio: false
     tvg_id: RBBEvent1.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png
@@ -2164,6 +2433,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra
     name: rbb Event 2
+    quality: hd
     radio: false
     tvg_id: RBBEvent2.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png
@@ -2172,6 +2442,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra;Information / Bildung
     name: Parlamentsfernsehen 1
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png
@@ -2180,6 +2451,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra;Information / Bildung
     name: Parlamentsfernsehen 2
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png
@@ -2188,6 +2460,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra;Information / Bildung
     name: EbS Live (Europe by Satellite)
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png
@@ -2196,6 +2469,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Extra;Information / Bildung
     name: EbS+ Live (Europe by Satellite)
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png
@@ -2205,6 +2479,7 @@ tv:
   - group_title: IPTV-AU
     group_title_kodi: International;Nachrichten
     name: Sky News Extra
+    quality: hd
     radio: false
     tvg_id: SkyNewsExtra.au
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skynewsextra.png
@@ -2213,6 +2488,7 @@ tv:
   - group_title: IPTV-ES
     group_title_kodi: International;Nachrichten
     name: Deutsche Welle (ES)
+    quality: hd
     radio: false
     tvg_id: DeutscheWelleES.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
@@ -2221,6 +2497,7 @@ tv:
   - group_title: IPTV-IR
     group_title_kodi: International;Nachrichten
     name: Press TV
+    quality: hd
     radio: false
     tvg_id: PressTV.uk
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/presstv.png
@@ -2229,6 +2506,7 @@ tv:
   - group_title: IPTV-CA
     group_title_kodi: International;Nachrichten
     name: CHCH
+    quality: hd
     radio: false
     tvg_id: CHCH.cdn
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chch.png
@@ -2237,6 +2515,7 @@ tv:
   - group_title: IPTV-NZ
     group_title_kodi: International
     name: TVNZ 1
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz1.png
@@ -2245,6 +2524,7 @@ tv:
   - group_title: IPTV-NZ
     group_title_kodi: International
     name: TVNZ 2
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz2.png
@@ -2253,6 +2533,7 @@ tv:
   - group_title: IPTV-NZ
     group_title_kodi: International;Nachrichten
     name: Three
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/three.png
@@ -2261,6 +2542,7 @@ tv:
   - group_title: IPTV-FR
     group_title_kodi: International;Vollprogramm
     name: ARTE HD (FR)
+    quality: hd
     radio: false
     tvg_id: ARTE.fr
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png
@@ -2269,6 +2551,7 @@ tv:
   - group_title: IPTV-FR
     group_title_kodi: International;Nachrichten
     name: France 24
+    quality: hd
     radio: false
     tvg_id: France24.fr
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png
@@ -2277,6 +2560,7 @@ tv:
   - group_title: IPTV-FR
     group_title_kodi: International;Musik
     name: NRJ HITS TV
+    quality: hd
     radio: false
     tvg_id: NRJHits.fr
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrjhitstv.png
@@ -2285,6 +2569,7 @@ tv:
   - group_title: IPTV-FR
     group_title_kodi: International;Nachrichten
     name: BFMTV
+    quality: hd
     radio: false
     tvg_id: BFMTV.fr
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bfmtv.png
@@ -2293,6 +2578,7 @@ tv:
   - group_title: IPTV-NL
     group_title_kodi: International;Musik
     name: XITE
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/xite.png
@@ -2301,6 +2587,7 @@ tv:
   - group_title: IPTV-NL
     group_title_kodi: International;Musik
     name: TV 538
+    quality: sd
     radio: false
     tvg_id: TV538.nl
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tv538.png
@@ -2309,6 +2596,7 @@ tv:
   - group_title: IPTV-IT
     group_title_kodi: International
     name: SDF
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png
@@ -2317,6 +2605,7 @@ tv:
   - group_title: IPTV-IT
     group_title_kodi: International;Musik
     name: m2o Tv
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m2otv.png
@@ -2325,6 +2614,7 @@ tv:
   - group_title: IPTV-IT
     group_title_kodi: International;Nachrichten
     name: Rai News 24
+    quality: hd
     radio: false
     tvg_id: RaiNews.it
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rainews24.png
@@ -2333,6 +2623,7 @@ tv:
   - group_title: IPTV-IT
     group_title_kodi: International;Sport
     name: supertennis.tv
+    quality: hd
     radio: false
     tvg_id: SuperTennis.it
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/supertennis.png
@@ -2341,6 +2632,7 @@ tv:
   - group_title: IPTV-SW
     group_title_kodi: International
     name: Fjorton
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fjorton.png
@@ -2349,6 +2641,7 @@ tv:
   - group_title: IPTV-RO
     group_title_kodi: International;Nachrichten
     name: Digi 24 HD
+    quality: hd
     radio: false
     tvg_id: digi24.ro
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/digi24hd.png
@@ -2357,6 +2650,7 @@ tv:
   - group_title: IPTV-RO
     group_title_kodi: International;Nachrichten
     name: ProTv News
+    quality: hd
     radio: false
     tvg_id: ProTVInternational.ro
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/protvnews.png
@@ -2365,6 +2659,7 @@ tv:
   - group_title: IPTV-RO
     group_title_kodi: International;Nachrichten
     name: Realitatea TV
+    quality: hd
     radio: false
     tvg_id: RealitateaTV.ro
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/realitateatv.png
@@ -2373,6 +2668,7 @@ tv:
   - group_title: IPTV-RO
     group_title_kodi: International;Nachrichten
     name: Romania TV
+    quality: hd
     radio: false
     tvg_id: RomaniaTV.ro
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/romaniatv.png
@@ -2381,6 +2677,7 @@ tv:
   - group_title: IPTV-MK
     group_title_kodi: International
     name: Sitel
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sitel.png
@@ -2389,6 +2686,7 @@ tv:
   - group_title: IPTV-MK
     group_title_kodi: International
     name: Kanal 5
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kanal5.png
@@ -2397,6 +2695,7 @@ tv:
   - group_title: IPTV-MK
     group_title_kodi: International
     name: Alfa
+    quality: sd
     radio: false
     tvg_id: Alfa.hr
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alfa.png
@@ -2405,6 +2704,7 @@ tv:
   - group_title: IPTV-MK
     group_title_kodi: International
     name: Telma
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telma.png
@@ -2413,6 +2713,7 @@ tv:
   - group_title: IPTV-MK
     group_title_kodi: International;Nachrichten
     name: 24 Vesti
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/24vesti.png
@@ -2421,6 +2722,7 @@ tv:
   - group_title: IPTV-TR
     group_title_kodi: International;Nachrichten
     name: TRT World HD
+    quality: hd
     radio: false
     tvg_id: TRTworld.nws
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trtworld.png
@@ -2429,6 +2731,7 @@ tv:
   - group_title: IPTV-RU
     group_title_kodi: International;Nachrichten
     name: RT HD
+    quality: hd
     radio: false
     tvg_id: RussiaToday.uk
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png
@@ -2437,6 +2740,7 @@ tv:
   - group_title: IPTV-RU
     group_title_kodi: International;Nachrichten
     name: RT Spanish HD
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png
@@ -2445,6 +2749,7 @@ tv:
   - group_title: IPTV-RU
     group_title_kodi: International;Dokumentationen
     name: RT Documentary
+    quality: hd
     radio: false
     tvg_id: RTDocumentary.pl
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtdocumentary.png
@@ -2453,6 +2758,7 @@ tv:
   - group_title: IPTV-ID
     group_title_kodi: International;Nachrichten
     name: MetroTV
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png
@@ -2461,6 +2767,7 @@ tv:
   - group_title: IPTV-JP
     group_title_kodi: International;Nachrichten;Dokumentationen
     name: NHK WORLD TV
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png
@@ -2469,6 +2776,7 @@ tv:
   - group_title: IPTV-QA
     group_title_kodi: International;Nachrichten
     name: Al Jazeera
+    quality: sd
     radio: false
     tvg_id: AlJazeeraArabe.nws
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeera.png
@@ -2477,6 +2785,7 @@ tv:
   - group_title: IPTV-QA
     group_title_kodi: International;Nachrichten
     name: Al Jazeera English
+    quality: sd
     radio: false
     tvg_id: AlJazeera.nws
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png
@@ -2485,6 +2794,7 @@ tv:
   - group_title: IPTV-AE
     group_title_kodi: International;Filme / Serien
     name: Dubai One
+    quality: hd
     radio: false
     tvg_id: DubaiOne.net
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dubaione.png
@@ -2493,6 +2803,7 @@ tv:
   - group_title: IPTV-FO
     group_title_kodi: International
     name: KVF
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png
@@ -2501,6 +2812,7 @@ tv:
   - group_title: IPTV-AL
     group_title_kodi: International
     name: ALBUK TV
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/albuktv.png
@@ -2509,6 +2821,7 @@ tv:
   - group_title: IPTV-IE
     group_title_kodi: International;Nachrichten
     name: RTÉ News Now
+    quality: hd
     radio: false
     tvg_id: RTENewsNow.ie
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png
@@ -2517,6 +2830,7 @@ tv:
   - group_title: IPTV-JM
     group_title_kodi: International;Filme / Serien
     name: Mello TV
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mellotv.png
@@ -2525,6 +2839,7 @@ tv:
   - group_title: IPTV-SG
     group_title_kodi: International;Nachrichten
     name: Channel NewsAsia
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/channelnewsasia.png
@@ -2534,6 +2849,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: a.tv
+    quality: hd
     radio: false
     tvg_id: a.tv.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png
@@ -2542,6 +2858,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: ALEX Berlin
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png
@@ -2550,6 +2867,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: allgäu.tv
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png
@@ -2558,6 +2876,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Baden TV
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png
@@ -2566,6 +2885,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Chemnitz Fernsehen
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chemnitzfernsehen.png
@@ -2574,6 +2894,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: DRF1
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/drf1.png
@@ -2582,6 +2903,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Dresden Fernsehen
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png
@@ -2590,6 +2912,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Franken Fernsehen
+    quality: sd
     radio: false
     tvg_id: FrankenTV.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png
@@ -2598,6 +2921,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Hamburg 1
+    quality: sd
     radio: false
     tvg_id: Hamburg1.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hamburg1.png
@@ -2606,6 +2930,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: KabelJournal
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kabeljournal.png
@@ -2614,6 +2939,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: L-TV
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png
@@ -2622,6 +2948,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Leipzig Fernsehen
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/leipzigfernsehen.png
@@ -2630,6 +2957,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: münchen.tv
+    quality: sd
     radio: false
     tvg_id: MunchenTV.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png
@@ -2638,6 +2966,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: noa4 Hamburg HD
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png
@@ -2646,6 +2975,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: noa4 Norderstedt HD
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png
@@ -2654,6 +2984,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: NRWision HD
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png
@@ -2662,6 +2993,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Oberpfalz TV
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oberpfalztv.png
@@ -2670,6 +3002,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK4 (Adenau Andernach Koblenz Neuwied)
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png
@@ -2678,6 +3011,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK54 (Trier)
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png
@@ -2686,6 +3020,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Kaiserslautern
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkaiserslautern.png
@@ -2694,6 +3029,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK naheTV (Idar-Oberstein)
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oknahetv.png
@@ -2702,6 +3038,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK RheinLokal (Worms)
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinlokal.png
@@ -2710,6 +3047,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Suedwestpfalz
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksuedwestpfalz.png
@@ -2718,6 +3056,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Weinstraße (Neustadt)
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png
@@ -2726,6 +3065,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Flensburg
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fltv.png
@@ -2734,6 +3074,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Kiel
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kieltv.png
@@ -2742,6 +3083,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Merseburg-Querfurt
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png
@@ -2750,6 +3092,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Rhein-Main (Offenbach Frankfurt)
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinmain.png
@@ -2758,6 +3101,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Fulda
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okfulda.png
@@ -2766,6 +3110,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Gießen
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okgiessen.png
@@ -2774,6 +3119,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Kassel
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkassel.png
@@ -2782,6 +3128,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Ludwigshafen
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okludwigshafen.png
@@ -2790,6 +3137,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Dessau
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png
@@ -2798,6 +3146,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Magdeburg
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png
@@ -2806,6 +3155,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Salzwedel
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png
@@ -2814,6 +3164,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Stendal
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png
@@ -2822,6 +3173,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: OK Wernigerode
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png
@@ -2830,6 +3182,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Tide TV
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png
@@ -2838,6 +3191,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: BLK Regional TV
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blkregionaltv.png
@@ -2846,6 +3200,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: kulturmd
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kulturmd.png
@@ -2854,6 +3209,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: MDF.1
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdf1.png
@@ -2862,6 +3218,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: PUNKTum
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png
@@ -2870,6 +3227,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: RFH
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfh.png
@@ -2878,6 +3236,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: WTV (OK Wettin)
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wtv.png
@@ -2886,6 +3245,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: RAN1
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ran1.png
@@ -2894,6 +3254,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: RBW
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbw.png
@@ -2902,6 +3263,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: TV Halle
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvhalle.png
@@ -2910,6 +3272,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: ELBEKANAL
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/elbekanal.png
@@ -2918,6 +3281,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: seenluft24
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png
@@ -2926,6 +3290,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: oldenburg eins
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png
@@ -2934,6 +3299,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Potsdam TV
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png
@@ -2942,6 +3308,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Regio TV Schwaben
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png
@@ -2950,6 +3317,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: RFO
+    quality: sd
     radio: false
     tvg_id: Oberbayern.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png
@@ -2958,6 +3326,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Rhein Neckar Fernsehen
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png
@@ -2966,6 +3335,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: rheinmaintv
+    quality: sd
     radio: false
     tvg_id: rheinmaintv.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png
@@ -2974,6 +3344,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Sylt1
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png
@@ -2982,6 +3353,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Niederbayern TV Passau
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/niederbayerntv.png
@@ -2990,6 +3362,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: TV Mittelrhein
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png
@@ -2998,6 +3371,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: TV Mainfranken
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png
@@ -3006,6 +3380,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: TV Würzburg
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png
@@ -3014,6 +3389,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: tv.berlin
+    quality: sd
     radio: false
     tvg_id: TVBerlin.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png
@@ -3022,6 +3398,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: TVA
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png
@@ -3030,6 +3407,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: TVO
+    quality: sd
     radio: false
     tvg_id: tvo.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png
@@ -3038,6 +3416,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Lokal
     name: Westerwald TV
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png
@@ -3047,6 +3426,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Vollprogramm
     name: Das Erste HD
+    quality: hd
     radio: false
     tvg_id: ARD.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png
@@ -3055,6 +3435,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Vollprogramm
     name: ZDF HD
+    quality: hd
     radio: false
     tvg_id: ZDF.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png
@@ -3063,6 +3444,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Vollprogramm
     name: 3sat
+    quality: sd
     radio: false
     tvg_id: 3sat.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png
@@ -3071,6 +3453,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Vollprogramm
     name: ARTE HD
+    quality: hd
     radio: false
     tvg_id: ARTE.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png
@@ -3079,6 +3462,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Spartenprogramm
     name: ServusTV HD
+    quality: hd
     radio: false
     tvg_id: ServusHD.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png
@@ -3087,6 +3471,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Spartenprogramm
     name: ARD-alpha
+    quality: hd
     radio: false
     tvg_id: ARD-alpha.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png
@@ -3095,6 +3480,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Spartenprogramm
     name: one HD
+    quality: hd
     radio: false
     tvg_id: One.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png
@@ -3103,6 +3489,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Spartenprogramm
     name: ZDFneo HD
+    quality: hd
     radio: false
     tvg_id: ZDFneo.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png
@@ -3111,6 +3498,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Spartenprogramm
     name: ZDFinfo HD
+    quality: hd
     radio: false
     tvg_id: ZDFinfo.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png
@@ -3119,6 +3507,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Nachrichten
     name: phoenix
+    quality: hd
     radio: false
     tvg_id: phoenix.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png
@@ -3127,6 +3516,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Nachrichten
     name: tagesschau24
+    quality: sd
     radio: false
     tvg_id: tagesschau24.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png
@@ -3135,6 +3525,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Nachrichten;Dokumentationen
     name: WELT
+    quality: hd
     radio: false
     tvg_id: n24.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png
@@ -3143,6 +3534,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Nachrichten
     name: euronews deutsch
+    quality: hd
     radio: false
     tvg_id: euronews.com
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png
@@ -3151,6 +3543,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Nachrichten;Sport
     name: Sky Sport News HD
+    quality: hd
     radio: false
     tvg_id: SkySportNewsHD.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png
@@ -3159,6 +3552,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Spartenprogramm
     name: ANIXE HD
+    quality: hd
     radio: false
     tvg_id: AnixeSerie.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png
@@ -3167,6 +3561,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Filme / Serien
     name: eoTV HD
+    quality: sd
     radio: false
     tvg_id: eoTV.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png
@@ -3175,6 +3570,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Filme / Serien;Kinder / Jugend
     name: RiC / eoTV
+    quality: sd
     radio: false
     tvg_id: RiC.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png
@@ -3183,6 +3579,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Kinder / Jugend
     name: KiKA
+    quality: hd
     radio: false
     tvg_id: Kika.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png
@@ -3191,6 +3588,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Kinder / Jugend
     name: Nickelodeon
+    quality: hd
     radio: false
     tvg_id: Nick.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png
@@ -3199,6 +3597,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Musik
     name: MTV Germany
+    quality: hd
     radio: false
     tvg_id: MTVGermany.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png
@@ -3207,6 +3606,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Musik
     name: DELUXE MUSIC
+    quality: sd
     radio: false
     tvg_id: DeLuxeMusic.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png
@@ -3215,6 +3615,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Musik
     name: nice
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nice.png
@@ -3223,6 +3624,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Musik
     name: Folx TV
+    quality: sd
     radio: false
     tvg_id: FolxTV.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png
@@ -3231,6 +3633,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Musik
     name: Deutsches Musik Fernsehen
+    quality: hd
     radio: false
     tvg_id: DeutschesMusikFernsehen.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png
@@ -3239,6 +3642,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Religion
     name: Bibel TV
+    quality: sd
     radio: false
     tvg_id: BibelTV.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png
@@ -3247,6 +3651,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Religion
     name: Bibel TV Impuls
+    quality: sd
     radio: false
     tvg_id: BibelTVImpuls.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png
@@ -3255,6 +3660,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Religion
     name: Bibel TV Musik
+    quality: sd
     radio: false
     tvg_id: BibelTVMusik.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png
@@ -3263,6 +3669,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Religion
     name: K-TV
+    quality: sd
     radio: false
     tvg_id: KTV.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png
@@ -3271,6 +3678,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Religion
     name: EWTN katholisches TV
+    quality: sd
     radio: false
     tvg_id: EWTN.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png
@@ -3279,6 +3687,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Religion
     name: ERF 1
+    quality: hd
     radio: false
     tvg_id: ERFeins.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png
@@ -3287,6 +3696,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Sonstiges
     name: health.tv
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png
@@ -3295,6 +3705,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Sonstiges
     name: VISIT-X.tv
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png
@@ -3304,6 +3715,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: WDR HD
+    quality: hd
     radio: false
     tvg_id: WDR.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
@@ -3312,6 +3724,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: SWR Baden-Württemberg HD
+    quality: hd
     radio: false
     tvg_id: SWR.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png
@@ -3320,6 +3733,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: SWR Rheinland-Pfalz HD
+    quality: hd
     radio: false
     tvg_id: SWR-rp.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png
@@ -3328,6 +3742,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: NDR Niedersachsen HD
+    quality: hd
     radio: false
     tvg_id: ndr.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png
@@ -3336,6 +3751,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: NDR Schleswig-Holstein HD
+    quality: hd
     radio: false
     tvg_id: ndr.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png
@@ -3344,6 +3760,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: NDR Mecklenburg-Vorpommern HD
+    quality: hd
     radio: false
     tvg_id: ndr.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png
@@ -3352,6 +3769,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: NDR Hamburg HD
+    quality: hd
     radio: false
     tvg_id: ndr.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png
@@ -3360,6 +3778,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: Radio Bremen TV HD
+    quality: hd
     radio: false
     tvg_id: RadioBremen.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png
@@ -3368,6 +3787,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: BR Fernsehen Nord HD
+    quality: hd
     radio: false
     tvg_id: BR.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png
@@ -3376,6 +3796,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: BR Fernsehen Süd HD
+    quality: hd
     radio: false
     tvg_id: BR.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png
@@ -3384,6 +3805,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: MDR Sachsen HD
+    quality: hd
     radio: false
     tvg_id: MDRSachsen.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png
@@ -3392,6 +3814,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: MDR Sachsen-Anhalt HD
+    quality: hd
     radio: false
     tvg_id: MDRS-Anhalt.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png
@@ -3400,6 +3823,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: MDR Thüringen HD
+    quality: sd
     radio: false
     tvg_id: MDRThuringen.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png
@@ -3408,6 +3832,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: hr-fernsehen
+    quality: hd
     radio: false
     tvg_id: HR.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png
@@ -3416,6 +3841,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: rbb Berlin HD
+    quality: hd
     radio: false
     tvg_id: rbbBerlin.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png
@@ -3424,6 +3850,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: rbb Brandenburg HD
+    quality: hd
     radio: false
     tvg_id: rbbBrandenburg.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png
@@ -3432,6 +3859,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: SR Fernsehen HD
+    quality: sd
     radio: false
     tvg_id: SRFernsehen.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png
@@ -3440,6 +3868,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: Deutsche Welle
+    quality: sd
     radio: false
     tvg_id: DeutscheWelleDE.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
@@ -3448,6 +3877,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: Deutsche Welle+
+    quality: sd
     radio: false
     tvg_id: DeutscheWelleDE+.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
@@ -3456,6 +3886,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Regional
     name: Deutsche Welle (EN)
+    quality: sd
     radio: false
     tvg_id: DeutscheWelleEN.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
@@ -3465,6 +3896,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Teleshopping
     name: 1-2-3.tv
+    quality: sd
     radio: false
     tvg_id: 123.tv.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png
@@ -3473,6 +3905,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Teleshopping
     name: pearl.tv
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png
@@ -3481,6 +3914,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Teleshopping
     name: QVC
+    quality: hd
     radio: false
     tvg_id: QVC.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png
@@ -3489,6 +3923,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Teleshopping
     name: QVC PLUS
+    quality: hd
     radio: false
     tvg_id: QVCPlus.de
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png
@@ -3497,6 +3932,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Teleshopping
     name: QVC Beauty & Style
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcbeautystyle.png
@@ -3505,6 +3941,7 @@ tv:
   - group_title: IPTV-DE
     group_title_kodi: Teleshopping
     name: Genius Plus TV
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/geniusplustv.png
@@ -3514,6 +3951,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Nachrichten
     name: ABC News
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png
@@ -3522,6 +3960,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Comedy
     name: Adult Swim
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
@@ -3530,6 +3969,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Religion;Kinder / Jugend
     name: JUCE TV
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/jucetv.png
@@ -3538,6 +3978,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Information / Bildung
     name: NASA TV
+    quality: sd
     radio: false
     tvg_id: NASA.us
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nasatv.png
@@ -3546,6 +3987,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Nachrichten
     name: CBSN
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbsn.png
@@ -3554,6 +3996,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Nachrichten
     name: CBN News
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png
@@ -3562,6 +4005,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Wirtschaft
     name: Bloomberg TV
+    quality: hd
     radio: false
     tvg_id: Bloomberg.nws
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bloombergtv.png
@@ -3570,6 +4014,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Religion
     name: SBN
+    quality: sd
     radio: false
     tvg_id: SonLife.uk
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sbn.png
@@ -3578,6 +4023,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Religion
     name: GOD TV
+    quality: hd
     radio: false
     tvg_id: GODChannel.uk
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/godtv.png
@@ -3586,6 +4032,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Nachrichten;Information / Bildung
     name: Voice of America
+    quality: sd
     radio: false
     tvg_id: VOA.com
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/voiceofamerica.png
@@ -3594,6 +4041,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Nachrichten
     name: KTVU Fox 2
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktvufox2.png
@@ -3602,6 +4050,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Nachrichten
     name: MSNBC
+    quality: hd
     radio: false
     tvg_id: MSNBC.us
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/msnbc.png
@@ -3610,6 +4059,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Nachrichten
     name: WGN-TV
+    quality: hd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wgntv.png
@@ -3618,6 +4068,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Musik
     name: CMC
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png
@@ -3626,6 +4077,7 @@ tv:
   - group_title: IPTV-US
     group_title_kodi: International;Sonstiges
     name: Hunt Channel
+    quality: sd
     radio: false
     tvg_id: ''
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/huntchannel.png
@@ -3634,6 +4086,7 @@ tv:
   - group_title: IPTV-UK
     group_title_kodi: International;Teleshopping
     name: Create & Craft TV
+    quality: hd
     radio: false
     tvg_id: CreateCraft.uk
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/createandcraft.png
@@ -3642,6 +4095,7 @@ tv:
   - group_title: IPTV-UK
     group_title_kodi: International;Musik
     name: Capital TV
+    quality: hd
     radio: false
     tvg_id: CapitalTV.uk
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/capitaltv.png
@@ -3650,6 +4104,7 @@ tv:
   - group_title: IPTV-UK
     group_title_kodi: International;Musik
     name: Heart TV
+    quality: hd
     radio: false
     tvg_id: HeartTV.uk
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hearttv.png
@@ -3658,6 +4113,7 @@ tv:
   - group_title: IPTV-UK
     group_title_kodi: International;Nachrichten
     name: Sky News
+    quality: hd
     radio: false
     tvg_id: SkyNews.uk
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skynews.png
@@ -3666,6 +4122,7 @@ tv:
   - group_title: IPTV-UK
     group_title_kodi: International;Nachrichten
     name: London Live
+    quality: hd
     radio: false
     tvg_id: LondonLive.uk
     tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png
