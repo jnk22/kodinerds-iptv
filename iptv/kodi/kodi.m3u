@@ -1,512 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
-https://mcdn.daserste.de/daserste/de/master_3744.m3u8
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
-https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD
-https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
-https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_4_av-p.m3u8
-#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
-#EXTINF:-1 tvg-name="WELT" tvg-id="n24.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
-http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
-#EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
-https://www.youtube.com/embed/8khg_k7nhuU
-#EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNewsHD.de" group-title="Nachrichten;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD
-https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
-#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-name="eoTV HD" tvg-id="eoTV.de" group-title="Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png",eoTV HD
-https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
-#EXTINF:-1 tvg-name="RiC / eoTV" tvg-id="RiC.de" group-title="Filme / Serien;Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png",RiC / eoTV
-https://www.youtube.com/embed/lpNnFuJXDV4
-#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
-https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master_720.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nick.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
-http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
-#EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Germany
-https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
-#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
-http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="nice" tvg-id="" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nice.png",nice
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:4195-mbr.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-name="Folx TV" tvg-id="FolxTV.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png",Folx TV
-http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
-https://tv.artcom-venture.de/dmf/tv_720.m3u8
-#EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV
-https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Bibel TV Impuls" tvg-id="BibelTVImpuls.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Impuls
-https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Bibel TV Musik" tvg-id="BibelTVMusik.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Musik
-http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png",K-TV
-http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-name="EWTN katholisches TV" tvg-id="EWTN.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png",EWTN katholisches TV
-https://cdn3.wowza.com/1/REZwSm9UWEFxcmt3/REROU1NK/hls/wstqs3gh/2728/chunklist.m3u8
-#EXTINF:-1 tvg-name="ERF 1" tvg-id="ERFeins.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png",ERF 1
-http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8
-#EXTINF:-1 tvg-name="health.tv" tvg-id="" group-title="Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png",health.tv
-http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="VISIT-X.tv" tvg-id="" group-title="Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png",VISIT-X.tv
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
-https://123tv.cdn.ses-ps.com/index.m3u8
-#EXTINF:-1 tvg-name="pearl.tv" tvg-id="" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
-http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
-#EXTINF:-1 tvg-name="QVC" tvg-id="QVC.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC
-http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 tvg-name="QVC PLUS" tvg-id="QVCPlus.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png",QVC PLUS
-http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 tvg-name="QVC Beauty & Style" tvg-id="" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcbeautystyle.png",QVC Beauty & Style
-http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 tvg-name="Genius Plus TV" tvg-id="" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/geniusplustv.png",Genius Plus TV
-http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master_3680.m3u8
-#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD 
-https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master_3744.m3u8
-#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWR-rp.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Rheinland-Pfalz HD
-https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master_3744.m3u8
-#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="NDR Schleswig-Holstein HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Schleswig-Holstein HD
-https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Mecklenburg-Vorpommern HD
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="NDR Hamburg HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Hamburg HD
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png",Radio Bremen TV HD
-https://rbfs-lh.akamaihd.net/i/rb_fs@438960/index_3584_av-p.m3u8
-#EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
-https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
-#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt HD" tvg-id="MDRS-Anhalt.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen-Anhalt HD
-https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master_1280x720.m3u8
-#EXTINF:-1 tvg-name="MDR Thüringen HD" tvg-id="MDRThuringen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Thüringen HD
-https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master_1280x720.m3u8
-#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
-http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
-#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
-https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
-#EXTINF:-1 tvg-name="rbb Brandenburg HD" tvg-id="rbbBrandenburg.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Brandenburg HD
-https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_5_av-p.m3u8
-#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
-http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelleDE.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle+" tvg-id="DeutscheWelleDE+.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle+
-http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle (EN)" tvg-id="DeutscheWelleEN.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle (EN)
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
-https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png",ALEX Berlin
-https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="allgäu.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv
-https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Baden TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png",Baden TV
-http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Chemnitz Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chemnitzfernsehen.png",Chemnitz Fernsehen
-https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="DRF1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/drf1.png",DRF1
-http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5713-mbr.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-name="Dresden Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png",Dresden Fernsehen
-https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
-https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
-#EXTINF:-1 tvg-name="Hamburg 1" tvg-id="Hamburg1.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hamburg1.png",Hamburg 1
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:7651-sbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="KabelJournal" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kabeljournal.png",KabelJournal
-https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="L-TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png",L-TV
-https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/playlist.m3u8
-#EXTINF:-1 tvg-name="Leipzig Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/leipzigfernsehen.png",Leipzig Fernsehen
-https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",münchen.tv
-https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="noa4 Hamburg HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Hamburg HD
-https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-name="noa4 Norderstedt HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Norderstedt HD
-https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-name="NRWision HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png",NRWision HD
-https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
-#EXTINF:-1 tvg-name="Oberpfalz TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oberpfalztv.png",Oberpfalz TV
-https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="OK4 (Adenau Andernach Koblenz Neuwied)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png",OK4 (Adenau Andernach Koblenz Neuwied)
-https://s.ok54.de/ok4/live/chunks.m3u8
-#EXTINF:-1 tvg-name="OK54 (Trier)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png",OK54 (Trier)
-https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="OK Kaiserslautern" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkaiserslautern.png",OK Kaiserslautern
-https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK naheTV (Idar-Oberstein)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oknahetv.png",OK naheTV (Idar-Oberstein)
-https://s.ok54.de/nahetv/webstream/chunks.m3u8
-#EXTINF:-1 tvg-name="OK RheinLokal (Worms)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinlokal.png",OK RheinLokal (Worms)
-https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
-#EXTINF:-1 tvg-name="OK Suedwestpfalz" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksuedwestpfalz.png",OK Suedwestpfalz
-https://s.ok54.de/okswp/test/chunks.m3u8
-#EXTINF:-1 tvg-name="OK Weinstraße (Neustadt)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png",OK Weinstraße (Neustadt)
-https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
-#EXTINF:-1 tvg-name="OK Flensburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fltv.png",OK Flensburg
-https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1 tvg-name="OK Kiel" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kieltv.png",OK Kiel
-https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
-#EXTINF:-1 tvg-name="OK Merseburg-Querfurt" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png",OK Merseburg-Querfurt
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Rhein-Main (Offenbach Frankfurt)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinmain.png",OK Rhein-Main (Offenbach Frankfurt)
-https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Fulda" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okfulda.png",OK Fulda
-https://s.ok54.de/mok-fu/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Gießen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okgiessen.png",OK Gießen
-https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Kassel" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkassel.png",OK Kassel
-https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Ludwigshafen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okludwigshafen.png",OK Ludwigshafen
-https://s.ok54.de/oklu/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Dessau" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png",OK Dessau
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Magdeburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png",OK Magdeburg
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Salzwedel" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png",OK Salzwedel
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Stendal" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png",OK Stendal
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Wernigerode" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png",OK Wernigerode
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1 tvg-name="Tide TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png",Tide TV
-https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="BLK Regional TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blkregionaltv.png",BLK Regional TV
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-name="kulturmd" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kulturmd.png",kulturmd
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-name="MDF.1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdf1.png",MDF.1
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
-#EXTINF:-1 tvg-name="PUNKTum" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png",PUNKTum
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
-#EXTINF:-1 tvg-name="RFH" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfh.png",RFH
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
-#EXTINF:-1 tvg-name="WTV (OK Wettin)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wtv.png",WTV (OK Wettin)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wettin_high/playlist.m3u8
-#EXTINF:-1 tvg-name="RAN1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ran1.png",RAN1
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
-#EXTINF:-1 tvg-name="RBW" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbw.png",RBW
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Halle" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvhalle.png",TV Halle
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
-#EXTINF:-1 tvg-name="ELBEKANAL" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/elbekanal.png",ELBEKANAL
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
-#EXTINF:-1 tvg-name="seenluft24" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png",seenluft24
-https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8
-#EXTINF:-1 tvg-name="oldenburg eins" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
-https://oeins.de/live/studio.m3u8
-#EXTINF:-1 tvg-name="Potsdam TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png",Potsdam TV
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
-#EXTINF:-1 tvg-name="Regio TV Schwaben" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png",Regio TV Schwaben
-https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO
-https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Rhein Neckar Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png",Rhein Neckar Fernsehen
-https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="rheinmaintv" tvg-id="rheinmaintv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png",rheinmaintv
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Sylt1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
-https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Niederbayern TV Passau" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/niederbayerntv.png",Niederbayern TV Passau
-https://stream03.stream.welocal.world/stream/npa/ngrp:npa.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Mittelrhein" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png",TV Mittelrhein
-https://sdn-global-live-http-cache.3qsdn.com/2979/amlst:5714-sbr/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Mainfranken" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png",TV Mainfranken
-https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Würzburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png",TV Würzburg
-https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="tv.berlin" tvg-id="TVBerlin.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png",tv.berlin
-https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
-#EXTINF:-1 tvg-name="TVA" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png",TVA
-https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="TVO" tvg-id="tvo.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png",TVO
-https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Westerwald TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png",Westerwald TV
-https://sdn-global-live-http-cache.3qsdn.com/2980/amlst:5715-sbr/playlist.m3u8
-#EXTINF:-1 tvg-name="ARD Event 1" tvg-id="ARDEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 1
-http://wdr_ardevent1-lh.akamaihd.net/i/wdrardevent1_weltweit@112049/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="ARD Event 2" tvg-id="ARDEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 2
-http://wdr_ardevent2-lh.akamaihd.net/i/wdrardevent2_geogeblockt@112050/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 1" tvg-id="ZDFEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 1
-http://zdf0304-lh.akamaihd.net/i/de03_v1@392855/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 2" tvg-id="ZDFEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 2
-http://zdf0304-lh.akamaihd.net/i/de04_v1@392856/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 3" tvg-id="ZDFEvent.de3" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 3
-http://zdf0506-lh.akamaihd.net/i/de05_v1@392857/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 4" tvg-id="ZDFEvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 4
-http://zdf0506-lh.akamaihd.net/i/de06_v1@392858/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 5" tvg-id="ZDFEvent5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 5
-http://zdf0708-lh.akamaihd.net/i/de07_v1@392868/index_3096_av-p.m3u8
-#EXTINF:-1 tvg-name="ZDF Event 6" tvg-id="ZDFEvent6.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 6
-http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_229_av-b.m3u8
-#EXTINF:-1 tvg-name="ARTE Event 1" tvg-id="ArteEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 1
-https://arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="ARTE Event 2" tvg-id="ArteEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 2
-https://arteevent02-lh.akamaihd.net/i/arte_event02@308866/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="ARTE Event 3" tvg-id="ArteEvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 3
-https://arteevent03-lh.akamaihd.net/i/arte_event03@305298/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="ARTE Event 4" tvg-id="ArteEvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 4
-https://arteevent04-lh.akamaihd.net/i/arte_event04@308879/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="WDR Event 1" tvg-id="WDREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 1
-http://event1geo.wdr.de/i/wdrevent1_geogeblockt@112051/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="WDR Event 2" tvg-id="WDREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 2
-http://wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="WDR Event 3" tvg-id="WDREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 3
-http://wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="WDR Event 4" tvg-id="WDREvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 4
-http://wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="SWR Event 1" tvg-id="SWREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 1
-http://swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/index_3584_av-p.m3u8
-#EXTINF:-1 tvg-name="SWR Event 2" tvg-id="SWREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 2
-http://swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/index_3584_av-p.m3u8
-#EXTINF:-1 tvg-name="SWR Event 3" tvg-id="SWREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 3
-http://swr_event03_uni-lh.akamaihd.net/i/swr_event03@198168/index_3584_av-p.m3u8
-#EXTINF:-1 tvg-name="SWR Event 4" tvg-id="SWREvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 4
-http://swr_event04_uni-lh.akamaihd.net/i/swr_event04@198169/index_3584_av-p.m3u8
-#EXTINF:-1 tvg-name="NDR Event 1" tvg-id="NDREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 1
-https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="NDR Event 2" tvg-id="NDREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 2
-https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="NDR Event 3" tvg-id="NDREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 3
-https://ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 1" tvg-id="NDRSpezial1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 1
-http://ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 2" tvg-id="NDRSpezial2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 2
-http://ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 3" tvg-id="NDRSpezial3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 3
-http://ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 4" tvg-id="NDRSpezial4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 4
-http://ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 5" tvg-id="NDRSpezial5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 5
-http://ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="NDR Spezial 6" tvg-id="NDRSpezial6.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 6
-http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-name="BR Event 1" tvg-id="BREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 1
-http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="BR Event 2" tvg-id="BREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 2
-http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="BR Event 3" tvg-id="BREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 3
-http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="BR Event 4" tvg-id="BREvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 4
-http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-b.m3u8
-#EXTINF:-1 tvg-name="MDR+ 1" tvg-id="MDRPlus1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 1
-http://liveevent1.mdr.de/i/livetvmdrevent1_ww@106904/index_3871_av-p.m3u8
-#EXTINF:-1 tvg-name="MDR+ 2" tvg-id="MDRPlus2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 2
-http://liveevent2.mdr.de/i/livetvmdrevent2_ww@106905/index_3871_av-p.m3u8
-#EXTINF:-1 tvg-name="MDR+ 3" tvg-id="MDRPlus3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 3
-http://liveevent2.mdr.de/i/livetvmdrevent3_ww@106905/index_3871_av-p.m3u8
-#EXTINF:-1 tvg-name="HR Event 1" tvg-id="HREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",HR Event 1
-http://hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8
-#EXTINF:-1 tvg-name="HR Event 2" tvg-id="HREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",HR Event 2
-http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
-#EXTINF:-1 tvg-name="rbb Event 1" tvg-id="RBBEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png",rbb Event 1
-http://rbbevent01-lh.akamaihd.net/i/rbbevent01_nongeo@22155/index_2692_av-p.m3u8
-#EXTINF:-1 tvg-name="rbb Event 2" tvg-id="RBBEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png",rbb Event 2
-https://rbbevent02-lh.akamaihd.net/i/rbbevent02_nongeo@22197/index_2692_av-p.m3u8
-#EXTINF:-1 tvg-name="Parlamentsfernsehen 1" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Parlamentsfernsehen 1
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-name="Parlamentsfernsehen 2" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Parlamentsfernsehen 2
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-name="EbS Live (Europe by Satellite)" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png",EbS Live (Europe by Satellite)
-https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
-#EXTINF:-1 tvg-name="EbS+ Live (Europe by Satellite)" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png",EbS+ Live (Europe by Satellite)
-https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
-#EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-id="ServusTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD (AT)
-https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
-#EXTINF:-1 tvg-name="Krone.TV" tvg-id="KroneTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronetv.png",Krone.TV
-https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
-#EXTINF:-1 tvg-name="gotv" tvg-id="Gotv.at" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/gotv.png",gotv
-https://nstream17.gotv.at:1443/live/gotvlive_360p/manifest.mpd
-#EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
-https://d2i6psfxyapxwi.cloudfront.net/out/v1/f0cc8e3aceb64ad8968231dc5a0041d4/index.m3u8
-#EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF eins HD
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
-#EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="ORF2.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png",ORF 2 HD
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
-#EXTINF:-1 tvg-name="ORF III HD" tvg-id="ORF3.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF III HD
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:-1 tvg-name="ORF SPORT +" tvg-id="ORFSport.at" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",ORF SPORT +
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:-1 tvg-name="dorf tv" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png",dorf tv
-https://stream.openplayout.org/hls/dorf_high/index.m3u8
-#EXTINF:-1 tvg-name="RE eins TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/reeins.png",RE eins TV
-http://www.reeins.tv:1935/live/re1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tirol TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tiroltv.png",Tirol TV
-https://streaming5.huberwebmedia.at/hls-live/live_tiroltv/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-name="oe24 TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png",oe24 TV
-https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="M4TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png",M4TV
-https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
-#EXTINF:-1 tvg-name="RTV (AT)" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png",RTV (AT)
-http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:-1 tvg-name="W24 TV" tvg-id="W24.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/w24.png",W24 TV
-https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Kronehit TV" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png",Kronehit TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-name="Sporttime TV 1" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png",Sporttime TV 1
-http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/playlist.m3u8?wowzatokenhash=sUTjnxXLdal6Y8bBzs9an_zhqn7VrgWUS5uB8sckoCw=
-#EXTINF:-1 tvg-name="Sporttime TV 2" tvg-id="" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png",Sporttime TV 2
-http://sporttimelive1.content-cdn.net/livechannel2/smil:switch2.smil/playlist.m3u8?wowzatokenhash=qgtY96D77QocQoiJn6MCsyHbBMGla2uQoQ03XvQYkuE=
-#EXTINF:-1 tvg-name="Sporttime TV 4" tvg-id="" group-title="International;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png",Sporttime TV 4
-http://sporttimelive1.content-cdn.net/livechannel4/smil:switch4.smil/playlist.m3u8?wowzatokenhash=BhYr7Qu4cZ8LgxWiF7cuQ_hA7sxqdon5Kw0sIHJ7TpM=
-#EXTINF:-1 tvg-name="Sporttime TV 5" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png",Sporttime TV 5
-http://live.earthtv.com:1935/edge27/TWLDE/playlist.m3u8?58a36274bbf047f6c3b5cdb1
-#EXTINF:-1 tvg-name="TeleZüri HD" tvg-id="TeleZuri.ch" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png",TeleZüri HD
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq7avs/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-name="TeleBärn HD" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebaern.png",TeleBärn HD
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
-#EXTINF:-1 tvg-name="Tele M1 HD" tvg-id="TeleM1.ch" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telem1.png",Tele M1 HD
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
-#EXTINF:-1 tvg-name="TVO (CH)" tvg-id="TVO.ch" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo_ch.png",TVO (CH)
-https://s3.welocal.world/tvo/media/447348/videos/hls.m3u8
-#EXTINF:-1 tvg-name="TeleBielingue" tvg-id="TeleBielingue.ch" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebielingue.png",TeleBielingue
-https://edge5.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
-#EXTINF:-1 tvg-name="TVM3" tvg-id="TVM3.ch" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png",TVM3
-https://edge5.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 tvg-name="Telebasel" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebasel.png",Telebasel
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 tvg-name="ABC News" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
-https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
-#EXTINF:-1 tvg-name="Adult Swim" tvg-id="" group-title="International;Comedy" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
-#EXTINF:-1 tvg-name="JUCE TV" tvg-id="" group-title="International;Religion;Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/jucetv.png",JUCE TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
-#EXTINF:-1 tvg-name="NASA TV" tvg-id="NASA.us" group-title="International;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nasatv.png",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-name="CBSN" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbsn.png",CBSN
-https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
-#EXTINF:-1 tvg-name="CBN News" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",CBN News
-http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-b.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-id="Bloomberg.nws" group-title="International;Wirtschaft" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bloombergtv.png",Bloomberg TV
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-name="SBN" tvg-id="SonLife.uk" group-title="International;Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sbn.png",SBN
-https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/ch70/ch70.m3u8
-#EXTINF:-1 tvg-name="GOD TV" tvg-id="GODChannel.uk" group-title="International;Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/godtv.png",GOD TV
-https://zypelive-lh.akamaihd.net/i/default_1@745545/index_720_av-p.m3u8
-#EXTINF:-1 tvg-name="Voice of America" tvg-id="VOA.com" group-title="International;Nachrichten;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/voiceofamerica.png",Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-#EXTINF:-1 tvg-name="KTVU Fox 2" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktvufox2.png",KTVU Fox 2
-http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
-#EXTINF:-1 tvg-name="MSNBC" tvg-id="MSNBC.us" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/msnbc.png",MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
-#EXTINF:-1 tvg-name="WGN-TV" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wgntv.png",WGN-TV
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-name="CMC" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png",CMC
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
-#EXTINF:-1 tvg-name="Hunt Channel" tvg-id="" group-title="International;Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/huntchannel.png",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1 tvg-name="Create & Craft TV" tvg-id="CreateCraft.uk" group-title="International;Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/createandcraft.png",Create & Craft TV
-https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
-#EXTINF:-1 tvg-name="Capital TV" tvg-id="CapitalTV.uk" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/capitaltv.png",Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1 tvg-name="Heart TV" tvg-id="HeartTV.uk" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hearttv.png",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8
-#EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skynews.png",Sky News
-https://www.youtube.com/embed/9Auq9mYxFEE
-#EXTINF:-1 tvg-name="London Live" tvg-id="LondonLive.uk" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1 tvg-name="Sky News Extra" tvg-id="SkyNewsExtra.au" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skynewsextra.png",Sky News Extra
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle (ES)" tvg-id="DeutscheWelleES.de" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle (ES)
-http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8
-#EXTINF:-1 tvg-name="Press TV" tvg-id="PressTV.uk" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/presstv.png",Press TV
-https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CHCH" tvg-id="CHCH.cdn" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chch.png",CHCH
-https://bcovlive-a.akamaihd.net/45a29af6ec4341539ddd3dd505c4b669/us-west-2/5644964886001/playlist.m3u8
-#EXTINF:-1 tvg-name="TVNZ 1" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz1.png",TVNZ 1
-https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
-#EXTINF:-1 tvg-name="TVNZ 2" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz2.png",TVNZ 2
-https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
-#EXTINF:-1 tvg-name="Three" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/three.png",Three
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:-1 tvg-name="ARTE HD (FR)" tvg-id="ARTE.fr" group-title="International;Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD (FR)
-https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-b.m3u8
-#EXTINF:-1 tvg-name="France 24" tvg-id="France24.fr" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png",France 24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-name="NRJ HITS TV" tvg-id="NRJHits.fr" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrjhitstv.png",NRJ HITS TV
-http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="BFMTV" tvg-id="BFMTV.fr" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bfmtv.png",BFMTV
-https://bfmtvalive1-a.akamaihd.net/8a3483ffeb9d40f0a738c1392f2bcc14/eu-central-1/876450610001/profile_0/da8e1b0dc391423390d09277e66af0b9/chunklist_ssaiM.m3u8
-#EXTINF:-1 tvg-name="XITE" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/xite.png",XITE
-https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="TV 538" tvg-id="TV538.nl" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tv538.png",TV 538
-http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
-#EXTINF:-1 tvg-name="SDF" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png",SDF
-https://livestream.goinfo.it/SDFLive/sdfros/playlist.m3u8
-#EXTINF:-1 tvg-name="m2o Tv" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m2otv.png",m2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-name="Rai News 24" tvg-id="RaiNews.it" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rainews24.png",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 tvg-name="supertennis.tv" tvg-id="SuperTennis.it" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/supertennis.png",supertennis.tv
-http://livetok.flash.glb.ipercast.net/supertennis.tv-live/live_490.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Fjorton" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fjorton.png",Fjorton
-http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Digi 24 HD" tvg-id="digi24.ro" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/digi24hd.png",Digi 24 HD
-http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
-#EXTINF:-1 tvg-name="ProTv News" tvg-id="ProTVInternational.ro" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/protvnews.png",ProTv News
-http://185.133.64.237/news/stream:1.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Realitatea TV" tvg-id="RealitateaTV.ro" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/realitateatv.png",Realitatea TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="Romania TV" tvg-id="RomaniaTV.ro" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/romaniatv.png",Romania TV
-http://ppext.arktv.ro/hls/channel6/bitrate4.m3u8
-#EXTINF:-1 tvg-name="Sitel" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sitel.png",Sitel
-http://51.255.92.232:1935/sitel/sitel.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal 5" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kanal5.png",Kanal 5
-http://37.187.158.217:8081/kanal5/kanal5/playlist.m3u8
-#EXTINF:-1 tvg-name="Alfa" tvg-id="Alfa.hr" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alfa.png",Alfa
-http://37.187.158.217:8081/alfa/tvalfa2/playlist.m3u8
-#EXTINF:-1 tvg-name="Telma" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telma.png",Telma
-http://37.187.158.217:8081/telma/telma_360pp/playlist.m3u8
-#EXTINF:-1 tvg-name="24 Vesti" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/24vesti.png",24 Vesti
-http://37.187.158.217:8081/24vesti/24vesti/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT World HD" tvg-id="TRTworld.nws" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trtworld.png",TRT World HD
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-name="RT HD" tvg-id="RussiaToday.uk" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png",RT HD
-https://www.youtube.com/embed/NvCSr7qzAAM
-#EXTINF:-1 tvg-name="RT Spanish HD" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png",RT Spanish HD
-https://www.youtube.com/embed/9DXGrOU5wKQ
-#EXTINF:-1 tvg-name="RT Documentary" tvg-id="RTDocumentary.pl" group-title="International;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtdocumentary.png",RT Documentary
-https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8
-#EXTINF:-1 tvg-name="MetroTV" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png",MetroTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1322909361_b1300000_sleng.m3u8
-#EXTINF:-1 tvg-name="NHK WORLD TV" tvg-id="" group-title="International;Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png",NHK WORLD TV
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="AlJazeeraArabe.nws" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeera.png",Al Jazeera
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-id="AlJazeera.nws" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="Dubai One" tvg-id="DubaiOne.net" group-title="International;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dubaione.png",Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-name="KVF" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png",KVF
-https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w121411721_b5000000_slfao.m3u8
-#EXTINF:-1 tvg-name="ALBUK TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/albuktv.png",ALBUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="RTÉ News Now" tvg-id="RTENewsNow.ie" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png",RTÉ News Now
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Mello TV" tvg-id="" group-title="International;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mellotv.png",Mello TV
-https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/a1e0ad3f_1_1376000/chunklist.m3u8
-#EXTINF:-1 tvg-name="Channel NewsAsia" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/channelnewsasia.png",Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="FM4" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
+http://mp3stream1.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
+http://mp3stream7.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Klassik Radio" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png",Klassik Radio
+http://klassikradio.hoerradar.de/klassikradio-live-mp3-mq
+#EXTINF:-1 tvg-name="KRONEHIT" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT
+http://onair.krone.at:80/kronehit.mp3
+#EXTINF:-1 tvg-name="KRONEHIT Dance" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT Dance
+http://onair.krone.at:80/kronehit-dance.mp3
+#EXTINF:-1 tvg-name="Life Radio" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png",Life Radio
+http://liferadio.stream.kapper.net:8000/liferadio
+#EXTINF:-1 tvg-name="Ö1" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1
+http://mp3stream3.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Ö1 Campus" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1 Campus
+http://mp3stream4.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio Niederösterreich" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioniederoesterreich.png",Radio Niederösterreich
+http://mp3stream8.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio Steiermark" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosteiermark.png",Radio Steiermark
+http://mp3stream9.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio Tirol" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotirol.png",Radio Tirol
+http://mp3stream10.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio Wien" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiowien.png",Radio Wien
+http://mp3stream2.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio SRF 1" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf1.png",Radio SRF 1
+http://stream.srg-ssr.ch/m/drs1/mp3_128
+#EXTINF:-1 tvg-name="Radio SRF 2 Kultur" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf2kultur.png",Radio SRF 2 Kultur
+http://stream.srg-ssr.ch/m/drs2/mp3_128
+#EXTINF:-1 tvg-name="Radio SRF 3" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf3.png",Radio SRF 3
+http://stream.srg-ssr.ch/m/drs3/mp3_128
+#EXTINF:-1 tvg-name="Radio SRF 4 News" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf4news.png",Radio SRF 4 News
+http://stream.srg-ssr.ch/m/drs4news/mp3_128
+#EXTINF:-1 tvg-name="Radio SRF Musikwelle" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfmusikwelle.png",Radio SRF Musikwelle
+http://stream.srg-ssr.ch/m/drsmw/mp3_128
+#EXTINF:-1 tvg-name="Radio SRF Virus" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfvirus.png",Radio SRF Virus
+http://stream.srg-ssr.ch/m/drsvirus/mp3_128
 #EXTINF:-1 tvg-name="100'5 Alemannia" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 Alemannia
 https://stream.dashitradio.de/alemannia/mp3-128/stream.mp3
 #EXTINF:-1 tvg-name="100'5 DAS HITRADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 DAS HITRADIO
@@ -783,74 +311,6 @@ http://hr-youfm-club.cast.addradio.de/hr/youfm/club/mp3/128/stream.mp3
 http://hr-youfm-justmusic.cast.addradio.de/hr/youfm/justmusic/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="YOU FM Sounds" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png",YOU FM Sounds
 http://hr-youfm-sounds.cast.addradio.de/hr/youfm/sounds/mp3/128/stream.mp3
-#EXTINF:-1 tvg-name="FM4" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
-http://mp3stream1.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
-http://mp3stream7.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Klassik Radio" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png",Klassik Radio
-http://klassikradio.hoerradar.de/klassikradio-live-mp3-mq
-#EXTINF:-1 tvg-name="KRONEHIT" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT
-http://onair.krone.at:80/kronehit.mp3
-#EXTINF:-1 tvg-name="KRONEHIT Dance" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT Dance
-http://onair.krone.at:80/kronehit-dance.mp3
-#EXTINF:-1 tvg-name="Life Radio" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png",Life Radio
-http://liferadio.stream.kapper.net:8000/liferadio
-#EXTINF:-1 tvg-name="Ö1" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1
-http://mp3stream3.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Ö1 Campus" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1 Campus
-http://mp3stream4.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Radio Niederösterreich" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioniederoesterreich.png",Radio Niederösterreich
-http://mp3stream8.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Radio Steiermark" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosteiermark.png",Radio Steiermark
-http://mp3stream9.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Radio Tirol" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotirol.png",Radio Tirol
-http://mp3stream10.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Radio Wien" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiowien.png",Radio Wien
-http://mp3stream2.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Radio SRF 1" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf1.png",Radio SRF 1
-http://stream.srg-ssr.ch/m/drs1/mp3_128
-#EXTINF:-1 tvg-name="Radio SRF 2 Kultur" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf2kultur.png",Radio SRF 2 Kultur
-http://stream.srg-ssr.ch/m/drs2/mp3_128
-#EXTINF:-1 tvg-name="Radio SRF 3" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf3.png",Radio SRF 3
-http://stream.srg-ssr.ch/m/drs3/mp3_128
-#EXTINF:-1 tvg-name="Radio SRF 4 News" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf4news.png",Radio SRF 4 News
-http://stream.srg-ssr.ch/m/drs4news/mp3_128
-#EXTINF:-1 tvg-name="Radio SRF Musikwelle" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfmusikwelle.png",Radio SRF Musikwelle
-http://stream.srg-ssr.ch/m/drsmw/mp3_128
-#EXTINF:-1 tvg-name="Radio SRF Virus" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfvirus.png",Radio SRF Virus
-http://stream.srg-ssr.ch/m/drsvirus/mp3_128
-#EXTINF:-1 tvg-name="BBC Asian Network" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcasiannetwork.png",BBC Asian Network
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 1" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1.png",BBC Radio 1
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 1Xtra" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1xtra.png",BBC Radio 1Xtra
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 2" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio2.png",BBC Radio 2
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 3" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio3.png",BBC Radio 3
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 4" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4.png",BBC Radio 4
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 4 Extra" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4extra.png",BBC Radio 4 Extra
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 5 Live" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio5live.png",BBC Radio 5 Live
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 6 Music" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio6music.png",BBC Radio 6 Music
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
-#EXTINF:-1 tvg-name="BBC Radio Cymru" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiocymru.png",BBC Radio Cymru
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru_mf_p
-#EXTINF:-1 tvg-name="BBC Radio Foyle" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiofoyle.png",BBC Radio Foyle
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p
-#EXTINF:-1 tvg-name="BBC Radio nan Gàidheal" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradionangaidheal.png",BBC Radio nan Gàidheal
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p
-#EXTINF:-1 tvg-name="BBC Radio Scotland" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioscotland.png",BBC Radio Scotland
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p
-#EXTINF:-1 tvg-name="BBC Radio Ulster" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioulster.png",BBC Radio Ulster
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p
-#EXTINF:-1 tvg-name="BBC Radio Wales" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiowales.png",BBC Radio Wales
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p
-#EXTINF:-1 tvg-name="BBC World Service" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcworldservice.png",BBC World Service
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
 #EXTINF:-1 tvg-name="Mouv'" group-title="Frankreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png",Mouv'
 http://direct.mouv.fr/live/mouv-midfi.mp3
 #EXTINF:-1 tvg-name="Radio Nova" group-title="Frankreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radionova.png",Radio Nova
@@ -913,3 +373,543 @@ http://zet.cdn.eurozet.pl/ZETPL1.mp3
 http://zet.cdn.eurozet.pl/ZETROK.mp3
 #EXTINF:-1 tvg-name="RMF FM" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png",RMF FM
 http://195.150.20.243/RMFFM48
+#EXTINF:-1 tvg-name="BBC Asian Network" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcasiannetwork.png",BBC Asian Network
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 1" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1.png",BBC Radio 1
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 1Xtra" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1xtra.png",BBC Radio 1Xtra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 2" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio2.png",BBC Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 3" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio3.png",BBC Radio 3
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 4" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4.png",BBC Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 4 Extra" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4extra.png",BBC Radio 4 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 5 Live" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio5live.png",BBC Radio 5 Live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 6 Music" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio6music.png",BBC Radio 6 Music
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Cymru" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiocymru.png",BBC Radio Cymru
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Foyle" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiofoyle.png",BBC Radio Foyle
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p
+#EXTINF:-1 tvg-name="BBC Radio nan Gàidheal" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradionangaidheal.png",BBC Radio nan Gàidheal
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Scotland" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioscotland.png",BBC Radio Scotland
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Ulster" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioulster.png",BBC Radio Ulster
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Wales" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiowales.png",BBC Radio Wales
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p
+#EXTINF:-1 tvg-name="BBC World Service" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcworldservice.png",BBC World Service
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+#EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-id="ServusTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD (AT)
+https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
+#EXTINF:-1 tvg-name="Krone.TV" tvg-id="KroneTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronetv.png",Krone.TV
+https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
+#EXTINF:-1 tvg-name="gotv" tvg-id="Gotv.at" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/gotv.png",gotv
+https://nstream17.gotv.at:1443/live/gotvlive_360p/manifest.mpd
+#EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
+https://d2i6psfxyapxwi.cloudfront.net/out/v1/f0cc8e3aceb64ad8968231dc5a0041d4/index.m3u8
+#EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF eins HD
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="ORF2.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png",ORF 2 HD
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF III HD" tvg-id="ORF3.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF III HD
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF SPORT +" tvg-id="ORFSport.at" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",ORF SPORT +
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1 tvg-name="dorf tv" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dorftv.png",dorf tv
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:-1 tvg-name="RE eins TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/reeins.png",RE eins TV
+http://www.reeins.tv:1935/live/re1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tirol TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tiroltv.png",Tirol TV
+https://streaming5.huberwebmedia.at/hls-live/live_tiroltv/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-name="oe24 TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png",oe24 TV
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="M4TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png",M4TV
+https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
+#EXTINF:-1 tvg-name="RTV (AT)" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png",RTV (AT)
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-name="W24 TV" tvg-id="W24.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/w24.png",W24 TV
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Kronehit TV" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-name="Sporttime TV 1" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png",Sporttime TV 1
+http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/playlist.m3u8?wowzatokenhash=sUTjnxXLdal6Y8bBzs9an_zhqn7VrgWUS5uB8sckoCw=
+#EXTINF:-1 tvg-name="Sporttime TV 2" tvg-id="" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png",Sporttime TV 2
+http://sporttimelive1.content-cdn.net/livechannel2/smil:switch2.smil/playlist.m3u8?wowzatokenhash=qgtY96D77QocQoiJn6MCsyHbBMGla2uQoQ03XvQYkuE=
+#EXTINF:-1 tvg-name="Sporttime TV 4" tvg-id="" group-title="International;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png",Sporttime TV 4
+http://sporttimelive1.content-cdn.net/livechannel4/smil:switch4.smil/playlist.m3u8?wowzatokenhash=BhYr7Qu4cZ8LgxWiF7cuQ_hA7sxqdon5Kw0sIHJ7TpM=
+#EXTINF:-1 tvg-name="Sporttime TV 5" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png",Sporttime TV 5
+http://live.earthtv.com:1935/edge27/TWLDE/playlist.m3u8?58a36274bbf047f6c3b5cdb1
+#EXTINF:-1 tvg-name="TeleZüri HD" tvg-id="TeleZuri.ch" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png",TeleZüri HD
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_4dmq7avs/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-name="TeleBärn HD" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebaern.png",TeleBärn HD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
+#EXTINF:-1 tvg-name="Tele M1 HD" tvg-id="TeleM1.ch" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telem1.png",Tele M1 HD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1 tvg-name="TVO (CH)" tvg-id="TVO.ch" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo_ch.png",TVO (CH)
+https://s3.welocal.world/tvo/media/447348/videos/hls.m3u8
+#EXTINF:-1 tvg-name="TeleBielingue" tvg-id="TeleBielingue.ch" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebielingue.png",TeleBielingue
+https://edge5.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
+#EXTINF:-1 tvg-name="TVM3" tvg-id="TVM3.ch" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png",TVM3
+https://edge5.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-name="Telebasel" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebasel.png",Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1 tvg-name="ARD Event 1" tvg-id="ARDEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 1
+http://wdr_ardevent1-lh.akamaihd.net/i/wdrardevent1_weltweit@112049/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="ARD Event 2" tvg-id="ARDEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 2
+http://wdr_ardevent2-lh.akamaihd.net/i/wdrardevent2_geogeblockt@112050/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="ZDF Event 1" tvg-id="ZDFEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 1
+http://zdf0304-lh.akamaihd.net/i/de03_v1@392855/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-name="ZDF Event 2" tvg-id="ZDFEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 2
+http://zdf0304-lh.akamaihd.net/i/de04_v1@392856/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-name="ZDF Event 3" tvg-id="ZDFEvent.de3" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 3
+http://zdf0506-lh.akamaihd.net/i/de05_v1@392857/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-name="ZDF Event 4" tvg-id="ZDFEvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 4
+http://zdf0506-lh.akamaihd.net/i/de06_v1@392858/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-name="ZDF Event 5" tvg-id="ZDFEvent5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 5
+http://zdf0708-lh.akamaihd.net/i/de07_v1@392868/index_3096_av-p.m3u8
+#EXTINF:-1 tvg-name="ZDF Event 6" tvg-id="ZDFEvent6.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 6
+http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_229_av-b.m3u8
+#EXTINF:-1 tvg-name="ARTE Event 1" tvg-id="ArteEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 1
+https://arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="ARTE Event 2" tvg-id="ArteEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 2
+https://arteevent02-lh.akamaihd.net/i/arte_event02@308866/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="ARTE Event 3" tvg-id="ArteEvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 3
+https://arteevent03-lh.akamaihd.net/i/arte_event03@305298/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="ARTE Event 4" tvg-id="ArteEvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 4
+https://arteevent04-lh.akamaihd.net/i/arte_event04@308879/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="WDR Event 1" tvg-id="WDREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 1
+http://event1geo.wdr.de/i/wdrevent1_geogeblockt@112051/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="WDR Event 2" tvg-id="WDREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 2
+http://wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="WDR Event 3" tvg-id="WDREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 3
+http://wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="WDR Event 4" tvg-id="WDREvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 4
+http://wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="SWR Event 1" tvg-id="SWREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 1
+http://swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-name="SWR Event 2" tvg-id="SWREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 2
+http://swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-name="SWR Event 3" tvg-id="SWREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 3
+http://swr_event03_uni-lh.akamaihd.net/i/swr_event03@198168/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-name="SWR Event 4" tvg-id="SWREvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 4
+http://swr_event04_uni-lh.akamaihd.net/i/swr_event04@198169/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR Event 1" tvg-id="NDREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 1
+https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR Event 2" tvg-id="NDREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 2
+https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR Event 3" tvg-id="NDREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 3
+https://ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8
+#EXTINF:-1 tvg-name="NDR Spezial 1" tvg-id="NDRSpezial1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 1
+http://ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR Spezial 2" tvg-id="NDRSpezial2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 2
+http://ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR Spezial 3" tvg-id="NDRSpezial3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 3
+http://ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR Spezial 4" tvg-id="NDRSpezial4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 4
+http://ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR Spezial 5" tvg-id="NDRSpezial5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 5
+http://ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR Spezial 6" tvg-id="NDRSpezial6.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 6
+http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="BR Event 1" tvg-id="BREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 1
+http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="BR Event 2" tvg-id="BREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 2
+http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="BR Event 3" tvg-id="BREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 3
+http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="BR Event 4" tvg-id="BREvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 4
+http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-b.m3u8
+#EXTINF:-1 tvg-name="MDR+ 1" tvg-id="MDRPlus1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 1
+http://liveevent1.mdr.de/i/livetvmdrevent1_ww@106904/index_3871_av-p.m3u8
+#EXTINF:-1 tvg-name="MDR+ 2" tvg-id="MDRPlus2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 2
+http://liveevent2.mdr.de/i/livetvmdrevent2_ww@106905/index_3871_av-p.m3u8
+#EXTINF:-1 tvg-name="MDR+ 3" tvg-id="MDRPlus3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 3
+http://liveevent2.mdr.de/i/livetvmdrevent3_ww@106905/index_3871_av-p.m3u8
+#EXTINF:-1 tvg-name="HR Event 1" tvg-id="HREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",HR Event 1
+http://hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8
+#EXTINF:-1 tvg-name="HR Event 2" tvg-id="HREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",HR Event 2
+http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
+#EXTINF:-1 tvg-name="rbb Event 1" tvg-id="RBBEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png",rbb Event 1
+http://rbbevent01-lh.akamaihd.net/i/rbbevent01_nongeo@22155/index_2692_av-p.m3u8
+#EXTINF:-1 tvg-name="rbb Event 2" tvg-id="RBBEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbb.png",rbb Event 2
+https://rbbevent02-lh.akamaihd.net/i/rbbevent02_nongeo@22197/index_2692_av-p.m3u8
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 1" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Parlamentsfernsehen 1
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-name="Parlamentsfernsehen 2" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",Parlamentsfernsehen 2
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
+#EXTINF:-1 tvg-name="EbS Live (Europe by Satellite)" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png",EbS Live (Europe by Satellite)
+https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
+#EXTINF:-1 tvg-name="EbS+ Live (Europe by Satellite)" tvg-id="" group-title="Extra;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png",EbS+ Live (Europe by Satellite)
+https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
+#EXTINF:-1 tvg-name="Sky News Extra" tvg-id="SkyNewsExtra.au" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skynewsextra.png",Sky News Extra
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-name="Deutsche Welle (ES)" tvg-id="DeutscheWelleES.de" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle (ES)
+http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8
+#EXTINF:-1 tvg-name="Press TV" tvg-id="PressTV.uk" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/presstv.png",Press TV
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="CHCH" tvg-id="CHCH.cdn" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chch.png",CHCH
+https://bcovlive-a.akamaihd.net/45a29af6ec4341539ddd3dd505c4b669/us-west-2/5644964886001/playlist.m3u8
+#EXTINF:-1 tvg-name="TVNZ 1" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz1.png",TVNZ 1
+https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
+#EXTINF:-1 tvg-name="TVNZ 2" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz2.png",TVNZ 2
+https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
+#EXTINF:-1 tvg-name="Three" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/three.png",Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1 tvg-name="ARTE HD (FR)" tvg-id="ARTE.fr" group-title="International;Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD (FR)
+https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-b.m3u8
+#EXTINF:-1 tvg-name="France 24" tvg-id="France24.fr" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-name="NRJ HITS TV" tvg-id="NRJHits.fr" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrjhitstv.png",NRJ HITS TV
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="BFMTV" tvg-id="BFMTV.fr" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bfmtv.png",BFMTV
+https://bfmtvalive1-a.akamaihd.net/8a3483ffeb9d40f0a738c1392f2bcc14/eu-central-1/876450610001/profile_0/da8e1b0dc391423390d09277e66af0b9/chunklist_ssaiM.m3u8
+#EXTINF:-1 tvg-name="XITE" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/xite.png",XITE
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="TV 538" tvg-id="TV538.nl" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tv538.png",TV 538
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
+#EXTINF:-1 tvg-name="SDF" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png",SDF
+https://livestream.goinfo.it/SDFLive/sdfros/playlist.m3u8
+#EXTINF:-1 tvg-name="m2o Tv" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m2otv.png",m2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-name="Rai News 24" tvg-id="RaiNews.it" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rainews24.png",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-name="supertennis.tv" tvg-id="SuperTennis.it" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/supertennis.png",supertennis.tv
+http://livetok.flash.glb.ipercast.net/supertennis.tv-live/live_490.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Fjorton" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fjorton.png",Fjorton
+http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Digi 24 HD" tvg-id="digi24.ro" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/digi24hd.png",Digi 24 HD
+http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
+#EXTINF:-1 tvg-name="ProTv News" tvg-id="ProTVInternational.ro" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/protvnews.png",ProTv News
+http://185.133.64.237/news/stream:1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Realitatea TV" tvg-id="RealitateaTV.ro" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/realitateatv.png",Realitatea TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="Romania TV" tvg-id="RomaniaTV.ro" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/romaniatv.png",Romania TV
+http://ppext.arktv.ro/hls/channel6/bitrate4.m3u8
+#EXTINF:-1 tvg-name="Sitel" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sitel.png",Sitel
+http://51.255.92.232:1935/sitel/sitel.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 5" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kanal5.png",Kanal 5
+http://37.187.158.217:8081/kanal5/kanal5/playlist.m3u8
+#EXTINF:-1 tvg-name="Alfa" tvg-id="Alfa.hr" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alfa.png",Alfa
+http://37.187.158.217:8081/alfa/tvalfa2/playlist.m3u8
+#EXTINF:-1 tvg-name="Telma" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telma.png",Telma
+http://37.187.158.217:8081/telma/telma_360pp/playlist.m3u8
+#EXTINF:-1 tvg-name="24 Vesti" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/24vesti.png",24 Vesti
+http://37.187.158.217:8081/24vesti/24vesti/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT World HD" tvg-id="TRTworld.nws" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trtworld.png",TRT World HD
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-name="RT HD" tvg-id="RussiaToday.uk" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png",RT HD
+https://www.youtube.com/embed/NvCSr7qzAAM
+#EXTINF:-1 tvg-name="RT Spanish HD" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png",RT Spanish HD
+https://www.youtube.com/embed/9DXGrOU5wKQ
+#EXTINF:-1 tvg-name="RT Documentary" tvg-id="RTDocumentary.pl" group-title="International;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtdocumentary.png",RT Documentary
+https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8
+#EXTINF:-1 tvg-name="MetroTV" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png",MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1322909361_b1300000_sleng.m3u8
+#EXTINF:-1 tvg-name="NHK WORLD TV" tvg-id="" group-title="International;Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png",NHK WORLD TV
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="AlJazeeraArabe.nws" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeera.png",Al Jazeera
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-id="AlJazeera.nws" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="Dubai One" tvg-id="DubaiOne.net" group-title="International;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dubaione.png",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-name="KVF" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png",KVF
+https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w121411721_b5000000_slfao.m3u8
+#EXTINF:-1 tvg-name="ALBUK TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/albuktv.png",ALBUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="RTÉ News Now" tvg-id="RTENewsNow.ie" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtenewsnow.png",RTÉ News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Mello TV" tvg-id="" group-title="International;Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mellotv.png",Mello TV
+https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/a1e0ad3f_1_1376000/chunklist.m3u8
+#EXTINF:-1 tvg-name="Channel NewsAsia" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/channelnewsasia.png",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png",ALEX Berlin
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="allgäu.tv" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv
+https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Baden TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png",Baden TV
+http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Chemnitz Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chemnitzfernsehen.png",Chemnitz Fernsehen
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="DRF1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/drf1.png",DRF1
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5713-mbr.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-name="Dresden Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png",Dresden Fernsehen
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
+https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
+#EXTINF:-1 tvg-name="Hamburg 1" tvg-id="Hamburg1.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hamburg1.png",Hamburg 1
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:7651-sbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KabelJournal" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kabeljournal.png",KabelJournal
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="L-TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png",L-TV
+https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/playlist.m3u8
+#EXTINF:-1 tvg-name="Leipzig Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/leipzigfernsehen.png",Leipzig Fernsehen
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",münchen.tv
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="noa4 Hamburg HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Hamburg HD
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-name="noa4 Norderstedt HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Norderstedt HD
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-name="NRWision HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png",NRWision HD
+https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
+#EXTINF:-1 tvg-name="Oberpfalz TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oberpfalztv.png",Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="OK4 (Adenau Andernach Koblenz Neuwied)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png",OK4 (Adenau Andernach Koblenz Neuwied)
+https://s.ok54.de/ok4/live/chunks.m3u8
+#EXTINF:-1 tvg-name="OK54 (Trier)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png",OK54 (Trier)
+https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="OK Kaiserslautern" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkaiserslautern.png",OK Kaiserslautern
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 tvg-name="OK naheTV (Idar-Oberstein)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oknahetv.png",OK naheTV (Idar-Oberstein)
+https://s.ok54.de/nahetv/webstream/chunks.m3u8
+#EXTINF:-1 tvg-name="OK RheinLokal (Worms)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinlokal.png",OK RheinLokal (Worms)
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
+#EXTINF:-1 tvg-name="OK Suedwestpfalz" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksuedwestpfalz.png",OK Suedwestpfalz
+https://s.ok54.de/okswp/test/chunks.m3u8
+#EXTINF:-1 tvg-name="OK Weinstraße (Neustadt)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png",OK Weinstraße (Neustadt)
+https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
+#EXTINF:-1 tvg-name="OK Flensburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fltv.png",OK Flensburg
+https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 tvg-name="OK Kiel" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kieltv.png",OK Kiel
+https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
+#EXTINF:-1 tvg-name="OK Merseburg-Querfurt" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png",OK Merseburg-Querfurt
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Rhein-Main (Offenbach Frankfurt)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinmain.png",OK Rhein-Main (Offenbach Frankfurt)
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Fulda" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okfulda.png",OK Fulda
+https://s.ok54.de/mok-fu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Gießen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okgiessen.png",OK Gießen
+https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Kassel" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkassel.png",OK Kassel
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Ludwigshafen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okludwigshafen.png",OK Ludwigshafen
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Dessau" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png",OK Dessau
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Magdeburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png",OK Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Salzwedel" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png",OK Salzwedel
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Stendal" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png",OK Stendal
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-name="OK Wernigerode" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png",OK Wernigerode
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-name="Tide TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png",Tide TV
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="BLK Regional TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blkregionaltv.png",BLK Regional TV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-name="kulturmd" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kulturmd.png",kulturmd
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-name="MDF.1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdf1.png",MDF.1
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-name="PUNKTum" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png",PUNKTum
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-name="RFH" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfh.png",RFH
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-name="WTV (OK Wettin)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wtv.png",WTV (OK Wettin)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wettin_high/playlist.m3u8
+#EXTINF:-1 tvg-name="RAN1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ran1.png",RAN1
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-name="RBW" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbw.png",RBW
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Halle" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvhalle.png",TV Halle
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
+#EXTINF:-1 tvg-name="ELBEKANAL" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/elbekanal.png",ELBEKANAL
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
+#EXTINF:-1 tvg-name="seenluft24" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png",seenluft24
+https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8
+#EXTINF:-1 tvg-name="oldenburg eins" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
+https://oeins.de/live/studio.m3u8
+#EXTINF:-1 tvg-name="Potsdam TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png",Potsdam TV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
+#EXTINF:-1 tvg-name="Regio TV Schwaben" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png",Regio TV Schwaben
+https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Rhein Neckar Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png",Rhein Neckar Fernsehen
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="rheinmaintv" tvg-id="rheinmaintv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png",rheinmaintv
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Sylt1" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
+https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Niederbayern TV Passau" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/niederbayerntv.png",Niederbayern TV Passau
+https://stream03.stream.welocal.world/stream/npa/ngrp:npa.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Mittelrhein" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png",TV Mittelrhein
+https://sdn-global-live-http-cache.3qsdn.com/2979/amlst:5714-sbr/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Mainfranken" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png",TV Mainfranken
+https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Würzburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png",TV Würzburg
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="tv.berlin" tvg-id="TVBerlin.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvberlin.png",tv.berlin
+https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
+#EXTINF:-1 tvg-name="TVA" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png",TVA
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="TVO" tvg-id="tvo.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png",TVO
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Westerwald TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png",Westerwald TV
+https://sdn-global-live-http-cache.3qsdn.com/2980/amlst:5715-sbr/playlist.m3u8
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_4_av-p.m3u8
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
+#EXTINF:-1 tvg-name="WELT" tvg-id="n24.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+#EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
+https://www.youtube.com/embed/8khg_k7nhuU
+#EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNewsHD.de" group-title="Nachrichten;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD
+https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
+#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-name="eoTV HD" tvg-id="eoTV.de" group-title="Filme / Serien" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png",eoTV HD
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
+#EXTINF:-1 tvg-name="RiC / eoTV" tvg-id="RiC.de" group-title="Filme / Serien;Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png",RiC / eoTV
+https://www.youtube.com/embed/lpNnFuJXDV4
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
+https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master_720.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nick.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Germany
+https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
+http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="nice" tvg-id="" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nice.png",nice
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:4195-mbr.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-name="Folx TV" tvg-id="FolxTV.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png",Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV
+https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Bibel TV Impuls" tvg-id="BibelTVImpuls.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Impuls
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bibel TV Musik" tvg-id="BibelTVMusik.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Musik
+http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-name="EWTN katholisches TV" tvg-id="EWTN.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png",EWTN katholisches TV
+https://cdn3.wowza.com/1/REZwSm9UWEFxcmt3/REROU1NK/hls/wstqs3gh/2728/chunklist.m3u8
+#EXTINF:-1 tvg-name="ERF 1" tvg-id="ERFeins.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png",ERF 1
+http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8
+#EXTINF:-1 tvg-name="health.tv" tvg-id="" group-title="Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png",health.tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="VISIT-X.tv" tvg-id="" group-title="Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png",VISIT-X.tv
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master_3680.m3u8
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
+https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master_3744.m3u8
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWR-rp.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Rheinland-Pfalz HD
+https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master_3744.m3u8
+#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR Schleswig-Holstein HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Schleswig-Holstein HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Mecklenburg-Vorpommern HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR Hamburg HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Hamburg HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png",Radio Bremen TV HD
+https://rbfs-lh.akamaihd.net/i/rb_fs@438960/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt HD" tvg-id="MDRS-Anhalt.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen-Anhalt HD
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master_1280x720.m3u8
+#EXTINF:-1 tvg-name="MDR Thüringen HD" tvg-id="MDRThuringen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Thüringen HD
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master_1280x720.m3u8
+#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
+#EXTINF:-1 tvg-name="rbb Brandenburg HD" tvg-id="rbbBrandenburg.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Brandenburg HD
+https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_5_av-p.m3u8
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
+http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
+#EXTINF:-1 tvg-name="Deutsche Welle" tvg-id="DeutscheWelleDE.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="Deutsche Welle+" tvg-id="DeutscheWelleDE+.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle+
+http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="Deutsche Welle (EN)" tvg-id="DeutscheWelleEN.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle (EN)
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
+https://123tv.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 tvg-name="pearl.tv" tvg-id="" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png",pearl.tv
+http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
+#EXTINF:-1 tvg-name="QVC" tvg-id="QVC.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC
+http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-name="QVC PLUS" tvg-id="QVCPlus.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png",QVC PLUS
+http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-name="QVC Beauty & Style" tvg-id="" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcbeautystyle.png",QVC Beauty & Style
+http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-name="Genius Plus TV" tvg-id="" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/geniusplustv.png",Genius Plus TV
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
+#EXTINF:-1 tvg-name="Adult Swim" tvg-id="" group-title="International;Comedy" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1 tvg-name="JUCE TV" tvg-id="" group-title="International;Religion;Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/jucetv.png",JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
+#EXTINF:-1 tvg-name="NASA TV" tvg-id="NASA.us" group-title="International;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nasatv.png",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-name="CBSN" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbsn.png",CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+#EXTINF:-1 tvg-name="CBN News" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-b.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-id="Bloomberg.nws" group-title="International;Wirtschaft" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bloombergtv.png",Bloomberg TV
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-name="SBN" tvg-id="SonLife.uk" group-title="International;Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sbn.png",SBN
+https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/ch70/ch70.m3u8
+#EXTINF:-1 tvg-name="GOD TV" tvg-id="GODChannel.uk" group-title="International;Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/godtv.png",GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@745545/index_720_av-p.m3u8
+#EXTINF:-1 tvg-name="Voice of America" tvg-id="VOA.com" group-title="International;Nachrichten;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/voiceofamerica.png",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 tvg-name="KTVU Fox 2" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktvufox2.png",KTVU Fox 2
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+#EXTINF:-1 tvg-name="MSNBC" tvg-id="MSNBC.us" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/msnbc.png",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
+#EXTINF:-1 tvg-name="WGN-TV" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wgntv.png",WGN-TV
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-name="CMC" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png",CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:-1 tvg-name="Hunt Channel" tvg-id="" group-title="International;Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/huntchannel.png",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-name="Create & Craft TV" tvg-id="CreateCraft.uk" group-title="International;Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/createandcraft.png",Create & Craft TV
+https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+#EXTINF:-1 tvg-name="Capital TV" tvg-id="CapitalTV.uk" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/capitaltv.png",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1 tvg-name="Heart TV" tvg-id="HeartTV.uk" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hearttv.png",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8
+#EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skynews.png",Sky News
+https://www.youtube.com/embed/9Auq9mYxFEE
+#EXTINF:-1 tvg-name="London Live" tvg-id="LondonLive.uk" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
