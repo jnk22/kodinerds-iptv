@@ -4,6 +4,8 @@ import glob
 import re
 import yaml
 
+category_ids = { "radio" : 2, "tv" : 1 }
+
 subcategory_ids = {
     "tv" :
     {
@@ -37,16 +39,21 @@ for filename in m3u_files:
     m = re.search("clean_(.*)_(.*).m3u", filename)
     category = m.group(1)
     if not category in streams:
-        streams[category] = {}
+        category_id = 0
+        if category in category_ids:
+            category_id = category_ids[category]
+        else:
+            print("WARNING: could not determine category ID for \"" + category + "\"")
+        streams[category] = { "id" : category_id, "subcategories" : {} }
     subcategory = m.group(2)
-    if not subcategory in streams[category]:
+    if not subcategory in streams[category]["subcategories"]:
         subcategory_id = 0
         if category in subcategory_ids:
             if subcategory in subcategory_ids[category]:
                 subcategory_id = subcategory_ids[category][subcategory]
         if subcategory_id == 0:
             print("WARNING: could not determine subcategory ID for \"" + subcategory + "\"")
-        streams[category][subcategory] = { "id" : subcategory_id, "streams" : [] }
+        streams[category]["subcategories"][subcategory] = { "id" : subcategory_id, "streams" : [] }
 
     extinf_found = False
     with open(filename) as m3u:
@@ -69,12 +76,12 @@ for filename in m3u_files:
             else:
                 if extinf_found:
                     url = line.strip()
-                    if name in streams[category][subcategory]:
+                    if name in streams[category]["subcategories"][subcategory]:
                         print("WARNING: duplicate name \"" + name + "\". Ignoring.")
                     else:
                         stream = {"name": name, "tvg_id": tvg_id, "tvg_name": tvg_name, "group_title": group_title, "group_title_kodi": "", "tvg_logo": tvg_logo, "url": url, "quality": ""}
                         stream["radio"] = (category == "radio")
-                        streams[category][subcategory]["streams"].append(stream)
+                        streams[category]["subcategories"][subcategory]["streams"].append(stream)
                     extinf_found = False
 
 # read .m3u for Kodi (uses different group titles)
@@ -86,7 +93,7 @@ for filename in m3u_files:
         print("WARNING: category \"" + category + "\" exists only in Kodi list. Ignoring.")
         continue
     subcategory = m.group(2)
-    if not subcategory in streams[category]:
+    if not subcategory in streams[category]["subcategories"]:
         print("WARNING: category \"" + category + "\", subcategory \"" + subcategory + "\" exists only in Kodi list. Ignoring.")
         continue
     with open(filename) as m3u:
@@ -97,7 +104,7 @@ for filename in m3u_files:
                 m = re.search(".*,(.*)", line)
                 name = m.group(1).strip()
                 found = False
-                for stream in streams[category][subcategory]["streams"]:
+                for stream in streams[category]["subcategories"][subcategory]["streams"]:
                     if stream["name"] == name:
                         stream["group_title_kodi"] = group_title
                         found = True
@@ -114,7 +121,7 @@ for filename in m3u_files:
         print("WARNING: category \"" + category + "\" exists only in pipe list. Ignoring.")
         continue
     subcategory = m.group(2)
-    if not subcategory in streams[category]:
+    if not subcategory in streams[category]["subcategories"]:
         print("WARNING: category \"" + category + "\", subcategory \"" + subcategory + "\" exists only in pipe list. Ignoring.")
         continue
     with open(filename) as m3u:
@@ -129,7 +136,7 @@ for filename in m3u_files:
                     if m:
                         quality = m.group(1)
                         found = False
-                        for stream in streams[category][subcategory]["streams"]:
+                        for stream in streams[category]["subcategories"][subcategory]["streams"]:
                             if stream["name"] == name:
                                 stream["quality"] = quality
                                 found = True
