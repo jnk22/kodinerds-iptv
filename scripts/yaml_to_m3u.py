@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+from collections import OrderedDict
 import yaml
 
 def write_clean(content):
@@ -8,10 +9,10 @@ def write_clean(content):
         for category_name, category in content.items():
             with open("iptv/clean/clean_" + category_name + ".m3u", 'w') as category_file:
                 category_file.write("#EXTM3U\n")
-                for subcategory_name, subcategory in category.items():
+                for subcategory_name, subcategory in OrderedDict(sorted(category.items(), key=lambda x: x[1]["id"])).items():
                     with open("iptv/clean/clean_" + category_name + "_" + subcategory_name + ".m3u", 'w') as subcategory_file:
                         subcategory_file.write("#EXTM3U\n")
-                        for stream in subcategory:
+                        for stream in subcategory["streams"]:
                             radio_str = ""
                             tvg_id_str = ""
                             if stream["radio"]:
@@ -33,10 +34,10 @@ def write_kodi(content):
         for category_name, category in content.items():
             with open("iptv/kodi/kodi_" + category_name + ".m3u", 'w') as category_file:
                 category_file.write("#EXTM3U\n")
-                for subcategory_name, subcategory in category.items():
+                for subcategory_name, subcategory in OrderedDict(sorted(category.items(), key=lambda x: x[1]["id"])).items():
                     with open("iptv/kodi/kodi_" + category_name + "_" + subcategory_name + ".m3u", 'w') as subcategory_file:
                         subcategory_file.write("#EXTM3U\n")
-                        for stream in subcategory:
+                        for stream in subcategory["streams"]:
                             radio_str = ""
                             tvg_id_str = ""
                             if stream["radio"]:
@@ -58,10 +59,10 @@ def write_pipe(content):
         for category_name, category in content.items():
             with open("iptv/pipe/pipe_" + category_name + ".m3u", 'w') as category_file:
                 category_file.write("#EXTM3U\n")
-                for subcategory_name, subcategory in category.items():
+                for subcategory_name, subcategory in OrderedDict(sorted(category.items(), key=lambda x: x[1]["id"])).items():
                     with open("iptv/pipe/pipe_" + category_name + "_" + subcategory_name + ".m3u", 'w') as subcategory_file:
                         subcategory_file.write("#EXTM3U\n")
-                        for stream in subcategory:
+                        for stream in subcategory["streams"]:
                             radio_str = ""
                             tvg_id_str = ""
                             if stream["radio"]:
