@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FM4" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
-http://mp3stream1.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
-http://mp3stream7.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Klassik Radio" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png",Klassik Radio
-http://klassikradio.hoerradar.de/klassikradio-live-mp3-mq
-#EXTINF:-1 tvg-name="KRONEHIT" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT
-http://onair.krone.at:80/kronehit.mp3
-#EXTINF:-1 tvg-name="KRONEHIT Dance" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT Dance
-http://onair.krone.at:80/kronehit-dance.mp3
-#EXTINF:-1 tvg-name="Life Radio" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png",Life Radio
-http://liferadio.stream.kapper.net:8000/liferadio
-#EXTINF:-1 tvg-name="Ö1" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1
-http://mp3stream3.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Ö1 Campus" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1 Campus
-http://mp3stream4.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Radio Niederösterreich" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioniederoesterreich.png",Radio Niederösterreich
-http://mp3stream8.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Radio Steiermark" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosteiermark.png",Radio Steiermark
-http://mp3stream9.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Radio Tirol" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotirol.png",Radio Tirol
-http://mp3stream10.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Radio Wien" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiowien.png",Radio Wien
-http://mp3stream2.apasf.apa.at:8000/
-#EXTINF:-1 tvg-name="Radio SRF 1" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf1.png",Radio SRF 1
-http://stream.srg-ssr.ch/m/drs1/mp3_128
-#EXTINF:-1 tvg-name="Radio SRF 2 Kultur" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf2kultur.png",Radio SRF 2 Kultur
-http://stream.srg-ssr.ch/m/drs2/mp3_128
-#EXTINF:-1 tvg-name="Radio SRF 3" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf3.png",Radio SRF 3
-http://stream.srg-ssr.ch/m/drs3/mp3_128
-#EXTINF:-1 tvg-name="Radio SRF 4 News" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf4news.png",Radio SRF 4 News
-http://stream.srg-ssr.ch/m/drs4news/mp3_128
-#EXTINF:-1 tvg-name="Radio SRF Musikwelle" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfmusikwelle.png",Radio SRF Musikwelle
-http://stream.srg-ssr.ch/m/drsmw/mp3_128
-#EXTINF:-1 tvg-name="Radio SRF Virus" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfvirus.png",Radio SRF Virus
-http://stream.srg-ssr.ch/m/drsvirus/mp3_128
 #EXTINF:-1 tvg-name="100'5 Alemannia" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 Alemannia
 https://stream.dashitradio.de/alemannia/mp3-128/stream.mp3
 #EXTINF:-1 tvg-name="100'5 DAS HITRADIO" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png",100'5 DAS HITRADIO
@@ -311,6 +275,74 @@ http://hr-youfm-club.cast.addradio.de/hr/youfm/club/mp3/128/stream.mp3
 http://hr-youfm-justmusic.cast.addradio.de/hr/youfm/justmusic/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="YOU FM Sounds" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png",YOU FM Sounds
 http://hr-youfm-sounds.cast.addradio.de/hr/youfm/sounds/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="FM4" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
+http://mp3stream1.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
+http://mp3stream7.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Klassik Radio" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png",Klassik Radio
+http://klassikradio.hoerradar.de/klassikradio-live-mp3-mq
+#EXTINF:-1 tvg-name="KRONEHIT" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT
+http://onair.krone.at:80/kronehit.mp3
+#EXTINF:-1 tvg-name="KRONEHIT Dance" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT Dance
+http://onair.krone.at:80/kronehit-dance.mp3
+#EXTINF:-1 tvg-name="Life Radio" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png",Life Radio
+http://liferadio.stream.kapper.net:8000/liferadio
+#EXTINF:-1 tvg-name="Ö1" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1
+http://mp3stream3.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Ö1 Campus" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1 Campus
+http://mp3stream4.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio Niederösterreich" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioniederoesterreich.png",Radio Niederösterreich
+http://mp3stream8.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio Steiermark" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosteiermark.png",Radio Steiermark
+http://mp3stream9.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio Tirol" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotirol.png",Radio Tirol
+http://mp3stream10.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio Wien" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiowien.png",Radio Wien
+http://mp3stream2.apasf.apa.at:8000/
+#EXTINF:-1 tvg-name="Radio SRF 1" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf1.png",Radio SRF 1
+http://stream.srg-ssr.ch/m/drs1/mp3_128
+#EXTINF:-1 tvg-name="Radio SRF 2 Kultur" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf2kultur.png",Radio SRF 2 Kultur
+http://stream.srg-ssr.ch/m/drs2/mp3_128
+#EXTINF:-1 tvg-name="Radio SRF 3" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf3.png",Radio SRF 3
+http://stream.srg-ssr.ch/m/drs3/mp3_128
+#EXTINF:-1 tvg-name="Radio SRF 4 News" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf4news.png",Radio SRF 4 News
+http://stream.srg-ssr.ch/m/drs4news/mp3_128
+#EXTINF:-1 tvg-name="Radio SRF Musikwelle" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfmusikwelle.png",Radio SRF Musikwelle
+http://stream.srg-ssr.ch/m/drsmw/mp3_128
+#EXTINF:-1 tvg-name="Radio SRF Virus" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfvirus.png",Radio SRF Virus
+http://stream.srg-ssr.ch/m/drsvirus/mp3_128
+#EXTINF:-1 tvg-name="BBC Asian Network" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcasiannetwork.png",BBC Asian Network
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 1" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1.png",BBC Radio 1
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 1Xtra" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1xtra.png",BBC Radio 1Xtra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 2" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio2.png",BBC Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 3" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio3.png",BBC Radio 3
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 4" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4.png",BBC Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 4 Extra" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4extra.png",BBC Radio 4 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 5 Live" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio5live.png",BBC Radio 5 Live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:-1 tvg-name="BBC Radio 6 Music" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio6music.png",BBC Radio 6 Music
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Cymru" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiocymru.png",BBC Radio Cymru
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Foyle" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiofoyle.png",BBC Radio Foyle
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p
+#EXTINF:-1 tvg-name="BBC Radio nan Gàidheal" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradionangaidheal.png",BBC Radio nan Gàidheal
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Scotland" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioscotland.png",BBC Radio Scotland
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Ulster" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioulster.png",BBC Radio Ulster
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p
+#EXTINF:-1 tvg-name="BBC Radio Wales" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiowales.png",BBC Radio Wales
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p
+#EXTINF:-1 tvg-name="BBC World Service" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcworldservice.png",BBC World Service
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
 #EXTINF:-1 tvg-name="Mouv'" group-title="Radio-FR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png",Mouv'
 http://direct.mouv.fr/live/mouv-midfi.mp3
 #EXTINF:-1 tvg-name="Radio Nova" group-title="Radio-FR" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radionova.png",Radio Nova
@@ -373,35 +405,3 @@ http://zet.cdn.eurozet.pl/ZETPL1.mp3
 http://zet.cdn.eurozet.pl/ZETROK.mp3
 #EXTINF:-1 tvg-name="RMF FM" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png",RMF FM
 http://195.150.20.243/RMFFM48
-#EXTINF:-1 tvg-name="BBC Asian Network" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcasiannetwork.png",BBC Asian Network
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 1" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1.png",BBC Radio 1
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 1Xtra" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1xtra.png",BBC Radio 1Xtra
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 2" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio2.png",BBC Radio 2
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 3" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio3.png",BBC Radio 3
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 4" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4.png",BBC Radio 4
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 4 Extra" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4extra.png",BBC Radio 4 Extra
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 5 Live" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio5live.png",BBC Radio 5 Live
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
-#EXTINF:-1 tvg-name="BBC Radio 6 Music" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio6music.png",BBC Radio 6 Music
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
-#EXTINF:-1 tvg-name="BBC Radio Cymru" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiocymru.png",BBC Radio Cymru
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru_mf_p
-#EXTINF:-1 tvg-name="BBC Radio Foyle" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiofoyle.png",BBC Radio Foyle
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p
-#EXTINF:-1 tvg-name="BBC Radio nan Gàidheal" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradionangaidheal.png",BBC Radio nan Gàidheal
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p
-#EXTINF:-1 tvg-name="BBC Radio Scotland" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioscotland.png",BBC Radio Scotland
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p
-#EXTINF:-1 tvg-name="BBC Radio Ulster" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioulster.png",BBC Radio Ulster
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p
-#EXTINF:-1 tvg-name="BBC Radio Wales" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiowales.png",BBC Radio Wales
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p
-#EXTINF:-1 tvg-name="BBC World Service" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcworldservice.png",BBC World Service
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
