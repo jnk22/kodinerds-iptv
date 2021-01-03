@@ -1849,6 +1849,15 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcworldservice.png
         tvg_name: BBC World Service
         url: http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+      - group_title: Radio-UK
+        group_title_kodi: Großbritannien
+        name: Classic FM
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/classicfm.png
+        tvg_name: Classic FM
+        url: http://media-ice.musicradio.com:80/ClassicFMMP3
 tv:
   id: 1
   subcategories:
