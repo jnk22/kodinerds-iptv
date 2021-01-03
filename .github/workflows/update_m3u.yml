@@ -1,0 +1,21 @@
+name: Update .m3u files
+on: push
+
+jobs:
+  run:
+    name: Update .m3u files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Run script
+        run: ./scripts/yaml_to_m3u.py
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v6
+        with:
+          author_name: Update Bot
+          author_email: update-bot@example.com
+          message: 'Update .m3u files'
+          add: '*.m3u'
