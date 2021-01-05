@@ -2805,7 +2805,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png
         tvg_name: NHK WORLD TV
-        url: https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+        url: https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
       - group_title: IPTV-QA
         group_title_kodi: International;Nachrichten
         name: Al Jazeera
