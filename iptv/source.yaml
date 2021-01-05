@@ -1463,7 +1463,7 @@ radio:
         quality: ''
         radio: true
         tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebrandenburg.png
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbKutur.png
         tvg_name: rbb Kultur
         url: http://rbb-kulturradio-live.cast.addradio.de/rbb/kulturradio/live/mp3/192/stream.mp3
       - group_title: Radio-DE
