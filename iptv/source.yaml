@@ -1101,13 +1101,299 @@ radio:
         url: http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: RADIO BOB!
+        name: RADIO BOB! national
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB!
-        url: http://streams.radiobob.de/bob-live/mp3-192/mediaplayer
+        url: https://bob.hoerradar.de/radiobob-national-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! NRW
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/bob-live-nrw-mitte-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Schleswig-Holstein
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-shlive-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Hessen
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-live-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Metal
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-metal-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Alternative Rock
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-alternativerock-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Classic Rock
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-classicrock-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! ACDC
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-acdc-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Deutschrock
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-deutschrock-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Wacken
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-wacken-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Grunge
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-grunge-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! 90er Rock
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-90srock-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Hardrock
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-hardrock-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Metalcore
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-metalcore-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Metallica
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-metallica-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Tobias Sammet Rockshow
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-sammet-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Mittelalter Rock
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-mittelalter-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Symphonic Metal
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-symphmetal-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Punk
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-punk-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Kuschelrock
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-kuschelrock-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Death Metal
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-deathmetal-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Rockparty
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-rockparty-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Southern Rock
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-southernrock-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Der Dunkle Parabelritter
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-dunklepritter-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Newcomer
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-newcomer-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Gothic Rock
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-gothic-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Best of Rock
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-bestofrock-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Festival
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-festival-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Unplugged
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-chillout-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Rockabilly
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-rockabilly-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Harte Saite
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-hartesaite-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Singer-Songwriter
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-singersong-mp3-hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: RADIO BOB! Rock Hits
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
+        tvg_name: RADIO BOB!
+        url: https://bob.hoerradar.de/radiobob-rockhits-mp3-hq
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Radio Brocken
