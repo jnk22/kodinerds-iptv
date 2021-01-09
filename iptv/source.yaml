@@ -3916,7 +3916,7 @@ tv:
         tvg_id: Kika.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png
         tvg_name: KiKA
-        url: https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master_720.m3u8
+        url: https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master_1080.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Kinder / Jugend
         name: Nickelodeon
@@ -4180,7 +4180,7 @@ tv:
         tvg_id: rbbBerlin.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png
         tvg_name: rbb Berlin HD
-        url: https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
+        url: https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_4_av-p.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: rbb Brandenburg HD
@@ -4189,7 +4189,7 @@ tv:
         tvg_id: rbbBrandenburg.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png
         tvg_name: rbb Brandenburg HD
-        url: https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_5_av-p.m3u8
+        url: https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_4_av-p.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: SR Fernsehen HD
