@@ -169,6 +169,15 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfvirus.png
         tvg_name: Radio SRF Virus
         url: http://stream.srg-ssr.ch/m/drsvirus/mp3_128
+      - group_title: Radio-CH
+        group_title_kodi: Schweiz
+        name: Radio Swiss Pop
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioswisspop.png
+        tvg_name: Radio Swiss Pop
+        url: http://stream.srg-ssr.ch/m/rsp/mp3_128
     de:
       id: 1
       streams:
