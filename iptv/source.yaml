@@ -3513,7 +3513,7 @@ tv:
         tvg_id: ARD-alpha.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png
         tvg_name: ARD-alpha
-        url: https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_1_av-p.m3u8
+        url: https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3660_av-p.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
         name: one HD
@@ -3576,7 +3576,7 @@ tv:
         tvg_id: euronews.com
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png
         tvg_name: euronews deutsch
-        url: https://www.youtube.com/embed/8khg_k7nhuU
+        url: https://www.youtube.com/embed/gdyuPcnSDuY
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten;Sport
         name: Sky Sport News HD
@@ -3831,7 +3831,7 @@ tv:
         tvg_id: BR.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png
         tvg_name: BR Fernsehen Nord HD
-        url: https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
+        url: https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1960_av-p.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: BR Fernsehen Süd HD
@@ -3885,7 +3885,7 @@ tv:
         tvg_id: rbbBerlin.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png
         tvg_name: rbb Berlin HD
-        url: https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
+        url: https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_3_av-p.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: rbb Brandenburg HD
@@ -3894,7 +3894,7 @@ tv:
         tvg_id: rbbBrandenburg.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png
         tvg_name: rbb Brandenburg HD
-        url: https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_5_av-p.m3u8
+        url: https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_3_av-p.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: SR Fernsehen HD
