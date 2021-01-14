@@ -885,6 +885,12 @@ http://stream.srg-ssr.ch/m/drs4news/mp3_128
 http://stream.srg-ssr.ch/m/drsmw/mp3_128
 #EXTINF:-1 tvg-name="Radio SRF Virus" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrfvirus.png",Radio SRF Virus
 http://stream.srg-ssr.ch/m/drsvirus/mp3_128
+#EXTINF:-1 tvg-name="Radio Swiss Pop" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioswisspop.png",Radio Swiss Pop
+http://stream.srg-ssr.ch/m/rsp/mp3_128
+#EXTINF:-1 tvg-name="Radio Swiss Classic" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioswissclassic.png",Radio Swiss Classic
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1 tvg-name="Radio Swiss Jazz" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioswissjazz.png",Radio Swiss Jazz
+http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-name="BBC Asian Network" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcasiannetwork.png",BBC Asian Network
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
 #EXTINF:-1 tvg-name="BBC Radio 1" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1.png",BBC Radio 1
