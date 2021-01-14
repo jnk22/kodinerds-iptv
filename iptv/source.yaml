@@ -3898,7 +3898,7 @@ tv:
         tvg_id: euronews.com
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png
         tvg_name: euronews deutsch
-        url: https://www.youtube.com/embed/8khg_k7nhuU
+        url: https://www.youtube.com/embed/gdyuPcnSDuY
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten;Sport
         name: Sky Sport News HD
@@ -4153,7 +4153,7 @@ tv:
         tvg_id: BR.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png
         tvg_name: BR Fernsehen Nord HD
-        url: https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
+        url: https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: BR Fernsehen Süd HD
