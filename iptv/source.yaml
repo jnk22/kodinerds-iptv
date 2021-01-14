@@ -1491,7 +1491,7 @@ radio:
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbKultur.png
-        tvg_name: rbb Kultur
+        tvg_name: rbbKultur
         url: http://rbb-kulturradio-live.cast.addradio.de/rbb/kulturradio/live/mp3/192/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
