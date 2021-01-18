@@ -2440,7 +2440,7 @@ tv:
         tvg_id: ARDEvent1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png
         tvg_name: ARD Event 1
-        url: http://wdr_ardevent1-lh.akamaihd.net/i/wdrardevent1_weltweit@112049/index_1_av-p.m3u8
+        url: http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: ARD Event 2
@@ -2449,7 +2449,7 @@ tv:
         tvg_id: ARDEvent2.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png
         tvg_name: ARD Event 2
-        url: http://wdr_ardevent2-lh.akamaihd.net/i/wdrardevent2_geogeblockt@112050/index_1_av-p.m3u8
+        url: https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: ZDF Event 1
