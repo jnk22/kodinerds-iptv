@@ -12,7 +12,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png
         tvg_name: FM4
-        url: http://mp3stream1.apasf.apa.at:8000/
+        url: https://orf-live.ors-shoutcast.at/fm4-q2a
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: Hitradio Ö3
@@ -66,7 +66,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png
         tvg_name: Ö1
-        url: http://mp3stream3.apasf.apa.at:8000/
+        url: https://orf-live.ors-shoutcast.at/oe1-q2a
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: Ö1 Campus
