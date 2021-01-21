@@ -4099,7 +4099,7 @@ tv:
         tvg_id: SWR.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png
         tvg_name: 'SWR Baden-Württemberg HD '
-        url: https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master_3744.m3u8
+        url: https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: SWR Rheinland-Pfalz HD
@@ -4108,7 +4108,7 @@ tv:
         tvg_id: SWR-rp.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png
         tvg_name: SWR Rheinland-Pfalz HD
-        url: https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master_3744.m3u8
+        url: https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: NDR Niedersachsen HD
