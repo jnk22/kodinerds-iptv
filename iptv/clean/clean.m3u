@@ -39,6 +39,8 @@ https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master_6848.m3u8
 https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_256_av-p.m3u8
 #EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Germany
 https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-name="MTV Music 24" tvg-id="MTVMusic24" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Music 24
+http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
 http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="nice" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nice.png",nice
