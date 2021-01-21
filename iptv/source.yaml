@@ -21,7 +21,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png
         tvg_name: Hitradio Ö3
-        url: http://mp3stream7.apasf.apa.at:8000/
+        url: https://orf-live.ors-shoutcast.at/oe3-q2a
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: Klassik Radio
@@ -75,7 +75,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png
         tvg_name: Ö1 Campus
-        url: http://mp3stream4.apasf.apa.at:8000/
+        url: https://orf-live.ors-shoutcast.at/campus-q2a
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: Radio Niederösterreich
@@ -84,7 +84,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioniederoesterreich.png
         tvg_name: Radio Niederösterreich
-        url: http://mp3stream8.apasf.apa.at:8000/
+        url: https://orf-live.ors-shoutcast.at/noe-q2a
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: Radio Steiermark
@@ -93,7 +93,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosteiermark.png
         tvg_name: Radio Steiermark
-        url: http://mp3stream9.apasf.apa.at:8000/
+        url: https://orf-live.ors-shoutcast.at/stm-q2a
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: Radio Tirol
@@ -102,7 +102,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotirol.png
         tvg_name: Radio Tirol
-        url: http://mp3stream10.apasf.apa.at:8000/
+        url: https://orf-live.ors-shoutcast.at/tir-q2a
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: Radio Wien
@@ -111,7 +111,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiowien.png
         tvg_name: Radio Wien
-        url: http://mp3stream2.apasf.apa.at:8000/
+        url: https://orf-live.ors-shoutcast.at/wie-q2a
     ch:
       id: 3
       streams:
