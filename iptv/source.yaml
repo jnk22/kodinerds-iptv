@@ -3118,7 +3118,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png
         tvg_name: MetroTV
-        url: http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1322909361_b1300000_sleng.m3u8
+        url: http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
       - group_title: IPTV-JP
         group_title_kodi: International;Nachrichten;Dokumentationen
         name: NHK WORLD TV
@@ -3952,7 +3952,7 @@ tv:
         tvg_id: Nick.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png
         tvg_name: Nickelodeon
-        url: https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_256_av-p.m3u8
+        url: https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: MTV Germany
@@ -4273,7 +4273,7 @@ tv:
         tvg_id: 123.tv.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png
         tvg_name: 1-2-3.tv
-        url: https://123tv.cdn.ses-ps.com/index.m3u8
+        url: https://123tv-mx1.flex-cdn.net/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Teleshopping
         name: pearl.tv
@@ -4291,7 +4291,7 @@ tv:
         tvg_id: QVC.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png
         tvg_name: QVC
-        url: http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
+        url: https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Teleshopping
         name: QVC PLUS
@@ -4300,7 +4300,7 @@ tv:
         tvg_id: QVCPlus.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png
         tvg_name: QVC PLUS
-        url: http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
+        url: https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Teleshopping
         name: QVC Beauty & Style
@@ -4309,7 +4309,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcbeautystyle.png
         tvg_name: QVC Beauty & Style
-        url: http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+        url: https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Teleshopping
         name: Genius Plus TV
@@ -4375,7 +4375,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png
         tvg_name: CBN News
-        url: http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-b.m3u8
+        url: https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
       - group_title: IPTV-US
         group_title_kodi: International;Wirtschaft
         name: Bloomberg TV
