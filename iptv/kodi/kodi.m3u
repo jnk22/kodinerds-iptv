@@ -854,7 +854,7 @@ http://hr-youfm-sounds.cast.addradio.de/hr/youfm/sounds/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="FM4" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
 https://orf-live.ors-shoutcast.at/fm4-q2a
 #EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
-http://mp3stream7.apasf.apa.at:8000/
+https://orf-live.ors-shoutcast.at/oe3-q2a
 #EXTINF:-1 tvg-name="Klassik Radio" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png",Klassik Radio
 http://klassikradio.hoerradar.de/klassikradio-live-mp3-mq
 #EXTINF:-1 tvg-name="KRONEHIT" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT
@@ -866,15 +866,15 @@ http://liferadio.stream.kapper.net:8000/liferadio
 #EXTINF:-1 tvg-name="Ö1" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1
 https://orf-live.ors-shoutcast.at/oe1-q2a
 #EXTINF:-1 tvg-name="Ö1 Campus" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1 Campus
-http://mp3stream4.apasf.apa.at:8000/
+https://orf-live.ors-shoutcast.at/campus-q2a
 #EXTINF:-1 tvg-name="Radio Niederösterreich" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioniederoesterreich.png",Radio Niederösterreich
-http://mp3stream8.apasf.apa.at:8000/
+https://orf-live.ors-shoutcast.at/noe-q2a
 #EXTINF:-1 tvg-name="Radio Steiermark" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosteiermark.png",Radio Steiermark
-http://mp3stream9.apasf.apa.at:8000/
+https://orf-live.ors-shoutcast.at/stm-q2a
 #EXTINF:-1 tvg-name="Radio Tirol" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiotirol.png",Radio Tirol
-http://mp3stream10.apasf.apa.at:8000/
+https://orf-live.ors-shoutcast.at/tir-q2a
 #EXTINF:-1 tvg-name="Radio Wien" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiowien.png",Radio Wien
-http://mp3stream2.apasf.apa.at:8000/
+https://orf-live.ors-shoutcast.at/wie-q2a
 #EXTINF:-1 tvg-name="Radio SRF 1" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf1.png",Radio SRF 1
 http://stream.srg-ssr.ch/m/drs1/mp3_128
 #EXTINF:-1 tvg-name="Radio SRF 2 Kultur" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf2kultur.png",Radio SRF 2 Kultur
