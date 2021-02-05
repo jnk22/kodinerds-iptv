@@ -3790,7 +3790,7 @@ tv:
         tvg_id: ARD.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png
         tvg_name: Das Erste HD
-        url: https://mcdn.daserste.de/daserste/de/master_3660.m3u8
+        url: https://mcdn.daserste.de/daserste/de/master_3628.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Vollprogramm
         name: ZDF HD
