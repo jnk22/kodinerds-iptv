@@ -201,66 +201,66 @@ radio:
       streams:
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: 100'5 Alemannia
+        name: 100.5 Alemannia
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png
-        tvg_name: 100'5 Alemannia
+        tvg_name: 100.5 Alemannia
         url: https://stream.dashitradio.de/alemannia/mp3-128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: 100'5 DAS HITRADIO
+        name: 100.5 DAS HITRADIO
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1005dashitradio.png
-        tvg_name: 100'5 DAS HITRADIO
+        tvg_name: 100.5 DAS HITRADIO
         url: https://stream.dashitradio.de/dashitradio/mp3-128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: 105'5 Spreeradio
+        name: 105.5 Spreeradio
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png
-        tvg_name: 105'5 Spreeradio
+        tvg_name: 105.5 Spreeradio
         url: http://stream.spreeradio.de/spree-live/mp3-128/konsole
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: 105'5 Spreeradio 80er
+        name: 105.5 Spreeradio 80er
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png
-        tvg_name: 105'5 Spreeradio 80er
+        tvg_name: 105.5 Spreeradio 80er
         url: http://stream.spreeradio.de/spree-80er/mp3-128/konsole
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: 105'5 Spreeradio Love
+        name: 105.5 Spreeradio Love
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png
-        tvg_name: 105'5 Spreeradio Love
+        tvg_name: 105.5 Spreeradio Love
         url: http://stream.spreeradio.de/spree-love/mp3-128/konsole
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: 105'5 Spreeradio Rock
+        name: 105.5 Spreeradio Rock
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png
-        tvg_name: 105'5 Spreeradio Rock
+        tvg_name: 105.5 Spreeradio Rock
         url: http://stream.spreeradio.de/spree-rock/mp3-128/konsole
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: 105'5 Spreeradio Weihnachtsradio
+        name: 105.5 Spreeradio Weihnachtsradio
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1055spreeradio.png
-        tvg_name: 105'5 Spreeradio Weihnachtsradio
+        tvg_name: 105.5 Spreeradio Weihnachtsradio
         url: http://stream.spreeradio.de/spree-event/mp3-128/konsole
       - group_title: Radio-DE
         group_title_kodi: Deutschland
@@ -1741,12 +1741,12 @@ radio:
       streams:
       - group_title: Radio-FR
         group_title_kodi: Frankreich
-        name: Mouv'
+        name: Mouv
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mouv.png
-        tvg_name: Mouv'
+        tvg_name: Mouv
         url: http://direct.mouv.fr/live/mouv-midfi.mp3
       - group_title: Radio-FR
         group_title_kodi: Frankreich
