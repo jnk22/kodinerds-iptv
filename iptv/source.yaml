@@ -3943,7 +3943,7 @@ tv:
         tvg_id: Kika.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png
         tvg_name: KiKA
-        url: https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master_6848.m3u8
+        url: https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Kinder / Jugend
         name: Nickelodeon
