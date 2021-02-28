@@ -3779,6 +3779,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png
         tvg_name: Westerwald TV
         url: https://sdn-global-live-http-cache.3qsdn.com/2980/amlst:5715-sbr/playlist.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Lokal
+        name: teltOwkanal
+        quality: sd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/teltOwkanal.png
+        tvg_name: teltOwkanal
+        url: https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/chunklist_w1331280772.m3u8
     main:
       id: 1
       streams:
