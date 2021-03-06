@@ -4330,7 +4330,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png
         tvg_name: ABC News
-        url: https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
+        url: https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
       - group_title: IPTV-US
         group_title_kodi: International;Comedy
         name: Adult Swim
