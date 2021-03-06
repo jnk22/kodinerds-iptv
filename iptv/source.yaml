@@ -4366,7 +4366,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbsn.png
         tvg_name: CBSN
-        url: https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+        url: https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
       - group_title: IPTV-US
         group_title_kodi: International;Nachrichten
         name: CBN News
