@@ -2180,6 +2180,42 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/classicfm.png
         tvg_name: Classic FM
         url: http://media-ice.musicradio.com:80/ClassicFMMP3
+      - group_title: Radio-UK
+        group_title_kodi: Großbritannien
+        name: Scala
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/scala.png
+        tvg_name: Scala
+        url: http://tx.planetradio.co.uk/icecast.php?i=scala.mp3
+      - group_title: Radio-UK
+        group_title_kodi: Großbritannien
+        name: Classical 1 
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/classical1.png
+        tvg_name: Classical 1
+        url: http://185.80.221.113:8500/stream
+      - group_title: Radio-UK
+        group_title_kodi: Großbritannien
+        name: LBC (national) 
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/lbc.png
+        tvg_name: LBC (national)
+        url: http://icecast.thisisdax.com/LBCUK
+      - group_title: Radio-UK
+        group_title_kodi: Großbritannien
+        name: Times Radio 
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/timesradio.png
+        tvg_name: Times Radio
+        url: http://timesradio.wireless.radio/stream?ref=rf
 tv:
   id: 1
   subcategories:
