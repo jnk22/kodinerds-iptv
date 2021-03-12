@@ -785,6 +785,8 @@ https://bob.hoerradar.de/radiobob-rockhits-mp3-hq
 http://stream.radiobrocken.de/live/mp3-256
 #EXTINF:-1 tvg-name="RADIO ENERGY Sachsen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Sachsen
 http://nrj.de/sachsen
+#EXTINF:-1 tvg-name="Radio Horeb" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiohoreb.png",Radio Horeb
+http://rs16.stream24.org:8000/horeb.mp3
 #EXTINF:-1 tvg-name="Radio Paloma" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiopaloma.png",Radio Paloma
 http://pool.radiopaloma.de/RADIOPALOMA.mp3
 #EXTINF:-1 tvg-name="Radio Regenbogen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioregenbogen.png",Radio Regenbogen
