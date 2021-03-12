@@ -388,7 +388,7 @@ https://edge5.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-name="Telebasel" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebasel.png",Telebasel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 #EXTINF:-1 tvg-name="ABC News" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
-https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="Adult Swim" tvg-id="" group-title="International;Comedy" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
 #EXTINF:-1 tvg-name="JUCE TV" tvg-id="" group-title="International;Religion;Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/jucetv.png",JUCE TV
