@@ -8,7 +8,7 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
 #EXTINF:-1 tvg-name="NASA TV" tvg-id="NASA.us" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nasatv.png",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-name="CBSN" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbsn.png",CBSN
-https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
 #EXTINF:-1 tvg-name="CBN News" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",CBN News
 https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-id="Bloomberg.nws" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bloombergtv.png",Bloomberg TV
