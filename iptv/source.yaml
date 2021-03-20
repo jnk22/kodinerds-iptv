@@ -2033,6 +2033,18 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png
         tvg_name: RMF FM
         url: http://195.150.20.243/RMFFM48
+    ro:
+      id: 8
+      streams:
+      - group_title: Radio-RO
+        group_title_kodi: Rumänien
+        name: Radio Manele
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiomanele.png
+        tvg_name: Radio Manele
+        url: https://radio.ascultatare.ro/8044/stream
     uk:
       id: 4
       streams:
