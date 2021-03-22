@@ -3637,6 +3637,15 @@ tv:
         url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
+        name: tv.ingolstadt
+        quality: sd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://s3.welocal.world/tvingolstadt/sources/5cf80374ac54f.png
+        tvg_name: tv.ingolstadt
+        url: https://stream01.stream.welocal.world/stream/tvi/ngrp:tvi.stream_all/chunklist_w947786483_b3628000.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Lokal
         name: WTV (OK Wettin)
         quality: sd
         radio: false
