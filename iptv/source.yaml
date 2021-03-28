@@ -720,7 +720,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png
         tvg_name: Fritz
-        url: http://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/128/stream.mp3
+        url: http://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: harmony.fm
