@@ -1495,6 +1495,15 @@ radio:
         url: http://streamtdy.ir-media-tec.com/live/mp3-128/web/play.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: rbb Inforadio
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbInforadio.png
+        tvg_name: rbb Inforadio
+        url: https://rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/mid
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: rbbKultur
         quality: ''
         radio: true
