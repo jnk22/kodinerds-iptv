@@ -333,7 +333,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebrandenburg.png
         tvg_name: Antenne Brandenburg
-        url: http://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/128/stream.mp3
+        url: https://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: ANTENNE THÜRINGEN
@@ -720,7 +720,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png
         tvg_name: Fritz
-        url: http://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/128/stream.mp3
+        url: https://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: harmony.fm
@@ -1501,7 +1501,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbKultur.png
         tvg_name: rbbKultur
-        url: http://rbb-kulturradio-live.cast.addradio.de/rbb/kulturradio/live/mp3/192/stream.mp3
+        url: https://rbb-rbbkultur-live.cast.addradio.de/rbb/rbbkultur/live/mp3/high
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: radioeins
@@ -1510,7 +1510,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioeins.png
         tvg_name: radioeins
-        url: http://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3
+        url: https://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: rbb 88.8
@@ -1519,7 +1519,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbb888.png
         tvg_name: rbb 88.8
-        url: http://rbb-radioberlin-live.cast.addradio.de/rbb/radioberlin/live/mp3/128/stream.mp3
+        url: https://rbb-rbb888-live.cast.addradio.de/rbb/rbb888/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: reboot.fm
