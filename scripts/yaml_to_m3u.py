@@ -78,6 +78,7 @@ def write_pipe(content):
                             service_name = service_name.replace("ö", "oe")
                             service_name = service_name.replace("Ü", "Ue")
                             service_name = service_name.replace("ü", "ue")
+                            service_name = service_name.replace("'", ".")
                             service_name = service_name.replace(" ", "\ ")
                             line = "pipe://ffmpeg -loglevel fatal -i " + stream["url"] + " -vcodec copy -acodec copy -metadata service_name=" + service_name + " -metadata service_provider=" + stream["group_title"] + " -mpegts_service_type " + codec + " -f mpegts pipe:1\n"
                             file.write(header_line)
