@@ -71,6 +71,14 @@ http://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3
 https://rb-event2-live.cast.addradio.de/rb/event2/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Bremen Zwei" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenzwei.png",Bremen Zwei
 http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="Campusradio Köln (Kölncampus)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/koelncampus.png",Campusradio Köln (Kölncampus)
+http://koelncampus.uni-koeln.de:80/hq
+#EXTINF:-1 tvg-name="Campusradio Münster (Radio Q)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioq.png",Campusradio Münster (Radio Q)
+https://rqstream.radioq.de/stream/192.mp3
+#EXTINF:-1 tvg-name="Campusradio Paderborn (L'UniCo)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/lunico.png",Campusradio Paderborn (L'UniCo)
+http://icecast.l-uni.co:8001/lunico_high_mp3
+#EXTINF:-1 tvg-name="Campusradio Bielefeld (Hertz 87.9)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hertz879.png",Campusradio Bielefeld (Hertz 87.9)
+http://stream.radiohertz.de/hertz-hq.mp3
 #EXTINF:-1 tvg-name="DASDING" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING
 https://swr-dasding-live.sslcast.addradio.de/swr/dasding/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="DELUXE 80S EXTREME" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE 80S EXTREME
