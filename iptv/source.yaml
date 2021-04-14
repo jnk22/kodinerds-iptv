@@ -1549,6 +1549,15 @@ radio:
         url: http://mp3channels.webradio.rockantenne.de/rockantenne
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: ROCK ANTENNE HEAVY-METAL
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png
+        tvg_name: ROCK ANTENNE HEAVY-METAL
+        url: http://stream.rockantenne.de/heavy-metal
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: Rockland Radio
         quality: ''
         radio: true
