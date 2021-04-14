@@ -3145,7 +3145,7 @@ tv:
         tvg_id: RussiaToday.uk
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png
         tvg_name: RT HD
-        url: https://www.youtube.com/embed/NvCSr7qzAAM
+        url: https://rt-news.secure.footprint.net/1103.m3u8
       - group_title: IPTV-RU
         group_title_kodi: International;Nachrichten
         name: RT Spanish HD
