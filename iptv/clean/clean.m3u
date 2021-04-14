@@ -811,6 +811,8 @@ https://rbb-rbb888-live.cast.addradio.de/rbb/rbb888/live/mp3/mid
 http://87.118.122.220:8002/stream
 #EXTINF:-1 tvg-name="ROCK ANTENNE" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE
 http://mp3channels.webradio.rockantenne.de/rockantenne
+#EXTINF:-1 tvg-name="ROCK ANTENNE HEAVY-METAL" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE HEAVY-METAL
+http://stream.rockantenne.de/heavy-metal
 #EXTINF:-1 tvg-name="Rockland Radio" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandradio.png",Rockland Radio
 https://stream.rockland.de/rockland.mp3
 #EXTINF:-1 tvg-name="ROCKLAND.FM" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandfm.png",ROCKLAND.FM
