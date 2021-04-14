@@ -525,6 +525,42 @@ radio:
         url: http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: Campusradio Köln (Kölncampus)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/koelncampus.png
+        tvg_name: Campusradio Köln (Kölncampus)
+        url: http://koelncampus.uni-koeln.de:80/hq
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Campusradio Münster (Radio Q)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioq.png
+        tvg_name: Campusradio Münster (Radio Q)
+        url: https://rqstream.radioq.de/stream/192.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Campusradio Paderborn (L'UniCo)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/lunico.png
+        tvg_name: Campusradio Paderborn (L'UniCo)
+        url: http://icecast.l-uni.co:8001/lunico_high_mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Campusradio Bielefeld (Hertz 87.9)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hertz879.png
+        tvg_name: Campusradio Bielefeld (Hertz 87.9)
+        url: http://stream.radiohertz.de/hertz-hq.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: DASDING
         quality: ''
         radio: true
