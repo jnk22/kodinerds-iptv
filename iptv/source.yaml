@@ -3817,6 +3817,15 @@ tv:
         url: https://stream03.stream.welocal.world/stream/npa/ngrp:npa.stream_all/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
+        name: tv.ingolstadt
+        quality: sd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvingolstadt.png
+        tvg_name: tv.ingolstadt
+        url: https://stream01.stream.welocal.world/stream/tvi/ngrp:tvi.stream_all/playlist.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Lokal
         name: TV Mittelrhein
         quality: hd
         radio: false
