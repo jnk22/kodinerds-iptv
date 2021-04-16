@@ -30,7 +30,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png
         tvg_name: Klassik Radio
-        url: http://klassikradio.hoerradar.de/klassikradio-live-mp3-mq
+        url: https://stream.klassikradio.de/live/mp3-192
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: KRONEHIT
@@ -57,7 +57,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png
         tvg_name: Life Radio
-        url: http://liferadio.stream.kapper.net:8000/liferadio
+        url: https://stream.liferadio.at/liferadio/aac-64
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: Ö1
@@ -450,7 +450,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayernplus.png
         tvg_name: Bayern plus
-        url: https://br-bayernplus-live.cast.addradio.de/br/bayernplus/live/mp3/mid
+        url: https://mcdn.br.de/br/hf/puls/master.m3u8
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: bigFM
@@ -1080,7 +1080,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png
         tvg_name: nice
-        url: http://edge.audio.3qsdn.com/rG7JYcRNgKdh3XV
+        url: https://ice.cr1.streamzilla.xlcdn.com:8000/sz%3Dnice-broadcast-media-gmbh%3Dniceradio1-aac-64
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: nice DELUXE
@@ -1772,33 +1772,6 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png
         tvg_name: YOU FM
         url: http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: YOU FM Club
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png
-        tvg_name: YOU FM Club
-        url: http://hr-youfm-club.cast.addradio.de/hr/youfm/club/mp3/128/stream.mp3
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: YOU FM Just Music
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png
-        tvg_name: YOU FM Just Music
-        url: http://hr-youfm-justmusic.cast.addradio.de/hr/youfm/justmusic/mp3/128/stream.mp3
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: YOU FM Sounds
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png
-        tvg_name: YOU FM Sounds
-        url: http://hr-youfm-sounds.cast.addradio.de/hr/youfm/sounds/mp3/128/stream.mp3
     fr:
       id: 5
       streams:
@@ -2383,7 +2356,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tiroltv.png
         tvg_name: Tirol TV
-        url: https://streaming5.huberwebmedia.at/hls-live/live_tiroltv/_definst_/liveevent/livestream.m3u8
+        url: https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International
         name: oe24 TV
@@ -3382,7 +3355,7 @@ tv:
         tvg_id: Hamburg1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hamburg1.png
         tvg_name: Hamburg 1
-        url: https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:7651-sbr.smil/playlist.m3u8
+        url: https://live2.telvi.de/hls/hamburg1.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: KabelJournal
@@ -4078,7 +4051,7 @@ tv:
         tvg_id: MTVGermany.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png
         tvg_name: MTV Germany
-        url: https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
+        url: http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: MTV Music 24
@@ -4168,7 +4141,7 @@ tv:
         tvg_id: EWTN.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png
         tvg_name: EWTN katholisches TV
-        url: https://cdn3.wowza.com/1/REZwSm9UWEFxcmt3/REROU1NK/hls/wstqs3gh/2728/chunklist.m3u8
+        url: https://cdn3.wowza.com/1/NWFLbEVOVjNsQWhP/YnpVbld5/hls/rlqvbpsj/2728/chunklist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Religion
         name: ERF 1
