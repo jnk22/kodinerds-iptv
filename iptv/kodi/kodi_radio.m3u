@@ -495,3 +495,5 @@ http://zet.cdn.eurozet.pl/ZETPL1.mp3
 http://zet.cdn.eurozet.pl/ZETROK.mp3
 #EXTINF:-1 tvg-name="RMF FM" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png",RMF FM
 http://195.150.20.243/RMFFM48
+#EXTINF:-1 tvg-name="Radio Manele" group-title="Rumänien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiomanele.png",Radio Manele
+https://radio.ascultatare.ro/8044/stream
