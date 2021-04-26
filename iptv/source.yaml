@@ -196,6 +196,15 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioswissjazz.png
         tvg_name: Radio Swiss Jazz
         url: http://stream.srg-ssr.ch/m/rsj/mp3_128
+      - group_title: Radio-CH
+        group_title_kodi: Schweiz
+        name: Radio Zürisee
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozuerisee.png
+        tvg_name: Radio Zürisee
+        url: http://mp3.radio.ch/radiozuerisee128k
     de:
       id: 1
       streams:
