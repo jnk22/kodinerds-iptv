@@ -17,3 +17,5 @@ http://stream.srg-ssr.ch/m/rsp/mp3_128
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-name="Radio Swiss Jazz" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioswissjazz.png",Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 tvg-name="Radio Zürisee" group-title="Schweiz" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozuerisee.png",Radio Zürisee
+http://mp3.radio.ch/radiozuerisee128k
