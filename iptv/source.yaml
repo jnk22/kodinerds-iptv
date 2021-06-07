@@ -57,7 +57,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png
         tvg_name: Life Radio
-        url: https://stream.liferadio.at/liferadio/aac-64
+        url: https://stream.liferadio.at/liferadio/mp3-192
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: Ö1
@@ -585,7 +585,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
         tvg_name: DELUXE 80S EXTREME
-        url: https://audiostreams.deluxemusic.tv/80s/aac-64
+        url: https://audiostreams.deluxemusic.tv/80s/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: DELUXE RCK Radio
@@ -594,7 +594,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
         tvg_name: DELUXE RCK Radio
-        url: https://audiostreams.deluxemusic.tv/rck/aac-64
+        url: https://audiostreams.deluxemusic.tv/rck/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: DELUXE CHEFSESSEL by WAGNER
@@ -603,7 +603,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
         tvg_name: DELUXE CHEFSESSEL by WAGNER
-        url: https://audiostreams.deluxemusic.tv/chefsessel/aac-64
+        url: https://audiostreams.deluxemusic.tv/chefsessel/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: DELUXE EASY
@@ -612,7 +612,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeasy.png
         tvg_name: DELUXE EASY
-        url: https://audiostreams.deluxemusic.tv/easy/aac-64
+        url: https://audiostreams.deluxemusic.tv/easy/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: DELUXE LOUNGE RADIO
@@ -621,7 +621,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeloungeradio.png
         tvg_name: DELUXE LOUNGE RADIO
-        url: https://audiostreams.deluxemusic.tv/lounge/aac-64
+        url: https://audiostreams.deluxemusic.tv/lounge/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: DELUXE MUSIC RADIO
@@ -630,7 +630,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxemusicradio.png
         tvg_name: DELUXE MUSIC RADIO
-        url: https://audiostreams.deluxemusic.tv/music/aac-64
+        url: https://audiostreams.deluxemusic.tv/music/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: DELUXE NEW ARRIVALS
@@ -639,7 +639,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
         tvg_name: DELUXE NEW ARRIVALS
-        url: https://audiostreams.deluxemusic.tv/arrivals/aac-64
+        url: https://audiostreams.deluxemusic.tv/arrivals/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: DELUXE TOP 40
@@ -648,7 +648,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
         tvg_name: DELUXE TOP 40
-        url: https://audiostreams.deluxemusic.tv/top40/aac-64
+        url: https://audiostreams.deluxemusic.tv/top40/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Deutschlandfunk
@@ -702,7 +702,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
         tvg_name: DELUXE DISCO
-        url: https://audiostreams.deluxemusic.tv/disco/aac-64
+        url: https://audiostreams.deluxemusic.tv/disco/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: domradio.de
@@ -774,7 +774,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/harmonyfm.png
         tvg_name: harmony.fm
-        url: https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac
+        url: https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: HIT RADIO FFH
@@ -873,7 +873,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
         tvg_name: JUKEBOX RADIO
-        url: https://audiostreams.deluxemusic.tv/jukebox/aac-64
+        url: https://audiostreams.deluxemusic.tv/jukebox/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: KiRaKa
