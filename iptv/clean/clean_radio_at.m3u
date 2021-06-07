@@ -10,7 +10,7 @@ http://onair.krone.at:80/kronehit.mp3
 #EXTINF:-1 tvg-name="KRONEHIT Dance" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT Dance
 http://onair.krone.at:80/kronehit-dance.mp3
 #EXTINF:-1 tvg-name="Life Radio" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png",Life Radio
-https://stream.liferadio.at/liferadio/aac-64
+https://stream.liferadio.at/liferadio/mp3-192
 #EXTINF:-1 tvg-name="Ö1" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1
 https://orf-live.ors-shoutcast.at/oe1-q2a
 #EXTINF:-1 tvg-name="Ö1 Campus" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1 Campus

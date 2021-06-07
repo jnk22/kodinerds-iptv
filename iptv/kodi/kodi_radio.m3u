@@ -82,21 +82,21 @@ http://stream.radiohertz.de/hertz-hq.mp3
 #EXTINF:-1 tvg-name="DASDING" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING
 https://swr-dasding-live.sslcast.addradio.de/swr/dasding/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="DELUXE 80S EXTREME" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE 80S EXTREME
-https://audiostreams.deluxemusic.tv/80s/aac-64
+https://audiostreams.deluxemusic.tv/80s/mp3-192
 #EXTINF:-1 tvg-name="DELUXE RCK Radio" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE RCK Radio
-https://audiostreams.deluxemusic.tv/rck/aac-64
+https://audiostreams.deluxemusic.tv/rck/mp3-192
 #EXTINF:-1 tvg-name="DELUXE CHEFSESSEL by WAGNER" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE CHEFSESSEL by WAGNER
-https://audiostreams.deluxemusic.tv/chefsessel/aac-64
+https://audiostreams.deluxemusic.tv/chefsessel/mp3-192
 #EXTINF:-1 tvg-name="DELUXE EASY" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeasy.png",DELUXE EASY
-https://audiostreams.deluxemusic.tv/easy/aac-64
+https://audiostreams.deluxemusic.tv/easy/mp3-192
 #EXTINF:-1 tvg-name="DELUXE LOUNGE RADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeloungeradio.png",DELUXE LOUNGE RADIO
-https://audiostreams.deluxemusic.tv/lounge/aac-64
+https://audiostreams.deluxemusic.tv/lounge/mp3-192
 #EXTINF:-1 tvg-name="DELUXE MUSIC RADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxemusicradio.png",DELUXE MUSIC RADIO
-https://audiostreams.deluxemusic.tv/music/aac-64
+https://audiostreams.deluxemusic.tv/music/mp3-192
 #EXTINF:-1 tvg-name="DELUXE NEW ARRIVALS" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE NEW ARRIVALS
-https://audiostreams.deluxemusic.tv/arrivals/aac-64
+https://audiostreams.deluxemusic.tv/arrivals/mp3-192
 #EXTINF:-1 tvg-name="DELUXE TOP 40" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE TOP 40
-https://audiostreams.deluxemusic.tv/top40/aac-64
+https://audiostreams.deluxemusic.tv/top40/mp3-192
 #EXTINF:-1 tvg-name="Deutschlandfunk" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunk.png",Deutschlandfunk
 http://st01.dlf.de/dlf/01/128/mp3/stream.mp3
 #EXTINF:-1 tvg-name="Deutschlandfunk Kultur" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunkkultur.png",Deutschlandfunk Kultur
@@ -108,7 +108,7 @@ http://st04.dlf.de/dlf/04/128/mp3/stream.mp3
 #EXTINF:-1 tvg-name="DIE NEUE 107.7" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dieneue1077.png",DIE NEUE 107.7
 http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3
 #EXTINF:-1 tvg-name="DELUXE DISCO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE DISCO
-https://audiostreams.deluxemusic.tv/disco/aac-64
+https://audiostreams.deluxemusic.tv/disco/mp3-192
 #EXTINF:-1 tvg-name="domradio.de" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/domradiode.png",domradio.de
 http://domradio-mp3-l.akacast.akamaistream.net/7/809/237368/v1/gnl.akacast.akamaistream.net/domradio-mp3-l
 #EXTINF:-1 tvg-name="DONAU 3 FM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/donau3fm.png",DONAU 3 FM
@@ -124,7 +124,7 @@ http://streams.fluxfm.de/live/mp3-320/audio/
 #EXTINF:-1 tvg-name="Fritz" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png",Fritz
 https://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/mid
 #EXTINF:-1 tvg-name="harmony.fm" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/harmonyfm.png",harmony.fm
-https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac
+https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
 #EXTINF:-1 tvg-name="HIT RADIO FFH" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioffh.png",HIT RADIO FFH
 http://mp3.ffh.de/radioffh/hqlivestream.mp3
 #EXTINF:-1 tvg-name="hr-info" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hrinfo.png",hr-info
@@ -146,7 +146,7 @@ http://stream.jam.fm/jamfm-nmr/mp3-128/konsole/
 #EXTINF:-1 tvg-name="JazzRadio Berlin" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jazzradio.png",JazzRadio Berlin
 http://streaming.radio.co:80/s774887f7b/listen
 #EXTINF:-1 tvg-name="JUKEBOX RADIO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",JUKEBOX RADIO
-https://audiostreams.deluxemusic.tv/jukebox/aac-64
+https://audiostreams.deluxemusic.tv/jukebox/mp3-192
 #EXTINF:-1 tvg-name="KiRaKa" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kiraka.png",KiRaKa
 http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="WDR Die Maus" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mausradio.png",WDR Die Maus
@@ -360,7 +360,7 @@ http://onair.krone.at:80/kronehit.mp3
 #EXTINF:-1 tvg-name="KRONEHIT Dance" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT Dance
 http://onair.krone.at:80/kronehit-dance.mp3
 #EXTINF:-1 tvg-name="Life Radio" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png",Life Radio
-https://stream.liferadio.at/liferadio/aac-64
+https://stream.liferadio.at/liferadio/mp3-192
 #EXTINF:-1 tvg-name="Ö1" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1
 https://orf-live.ors-shoutcast.at/oe1-q2a
 #EXTINF:-1 tvg-name="Ö1 Campus" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1 Campus
