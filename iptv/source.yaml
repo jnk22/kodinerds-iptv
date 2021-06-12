@@ -2323,7 +2323,7 @@ tv:
         tvg_id: ORF1.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png
         tvg_name: ORF eins HD
-        url: https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+        url: https://orf1.mdn.ors.at/out/u/orf1/q6a/manifest_6.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International
         name: ORF 2 HD
@@ -2332,7 +2332,7 @@ tv:
         tvg_id: ORF2.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png
         tvg_name: ORF 2 HD
-        url: https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+        url: https://orf2.mdn.ors.at/out/u/orf2/q6a/manifest_6.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International
         name: ORF III HD
@@ -2341,7 +2341,7 @@ tv:
         tvg_id: ORF3.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png
         tvg_name: ORF III HD
-        url: https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+        url: https://orf3.mdn.ors.at/out/u/orf3/q6a/manifest_6.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International;Sport
         name: ORF SPORT +
@@ -2350,7 +2350,7 @@ tv:
         tvg_id: ORFSport.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png
         tvg_name: ORF SPORT +
-        url: https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+        url: https://orfs.mdn.ors.at/out/u/orfs/q6a/manifest_6.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International
         name: dorf tv
