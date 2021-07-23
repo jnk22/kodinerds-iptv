@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 pipe://ffmpeg -loglevel fatal -i https://mcdn.daserste.de/daserste/de/master.m3u8 -vcodec copy -acodec copy -metadata service_name=Das\ Erste\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 pipe://ffmpeg -loglevel fatal -i https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8 -vcodec copy -acodec copy -metadata service_name=ZDF\ HD -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
@@ -21,7 +21,7 @@ pipe://ffmpeg -loglevel fatal -i https://zdf-hls-17.akamaized.net/hls/live/20165
 pipe://ffmpeg -loglevel fatal -i https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8 -vcodec copy -acodec copy -metadata service_name=phoenix -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
 pipe://ffmpeg -loglevel fatal -i https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8 -vcodec copy -acodec copy -metadata service_name=tagesschau24 -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="WELT" tvg-id="n24.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
 pipe://ffmpeg -loglevel fatal -i http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8 -vcodec copy -acodec copy -metadata service_name=WELT -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
 pipe://ffmpeg -loglevel fatal -i https://www.youtube.com/embed/T9wF9QYVIXM -vcodec copy -acodec copy -metadata service_name=euronews\ deutsch -metadata service_provider=IPTV-DE -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
