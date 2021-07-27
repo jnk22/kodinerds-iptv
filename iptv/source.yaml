@@ -2941,7 +2941,7 @@ tv:
         tvg_id: DeutscheWelleES.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle (ES)
-        url: http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8
+        url: https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
       - group_title: IPTV-IR
         group_title_kodi: International;Nachrichten
         name: Press TV
@@ -4363,7 +4363,7 @@ tv:
         tvg_id: DeutscheWelleDE.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle
-        url: https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+        url: https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Deutsche Welle+
@@ -4372,7 +4372,7 @@ tv:
         tvg_id: DeutscheWelleDE+.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle+
-        url: http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
+        url: https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Deutsche Welle (EN)
@@ -4381,7 +4381,7 @@ tv:
         tvg_id: DeutscheWelleEN.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle (EN)
-        url: https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+        url: https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/index.m3u8
     shop:
       id: 2
       streams:
