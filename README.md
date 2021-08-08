@@ -147,6 +147,8 @@ Um die Stream URL für einen bestimmten Stream zu ermitteln, lässt sich z.B. Fi
 3. Netzwerkanalyse Tab öffnen
 4. Stream Datei in der Liste suchen (typischerweise `.m3u8`)
 5. Stream URL im Detailfenster (rechte Seite) unter "Kopfzeilen" finden
+<br>
+Hilfreich ist das Browser Add-On "The Stream Detector".
 <br><br>
 ## Weiterführende Links
 * [Aktuelle To-Do Liste](https://github.com/jnk22/kodinerds-iptv/issues)
