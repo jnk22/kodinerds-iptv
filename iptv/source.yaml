@@ -1790,6 +1790,18 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png
         tvg_name: YOU FM
         url: http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3
+    it:
+      id: 9
+      streams:
+      - group_title: Radio-IT
+        group_title_kodi: Italien und Südtirol
+        name: Radio 2000
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio2000it.png
+        tvg_name: Radio 2000
+        url: http://159.69.217.78:8000/?radio=radio2000.mp3
     fr:
       id: 5
       streams:
