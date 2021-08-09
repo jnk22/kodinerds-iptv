@@ -112,6 +112,15 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiowien.png
         tvg_name: Radio Wien
         url: https://orf-live.ors-shoutcast.at/wie-q2a
+      - group_title: Radio-AT
+        group_title_kodi: Österreich
+        name: U1 Tirol
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/u1tirol.png
+        tvg_name: U1 Tirol
+        url: http://live.u1-radio.at/stream.mp3
     ch:
       id: 3
       streams:
