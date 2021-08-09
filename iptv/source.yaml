@@ -60,6 +60,15 @@ radio:
         url: https://stream.liferadio.at/liferadio/mp3-192
       - group_title: Radio-AT
         group_title_kodi: Österreich
+        name: Orange 94.0
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/orange94.0.png
+        tvg_name: Orange 94.0
+        url: https://securestream.o94.at/live.mp3
+      - group_title: Radio-AT
+        group_title_kodi: Österreich
         name: Ö1
         quality: ''
         radio: true
