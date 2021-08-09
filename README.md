@@ -18,6 +18,7 @@ Die Listen sind unterteilt in verschiedene Typen, hier gibt es folgende Typen:
 Hinweis: Die Listen kodi, clean und pipe sind inhaltlich identisch.
 
 Jede der Listen ist unterteilt in eine Struktur, die dem Benutzer ein individuelles Angebot ermöglichen soll. Dabei gilt folgende Struktur:
+
 ```
 - [typ] - beinhaltet alle TV- und Radiosender
 
@@ -148,8 +149,8 @@ Um die Stream URL für einen bestimmten Stream zu ermitteln, lässt sich z.B. Fi
 4. Stream Datei in der Liste suchen (typischerweise `.m3u8`)
 5. Stream URL im Detailfenster (rechte Seite) unter "Kopfzeilen" finden
 
-Hilfreich ist das Browser Add-On "The Stream Detector".
-<br><br>
+Hilfreich ist das Firefox-Add-On [The Stream Detector](https://addons.mozilla.org/de/firefox/addon/hls-stream-detector/).
+
 ## Weiterführende Links
 * [Aktuelle To-Do Liste](https://github.com/jnk22/kodinerds-iptv/issues)
 * [Kodinerds IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56713/)
