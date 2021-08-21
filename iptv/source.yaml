@@ -3910,7 +3910,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png
         tvg_name: Westerwald TV
-        url: https://sdn-global-live-http-cache.3qsdn.com/2980/amlst:5715-sbr/playlist.m3u8
+        url: https://live2.telvi.de/hls/wwtv.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: teltOwkanal
