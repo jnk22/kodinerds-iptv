@@ -501,3 +501,5 @@ http://zet.cdn.eurozet.pl/ZETROK.mp3
 http://195.150.20.243/RMFFM48
 #EXTINF:-1 tvg-name="Radio Manele" group-title="Rumänien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiomanele.png",Radio Manele
 https://radio.ascultatare.ro/8044/stream
+#EXTINF:-1 tvg-name="Radio 2000" group-title="Italien und Südtirol" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio2000it.png",Radio 2000
+http://159.69.217.78:8000/?radio=radio2000.mp3

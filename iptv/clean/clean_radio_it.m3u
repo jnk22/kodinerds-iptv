@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Radio 2000" group-title="Radio-IT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio2000it.png",Radio 2000
+http://159.69.217.78:8000/?radio=radio2000.mp3
