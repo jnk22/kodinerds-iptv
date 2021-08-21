@@ -4041,15 +4041,6 @@ tv:
         tvg_name: euronews deutsch
         url: https://www.youtube.com/embed/T9wF9QYVIXM
       - group_title: IPTV-DE
-        group_title_kodi: Nachrichten;Sport
-        name: Sky Sport News HD
-        quality: hd
-        radio: false
-        tvg_id: SkySportNewsHD.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png
-        tvg_name: Sky Sport News HD
-        url: https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
-      - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
         name: ANIXE HD
         quality: hd
