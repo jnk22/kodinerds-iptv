@@ -25,6 +25,8 @@ https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/play
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",münchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="MyTVplus" tvg-id="MyTVplus" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mytvplus.png",MyTVplus
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="noa4 Hamburg HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Hamburg HD
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-name="noa4 Norderstedt HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Norderstedt HD
