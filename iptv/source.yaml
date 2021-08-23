@@ -3445,6 +3445,15 @@ tv:
         url: https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
+        name: MyTVplus
+        quality: sd
+        radio: false
+        tvg_id: MyTVplus.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mytvplus.png
+        tvg_name: MyTVplus
+        url: https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Lokal
         name: noa4 Hamburg HD
         quality: hd
         radio: false
