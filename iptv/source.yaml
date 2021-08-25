@@ -3349,7 +3349,7 @@ tv:
         name: allgäu.tv
         quality: sd
         radio: false
-        tvg_id: ''
+        tvg_id: allgau.tv.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png
         tvg_name: allgäu.tv
         url: https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
@@ -3853,7 +3853,7 @@ tv:
         name: tv.ingolstadt
         quality: sd
         radio: false
-        tvg_id: ''
+        tvg_id: tvingolstadt.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvingolstadt.png
         tvg_name: tv.ingolstadt
         url: https://stream01.stream.welocal.world/stream/tvi/ngrp:tvi.stream_all/playlist.m3u8
@@ -3871,7 +3871,7 @@ tv:
         name: TV Mainfranken
         quality: hd
         radio: false
-        tvg_id: ''
+        tvg_id: tvmainfranken.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png
         tvg_name: TV Mainfranken
         url: https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8
@@ -4429,7 +4429,7 @@ tv:
         name: pearl.tv
         quality: sd
         radio: false
-        tvg_id: ''
+        tvg_id: Pearl.tv.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png
         tvg_name: pearl.tv
         url: https://www.youtube.com/embed/51mVg5vt7Zc
