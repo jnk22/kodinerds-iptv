@@ -361,6 +361,8 @@ http://onair.krone.at:80/kronehit.mp3
 http://onair.krone.at:80/kronehit-dance.mp3
 #EXTINF:-1 tvg-name="Life Radio" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png",Life Radio
 https://stream.liferadio.at/liferadio/mp3-192
+#EXTINF:-1 tvg-name="Orange 94.0" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/orange94.0.png",Orange 94.0
+https://securestream.o94.at/live.mp3
 #EXTINF:-1 tvg-name="Ö1" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1
 https://orf-live.ors-shoutcast.at/oe1-q2a
 #EXTINF:-1 tvg-name="Ö1 Campus" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1 Campus
@@ -373,6 +375,8 @@ https://orf-live.ors-shoutcast.at/stm-q2a
 https://orf-live.ors-shoutcast.at/tir-q2a
 #EXTINF:-1 tvg-name="Radio Wien" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiowien.png",Radio Wien
 https://orf-live.ors-shoutcast.at/wie-q2a
+#EXTINF:-1 tvg-name="U1 Tirol" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/u1tirol.png",U1 Tirol
+https://live.u1-radio.at/stream.mp3
 #EXTINF:-1 tvg-name="Radio SRF 1" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf1.png",Radio SRF 1
 http://stream.srg-ssr.ch/m/drs1/mp3_128
 #EXTINF:-1 tvg-name="Radio SRF 2 Kultur" group-title="Radio-CH" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosrf2kultur.png",Radio SRF 2 Kultur
@@ -499,3 +503,5 @@ http://zet.cdn.eurozet.pl/ZETROK.mp3
 http://195.150.20.243/RMFFM48
 #EXTINF:-1 tvg-name="Radio Manele" group-title="Radio-RO" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiomanele.png",Radio Manele
 https://radio.ascultatare.ro/8044/stream
+#EXTINF:-1 tvg-name="Radio 2000" group-title="Radio-IT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio2000it.png",Radio 2000
+http://159.69.217.78:8000/?radio=radio2000.mp3

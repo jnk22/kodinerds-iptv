@@ -11,6 +11,8 @@ http://onair.krone.at:80/kronehit.mp3
 http://onair.krone.at:80/kronehit-dance.mp3
 #EXTINF:-1 tvg-name="Life Radio" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/liferadio.png",Life Radio
 https://stream.liferadio.at/liferadio/mp3-192
+#EXTINF:-1 tvg-name="Orange 94.0" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/orange94.0.png",Orange 94.0
+https://securestream.o94.at/live.mp3
 #EXTINF:-1 tvg-name="Ö1" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1
 https://orf-live.ors-shoutcast.at/oe1-q2a
 #EXTINF:-1 tvg-name="Ö1 Campus" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oe1.png",Ö1 Campus
@@ -23,3 +25,5 @@ https://orf-live.ors-shoutcast.at/stm-q2a
 https://orf-live.ors-shoutcast.at/tir-q2a
 #EXTINF:-1 tvg-name="Radio Wien" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiowien.png",Radio Wien
 https://orf-live.ors-shoutcast.at/wie-q2a
+#EXTINF:-1 tvg-name="U1 Tirol" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/u1tirol.png",U1 Tirol
+https://live.u1-radio.at/stream.mp3
