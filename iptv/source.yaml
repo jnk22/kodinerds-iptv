@@ -4051,12 +4051,12 @@ tv:
         url: https://www.youtube.com/embed/T9wF9QYVIXM
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten;Dokumenationen
-        name: BILD
+        name: Bild
         quality: hd
         radio: false
         tvg_id: BildTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png
-        tvg_name: BILD
+        tvg_name: Bild
         url: https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/index_5628_av-b.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
