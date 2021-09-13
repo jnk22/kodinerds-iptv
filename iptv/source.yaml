@@ -4054,7 +4054,7 @@ tv:
         name: Bild
         quality: hd
         radio: false
-        tvg_id: BildTV.de
+        tvg_id: BILD.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png
         tvg_name: Bild
         url: https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/index_5628_av-b.m3u8
