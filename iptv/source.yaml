@@ -3025,7 +3025,7 @@ tv:
         tvg_id: ARTE.fr
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png
         tvg_name: ARTE HD (FR)
-        url: https://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_1_av-b.m3u8
+        url: https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
       - group_title: IPTV-FR
         group_title_kodi: International;Nachrichten
         name: France 24
