@@ -4436,12 +4436,12 @@ tv:
       - group_title: IPTV-DE
         group_title_kodi: Teleshopping
         name: pearl.tv
-        quality: sd
+        quality: hd
         radio: false
         tvg_id: Pearl.tv.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/pearltv.png
         tvg_name: pearl.tv
-        url: https://www.youtube.com/embed/51mVg5vt7Zc
+        url: https://www.youtube.com/embed/d-dpxzoYJ4A
       - group_title: IPTV-DE
         group_title_kodi: Teleshopping
         name: QVC
