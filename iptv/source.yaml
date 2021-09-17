@@ -513,7 +513,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png
         tvg_name: BR-Klassik
-        url: https://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/high
+        url: https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Bremen Eins
