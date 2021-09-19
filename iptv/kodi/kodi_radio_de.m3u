@@ -33,10 +33,10 @@ https://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live
 http://stream.antennethueringen.de/live/mp3-192
 #EXTINF:-1 tvg-name="AntenneSaar" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennesaar.png",AntenneSaar
 http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm
-#EXTINF:-1 tvg-name="B5 aktuell" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/b5aktuell.png",B5 aktuell
-https://br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/mid
-#EXTINF:-1 tvg-name="B5 plus" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/b5plus.png",B5 plus
-https://br-b5plus-live.cast.addradio.de/br/b5plus/live/mp3/mid
+#EXTINF:-1 tvg-name="BR24" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24.png",BR24
+https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
+#EXTINF:-1 tvg-name="BR24 live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24live.png",BR24 live
+https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 1 Mittel- und Oberfranken" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Mittel- und Oberfranken
 https://br-br1-franken.cast.addradio.de/br/br1/franken/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 1 Mainfranken" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Mainfranken
