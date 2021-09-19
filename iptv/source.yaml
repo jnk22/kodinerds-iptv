@@ -381,22 +381,22 @@ radio:
         url: http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: B5 aktuell
+        name: BR24
         quality: ''
         radio: true
         tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/b5aktuell.png
-        tvg_name: B5 aktuell
-        url: https://br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/mid
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24.png
+        tvg_name: BR24
+        url: https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: B5 plus
+        name: BR24 live
         quality: ''
         radio: true
         tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/b5plus.png
-        tvg_name: B5 plus
-        url: https://br-b5plus-live.cast.addradio.de/br/b5plus/live/mp3/mid
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24live.png
+        tvg_name: BR24 live
+        url: https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Bayern 1 Mittel- und Oberfranken
