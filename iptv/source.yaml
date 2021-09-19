@@ -1107,25 +1107,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png
         tvg_name: nice
-        url: https://ice.cr1.streamzilla.xlcdn.com:8000/sz%3Dnice-broadcast-media-gmbh%3Dniceradio1-aac-64
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: nice DELUXE
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png
-        tvg_name: nice DELUXE
-        url: http://edge.audio.3qsdn.com/5939_twjx732yFMfvzPY
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: nice URBAN
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png
-        tvg_name: nice URBAN
-        url: http://edge.audio.3qsdn.com/DKrFftd7QJWmGgy
+        url: https://ice.cr5.streamzilla.xlcdn.com:8000/sz%3Dnice-broadcast-media-gmbh%3Dniceradio1-mp3-256
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: oldenburg eins
