@@ -894,13 +894,13 @@ radio:
         url: https://audiostreams.deluxemusic.tv/jukebox/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: KiRaKa
+        name: Die Sendung mit der Maus zum Hören
         quality: ''
         radio: true
         tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kiraka.png
-        tvg_name: KiRaKa
-        url: http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/diemaus.png
+        tvg_name: Die Sendung mit der Maus zum Hören
+        url: https://wdrdiemaus-lh.akamaihd.net/i/wdr_diemaus@374300/index_96_a-p.m3u8
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: WDR Die Maus
