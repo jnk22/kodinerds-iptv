@@ -756,7 +756,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/erfplus.png
         tvg_name: ERF Plus
-        url: http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3
+        url: http://erf1a64-ice-edge-1106-fra-eco-cdn.cast.addradio.de/erf1a64/live/mp3/high
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: ERF Pop
@@ -765,7 +765,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/erfpop.png
         tvg_name: ERF Pop
-        url: http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/2908erfpop/live_de_96.mp3
+        url: http://erf1068-ice-edge-1103-fra-eco-cdn.cast.addradio.de/erf1068/live/mp3/high
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: FluxFM
