@@ -62,7 +62,7 @@ http://stream.blackbeatslive.de/
 #EXTINF:-1 tvg-name="BR Heimat" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brheimat.png",BR Heimat
 https://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/mid
 #EXTINF:-1 tvg-name="BR-Klassik" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png",BR-Klassik
-https://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/high
+https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
 #EXTINF:-1 tvg-name="Bremen Eins" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremeneins.png",Bremen Eins
 http://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Bremen Vier" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png",Bremen Vier
