@@ -4078,6 +4078,15 @@ tv:
         url: https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
+        name: DASDING-VisualRadio
+        quality: hd
+        radio: false
+        tvg_id: Dasding.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png
+        tvg_name: DASDING-VisualRadio
+        url: https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
         name: UNSERDING-VisualRadio
         quality: hd
         radio: false
