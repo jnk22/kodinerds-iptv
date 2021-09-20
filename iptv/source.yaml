@@ -4014,7 +4014,7 @@ tv:
         tvg_name: euronews deutsch
         url: https://www.youtube.com/embed/T9wF9QYVIXM
       - group_title: IPTV-DE
-        group_title_kodi: Nachrichten;Dokumenationen
+        group_title_kodi: Nachrichten;Dokumentationen
         name: Bild
         quality: hd
         radio: false
