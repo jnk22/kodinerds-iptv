@@ -4192,7 +4192,7 @@ tv:
         tvg_id: ERFeins.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png
         tvg_name: ERF 1
-        url: http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8
+        url: https://bcovlive-a.akamaihd.net/77c33860eef740e894a97c6d6c21898d/eu-central-1/6194387526001/profile_0/chunklist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Sonstiges
         name: health.tv
