@@ -4442,6 +4442,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/geniusplustv.png
         tvg_name: Genius Plus TV
         url: http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream/playlist.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Teleshopping
+        name: SonnenklarTV HD
+        quality: hd
+        radio: false
+        tvg_id: sonnenklar.tv
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sonnenklartv.png
+        tvg_name: SonnenklarTV HD
+        url: http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8 
     usuk:
       id: 7
       streams:
