@@ -4031,6 +4031,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png
         tvg_name: Bild
         url: https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/index_5628_av-b.m3u8
+      - group_title: IPTV-AT
+        group_title_kodi: International;Sport
+        name: Red Bull TV
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/redbulltv.png
+        tvg_name: Red Bull TV
+        url: https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
         name: ANIXE HD
