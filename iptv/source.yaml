@@ -4076,6 +4076,24 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png
         tvg_name: Nickelodeon
         url: https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+      - group_title: IPTV-AT
+        group_title_kodi: Musik
+        name: Ö3-VisualRadio
+        quality: hd
+        radio: false
+        tvg_id: oe3.at
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png
+        tvg_name: Ö3-VisualRadio
+        url: http://apasfiisl.apa.at/ipad/oe3hdfb/orf.sdp
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
+        name: SWR3-VisualRadio
+        quality: hd
+        radio: false
+        tvg_id: swr3.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png
+        tvg_name: SWR3-VisualRadio
+        url: https://swrswr3vrhls-i.akamaihd.net/hls/live/780818/vrswr3/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: DASDING-VisualRadio
