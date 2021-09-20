@@ -468,7 +468,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png
         tvg_name: Bayern 3
-        url: https://dispatcher.rndfnk.com/br/br3/live/mp3/128/stream.mp3
+        url: https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Bayern plus
