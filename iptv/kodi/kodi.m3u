@@ -39,7 +39,9 @@ https://www.youtube.com/embed/lpNnFuJXDV4
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nick.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
 https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
-#EXTINF:-1 tvg-name="Unserding" tvg-id="Unserding.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/unserding.png",Unserding
+#EXTINF:-1 tvg-name="DASDING-VisualRadio" tvg-id="Dasding.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING-VisualRadio
+https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
+#EXTINF:-1 tvg-name="UNSERDING-VisualRadio" tvg-id="Unserding.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png",UNSERDING-VisualRadio
 https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
 #EXTINF:-1 tvg-name="Rockland TV" tvg-id="Rockland.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rocklandtv.png",Rockland TV
 http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
