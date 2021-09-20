@@ -53,8 +53,6 @@ https://dispatcher.rndfnk.com/br/br2/nord/mp3/mid
 https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 3" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png",Bayern 3
 https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
-#EXTINF:-1 tvg-name="Bayern plus" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayernplus.png",Bayern plus
-https://mcdn.br.de/br/hf/puls/master.m3u8
 #EXTINF:-1 tvg-name="bigFM" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM
 https://streams.bigfm.de/bigfm-deutschland-128-mp3
 #EXTINF:-1 tvg-name="BlackBeats.FM" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/blackbeatsfm.png",BlackBeats.FM
