@@ -38,21 +38,21 @@ https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
 #EXTINF:-1 tvg-name="BR24 live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24live.png",BR24 live
 https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 1 Mittel- und Oberfranken" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Mittel- und Oberfranken
-https://br-br1-franken.cast.addradio.de/br/br1/franken/mp3/mid
+https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 1 Mainfranken" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Mainfranken
-https://br-br1-mainfranken.cast.addradio.de/br/br1/mainfranken/mp3/mid
+https://dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 1 Oberbayern" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Oberbayern
-https://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/mid
+https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 1 Niederbayern und Oberpfalz" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Niederbayern und Oberpfalz
-https://br-br1-nbopf.cast.addradio.de/br/br1/nbopf/mp3/mid
+https://dispatcher.rndfnk.com/br/br1/nbopf/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 1 Schwaben" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Schwaben
-https://br-br1-schwaben.cast.addradio.de/br/br1/schwaben/mp3/mid
+https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 2 Nord" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",Bayern 2 Nord
-https://br-br2-nord.cast.addradio.de/br/br2/nord/mp3/mid
+https://dispatcher.rndfnk.com/br/br2/nord/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 2 Süd" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",Bayern 2 Süd
-https://br-br2-sued.cast.addradio.de/br/br2/sued/mp3/mid
+https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 3" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png",Bayern 3
-http://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/br/br3/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Bayern plus" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayernplus.png",Bayern plus
 https://mcdn.br.de/br/hf/puls/master.m3u8
 #EXTINF:-1 tvg-name="bigFM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM
@@ -60,17 +60,17 @@ https://streams.bigfm.de/bigfm-deutschland-128-mp3
 #EXTINF:-1 tvg-name="BlackBeats.FM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/blackbeatsfm.png",BlackBeats.FM
 http://stream.blackbeatslive.de/
 #EXTINF:-1 tvg-name="BR Heimat" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brheimat.png",BR Heimat
-https://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/mid
+https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
 #EXTINF:-1 tvg-name="BR-Klassik" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png",BR-Klassik
 https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
 #EXTINF:-1 tvg-name="Bremen Eins" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremeneins.png",Bremen Eins
-http://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/rb/bremeneins/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Bremen Vier" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png",Bremen Vier
-http://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/rb/bremenvier/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Bremen Vier rockt" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png",Bremen Vier rockt
 https://rb-event2-live.cast.addradio.de/rb/event2/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Bremen Zwei" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenzwei.png",Bremen Zwei
-http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/rb/bremenzwei/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Campusradio Köln (Kölncampus)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/koelncampus.png",Campusradio Köln (Kölncampus)
 http://koelncampus.uni-koeln.de:80/hq
 #EXTINF:-1 tvg-name="Campusradio Münster (Radio Q)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioq.png",Campusradio Münster (Radio Q)
@@ -80,7 +80,7 @@ http://icecast.l-uni.co:8001/lunico_high_mp3
 #EXTINF:-1 tvg-name="Campusradio Bielefeld (Hertz 87.9)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hertz879.png",Campusradio Bielefeld (Hertz 87.9)
 http://stream.radiohertz.de/hertz-hq.mp3
 #EXTINF:-1 tvg-name="DASDING" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING
-https://swr-dasding-live.sslcast.addradio.de/swr/dasding/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="DELUXE 80S EXTREME" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE 80S EXTREME
 https://audiostreams.deluxemusic.tv/80s/mp3-192
 #EXTINF:-1 tvg-name="DELUXE RCK Radio" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE RCK Radio
@@ -130,13 +130,13 @@ http://mp3.ffh.de/radioffh/hqlivestream.mp3
 #EXTINF:-1 tvg-name="hr-info" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hrinfo.png",hr-info
 http://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="hr1" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr1.png",hr1
-http://hr-hr1-live.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="hr2-kultur" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr2kultur.png",hr2-kultur
-http://hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/hr/hr2/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="hr3" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr3.png",hr3
-http://hr-hr3-live.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="hr4" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr4.png",hr4
-http://hr-hr4-live.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/hr/hr4/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="JAM FM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM
 http://stream.jam.fm/jamfm-live/mp3-128/konsole/
 #EXTINF:-1 tvg-name="JAM FM Black Label" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM Black Label
@@ -170,27 +170,27 @@ http://metal-only.streampanel.cloud/stream
 #EXTINF:-1 tvg-name="multicult.fm" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/multicultfm.png",multicult.fm
 http://stream.multicult.fm:8000/hifi
 #EXTINF:-1 tvg-name="N-JOY" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/njoy.png",N-JOY
-http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/ndr/njoy/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="NDR 1 Niedersachsen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1niedersachsen.png",NDR 1 Niedersachsen
-http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="NDR 1 Radio MV" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1radiomv.png",NDR 1 Radio MV
-http://ndr-ndr1radiomv-schwerin.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="NDR 1 Welle Nord" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1wellenord.png",NDR 1 Welle Nord
-http://ndr-ndr1wellenord-kiel.cast.addradio.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="NDR 2" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr2.png",NDR 2
-http://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="NDR 90.3" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr903.png",NDR 90.3
-http://ndr-ndr903-hamburg.cast.addradio.de/ndr/ndr903/hamburg/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/ndr/ndr903/hamburg/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="NDR Blue" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrblue.png",NDR Blue
-http://ndr-ndrblue-live.cast.addradio.de/ndr/ndrblue/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/ndr/ndrblue/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="NDR Info" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrinfo.png",NDR Info
-http://ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="NDR Info Spezial" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrinfospezial.png",NDR Info Spezial
-http://ndr-ndrinfospezial-live.cast.addradio.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/ndr/ndrinfospezial/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="NDR kultur" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrkultur.png",NDR kultur
-http://ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/ndr/ndrkultur/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="NDR Plus" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrplus.png",NDR Plus
-http://ndr-ndrplus-live.cast.addradio.de/ndr/ndrplus/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/ndr/ndrplus/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="nice" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png",nice
 https://ice.cr5.streamzilla.xlcdn.com:8000/sz%3Dnice-broadcast-media-gmbh%3Dniceradio1-mp3-256
 #EXTINF:-1 tvg-name="oldenburg eins" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oldenburgeins.png",oldenburg eins
@@ -200,7 +200,7 @@ http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3
 #EXTINF:-1 tvg-name="planet radio" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetradio.png",planet radio
 http://mp3.planetradio.de/planetradio/hqlivestream.mp3
 #EXTINF:-1 tvg-name="PULS" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/puls.png",PULS
-https://br-puls-live.cast.addradio.de/br/puls/live/mp3/mid
+https://dispatcher.rndfnk.com/br/puls/live/mp3/mid
 #EXTINF:-1 tvg-name="Radio 7" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio7.png",Radio 7
 https://edge04.streamonkey.net/radio7-dab
 #EXTINF:-1 tvg-name="Radio 90.1" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio901.png",Radio 90.1
@@ -320,17 +320,17 @@ http://sr3m.akacast.akamaistream.net/7/722/142687/v1/gnl.akacast.akamaistream.ne
 #EXTINF:-1 tvg-name="sunshine live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",sunshine live
 http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq
 #EXTINF:-1 tvg-name="SWR1 Baden-Württemberg" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png",SWR1 Baden-Württemberg
-http://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/swr/swr1/bw/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="SWR1 Rheinland-Pfalz" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png",SWR1 Rheinland-Pfalz
-http://swr-swr1-rp.cast.addradio.de/swr/swr1/rp/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/swr/swr1/rp/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="SWR2" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr2.png",SWR2
-http://swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3
+https://dispatcher.rndfnk.com/swr/swr2/live/mp3/256/stream.mp3
 #EXTINF:-1 tvg-name="SWR3" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png",SWR3
-http://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/swr/swr3/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="SWR4 Baden-Württemberg" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4.png",SWR4 Baden-Württemberg
-http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/swr/swr4/bw/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="SWR4 Rheinland-Pfalz" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4.png",SWR4 Rheinland-Pfalz
-http://swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/swr/swr4/rp/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="UNSERDING" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png",UNSERDING
 http://udm.akacast.akamaistream.net/7/384/142688/v1/gnl.akacast.akamaistream.net/udm
 #EXTINF:-1 tvg-name="WDR 2" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr2.png",WDR 2
@@ -342,7 +342,7 @@ http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="WDR 5" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr5.png",WDR 5
 http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="YOU FM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png",YOU FM
-http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/hr/youfm/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="FM4" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
 https://orf-live.ors-shoutcast.at/fm4-q2a
 #EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
