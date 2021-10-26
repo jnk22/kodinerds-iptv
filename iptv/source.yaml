@@ -2689,7 +2689,7 @@ tv:
         tvg_id: SWREvent3.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png
         tvg_name: SWR Event 3
-        url: http://swr_event03_uni-lh.akamaihd.net/i/swr_event03@198168/index_3584_av-p.m3u8
+        url: https://swrevent03hls.akamaized.net/hls/live/2016768/event03/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: SWR Event 4
