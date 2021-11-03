@@ -3994,7 +3994,7 @@ tv:
         tvg_id: tagesschau24.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png
         tvg_name: tagesschau24
-        url: https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
+        url: https://tagesschau-lh.akamaihd.net/i/tagesschau_3@66339/index_3712_av-p.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten;Dokumentationen
         name: WELT
