@@ -2257,7 +2257,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/lbc.png
         tvg_name: LBC (national)
-        url: http://icecast.thisisdax.com/LBCUK
+        url: https://media-ssl.musicradio.com/LBCUK
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: Times Radio 
