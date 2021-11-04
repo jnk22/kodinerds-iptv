@@ -2239,7 +2239,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/scala.png
         tvg_name: Scala
-        url: http://tx.planetradio.co.uk/icecast.php?i=scala.mp3
+        url: https://stream-mz.planetradio.co.uk/scalahigh.aac
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: Classical 1 
