@@ -3287,6 +3287,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/channelnewsasia.png
         tvg_name: Channel NewsAsia
         url: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+      - group_title: IPTV-NK
+        group_title_kodi: International;Nachrichten
+        name: NKNews
+        quality: sd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nknews.png
+        tvg_name: NKNews
+        url: https://tv.nknews.org/tvdash/stream.mpd
     local:
       id: 4
       streams:
