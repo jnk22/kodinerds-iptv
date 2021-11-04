@@ -954,7 +954,7 @@ http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
 #EXTINF:-1 tvg-name="Classic FM" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/classicfm.png",Classic FM
 http://media-ice.musicradio.com:80/ClassicFMMP3
 #EXTINF:-1 tvg-name="Scala" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/scala.png",Scala
-http://tx.planetradio.co.uk/icecast.php?i=scala.mp3
+https://stream-mz.planetradio.co.uk/scalahigh.aac
 #EXTINF:-1 tvg-name="Classical 1" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/classical1.png",Classical 1
 http://185.80.221.113:8500/stream
 #EXTINF:-1 tvg-name="LBC (national)" group-title="Großbritannien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/lbc.png",LBC (national)
