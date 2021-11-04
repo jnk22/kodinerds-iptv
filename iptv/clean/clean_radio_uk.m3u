@@ -38,6 +38,6 @@ http://tx.planetradio.co.uk/icecast.php?i=scala.mp3
 #EXTINF:-1 tvg-name="Classical 1" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/classical1.png",Classical 1
 http://185.80.221.113:8500/stream
 #EXTINF:-1 tvg-name="LBC (national)" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/lbc.png",LBC (national)
-http://icecast.thisisdax.com/LBCUK
+https://media-ssl.musicradio.com/LBCUK
 #EXTINF:-1 tvg-name="Times Radio" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/timesradio.png",Times Radio
 http://timesradio.wireless.radio/stream?ref=rf
