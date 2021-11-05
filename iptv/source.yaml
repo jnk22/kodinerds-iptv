@@ -3296,6 +3296,24 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nknews.png
         tvg_name: NKNews
         url: https://tv.nknews.org/tvdash/stream.mpd
+      - group_title: IPTV-FI
+        group_title_kodi: International
+        name: Yle TV1
+        quality: hd
+        radio: false
+        tvg_id: YLE1.fi
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/yletv1.png
+        tvg_name: NKNews
+        url: http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
+      - group_title: IPTV-PL
+        group_title_kodi: International
+        name: SferaTV
+        quality: sd
+        radio: false
+        tvg_id: sferatv.pl
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sferatv.png
+        tvg_name: SferaTV
+        url: http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
     local:
       id: 4
       streams:
@@ -3902,6 +3920,24 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/teltOwkanal.png
         tvg_name: teltOwkanal
         url: https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/chunklist_w1331280772.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Lokal
+        name: Ems TV
+        quality: sd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/emstv.png
+        tvg_name: emstv
+        url: https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Lokal
+        name: FRF24
+        quality: sd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frf24.png
+        tvg_name: frf24
+        url: https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
     main:
       id: 1
       streams:
