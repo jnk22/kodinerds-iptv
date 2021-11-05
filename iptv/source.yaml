@@ -4045,7 +4045,7 @@ tv:
         name: ANIXE HD
         quality: hd
         radio: false
-        tvg_id: AnixeSerie.de
+        tvg_id: AnixeHD.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png
         tvg_name: ANIXE HD
         url: https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
@@ -4081,7 +4081,7 @@ tv:
         name: Nickelodeon
         quality: hd
         radio: false
-        tvg_id: Nick.de
+        tvg_id: Nickelodeon.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png
         tvg_name: Nickelodeon
         url: https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
