@@ -3303,7 +3303,7 @@ tv:
         radio: false
         tvg_id: YLE1.fi
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/yletv1.png
-        tvg_name: NKNews
+        tvg_name: yletv1
         url: http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
       - group_title: IPTV-PL
         group_title_kodi: International
