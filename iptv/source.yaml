@@ -2417,42 +2417,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png
         tvg_name: Kronehit TV
         url: https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-      - group_title: IPTV-AT
-        group_title_kodi: International;Musik
-        name: Sporttime TV 1
-        quality: hd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png
-        tvg_name: Sporttime TV 1
-        url: http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/playlist.m3u8?wowzatokenhash=sUTjnxXLdal6Y8bBzs9an_zhqn7VrgWUS5uB8sckoCw=
-      - group_title: IPTV-AT
-        group_title_kodi: International;Sport
-        name: Sporttime TV 2
-        quality: hd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png
-        tvg_name: Sporttime TV 2
-        url: http://sporttimelive1.content-cdn.net/livechannel2/smil:switch2.smil/playlist.m3u8?wowzatokenhash=qgtY96D77QocQoiJn6MCsyHbBMGla2uQoQ03XvQYkuE=
-      - group_title: IPTV-AT
-        group_title_kodi: International;Information / Bildung
-        name: Sporttime TV 4
-        quality: hd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png
-        tvg_name: Sporttime TV 4
-        url: http://sporttimelive1.content-cdn.net/livechannel4/smil:switch4.smil/playlist.m3u8?wowzatokenhash=BhYr7Qu4cZ8LgxWiF7cuQ_hA7sxqdon5Kw0sIHJ7TpM=
-      - group_title: IPTV-AT
-        group_title_kodi: International
-        name: Sporttime TV 5
-        quality: hd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sporttimetv.png
-        tvg_name: Sporttime TV 5
-        url: http://live.earthtv.com:1935/edge27/TWLDE/playlist.m3u8?58a36274bbf047f6c3b5cdb1
       - group_title: IPTV-CH
         group_title_kodi: International
         name: TeleZüri HD
@@ -3415,7 +3379,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png
         tvg_name: L-TV
-        url: https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/playlist.m3u8
+        url: https://live2.telvi.de/hls/l-tv_s1.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Leipzig Fernsehen
@@ -4184,15 +4148,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png
         tvg_name: DELUXE MUSIC
         url: https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
-        name: nice
-        quality: hd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nice.png
-        tvg_name: nice
-        url: https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:4195-mbr.smil/chunklist_b2500000.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Folx TV
