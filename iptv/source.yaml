@@ -3026,15 +3026,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rainews24.png
         tvg_name: Rai News 24
         url: https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-      - group_title: IPTV-IT
-        group_title_kodi: International;Sport
-        name: supertennis.tv
-        quality: hd
-        radio: false
-        tvg_id: SuperTennis.it
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/supertennis.png
-        tvg_name: supertennis.tv
-        url: http://livetok.flash.glb.ipercast.net/supertennis.tv-live/live_490.stream/playlist.m3u8
       - group_title: IPTV-SW
         group_title_kodi: International
         name: Fjorton
