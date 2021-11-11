@@ -3743,12 +3743,12 @@ tv:
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Potsdam TV
-        quality: sd
+        quality: hd
         radio: false
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png
         tvg_name: Potsdam TV
-        url: https://58de7a369a9c4.streamlock.net/potsdamtv/stream/chunklist_w76106822_tkcG90c2RhbXR2ZW5kdGltZT0xNjE0NTM0MjQ3JnBvdHNkYW10dnN0YXJ0dGltZT0xNjE0NTEyNjM3JnBvdHNkYW10dmhhc2g9SHA2ZW5IZ0VKYXZ6bTNpRzZCOU9VT3I5UW4yNWdCMlBIa3JpWHpBNlYwbz0=.m3u8
+        url: https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Regio TV Schwaben
@@ -3883,7 +3883,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/teltOwkanal.png
         tvg_name: teltOwkanal
-        url: https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/chunklist_w1331280772.m3u8
+        url: https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Ems TV
