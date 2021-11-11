@@ -31,8 +31,6 @@ https://livestream.goinfo.it/SDFLive/sdfros/playlist.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-name="Rai News 24" tvg-id="RaiNews.it" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rainews24.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 tvg-name="supertennis.tv" tvg-id="SuperTennis.it" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/supertennis.png",supertennis.tv
-http://livetok.flash.glb.ipercast.net/supertennis.tv-live/live_490.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Fjorton" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fjorton.png",Fjorton
 http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Digi 24 HD" tvg-id="digi24.ro" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/digi24hd.png",Digi 24 HD
