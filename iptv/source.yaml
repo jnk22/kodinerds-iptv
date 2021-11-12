@@ -666,7 +666,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunk.png
         tvg_name: Deutschlandfunk
-        url: http://st01.dlf.de/dlf/01/128/mp3/stream.mp3
+        url: https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Deutschlandfunk Kultur
@@ -675,7 +675,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunkkultur.png
         tvg_name: Deutschlandfunk Kultur
-        url: http://st02.dlf.de/dlf/02/128/mp3/stream.mp3
+        url: https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Deutschlandfunk Nova
@@ -684,7 +684,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunknova.png
         tvg_name: Deutschlandfunk Nova
-        url: http://st03.dlf.de/dlf/03/128/mp3/stream.mp3
+        url: https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Deutschlandradio Dokumente und Debatten
@@ -693,7 +693,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandradiodud.png
         tvg_name: Deutschlandradio Dokumente und Debatten
-        url: http://st04.dlf.de/dlf/04/128/mp3/stream.mp3
+        url: https://st04.sslstream.dlf.de/dlf/04/high/aac/stream.aac
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: DIE NEUE 107.7
