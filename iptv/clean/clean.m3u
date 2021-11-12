@@ -128,7 +128,7 @@ https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
-https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
 #EXTINF:-1 tvg-name="MDR Sachsen-Anhalt HD" tvg-id="MDRS-Anhalt.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen-Anhalt HD
@@ -516,11 +516,11 @@ http://37.187.158.217:8081/24vesti/24vesti/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT World HD" tvg-id="TRTworld.nws" group-title="IPTV-TR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trtworld.png",TRT World HD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="RT HD" tvg-id="RussiaToday.uk" group-title="IPTV-RU" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png",RT HD
-https://www.youtube.com/embed/V0I5eglJMRI
+https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
 #EXTINF:-1 tvg-name="RT Spanish HD" tvg-id="" group-title="IPTV-RU" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png",RT Spanish HD
 https://www.youtube.com/embed/9DXGrOU5wKQ
 #EXTINF:-1 tvg-name="RT Documentary" tvg-id="RTDocumentary.pl" group-title="IPTV-RU" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtdocumentary.png",RT Documentary
-https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-name="MetroTV" tvg-id="" group-title="IPTV-ID" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1 tvg-name="NHK WORLD TV" tvg-id="" group-title="IPTV-JP" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png",NHK WORLD TV
