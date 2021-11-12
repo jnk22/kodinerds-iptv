@@ -644,13 +644,13 @@ https://audiostreams.deluxemusic.tv/arrivals/mp3-192
 #EXTINF:-1 tvg-name="DELUXE TOP 40" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE TOP 40
 https://audiostreams.deluxemusic.tv/top40/mp3-192
 #EXTINF:-1 tvg-name="Deutschlandfunk" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunk.png",Deutschlandfunk
-http://st01.dlf.de/dlf/01/128/mp3/stream.mp3
+https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac
 #EXTINF:-1 tvg-name="Deutschlandfunk Kultur" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunkkultur.png",Deutschlandfunk Kultur
-http://st02.dlf.de/dlf/02/128/mp3/stream.mp3
+https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac
 #EXTINF:-1 tvg-name="Deutschlandfunk Nova" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunknova.png",Deutschlandfunk Nova
-http://st03.dlf.de/dlf/03/128/mp3/stream.mp3
+https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac
 #EXTINF:-1 tvg-name="Deutschlandradio Dokumente und Debatten" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandradiodud.png",Deutschlandradio Dokumente und Debatten
-http://st04.dlf.de/dlf/04/128/mp3/stream.mp3
+https://st04.sslstream.dlf.de/dlf/04/high/aac/stream.aac
 #EXTINF:-1 tvg-name="DIE NEUE 107.7" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dieneue1077.png",DIE NEUE 107.7
 http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3
 #EXTINF:-1 tvg-name="DELUXE DISCO" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png",DELUXE DISCO
