@@ -4093,7 +4093,7 @@ tv:
         tvg_id: swr3.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png
         tvg_name: SWR3-VisualRadio
-        url: https://swrswr3vrhls-i.akamaihd.net/hls/live/780818/vrswr3/master.m3u8
+        url: https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: DASDING-VisualRadio
@@ -4102,7 +4102,7 @@ tv:
         tvg_id: Dasding.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png
         tvg_name: DASDING-VisualRadio
-        url: https://swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8
+        url: https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: UNSERDING-VisualRadio
