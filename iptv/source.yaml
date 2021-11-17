@@ -3514,7 +3514,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kieltv.png
         tvg_name: OK Kiel
-        url: https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
+        url: https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: OK Merseburg-Querfurt
