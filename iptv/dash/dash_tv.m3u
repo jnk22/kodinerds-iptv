@@ -1,38 +1,70 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste" group-title="IPTV-DE",Das Erste
-http://irtdashreference-i.akamaihd.net/dash/live/901161/bfs/manifestARD.mpd
-#EXTINF:-1 tvg-name="ARD-alpha" group-title="IPTV-DE",ARD-alpha
-http://brdashdvbt2-i.akamaihd.net/dash/live/268335/dvbt2/manifest.mpd
-#EXTINF:-1 tvg-name="one" group-title="IPTV-DE",one
-http://einfest_dash-i.akamaihd.net/dash/live/925660/rbbtest/manifest.mpd
-#EXTINF:-1 tvg-name="nice" tvg-id="" group-title="IPTV-DE",nice
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:3015_ycN4x2vJK8fQDXR/manifest.mpd
-#EXTINF:-1 tvg-name="n-tv" tvg-id="ntv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ntv.png",n-tv
-https://pliventvuso-a.akamaihd.net/live/ntvhomelive/ntvhomelive.isml/.mpd
-#EXTINF:-1 tvg-name="WDR" group-title="IPTV-DE",WDR
-http://wdrfsdash15-i.akamaihd.net/dash/live/275009/wdrfs/dash.mpd
-#EXTINF:-1 tvg-name="SWR" group-title="IPTV-DE",SWR
-http://swrdash-i.akamaihd.net/dash/live/925020/swrdash_1/dash.mpd
-#EXTINF:-1 tvg-name="NDR" group-title="IPTV-DE",NDR
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" tvg-logo="https://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="GERMANY",Das Erste HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mcdn.daserste.de/daserste/dash/manifest.mpd
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="https://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png" group-title="GERMANY",ZDF HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-15.akamaized.net/dash/live/2016508/de/manifest.mpd
+#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" tvg-logo="https://logos.zattic.com/images/channels/logos/bfabafc809aa7b6db677/black/84x48.png" group-title="GERMANY",ZDFinfo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-17.akamaized.net/dash/live/2016510/de/manifest.mpd
+#EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" tvg-logo="https://logos.zattic.com/images/channels/logos/02257e2400c10df8cbab/black/84x48.png" group-title="GERMANY",3Sat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-18.akamaized.net/dash/live/2016511/dach/manifest.mpd
+#EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" tvg-logo="https://logos.zattic.com/images/channels/logos/de09c10b090491ef8806/black/84x48.png" group-title="GERMANY",ZDFneo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-16.akamaized.net/dash/live/2016509/de/manifest.mpd
+#EXTINF:-1 tvg-name="ONE HD" tvg-id="One.de" tvg-logo="https://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png" group-title="GERMANY",ONE HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mcdn.one.ard.de/ardone/dash/manifest.mpd
+#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png" group-title="GERMANY",Radio Bremen TV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://rbdashlive.akamaized.net/dash/live/2020436/rbfs/dash.mpd
+#EXTINF:-1 tvg-name="NDR Niedersachsen" tvg-id="NDRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png" group-title="GERMANY",NDR Niedersachsen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://ndrfs-i.akamaihd.net/dash/live/923084/ndr_fs/ndr_nds.mpd
-#EXTINF:-1 tvg-name="BR Fernsehen" group-title="IPTV-DE",BR Fernsehen
-http://brdashdvbt2-i.akamaihd.net/dash/live/268329/dvbt2/manifest.mpd
-#EXTINF:-1 tvg-name="hr-fernsehen" group-title="IPTV-DE",hr-fernsehen
-http://hrdash-i.akamaihd.net/dash/live/265226/hrfernsehen/manifest.mpd
-#EXTINF:-1 tvg-name="rbb" group-title="IPTV-DE",rbb
-http://rbbdashlive-i.akamaihd.net/dash/live/481522/berlin/manifest.mpd
-#EXTINF:-1 tvg-name="SWR Backup" group-title="IPTV-DE",SWR Backup
-http://swrdash-i.akamaihd.net/dash/live/925020-b/swrdash_1/dash.mpd
-#EXTINF:-1 tvg-name="NDR Spezial 1" group-title="IPTV-DE",NDR Spezial 1
-http://ndrspezial.edgesuite.net/dash/live/923078/ndrspezial_1/spezial_1.mpd
-#EXTINF:-1 tvg-name="NDR Spezial 2" group-title="IPTV-DE",NDR Spezial 2
-http://ndrspezial.edgesuite.net/dash/live/923079/ndrspezial_2/spezial_2.mpd
-#EXTINF:-1 tvg-name="NDR Spezial 3" group-title="IPTV-DE",NDR Spezial 3
-http://ndrspezial.edgesuite.net/dash/live/254139/ndrspezial_3/spezial_3.mpd
-#EXTINF:-1 tvg-name="NDR Spezial 4" group-title="IPTV-DE",NDR Spezial 4
-http://ndrspezial.edgesuite.net/dash/live/923081/ndrspezial_4/spezial_4.mpd
-#EXTINF:-1 tvg-name="NDR Spezial 5" group-title="IPTV-DE",NDR Spezial 5
-http://ndrspezial.edgesuite.net/dash/live/926240/ndrspezial_5/spezial_5.mpd
-#EXTINF:-1 tvg-name="NDR Spezial 6" group-title="IPTV-DE",NDR Spezial 6
-http://ndrspezial.edgesuite.net/dash/live/926241/ndrspezial_6/spezial_6.mpd
-
+#EXTINF:-1 tvg-name="WDR" tvg-id="WDRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="GERMANY",WDR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://wdrfs247.akamaized.net/dash/live/2016702/wdrfs247_geo/dash.mpd
+#EXTINF:-1 tvg-name="HR" tvg-id="HRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/black/84x48.png" group-title="GERMANY",HR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://hrdash.akamaized.net/dash/live/2024543/hrdash/manifest.mpd
+#EXTINF:-1 tvg-name="MDR SACHSEN-ANHALT" tvg-id="MDRS-Anhalt.de" tvg-logo="https://logos.zattic.com/images/channels/logos/1694a32cffbc010c5733/black/84x48.png" group-title="GERMANY",MDR SACHSEN-ANHALT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://mdrtvdash.akamaized.net/dash/live/2016881/mdrtvsa/dash.mpd
+#EXTINF:-1 tvg-name="rbb Berlin" tvg-id="rbbBerlin.de" tvg-logo="https://logos.zattic.com/images/channels/logos/823d10599014e6b23d78/black/84x48.png" group-title="GERMANY",rbb Berlin
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://rbb-dash-berlin.akamaized.net/dash/live/2017826/rbb_berlin/manifest.mpd
+#EXTINF:-1 tvg-name="SWR BW" tvg-id="SWRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png" group-title="GERMANY",SWR BW
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png" group-title="GERMANY",SR Fernsehen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://srfsils-i.akamaihd.net/dash/live/693054/srfsgeo/manifest.mpd
+#EXTINF:-1 tvg-name="BR Fernsehen" tvg-id="BRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/7bede2308528e63feaac/black/84x48.png" group-title="GERMANY",BR Fernsehen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://bfrsueddash.akamaized.net/dash/live/2016970/bfs_sued_de/dvbt2/manifest.mpd
+#EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" tvg-logo="https://logos.zattic.com/images/channels/logos/a0b41e9eea449229f713/black/84x48.png" group-title="GERMANY",Phoenix
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://zdf-dash-19.akamaized.net/dash/live/2016512/de/manifest.mpd
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="GERMANY",tagesschau24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-name="Kika" tvg-id="Kika.de" tvg-logo="https://i.imgur.com/qodAT7g.jpg" group-title="GERMANY",Kika
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://kikageodash.akamaized.net/dash/live/2022694/livetvkika_de/manifest.mpd
