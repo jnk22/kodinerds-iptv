@@ -3940,7 +3940,7 @@ tv:
         tvg_id: ServusHD.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png
         tvg_name: ServusTV HD
-        url: https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
+        url: https://stv-live.akamaized.net/hls/live/2031020/lingeoSTVDEwebBU/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
         name: ARD-alpha
