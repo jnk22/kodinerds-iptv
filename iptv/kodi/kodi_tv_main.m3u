@@ -8,7 +8,7 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
 #EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD
-https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
+https://stv-live.akamaized.net/hls/live/2031020/lingeoSTVDEwebBU/master.m3u8
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
