@@ -15,6 +15,10 @@ http://zdf-dash-17.akamaized.net/dash/live/2016510/de/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://zdf-dash-18.akamaized.net/dash/live/2016511/dach/manifest.mpd
+#EXTINF:-1 tvg-name="ARD-alpha" group-title="GERMANY",ARD-alpha
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://ardalphadash.akamaized.net/dash/live/2016972/ard_alpha/dvbt2/manifest.mpd
 #EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" tvg-logo="https://logos.zattic.com/images/channels/logos/de09c10b090491ef8806/black/84x48.png" group-title="GERMANY",ZDFneo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -48,7 +52,7 @@ http://mdrtvdash.akamaized.net/dash/live/2016881/mdrtvsa/dash.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://rbb-dash-berlin.akamaized.net/dash/live/2017826/rbb_berlin/manifest.mpd
 #EXTINF:-1 tvg-name="SWR BW" tvg-id="SWRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png" group-title="GERMANY",SWR BW
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+http://swrbw-dash.akamaized.net/dash/live/2018674/swrbwd/manifest.mpd
 #EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" tvg-logo="https://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png" group-title="GERMANY",SR Fernsehen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -64,6 +68,7 @@ http://zdf-dash-19.akamaized.net/dash/live/2016512/de/manifest.mpd
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="GERMANY",tagesschau24
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://tagesschaudash-i.akamaihd.net/dash/live/923098/tagesschau/tagesschau3.mpd
 #EXTINF:-1 tvg-name="Kika" tvg-id="Kika.de" tvg-logo="https://i.imgur.com/qodAT7g.jpg" group-title="GERMANY",Kika
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
