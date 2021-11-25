@@ -4237,7 +4237,7 @@ tv:
         name: WDR HD
         quality: hd
         radio: false
-        tvg_id: WDR.de
+        tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
         url: https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master_3628.m3u8
@@ -4246,7 +4246,7 @@ tv:
         name: WDR Aachen HD
         quality: hd
         radio: false
-        tvg_id: WDR.de
+        tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
         url: https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
@@ -4255,7 +4255,7 @@ tv:
         name: WDR Bonn HD
         quality: hd
         radio: false
-        tvg_id: WDR.de
+        tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
         url: https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
@@ -4264,7 +4264,7 @@ tv:
         name: WDR Bergisches Land HD
         quality: hd
         radio: false
-        tvg_id: WDR.de
+        tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
         url: https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
@@ -4273,7 +4273,7 @@ tv:
         name: WDR Dortmund HD
         quality: hd
         radio: false
-        tvg_id: WDR.de
+        tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
         url: https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
@@ -4282,7 +4282,7 @@ tv:
         name: WDR Düsseldorf HD
         quality: hd
         radio: false
-        tvg_id: WDR.de
+        tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
         url: https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
@@ -4291,7 +4291,7 @@ tv:
         name: WDR Duisburg HD
         quality: hd
         radio: false
-        tvg_id: WDR.de
+        tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
         url: https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
@@ -4300,7 +4300,7 @@ tv:
         name: WDR Köln HD
         quality: hd
         radio: false
-        tvg_id: WDR.de
+        tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
         url: https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
@@ -4309,7 +4309,7 @@ tv:
         name: WDR Münsterland HD
         quality: hd
         radio: false
-        tvg_id: WDR.de
+        tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
         url: https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
@@ -4318,7 +4318,7 @@ tv:
         name: WDR Ostwestfalen HD
         quality: hd
         radio: false
-        tvg_id: WDR.de
+        tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
         url: https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
@@ -4327,7 +4327,7 @@ tv:
         name: WDR Südwestfalen HD
         quality: hd
         radio: false
-        tvg_id: WDR.de
+        tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
         url: https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
@@ -4336,7 +4336,7 @@ tv:
         name: WDR Ruhr HD
         quality: hd
         radio: false
-        tvg_id: WDR.de
+        tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
         url: https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
@@ -4345,7 +4345,7 @@ tv:
         name: SWR Baden-Württemberg HD
         quality: hd
         radio: false
-        tvg_id: SWR.de
+        tvg_id: SWRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png
         tvg_name: 'SWR Baden-Württemberg HD '
         url: https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
@@ -4363,7 +4363,7 @@ tv:
         name: NDR Niedersachsen HD
         quality: hd
         radio: false
-        tvg_id: ndr.de
+        tvg_id: NDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png
         tvg_name: NDR Niedersachsen HD
         url: https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_720.m3u8
@@ -4417,7 +4417,7 @@ tv:
         name: BR Fernsehen Süd HD
         quality: hd
         radio: false
-        tvg_id: BR.de
+        tvg_id: BRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png
         tvg_name: BR Fernsehen Süd HD
         url: https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
