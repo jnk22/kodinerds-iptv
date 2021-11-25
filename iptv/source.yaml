@@ -3295,7 +3295,7 @@ tv:
         name: allgäu.tv
         quality: sd
         radio: false
-        tvg_id: allgau.tv.de
+        tvg_id: AllgauTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png
         tvg_name: allgäu.tv
         url: https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
@@ -3790,7 +3790,7 @@ tv:
         name: Niederbayern TV Passau
         quality: sd
         radio: false
-        tvg_id: ''
+        tvg_id: niederbayerntv.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/niederbayerntv.png
         tvg_name: Niederbayern TV Passau
         url: https://stream03.stream.welocal.world/stream/npa/ngrp:npa.stream_all/playlist.m3u8
@@ -4036,7 +4036,7 @@ tv:
         name: ANIXE HD
         quality: hd
         radio: false
-        tvg_id: AnixeHD.de
+        tvg_id: Anixe.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png
         tvg_name: ANIXE HD
         url: https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
