@@ -11,11 +11,3 @@ http://zdf-dash-15.akamaized.net/dash/live/2016508/de/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://zdf-dash-18.akamaized.net/dash/live/2016511/dach/manifest.mpd
-#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://zdf-dash-16.akamaized.net/dash/live/2016509/de/manifest.mpd
-#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-http://mcdn.one.ard.de/ardone/dash/manifest.mpd
