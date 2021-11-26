@@ -69,7 +69,7 @@ http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 https://ddxc58gl29qdx.cloudfront.net/p/GERG_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-name="ERF 1" tvg-id="ERFeins.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png",ERF 1
 https://bcovlive-a.akamaihd.net/b14b24d7b4b74470bfe9bdd2ffb63b03/eu-central-1/6194387526001/playlist.m3u8
-#EXTINF:-1 tvg-name="health.tv" tvg-id="" group-title="Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png",health.tv
+#EXTINF:-1 tvg-name="health.tv" tvg-id="Health.de" group-title="Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png",health.tv
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="VISIT-X.tv" tvg-id="" group-title="Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png",VISIT-X.tv
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
@@ -113,7 +113,7 @@ https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
 https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
 #EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWR-rp.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Rheinland-Pfalz HD
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWRFernsehen-rp.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Rheinland-Pfalz HD
 https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 #EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="NDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_720.m3u8
@@ -397,7 +397,7 @@ https://stream.openplayout.org/hls/dorf_high/index.m3u8
 http://www.reeins.tv:1935/live/re1/playlist.m3u8
 #EXTINF:-1 tvg-name="Tirol TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tiroltv.png",Tirol TV
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-#EXTINF:-1 tvg-name="oe24 TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png",oe24 TV
+#EXTINF:-1 tvg-name="oe24 TV" tvg-id="OE24TV.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png",oe24 TV
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="M4TV" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8

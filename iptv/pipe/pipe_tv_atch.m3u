@@ -21,7 +21,7 @@ pipe://ffmpeg -loglevel fatal -i https://stream.openplayout.org/hls/dorf_high/in
 pipe://ffmpeg -loglevel fatal -i http://www.reeins.tv:1935/live/re1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=RE\ eins\ TV -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Tirol TV" tvg-id="" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tiroltv.png",Tirol TV
 pipe://ffmpeg -loglevel fatal -i https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8 -vcodec copy -acodec copy -metadata service_name=Tirol\ TV -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="oe24 TV" tvg-id="" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png",oe24 TV
+#EXTINF:-1 tvg-name="oe24 TV" tvg-id="OE24TV.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png",oe24 TV
 pipe://ffmpeg -loglevel fatal -i https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=oe24\ TV -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="M4TV" tvg-id="" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m4tv.png",M4TV
 pipe://ffmpeg -loglevel fatal -i https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8 -vcodec copy -acodec copy -metadata service_name=M4TV -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
