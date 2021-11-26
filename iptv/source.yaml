@@ -2377,7 +2377,7 @@ tv:
         name: oe24 TV
         quality: sd
         radio: false
-        tvg_id: ''
+        tvg_id: OE24TV.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png
         tvg_name: oe24 TV
         url: https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
@@ -4216,7 +4216,7 @@ tv:
         name: health.tv
         quality: hd
         radio: false
-        tvg_id: ''
+        tvg_id: Health.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png
         tvg_name: health.tv
         url: http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
@@ -4354,7 +4354,7 @@ tv:
         name: SWR Rheinland-Pfalz HD
         quality: hd
         radio: false
-        tvg_id: SWR-rp.de
+        tvg_id: SWRFernsehen-rp.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png
         tvg_name: SWR Rheinland-Pfalz HD
         url: https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
