@@ -2788,7 +2788,7 @@ tv:
         tvg_id: MDRPlus1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png
         tvg_name: MDR+ 1
-        url: http://liveevent1.mdr.de/i/livetvmdrevent1_ww@106904/index_3871_av-p.m3u8
+        url: https://mdrevent1wwhls.akamaized.net/hls/live/2025205/mdrevent1ww/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: MDR+ 2
@@ -2797,7 +2797,7 @@ tv:
         tvg_id: MDRPlus2.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png
         tvg_name: MDR+ 2
-        url: http://liveevent2.mdr.de/i/livetvmdrevent2_ww@106905/index_3871_av-p.m3u8
+        url: https://mdrevent2wwhls.akamaized.net/hls/live/2025367/mdrevent2ww/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: MDR+ 3
