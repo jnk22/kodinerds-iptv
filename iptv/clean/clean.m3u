@@ -354,9 +354,9 @@ http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="BR Event 4" tvg-id="BREvent4.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 4
 http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-b.m3u8
 #EXTINF:-1 tvg-name="MDR+ 1" tvg-id="MDRPlus1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 1
-http://liveevent1.mdr.de/i/livetvmdrevent1_ww@106904/index_3871_av-p.m3u8
+https://mdrevent1wwhls.akamaized.net/hls/live/2025205/mdrevent1ww/master.m3u8
 #EXTINF:-1 tvg-name="MDR+ 2" tvg-id="MDRPlus2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 2
-http://liveevent2.mdr.de/i/livetvmdrevent2_ww@106905/index_3871_av-p.m3u8
+https://mdrevent2wwhls.akamaized.net/hls/live/2025367/mdrevent2ww/master.m3u8
 #EXTINF:-1 tvg-name="MDR+ 3" tvg-id="MDRPlus3.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 3
 http://liveevent2.mdr.de/i/livetvmdrevent3_ww@106905/index_3871_av-p.m3u8
 #EXTINF:-1 tvg-name="HR Event 1" tvg-id="HREvent1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",HR Event 1
