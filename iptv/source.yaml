@@ -4012,7 +4012,7 @@ tv:
         tvg_id: euronews.com
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png
         tvg_name: euronews deutsch
-        url: https://www.youtube.com/embed/5oCql2jfYtM
+        url: https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten;Dokumentationen
         name: Bild
