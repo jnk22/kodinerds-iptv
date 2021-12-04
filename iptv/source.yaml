@@ -2806,7 +2806,16 @@ tv:
         tvg_id: MDRPlus3.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png
         tvg_name: MDR+ 3
-        url: http://liveevent2.mdr.de/i/livetvmdrevent3_ww@106905/index_3871_av-p.m3u8
+        url: https://mdrevent3wwhls.akamaized.net/hls/live/2025368/mdrevent3ww/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: MDR+ 5
+        quality: hd
+        radio: false
+        tvg_id: MDRPlus5.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png
+        tvg_name: MDR+ 5
+        url: https://mdrevent5wwhls.akamaized.net/hls/live/2025370/mdrevent5ww/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: HR Event 1
