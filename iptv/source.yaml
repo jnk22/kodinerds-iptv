@@ -4588,15 +4588,6 @@ tv:
         url: https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Teleshopping
-        name: Genius Plus TV
-        quality: hd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/geniusplustv.png
-        tvg_name: Genius Plus TV
-        url: http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Teleshopping
         name: SonnenklarTV HD
         quality: hd
         radio: false
