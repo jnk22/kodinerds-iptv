@@ -2872,6 +2872,24 @@ tv:
         url: https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra;Information / Bildung
+        name: Parlamentsfernsehen 3
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png
+        tvg_name: Parlamentsfernsehen 3
+        url: https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra;Information / Bildung
+        name: Parlamentsfernsehen 4
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png
+        tvg_name: Parlamentsfernsehen 4
+        url: https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8                
+      - group_title: IPTV-DE
+        group_title_kodi: Extra;Information / Bildung
         name: EbS Live (Europe by Satellite)
         quality: hd
         radio: false
