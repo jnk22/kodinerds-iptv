@@ -66,7 +66,7 @@ http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u
 #EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-name="EWTN katholisches TV" tvg-id="EWTN.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png",EWTN katholisches TV
-https://ddxc58gl29qdx.cloudfront.net/p/GERG_1280x720_3000k.m3u8
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ERF 1" tvg-id="ERFeins.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png",ERF 1
 https://bcovlive-a.akamaihd.net/b14b24d7b4b74470bfe9bdd2ffb63b03/eu-central-1/6194387526001/playlist.m3u8
 #EXTINF:-1 tvg-name="health.tv" tvg-id="Health.de" group-title="Sonstiges" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png",health.tv
@@ -83,8 +83,6 @@ https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog
 https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:-1 tvg-name="QVC Beauty & Style" tvg-id="" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcbeautystyle.png",QVC Beauty & Style
 https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 tvg-name="Genius Plus TV" tvg-id="" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/geniusplustv.png",Genius Plus TV
-http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="SonnenklarTV HD" tvg-id="sonnenklar.tv" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sonnenklartv.png",SonnenklarTV HD
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD

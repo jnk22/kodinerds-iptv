@@ -9,7 +9,5 @@ https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog
 https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:-1 tvg-name="QVC Beauty & Style" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcbeautystyle.png",QVC Beauty & Style
 https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 tvg-name="Genius Plus TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/geniusplustv.png",Genius Plus TV
-http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="SonnenklarTV HD" tvg-id="sonnenklar.tv" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sonnenklartv.png",SonnenklarTV HD
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
