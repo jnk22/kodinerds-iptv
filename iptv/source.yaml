@@ -3259,7 +3259,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mellotv.png
         tvg_name: Mello TV
-        url: https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/a1e0ad3f_1_1376000/chunklist.m3u8
+        url: https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
       - group_title: IPTV-SG
         group_title_kodi: International;Nachrichten
         name: Channel NewsAsia
