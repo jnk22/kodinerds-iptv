@@ -4723,7 +4723,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png
         tvg_name: CMC
-        url: https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+        url: https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
       - group_title: IPTV-US
         group_title_kodi: International;Sonstiges
         name: Hunt Channel
