@@ -4049,6 +4049,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png
         tvg_name: Bild
         url: https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/index_5628_av-b.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Nachrichten
+        name: Russia Today Deutsch
+        quality: hd
+        radio: false
+        tvg_id: rtdeutsch
+        tvg_logo: https://i.playboard.app/p/AKedOLR5J2XcArFgkK8OfdX2bT6XeykYPecQYci29AGkpQ/default.jpg
+        tvg_name: rtdeutsch
+        url: https://rt-ger.gcdn.co/live/rtdeutsch/playlist.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International;Sport
         name: Red Bull TV
