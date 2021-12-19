@@ -3,6 +3,8 @@
 pipe://ffmpeg -loglevel fatal -i https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8 -vcodec copy -acodec copy -metadata service_name=Sky\ News\ Extra -metadata service_provider=IPTV-AU -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Deutsche Welle (ES)" tvg-id="DeutscheWelleES.de" group-title="IPTV-ES" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle (ES)
 pipe://ffmpeg -loglevel fatal -i https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8 -vcodec copy -acodec copy -metadata service_name=Deutsche\ Welle\ (ES) -metadata service_provider=IPTV-ES -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+#EXTINF:-1 tvg-name="RT en Español" tvg-id="" group-title="IPTV-ES" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png",RT en Español
+pipe://ffmpeg -loglevel fatal -i https://www.youtube.com/embed/9DXGrOU5wKQ -vcodec copy -acodec copy -metadata service_name=RT\ en\ Español -metadata service_provider=IPTV-ES -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Press TV" tvg-id="PressTV.uk" group-title="IPTV-IR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/presstv.png",Press TV
 pipe://ffmpeg -loglevel fatal -i https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Press\ TV -metadata service_provider=IPTV-IR -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="CHCH" tvg-id="CHCH.cdn" group-title="IPTV-CA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chch.png",CHCH
@@ -55,8 +57,6 @@ pipe://ffmpeg -loglevel fatal -i http://37.187.158.217:8081/24vesti/24vesti/play
 pipe://ffmpeg -loglevel fatal -i https://tv-trtworld.live.trt.com.tr/master_1080.m3u8 -vcodec copy -acodec copy -metadata service_name=TRT\ World\ HD -metadata service_provider=IPTV-TR -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="RT HD" tvg-id="RussiaToday.uk" group-title="IPTV-RU" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png",RT HD
 pipe://ffmpeg -loglevel fatal -i https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=RT\ HD -metadata service_provider=IPTV-RU -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
-#EXTINF:-1 tvg-name="RT Spanish HD" tvg-id="" group-title="IPTV-RU" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png",RT Spanish HD
-pipe://ffmpeg -loglevel fatal -i https://www.youtube.com/embed/9DXGrOU5wKQ -vcodec copy -acodec copy -metadata service_name=RT\ Spanish\ HD -metadata service_provider=IPTV-RU -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="RT Documentary" tvg-id="RTDocumentary.pl" group-title="IPTV-RU" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtdocumentary.png",RT Documentary
 pipe://ffmpeg -loglevel fatal -i https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=RT\ Documentary -metadata service_provider=IPTV-RU -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="MetroTV" tvg-id="" group-title="IPTV-ID" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png",MetroTV
