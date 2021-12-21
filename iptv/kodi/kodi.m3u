@@ -59,6 +59,10 @@ https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2
 https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
 #EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1 tvg-name="Magenta Musik 360 1" tvg-id="MagentaMusik1.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png",Magenta Musik 360 1
+https://streaming.magenta-musik-360.de/csm/573870/magentamusik1/index.m3u8
+#EXTINF:-1 tvg-name="Magenta Musik 360 2" tvg-id="MagentaMusik2.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png",Magenta Musik 360 2
+https://streaming.magenta-musik-360.de/csm/573871/magentamusik2/index.m3u8
 #EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV
 https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Bibel TV Impuls" tvg-id="BibelTVImpuls.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Impuls
