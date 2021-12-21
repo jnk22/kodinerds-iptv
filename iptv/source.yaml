@@ -2698,7 +2698,7 @@ tv:
         tvg_id: NDRSpezial1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
         tvg_name: NDR Spezial 1
-        url: http://ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/index_3776_av-p.m3u8
+        url: http://ndrspezial-lh.akamaihd.net/i/spezial_1@430235/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: NDR Spezial 2
@@ -2707,7 +2707,7 @@ tv:
         tvg_id: NDRSpezial2.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
         tvg_name: NDR Spezial 2
-        url: http://ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/index_3776_av-p.m3u8
+        url: http://ndrspezial-lh.akamaihd.net/i/spezial_2@430236/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: NDR Spezial 3
@@ -2716,7 +2716,7 @@ tv:
         tvg_id: NDRSpezial3.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
         tvg_name: NDR Spezial 3
-        url: http://ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/index_3776_av-p.m3u8
+        url: http://ndrspezial-lh.akamaihd.net/i/spezial_3@430237/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: NDR Spezial 4
@@ -2734,7 +2734,7 @@ tv:
         tvg_id: NDRSpezial5.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
         tvg_name: NDR Spezial 5
-        url: http://ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/index_3776_av-p.m3u8
+        url: http://ndrspezial-lh.akamaihd.net/i/spezial_5@430239/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: NDR Spezial 6
@@ -2743,7 +2743,7 @@ tv:
         tvg_id: NDRSpezial6.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
         tvg_name: NDR Spezial 6
-        url: http://ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/index_3776_av-p.m3u8
+        url: http://ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: BR Event 1
