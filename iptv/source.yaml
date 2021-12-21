@@ -4200,7 +4200,7 @@ tv:
         radio: false
         tvg_id: MagentaMusik1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png
-        tvg_name: Deutsches Musik Fernsehen
+        tvg_name: Magenta Musik 360 1
         url: https://streaming.magenta-musik-360.de/csm/573870/magentamusik1/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
@@ -4209,7 +4209,7 @@ tv:
         radio: false
         tvg_id: MagentaMusik2.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png
-        tvg_name: Deutsches Musik Fernsehen
+        tvg_name: Magenta Musik 360 2
         url: https://streaming.magenta-musik-360.de/csm/573871/magentamusik2/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Religion
