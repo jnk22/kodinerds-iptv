@@ -4501,7 +4501,7 @@ tv:
         tvg_id: rbbBerlin.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png
         tvg_name: rbb Berlin HD
-        url: https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master-720p-3628.m3u8
+        url: https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: rbb Brandenburg HD
@@ -4510,7 +4510,7 @@ tv:
         tvg_id: rbbBrandenburg.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png
         tvg_name: rbb Brandenburg HD
-        url: https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master-720p-3628.m3u8
+        url: https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: SR Fernsehen HD
