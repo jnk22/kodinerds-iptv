@@ -3829,7 +3829,7 @@ tv:
         tvg_id: tvingolstadt.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvingolstadt.png
         tvg_name: tv.ingolstadt
-        url: https://stream01.stream.welocal.world/stream/tvi/ngrp:tvi.stream_all/playlist.m3u8
+        url: https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: TV Mittelrhein
