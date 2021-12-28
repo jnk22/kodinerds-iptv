@@ -120,7 +120,7 @@ http://erf1068-ice-edge-1103-fra-eco-cdn.cast.addradio.de/erf1068/live/mp3/high
 #EXTINF:-1 tvg-name="FluxFM" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png",FluxFM
 http://streams.fluxfm.de/live/mp3-320/audio/
 #EXTINF:-1 tvg-name="Fritz" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png",Fritz
-https://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/mid
+http://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
 #EXTINF:-1 tvg-name="harmony.fm" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/harmonyfm.png",harmony.fm
 https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
 #EXTINF:-1 tvg-name="HIT RADIO FFH" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioffh.png",HIT RADIO FFH
