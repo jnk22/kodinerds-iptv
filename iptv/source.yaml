@@ -360,7 +360,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebrandenburg.png
         tvg_name: Antenne Brandenburg
-        url: https://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/mid
+        url: https://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: ANTENNE THÜRINGEN
@@ -774,7 +774,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png
         tvg_name: Fritz
-        url: http://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
+        url: https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: harmony.fm
@@ -801,7 +801,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hrinfo.png
         tvg_name: hr-info
-        url: http://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3
+        url: https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: hr1
@@ -1528,7 +1528,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbInforadio.png
         tvg_name: rbb Inforadio
-        url: https://rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/mid
+        url: https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: rbbKultur
@@ -1537,7 +1537,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbKultur.png
         tvg_name: rbbKultur
-        url: https://rbb-rbbkultur-live.cast.addradio.de/rbb/rbbkultur/live/mp3/high
+        url: https://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: radioeins
@@ -1555,7 +1555,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbb888.png
         tvg_name: rbb 88.8
-        url: http://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
+        url: https://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: reboot.fm
