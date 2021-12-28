@@ -1555,7 +1555,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbb888.png
         tvg_name: rbb 88.8
-        url: https://rbb-rbb888-live.cast.addradio.de/rbb/rbb888/live/mp3/mid
+        url: http://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: reboot.fm
