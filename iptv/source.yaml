@@ -531,7 +531,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png
         tvg_name: Bremen Vier rockt
-        url: https://rb-event2-live.cast.addradio.de/rb/event2/live/mp3/128/stream.mp3
+        url: https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Bremen Zwei
@@ -1546,7 +1546,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioeins.png
         tvg_name: radioeins
-        url: https://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/mid
+        url: https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: rbb 88.8
