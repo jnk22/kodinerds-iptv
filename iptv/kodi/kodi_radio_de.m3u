@@ -66,7 +66,7 @@ https://dispatcher.rndfnk.com/rb/bremeneins/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Bremen Vier" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png",Bremen Vier
 https://dispatcher.rndfnk.com/rb/bremenvier/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Bremen Vier rockt" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenvier.png",Bremen Vier rockt
-https://rb-event2-live.cast.addradio.de/rb/event2/live/mp3/128/stream.mp3
+https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Bremen Zwei" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bremenzwei.png",Bremen Zwei
 https://dispatcher.rndfnk.com/rb/bremenzwei/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Campusradio Köln (Kölncampus)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/koelncampus.png",Campusradio Köln (Kölncampus)
@@ -292,7 +292,7 @@ https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
 #EXTINF:-1 tvg-name="rbbKultur" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbKultur.png",rbbKultur
 https://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/mid
 #EXTINF:-1 tvg-name="radioeins" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioeins.png",radioeins
-https://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/mid
+https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid
 #EXTINF:-1 tvg-name="rbb 88.8" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbb888.png",rbb 88.8
 https://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
 #EXTINF:-1 tvg-name="reboot.fm" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rebootfm.png",reboot.fm
