@@ -1,5 +1,8 @@
 name: Update .m3u files
-on: push
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   run:
