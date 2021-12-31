@@ -2417,6 +2417,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png
         tvg_name: Kronehit TV
         url: https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+      - group_title: IPTV-AT
+        group_title_kodi: International;Musik
+        name: Melodie TV
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/melodietv.png
+        tvg_name: Melodie TV
+        url: https://www.youtube.com/embed/1nHkPNp4Yc0
       - group_title: IPTV-CH
         group_title_kodi: International
         name: TeleZüri HD
