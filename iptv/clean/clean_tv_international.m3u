@@ -79,8 +79,10 @@ http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel NewsAsia" tvg-id="" group-title="IPTV-SG" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/channelnewsasia.png",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="NKNews" tvg-id="" group-title="IPTV-NK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nknews.png",NKNews
+#EXTINF:-1 tvg-name="NKNews" tvg-id="" group-title="IPTV-KP" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nknews.png",NKNews
 https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-name="Arirang TV" tvg-id="ArirangTv.kr" group-title="IPTV-KR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arirangtv.png",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-name="yletv1" tvg-id="YLE1.fi" group-title="IPTV-FI" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/yletv1.png",Yle TV1
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
 #EXTINF:-1 tvg-name="SferaTV" tvg-id="sferatv.pl" group-title="IPTV-PL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sferatv.png",SferaTV
