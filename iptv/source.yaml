@@ -3383,12 +3383,12 @@ tv:
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Hamburg 1
-        quality: sd
+        quality: hd
         radio: false
         tvg_id: Hamburg1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hamburg1.png
         tvg_name: Hamburg 1
-        url: https://live2.telvi.de/hls/hamburg1.m3u8
+        url: https://hamburg1-jw.cdn.vustreams.com/live/09120205-afa3-4048-a965-318eb0cacffc/live.isml/.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: KabelJournal
