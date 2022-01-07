@@ -2303,12 +2303,12 @@ tv:
       - group_title: IPTV-AT
         group_title_kodi: International
         name: Okto
-        quality: sd
+        quality: hd
         radio: false
         tvg_id: OKTO.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png
         tvg_name: Okto
-        url: https://d2i6psfxyapxwi.cloudfront.net/out/v1/f0cc8e3aceb64ad8968231dc5a0041d4/index.m3u8
+        url: https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International
         name: ORF eins HD
