@@ -4090,7 +4090,7 @@ tv:
         name: More than Sports TV
         quality: hd
         radio: false
-        tvg_id: eoTV.de
+        tvg_id: morethansports.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/morethansports.png
         tvg_name: More than Sports TV
         url: https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
