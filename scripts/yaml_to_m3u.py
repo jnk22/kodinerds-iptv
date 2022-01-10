@@ -45,7 +45,7 @@ def write_kodi(content):
                             else:
                                 tvg_id_str = " tvg-id=\"" + stream["tvg_id"] + "\""
                             header_line = "#EXTINF:-1 tvg-name=\"" + stream["tvg_name"] + "\"" + tvg_id_str + " group-title=\"" + stream["group_title_kodi"] + "\"" + radio_str + " tvg-logo=\"" + stream["tvg_logo"] + "\"," + stream["name"] + "\n"
-                            line = stream["url"] + "\n"
+                            line = stream["url"].replace("https://www.youtube.com/embed/", "plugin://plugin.video.youtube/play/?video_id=") + "\n"
                             file.write(header_line)
                             file.write(line)
                             category_file.write(header_line)
