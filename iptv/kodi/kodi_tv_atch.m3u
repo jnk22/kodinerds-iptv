@@ -32,7 +32,7 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kronehit TV" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-name="Melodie TV" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/melodietv.png",Melodie TV
-https://www.youtube.com/embed/1nHkPNp4Yc0
+plugin://plugin.video.youtube/play/?video_id=1nHkPNp4Yc0
 #EXTINF:-1 tvg-name="TeleZüri HD" tvg-id="TeleZuri.ch" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png",TeleZüri HD
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8
 #EXTINF:-1 tvg-name="TeleBärn HD" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebaern.png",TeleBärn HD

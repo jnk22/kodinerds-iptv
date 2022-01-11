@@ -36,6 +36,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1 tvg-name="Heart TV" tvg-id="HeartTV.uk" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hearttv.png",Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skynews.png",Sky News
-https://www.youtube.com/embed/9Auq9mYxFEE
+plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE
 #EXTINF:-1 tvg-name="London Live" tvg-id="LondonLive.uk" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
