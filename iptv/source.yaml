@@ -720,7 +720,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/domradiode.png
         tvg_name: domradio.de
-        url: http://domradio-mp3-l.akacast.akamaistream.net/7/809/237368/v1/gnl.akacast.akamaistream.net/domradio-mp3-l
+        url: https://dom.audiostream.io/domradio/1000/mp3/128/domradio-rp.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: DONAU 3 FM
