@@ -3007,7 +3007,7 @@ tv:
         tvg_id: France24.fr
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png
         tvg_name: France 24
-        url: http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+        url: http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
       - group_title: IPTV-FR
         group_title_kodi: International;Musik
         name: NRJ HITS TV
