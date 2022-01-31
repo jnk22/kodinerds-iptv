@@ -2281,7 +2281,7 @@ tv:
         tvg_id: ServusTV.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png
         tvg_name: ServusTV HD (AT)
-        url: https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
+        url: https://stv-live.akamaized.net/hls/live/2031021/lingeoSTVATwebBU/master.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International;Spartenprogramm
         name: Krone.TV
