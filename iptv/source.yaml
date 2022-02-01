@@ -4583,6 +4583,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle (EN)
         url: https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/index.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Regional
+        name: Rennsteig.tv
+        quality: hd
+        radio: false
+        tvg_id: rennsteig.tv
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rennsteigtv.png
+        tvg_name: Rennsteig.tv
+        url: http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
     shop:
       id: 2
       streams:
