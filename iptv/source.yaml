@@ -4201,7 +4201,7 @@ tv:
         tvg_id: DeutschesMusikFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png
         tvg_name: Deutsches Musik Fernsehen
-        url: https://tv.artcom-venture.de/dmf/tv_720.m3u8
+        url: https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Magenta Musik 360 1
