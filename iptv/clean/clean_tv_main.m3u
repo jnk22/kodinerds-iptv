@@ -58,7 +58,7 @@ https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2
 #EXTINF:-1 tvg-name="Folx TV" tvg-id="FolxTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png",Folx TV
 https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
 #EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
-https://tv.artcom-venture.de/dmf/tv_720.m3u8
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1 tvg-name="Magenta Musik 360 1" tvg-id="MagentaMusik1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png",Magenta Musik 360 1
 https://streaming.magenta-musik-360.de/csm/573870/magentamusik1/index.m3u8
 #EXTINF:-1 tvg-name="Magenta Musik 360 2" tvg-id="MagentaMusik2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png",Magenta Musik 360 2
