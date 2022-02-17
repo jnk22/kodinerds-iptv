@@ -4292,6 +4292,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png
         tvg_name: VISIT-X.tv
         url: https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Sonstiges
+        name: Wir24TV
+        quality: hd
+        radio: false
+        tvg_id: 'wir24.tv'
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wirtv24.png
+        tvg_name: wir24.tv
+        url: https://edge20.vedge.infomaniak.com/livecast/ik:wir24tv/manifest.m3u8
     regional:
       id: 3
       streams:
