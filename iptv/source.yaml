@@ -2936,15 +2936,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle (ES)
         url: https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
-      - group_title: IPTV-ES
-        group_title_kodi: International;Nachrichten
-        name: RT en Español
-        quality: hd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png
-        tvg_name: RT en Español
-        url: https://www.youtube.com/embed/9DXGrOU5wKQ
       - group_title: IPTV-IR
         group_title_kodi: International;Nachrichten
         name: Press TV
@@ -3170,24 +3161,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trtworld.png
         tvg_name: TRT World HD
         url: https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-      - group_title: IPTV-RU
-        group_title_kodi: International;Nachrichten
-        name: RT HD
-        quality: hd
-        radio: false
-        tvg_id: RussiaToday.uk
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rt.png
-        tvg_name: RT HD
-        url: https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
-      - group_title: IPTV-RU
-        group_title_kodi: International;Dokumentationen
-        name: RT Documentary
-        quality: hd
-        radio: false
-        tvg_id: RTDocumentary.pl
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtdocumentary.png
-        tvg_name: RT Documentary
-        url: https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
       - group_title: IPTV-ID
         group_title_kodi: International;Nachrichten
         name: MetroTV
@@ -4049,15 +4022,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png
         tvg_name: euronews deutsch
         url: https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Nachrichten
-        name: RT DE
-        quality: hd
-        radio: false
-        tvg_id: RT.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtde.png
-        tvg_name: RT DE
-        url: https://rt-ger.gcdn.co/live/rtdeutsch/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten;Dokumentationen
         name: Bild
