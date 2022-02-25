@@ -4723,7 +4723,7 @@ tv:
         tvg_id: Bloomberg.nws
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bloombergtv.png
         tvg_name: Bloomberg TV
-        url: https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+        url: https://www.bloomberg.com/media-manifest/streams/eu.m3u8
       - group_title: IPTV-US
         group_title_kodi: International;Religion
         name: SBN
