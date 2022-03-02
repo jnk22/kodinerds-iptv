@@ -3161,6 +3161,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trtworld.png
         tvg_name: TRT World HD
         url: https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+      - group_title: IPTV-RU
+        group_title_kodi: International;Nachrichten
+        name: TV Rain (Doschd)
+        quality: hd
+        radio: false
+        tvg_id: tvrain.ru
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvrain.png
+        tvg_name: TV Rain
+        url: https://www.youtube.com/embed/a-FtIbrC0pE
       - group_title: IPTV-ID
         group_title_kodi: International;Nachrichten
         name: MetroTV
