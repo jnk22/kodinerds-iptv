@@ -4151,12 +4151,12 @@ tv:
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: DELUXE MUSIC
-        quality: sd
+        quality: hd
         radio: false
         tvg_id: DeLuxeMusic.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png
         tvg_name: DELUXE MUSIC
-        url: https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
+        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Folx TV
