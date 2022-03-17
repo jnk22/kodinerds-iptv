@@ -3283,10 +3283,46 @@ tv:
         name: Yle TV1
         quality: hd
         radio: false
-        tvg_id: YLE1.fi
+        tvg_id: yle1.fi
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/yletv1.png
-        tvg_name: yletv1
-        url: http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
+        tvg_name: Yle TV1
+        url: https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+      - group_title: IPTV-FI
+        group_title_kodi: International
+        name: Yle TV2
+        quality: hd
+        radio: false
+        tvg_id: yle2.fi
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/yletv2.png
+        tvg_name: Yle TV2
+        url: https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
+      - group_title: IPTV-FI
+        group_title_kodi: International
+        name: Yle Teema & Fem
+        quality: hd
+        radio: false
+        tvg_id: yleteemafem.fi
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/yleteemafem.png
+        tvg_name: Yle Teema & Fem
+        url: https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
+      - group_title: IPTV-FI
+        group_title_kodi: International
+        name: Taivas TV7
+        quality: hd
+        radio: false
+        tvg_id: taivastv7.fi
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/taivastv7.png
+        tvg_name: Taivas TV7
+        url: https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
+      - group_title: IPTV-FI
+        group_title_kodi: International
+        name: Alfa TV
+        quality: sd
+        radio: false
+        tvg_id: alfatv.fi
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alfatv.png
+        tvg_name: Alfa TV
+        url: https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
       - group_title: IPTV-PL
         group_title_kodi: International
         name: SferaTV
