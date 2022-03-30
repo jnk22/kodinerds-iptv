@@ -157,6 +157,8 @@ https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/index.m3u8
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Rennsteig.tv" tvg-id="rennsteig.tv" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rennsteigtv.png",Rennsteig.tv
 http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="h-eins.tv" tvg-id="h-eins.tv" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/h1tv.png",h1
+https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png",ALEX Berlin
