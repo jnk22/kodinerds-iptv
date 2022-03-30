@@ -4574,7 +4574,7 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rennsteigtv.png
         tvg_name: Rennsteig.tv
         url: http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
-        - group_title: IPTV-DE
+      - group_title: IPTV-DE
         group_title_kodi: Regional
         name: h1
         quality: hd
