@@ -4501,7 +4501,7 @@ tv:
         tvg_id: HR.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png
         tvg_name: hr-fernsehen
-        url: https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+        url: https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: rbb Berlin HD
