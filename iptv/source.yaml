@@ -4564,7 +4564,7 @@ tv:
         tvg_id: SRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png
         tvg_name: SR Fernsehen HD
-        url: http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
+        url: https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Deutsche Welle
