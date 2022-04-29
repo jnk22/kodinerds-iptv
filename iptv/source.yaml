@@ -4156,7 +4156,7 @@ tv:
         tvg_id: MTVGermany.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png
         tvg_name: MTV Germany
-        url: http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
+        url: https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: DELUXE MUSIC
