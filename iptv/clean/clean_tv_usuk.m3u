@@ -3,6 +3,34 @@
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="Adult Swim" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - Rick and Morty" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Rick and Morty Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - Last Stream on the Left" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Last Stream on the Left Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - Off the Air" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Off the Air Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - Metalocalypse" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Metalocalypse Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - Robot Chicken" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Robot Chicken Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - Samurai Jack" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Samurai Jack Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - Aqua Teen Hunger Force" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Aqua Teen Hunger Force Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - The Eric Andre Show" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (The Eric Andre Show Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - The Venture Brothers" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (The Venture Brothers Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - Channel 5" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Channel 5 Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - Infomercials" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Infomercials Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - Black Jesus" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Black Jesus Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - Your Pretty Face is Going to Hell" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Your Pretty Face is Going to Hell Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_7.m3u8
+#EXTINF:-1 tvg-name="Adult Swim - Dream Corp LLC" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Dream Corp LLC Marathon)
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
 #EXTINF:-1 tvg-name="JUCE TV" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/jucetv.png",JUCE TV
 http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
 #EXTINF:-1 tvg-name="NASA TV" tvg-id="NASA.us" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nasatv.png",NASA TV
