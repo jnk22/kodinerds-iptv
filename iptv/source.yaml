@@ -4707,6 +4707,132 @@ tv:
         tvg_name: Adult Swim
         url: http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
       - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (Rick and Morty Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Rick and Morty
+        url: https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (Last Stream on the Left Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Last Stream on the Left
+        url: https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (Off the Air Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Off the Air
+        url: https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (Metalocalypse Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Metalocalypse
+        url: https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (Robot Chicken Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Robot Chicken
+        url: https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (Samurai Jack Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Samurai Jack
+        url: https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (Aqua Teen Hunger Force Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Aqua Teen Hunger Force
+        url: https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (The Eric Andre Show Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - The Eric Andre Show
+        url: https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (The Venture Brothers Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - The Venture Brothers
+        url: https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (Channel 5 Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Channel 5
+        url: https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (Infomercials Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Infomercials
+        url: https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (Black Jesus Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Black Jesus
+        url: https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (Your Pretty Face is Going to Hell Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Your Pretty Face is Going to Hell
+        url: https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Adult Swim (Dream Corp LLC Marathon)
+        quality: hd
+        radio: false
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Dream Corp LLC
+        url: https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
+      - group_title: IPTV-US
         group_title_kodi: International;Religion;Kinder / Jugend
         name: JUCE TV
         quality: sd
