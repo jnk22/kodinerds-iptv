@@ -4,7 +4,7 @@ https://orf-live.ors-shoutcast.at/fm4-q2a
 #EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
 https://orf-live.ors-shoutcast.at/oe3-q2a
 #EXTINF:-1 tvg-name="Klassik Radio" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png",Klassik Radio
-https://stream.klassikradio.de/live/mp3-192
+https://edge61.streams.klassikradio.de/klassikradio-oesterreich/stream/mp3
 #EXTINF:-1 tvg-name="KRONEHIT" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT
 http://onair.krone.at:80/kronehit.mp3
 #EXTINF:-1 tvg-name="KRONEHIT Dance" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT Dance
