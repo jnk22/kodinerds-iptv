@@ -4057,7 +4057,7 @@ tv:
         tvg_id: WELT.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png
         tvg_name: WELT
-        url: http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+        url: https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/playlist-1280.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten
         name: WELT News (Dauerschleife)
@@ -4066,7 +4066,7 @@ tv:
         tvg_id: WELTNewsLoop.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png
         tvg_name: WELT News (loop)
-        url: https://news2weltcms-lh.akamaihd.net/i/News2WeltCMS_1@425444/index_1_av-b.m3u8
+        url: https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/playlist-960.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten
         name: euronews deutsch
