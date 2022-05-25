@@ -4456,7 +4456,7 @@ tv:
         tvg_id: NDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png
         tvg_name: NDR Niedersachsen HD
-        url: https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_720.m3u8
+        url: https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: NDR Schleswig-Holstein HD
@@ -4474,7 +4474,7 @@ tv:
         tvg_id: ndr.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png
         tvg_name: NDR Mecklenburg-Vorpommern HD
-        url: https://mcdn-ndr.akamaized.net/ndr/hls/ndr_fs/ndr_mv/master_720.m3u8
+        url: https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: NDR Hamburg HD
@@ -4483,7 +4483,7 @@ tv:
         tvg_id: ndr.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png
         tvg_name: NDR Hamburg HD
-        url: https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3712_av-b.m3u8
+        url: https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Radio Bremen TV HD
