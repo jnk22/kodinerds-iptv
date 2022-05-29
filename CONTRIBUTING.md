@@ -4,10 +4,10 @@ Es ist nicht erforderlich, das Repository auszuchecken. Alle Änderungen können
 
 1. Repository forken
 2. Im Fork einen neuen Branch anlegen
-3. Änderungen in `iptv/source.yaml` einbauen (z.B. URL ändern) - siehe [Hinweis](#-Hinweis)
+3. Änderungen in `iptv/source.yaml` einbauen (z.B. URL ändern) - siehe [Hinweis](##-Hinweis)
 4. Pull Request erstellen (Titel z.B. "Fix ..." oder "Add ...")
 
-# Hinweis
+## Hinweis
 Wenn Streams in mehreren Qualitäten verfügbar sind, bitte immer den `master.m3u8`-Stream verwenden!
 
 <details>
@@ -25,6 +25,7 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 Das initiale Laden der Direktlinks kann je nach Programm zwar zu schnelleren initialen Ladezeiten führen, verhindert aber auch die Nutzung von niedrigeren Auflösungen (z.B. bei langsameren Verbindungen).
 
 Zudem werden Direktlinks deutlich häufiger vom Provider umbenannt/ersetzt, als dies bei `master`-Links der Fall ist. Die Nutzung von Direktlinks erfordert daher einen deutlich höheren Aufwand der Listenpflege.
+</details>
 
 # Links
 - [GitHub - Mitwirken an einem Projekt](https://git-scm.com/book/de/v2/GitHub-Mitwirken-an-einem-Projekt)
