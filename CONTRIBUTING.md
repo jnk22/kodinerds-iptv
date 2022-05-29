@@ -17,9 +17,9 @@ Viele Streams, die als `master.m3u8` verfübar sind, bieten direkte Links mit ve
 
 ```
 https://mcdn.daserste.de/daserste/de/master.m3u8
--> https://mcdn.daserste.de/daserste/de/master_480p_828.m3u8 (480p)
--> ...
--> https://mcdn.daserste.de/daserste/de/master_1920p_5128.m3u8 (1080p)
+> https://mcdn.daserste.de/daserste/de/master_640p_828.m3u8 (640x360)
+> ...
+> https://mcdn.daserste.de/daserste/de/master_1920p_5128.m3u8 (1920x1080)
 ```
 
 Das initiale Laden der Direktlinks kann je nach Programm zwar zu schnelleren initialen Ladezeiten führen, verhindert aber auch die Nutzung von niedrigeren Auflösungen (z.B. bei langsameren Verbindungen).
