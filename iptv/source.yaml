@@ -2292,16 +2292,7 @@ tv:
         tvg_name: Krone.TV
         url: https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
       - group_title: IPTV-AT
-        group_title_kodi: International;Musik
-        name: gotv
-        quality: sd
-        radio: false
-        tvg_id: Gotv.at
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/gotv.png
-        tvg_name: gotv
-        url: https://nstream17.gotv.at:1443/live/gotvlive_360p/manifest.mpd
-      - group_title: IPTV-AT
-        group_title_kodi: International
+        group_title_kodi: International;Spartenprogramm
         name: Okto
         quality: hd
         radio: false
@@ -2416,7 +2407,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronehittv.png
         tvg_name: Kronehit TV
-        url: https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+        url: https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International;Musik
         name: Melodie TV
@@ -2479,7 +2470,7 @@ tv:
         tvg_id: TVM3.ch
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png
         tvg_name: TVM3
-        url: https://edge5.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+        url: https://edge16.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
       - group_title: IPTV-CH
         group_title_kodi: International
         name: Telebasel
@@ -3000,15 +2991,6 @@ tv:
         tvg_name: France 24
         url: http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
       - group_title: IPTV-FR
-        group_title_kodi: International;Musik
-        name: NRJ HITS TV
-        quality: hd
-        radio: false
-        tvg_id: NRJHits.fr
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrjhitstv.png
-        tvg_name: NRJ HITS TV
-        url: http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-      - group_title: IPTV-FR
         group_title_kodi: International;Nachrichten
         name: BFMTV
         quality: hd
@@ -3029,12 +3011,12 @@ tv:
       - group_title: IPTV-NL
         group_title_kodi: International;Musik
         name: TV 538
-        quality: sd
+        quality: hd
         radio: false
         tvg_id: TV538.nl
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tv538.png
         tvg_name: TV 538
-        url: http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
+        url: https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
       - group_title: IPTV-IT
         group_title_kodi: International
         name: SDF
@@ -3051,8 +3033,8 @@ tv:
         radio: false
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m2otv.png
-        tvg_name: m2o Tv
-        url: http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+        tvg_name: m2o TV
+        url: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
       - group_title: IPTV-IT
         group_title_kodi: International;Nachrichten
         name: Rai News 24
@@ -4084,7 +4066,7 @@ tv:
         tvg_id: BILD.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png
         tvg_name: Bild
-        url: https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/master.m3u8
+        url: https://bild.personalstream.tv/v1/master.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International;Sport
         name: Red Bull TV
@@ -4205,12 +4187,30 @@ tv:
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Folx TV
-        quality: sd
+        quality: hd
         radio: false
         tvg_id: FolxTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png
         tvg_name: Folx TV
         url: https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
+        name: One 1 Music TV
+        quality: hd
+        radio: false
+        tvg_id: One1MusicTV.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/one1musictv.png
+        tvg_name: One 1 Music TV
+        url: https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
+        name: Zwei 2 Music TV
+        quality: hd
+        radio: false
+        tvg_id: Zwei2MusicTV.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zwei2musictv.png
+        tvg_name: Zwei 2 Music TV
+        url: https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Deutsches Musik Fernsehen
@@ -4220,6 +4220,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png
         tvg_name: Deutsches Musik Fernsehen
         url: https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
+        name: Schlager Deluxe
+        quality: hd
+        radio: false
+        tvg_id: SchlagerDeluxe.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/schlagerdeluxe.png
+        tvg_name: Schlager Deluxe
+        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Magenta Musik 360 1
@@ -4958,24 +4967,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/createandcraft.png
         tvg_name: Create & Craft TV
         url: https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
-      - group_title: IPTV-UK
-        group_title_kodi: International;Musik
-        name: Capital TV
-        quality: hd
-        radio: false
-        tvg_id: CapitalTV.uk
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/capitaltv.png
-        tvg_name: Capital TV
-        url: http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-      - group_title: IPTV-UK
-        group_title_kodi: International;Musik
-        name: Heart TV
-        quality: hd
-        radio: false
-        tvg_id: HeartTV.uk
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hearttv.png
-        tvg_name: Heart TV
-        url: http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8
       - group_title: IPTV-UK
         group_title_kodi: International;Nachrichten
         name: Sky News
