@@ -17,18 +17,16 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
 #EXTINF:-1 tvg-name="France 24" tvg-id="France24.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png",France 24
 http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-name="NRJ HITS TV" tvg-id="NRJHits.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrjhitstv.png",NRJ HITS TV
-http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="BFMTV" tvg-id="BFMTV.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bfmtv.png",BFMTV
 https://bfmtvalive1-a.akamaihd.net/8a3483ffeb9d40f0a738c1392f2bcc14/eu-central-1/876450610001/profile_0/da8e1b0dc391423390d09277e66af0b9/chunklist_ssaiM.m3u8
 #EXTINF:-1 tvg-name="XITE" tvg-id="" group-title="IPTV-NL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/xite.png",XITE
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV 538" tvg-id="TV538.nl" group-title="IPTV-NL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tv538.png",TV 538
-http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 tvg-name="SDF" tvg-id="" group-title="IPTV-IT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sdf.png",SDF
 https://livestream.goinfo.it/SDFLive/sdfros/playlist.m3u8
-#EXTINF:-1 tvg-name="m2o Tv" tvg-id="" group-title="IPTV-IT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m2otv.png",m2o Tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-name="m2o TV" tvg-id="" group-title="IPTV-IT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m2otv.png",m2o Tv
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai News 24" tvg-id="RaiNews.it" group-title="IPTV-IT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rainews24.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-name="Fjorton" tvg-id="" group-title="IPTV-SW" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fjorton.png",Fjorton

@@ -28,7 +28,7 @@ https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/playlist-960
 #EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
-https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/master.m3u8
+https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-id="" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/redbulltv.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-name="ANIXE HD" tvg-id="Anixe.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
@@ -57,8 +57,14 @@ https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-name="Folx TV" tvg-id="FolxTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png",Folx TV
 https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
+#EXTINF:-1 tvg-name="One 1 Music TV" tvg-id="One1MusicTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/one1musictv.png",One 1 Music TV
+https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
+#EXTINF:-1 tvg-name="Zwei 2 Music TV" tvg-id="Zwei2MusicTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zwei2musictv.png",Zwei 2 Music TV
+https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
 #EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-name="Schlager Deluxe" tvg-id="SchlagerDeluxe.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/schlagerdeluxe.png",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-name="Magenta Musik 360 1" tvg-id="MagentaMusik1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png",Magenta Musik 360 1
 https://streaming.magenta-musik-360.de/csm/573870/magentamusik1/index.m3u8
 #EXTINF:-1 tvg-name="Magenta Musik 360 2" tvg-id="MagentaMusik2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png",Magenta Musik 360 2
