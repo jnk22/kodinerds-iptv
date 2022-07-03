@@ -2281,7 +2281,7 @@ tv:
         tvg_id: ServusTV.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png
         tvg_name: ServusTV HD (AT)
-        url: https://stv-live.akamaized.net/hls/live/2031021/lingeoSTVATwebBU/master.m3u8
+        url: https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International;Spartenprogramm
         name: Krone.TV
@@ -2563,7 +2563,7 @@ tv:
         tvg_id: ArteEvent1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png
         tvg_name: ARTE Event 1
-        url: https://arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8
+        url: https://arteconcerthls.akamaized.net/hls/live/2025494/channel01/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: ARTE Event 2
@@ -2572,7 +2572,7 @@ tv:
         tvg_id: ArteEvent2.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png
         tvg_name: ARTE Event 2
-        url: https://arteevent02-lh.akamaihd.net/i/arte_event02@308866/index_1_av-p.m3u8
+        url: https://arteconcerthls.akamaized.net/hls/live/2025495/channel02/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: ARTE Event 3
@@ -2581,7 +2581,7 @@ tv:
         tvg_id: ArteEvent3.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png
         tvg_name: ARTE Event 3
-        url: https://arteevent03-lh.akamaihd.net/i/arte_event03@305298/index_1_av-p.m3u8
+        url: https://arteconcerthls.akamaized.net/hls/live/2025496/channel03/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: ARTE Event 4
@@ -2590,7 +2590,25 @@ tv:
         tvg_id: ArteEvent4.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png
         tvg_name: ARTE Event 4
-        url: https://arteevent04-lh.akamaihd.net/i/arte_event04@308879/index_1_av-p.m3u8
+        url: https://arteconcerthls.akamaized.net/hls/live/2025497/channel04/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: ARTE Event 5
+        quality: hd
+        radio: false
+        tvg_id: ArteEvent5.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png
+        tvg_name: ARTE Event 5
+        url: https://arteconcerthls.akamaized.net/hls/live/2025498/channel05/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: ARTE Event 6
+        quality: hd
+        radio: false
+        tvg_id: ArteEvent6.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png
+        tvg_name: ARTE Event 6
+        url: https://arteconcerthls.akamaized.net/hls/live/2025499/channel06/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: WDR Event 1
@@ -2599,7 +2617,7 @@ tv:
         tvg_id: WDREvent1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png
         tvg_name: WDR Event 1
-        url: http://event1geo.wdr.de/i/wdrevent1_geogeblockt@112051/index_1_av-p.m3u8
+        url: https://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: WDR Event 2
@@ -2608,7 +2626,7 @@ tv:
         tvg_id: WDREvent2.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png
         tvg_name: WDR Event 2
-        url: http://wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/index_1_av-p.m3u8
+        url: https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: WDR Event 3
@@ -2617,16 +2635,43 @@ tv:
         tvg_id: WDREvent3.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png
         tvg_name: WDR Event 3
-        url: http://wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/index_1_av-p.m3u8
+        url: https://wdrevent.akamaized.net/hls/live/2016698/wdr_msl4_wdrevent3/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
-        name: WDR Event 4
+        name: WDR Event 7
         quality: hd
         radio: false
-        tvg_id: WDREvent4.de
+        tvg_id: WDREvent7.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png
-        tvg_name: WDR Event 4
-        url: http://wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_1_av-p.m3u8
+        tvg_name: WDR Event 7
+        url: https://wdrevent.akamaized.net/hls/live/2020357/wdr_msl4_wdrevent7/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: WDR Event 8
+        quality: hd
+        radio: false
+        tvg_id: WDREvent8.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png
+        tvg_name: WDR Event 8
+        url: https://wdrevent.akamaized.net/hls/live/2020358/wdr_msl4_wdrevent8/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: WDR Event 9
+        quality: hd
+        radio: false
+        tvg_id: WDREvent9.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png
+        tvg_name: WDR Event 9
+        url: https://wdrevent.akamaized.net/hls/live/2020359/wdr_msl4_wdrevent9/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: WDR Event 10
+        quality: hd
+        radio: false
+        tvg_id: WDREvent10.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png
+        tvg_name: WDR Event 10
+        url: https://wdrevent.akamaized.net/hls/live/2020360/wdr_msl4_wdrevent10/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: SWR Event 1
@@ -2635,7 +2680,7 @@ tv:
         tvg_id: SWREvent1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png
         tvg_name: SWR Event 1
-        url: http://swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/index_3584_av-p.m3u8
+        url: https://swrevent01hls.akamaized.net/hls/live/2016766/event01/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: SWR Event 2
@@ -2644,7 +2689,7 @@ tv:
         tvg_id: SWREvent2.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png
         tvg_name: SWR Event 2
-        url: http://swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/index_3584_av-p.m3u8
+        url: https://swrevent02hls.akamaized.net/hls/live/2016767/event02/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: SWR Event 3
@@ -2662,7 +2707,7 @@ tv:
         tvg_id: SWREvent4.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png
         tvg_name: SWR Event 4
-        url: http://swr_event04_uni-lh.akamaihd.net/i/swr_event04@198169/index_3584_av-p.m3u8
+        url: https://swrevent04hls.akamaized.net/hls/live/2016769/event04/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: NDR Event 1
@@ -2671,7 +2716,7 @@ tv:
         tvg_id: NDREvent1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
         tvg_name: NDR Event 1
-        url: https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/index_3776_av-p.m3u8
+        url: https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: NDR Event 2
@@ -2680,7 +2725,7 @@ tv:
         tvg_id: NDREvent2.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
         tvg_name: NDR Event 2
-        url: https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/index_3776_av-p.m3u8
+        url: https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: NDR Event 3
@@ -2725,7 +2770,7 @@ tv:
         tvg_id: NDRSpezial4.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
         tvg_name: NDR Spezial 4
-        url: http://ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/index_3776_av-p.m3u8
+        url: http://ndrspezial-lh.akamaihd.net/i/spezial_4@430238/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: NDR Spezial 5
@@ -2746,13 +2791,49 @@ tv:
         url: http://ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
+        name: NDR Spezial 7
+        quality: hd
+        radio: false
+        tvg_id: NDRSpezial7.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
+        tvg_name: NDR Spezial 7
+        url: https://ndrspezial7sp-lh.akamaihd.net/i/spezial_7@322396/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: NDR Spezial 8
+        quality: hd
+        radio: false
+        tvg_id: NDRSpezial8.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
+        tvg_name: NDR Spezial 8
+        url: https://ndrspezial8sp-lh.akamaihd.net/i/spezial_8@425044/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: NDR Spezial 9
+        quality: hd
+        radio: false
+        tvg_id: NDRSpezial9.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
+        tvg_name: NDR Spezial 9
+        url: https://ndrspezial9sp-lh.akamaihd.net/i/spezial_9@426506/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: NDR Spezial 10
+        quality: hd
+        radio: false
+        tvg_id: NDRSpezial10.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png
+        tvg_name: NDR Spezial 10
+        url: https://ndrspezial10sp-lh.akamaihd.net/i/spezial_10@9732/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
         name: BR Event 1
         quality: hd
         radio: false
         tvg_id: BREvent1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png
         tvg_name: BR Event 1
-        url: http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8
+        url: https://brevent.akamaized.net/hls/live/2028218/event_01/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: BR Event 2
@@ -2761,7 +2842,7 @@ tv:
         tvg_id: BREvent2.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png
         tvg_name: BR Event 2
-        url: http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8
+        url: https://brevent.akamaized.net/hls/live/2028219/event_02/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: BR Event 3
@@ -2770,7 +2851,7 @@ tv:
         tvg_id: BREvent3.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png
         tvg_name: BR Event 3
-        url: http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8
+        url: https://brevent.akamaized.net/hls/live/2028220/event_03/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: BR Event 4
@@ -2779,7 +2860,7 @@ tv:
         tvg_id: BREvent4.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png
         tvg_name: BR Event 4
-        url: http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-b.m3u8
+        url: https://brevent.akamaized.net/hls/live/2028221/event_04/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: MDR+ 1
@@ -2807,6 +2888,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png
         tvg_name: MDR+ 3
         url: https://mdrevent3wwhls.akamaized.net/hls/live/2025368/mdrevent3ww/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: MDR+ 4
+        quality: hd
+        radio: false
+        tvg_id: MDRPlus4.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png
+        tvg_name: MDR+ 4
+        url: https://mdrevent4wwhls.akamaized.net/hls/live/2025369/mdrevent4ww/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: MDR+ 5
@@ -2919,6 +3009,15 @@ tv:
         tvg_name: Sky News Extra
         url: https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
       - group_title: IPTV-ES
+        group_title_kodi: International;Musik
+        name: Activa TV
+        quality: hd
+        radio: false
+        tvg_id: ActivaTV.es
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/activatv.png
+        tvg_name: Activa TV
+        url: https://streamtv.mediasector.es/hls/activatv/index.m3u8
+      - group_title: IPTV-ES
         group_title_kodi: International;Nachrichten
         name: Deutsche Welle (ES)
         quality: hd
@@ -2980,7 +3079,7 @@ tv:
         tvg_id: ARTE.fr
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png
         tvg_name: ARTE HD (FR)
-        url: https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
+        url: https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master.m3u8
       - group_title: IPTV-FR
         group_title_kodi: International;Nachrichten
         name: France 24
@@ -3305,6 +3404,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alfatv.png
         tvg_name: Alfa TV
         url: https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
+      - group_title: IPTV-PL
+        group_title_kodi: International;Musik
+        name: 4 FunTV
+        quality: hd
+        radio: false
+        tvg_id: 4fun.tv
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/4funtv.png
+        tvg_name: 4 FunTV
+        url: https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
       - group_title: IPTV-PL
         group_title_kodi: International
         name: SferaTV
@@ -3967,7 +4075,7 @@ tv:
         tvg_id: ARTE.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png
         tvg_name: ARTE HD
-        url: https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
+        url: https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
         name: ServusTV HD
@@ -4039,7 +4147,7 @@ tv:
         tvg_id: WELT.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png
         tvg_name: WELT
-        url: https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/playlist-1280.m3u8
+        url: https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten
         name: WELT News (Dauerschleife)
@@ -4048,7 +4156,7 @@ tv:
         tvg_id: WELTNewsLoop.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png
         tvg_name: WELT News (loop)
-        url: https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/playlist-960.m3u8
+        url: https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten
         name: euronews deutsch
@@ -4102,7 +4210,7 @@ tv:
         tvg_id: RiC.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png
         tvg_name: RiC
-        url: https://www.youtube.com/embed/43gqkjrzga0
+        url: https://www.youtube.com/embed/vRgu-o0chwI
       - group_title: IPTV-DE
         group_title_kodi: Kinder / Jugend
         name: KiKA
@@ -4120,7 +4228,7 @@ tv:
         tvg_id: Nickelodeon.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png
         tvg_name: Nickelodeon
-        url: https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+        url: https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
       - group_title: IPTV-AT
         group_title_kodi: Musik
         name: Ö3-VisualRadio
@@ -4192,7 +4300,7 @@ tv:
         tvg_id: FolxTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png
         tvg_name: Folx TV
-        url: https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
+        url: https://folxplay-t.b-cdn.net/streams/ch-4/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: One 1 Music TV
@@ -4201,7 +4309,7 @@ tv:
         tvg_id: One1MusicTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/one1musictv.png
         tvg_name: One 1 Music TV
-        url: https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
+        url: https://folxplay-t.b-cdn.net/streams/ch-3/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Zwei 2 Music TV
@@ -4210,7 +4318,7 @@ tv:
         tvg_id: Zwei2MusicTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zwei2musictv.png
         tvg_name: Zwei 2 Music TV
-        url: https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
+        url: https://folxplay-t.b-cdn.net/streams/ch-2/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Deutsches Musik Fernsehen
@@ -4264,7 +4372,7 @@ tv:
         tvg_id: BibelTVImpuls.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png
         tvg_name: Bibel TV Impuls
-        url: https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+        url: https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_all/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Religion
         name: Bibel TV Musik
@@ -4273,7 +4381,7 @@ tv:
         tvg_id: BibelTVMusik.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png
         tvg_name: Bibel TV Musik
-        url: http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+        url: http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Religion
         name: K-TV
