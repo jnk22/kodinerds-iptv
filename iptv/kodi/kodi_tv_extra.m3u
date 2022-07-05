@@ -16,33 +16,43 @@ http://zdf0708-lh.akamaihd.net/i/de07_v1@392868/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 6" tvg-id="ZDFEvent6.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 6
 http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_229_av-b.m3u8
 #EXTINF:-1 tvg-name="ARTE Event 1" tvg-id="ArteEvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 1
-https://arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8
+https://arteconcerthls.akamaized.net/hls/live/2025494/channel01/master.m3u8
 #EXTINF:-1 tvg-name="ARTE Event 2" tvg-id="ArteEvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 2
-https://arteevent02-lh.akamaihd.net/i/arte_event02@308866/index_1_av-p.m3u8
+https://arteconcerthls.akamaized.net/hls/live/2025495/channel02/master.m3u8
 #EXTINF:-1 tvg-name="ARTE Event 3" tvg-id="ArteEvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 3
-https://arteevent03-lh.akamaihd.net/i/arte_event03@305298/index_1_av-p.m3u8
+https://arteconcerthls.akamaized.net/hls/live/2025496/channel03/master.m3u8
 #EXTINF:-1 tvg-name="ARTE Event 4" tvg-id="ArteEvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 4
-https://arteevent04-lh.akamaihd.net/i/arte_event04@308879/index_1_av-p.m3u8
+https://arteconcerthls.akamaized.net/hls/live/2025497/channel04/master.m3u8
+#EXTINF:-1 tvg-name="ARTE Event 5" tvg-id="ArteEvent5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 5
+https://arteconcerthls.akamaized.net/hls/live/2025498/channel05/master.m3u8
+#EXTINF:-1 tvg-name="ARTE Event 6" tvg-id="ArteEvent6.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 6
+https://arteconcerthls.akamaized.net/hls/live/2025499/channel06/master.m3u8
 #EXTINF:-1 tvg-name="WDR Event 1" tvg-id="WDREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 1
-http://event1geo.wdr.de/i/wdrevent1_geogeblockt@112051/index_1_av-p.m3u8
+https://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
 #EXTINF:-1 tvg-name="WDR Event 2" tvg-id="WDREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 2
-http://wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/index_1_av-p.m3u8
+https://ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8
 #EXTINF:-1 tvg-name="WDR Event 3" tvg-id="WDREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 3
-http://wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="WDR Event 4" tvg-id="WDREvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 4
-http://wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_1_av-p.m3u8
+https://wdrevent.akamaized.net/hls/live/2016698/wdr_msl4_wdrevent3/master.m3u8
+#EXTINF:-1 tvg-name="WDR Event 7" tvg-id="WDREvent7.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 7
+https://wdrevent.akamaized.net/hls/live/2020357/wdr_msl4_wdrevent7/master.m3u8
+#EXTINF:-1 tvg-name="WDR Event 8" tvg-id="WDREvent8.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 8
+https://wdrevent.akamaized.net/hls/live/2020358/wdr_msl4_wdrevent8/master.m3u8
+#EXTINF:-1 tvg-name="WDR Event 9" tvg-id="WDREvent9.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 9
+https://wdrevent.akamaized.net/hls/live/2020359/wdr_msl4_wdrevent9/master.m3u8
+#EXTINF:-1 tvg-name="WDR Event 10" tvg-id="WDREvent10.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdr.png",WDR Event 10
+https://wdrevent.akamaized.net/hls/live/2020360/wdr_msl4_wdrevent10/master.m3u8
 #EXTINF:-1 tvg-name="SWR Event 1" tvg-id="SWREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 1
-http://swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/index_3584_av-p.m3u8
+https://swrevent01hls.akamaized.net/hls/live/2016766/event01/master.m3u8
 #EXTINF:-1 tvg-name="SWR Event 2" tvg-id="SWREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 2
-http://swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/index_3584_av-p.m3u8
+https://swrevent02hls.akamaized.net/hls/live/2016767/event02/master.m3u8
 #EXTINF:-1 tvg-name="SWR Event 3" tvg-id="SWREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 3
 https://swrevent03hls.akamaized.net/hls/live/2016768/event03/master.m3u8
 #EXTINF:-1 tvg-name="SWR Event 4" tvg-id="SWREvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swr.png",SWR Event 4
-http://swr_event04_uni-lh.akamaihd.net/i/swr_event04@198169/index_3584_av-p.m3u8
+https://swrevent04hls.akamaized.net/hls/live/2016769/event04/master.m3u8
 #EXTINF:-1 tvg-name="NDR Event 1" tvg-id="NDREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 1
-https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/index_3776_av-p.m3u8
+https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8
 #EXTINF:-1 tvg-name="NDR Event 2" tvg-id="NDREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 2
-https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/index_3776_av-p.m3u8
+https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8
 #EXTINF:-1 tvg-name="NDR Event 3" tvg-id="NDREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Event 3
 https://ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8
 #EXTINF:-1 tvg-name="NDR Spezial 1" tvg-id="NDRSpezial1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 1
@@ -52,25 +62,35 @@ http://ndrspezial-lh.akamaihd.net/i/spezial_2@430236/master.m3u8
 #EXTINF:-1 tvg-name="NDR Spezial 3" tvg-id="NDRSpezial3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 3
 http://ndrspezial-lh.akamaihd.net/i/spezial_3@430237/master.m3u8
 #EXTINF:-1 tvg-name="NDR Spezial 4" tvg-id="NDRSpezial4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 4
-http://ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/index_3776_av-p.m3u8
+http://ndrspezial-lh.akamaihd.net/i/spezial_4@430238/master.m3u8
 #EXTINF:-1 tvg-name="NDR Spezial 5" tvg-id="NDRSpezial5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 5
 http://ndrspezial-lh.akamaihd.net/i/spezial_5@430239/master.m3u8
 #EXTINF:-1 tvg-name="NDR Spezial 6" tvg-id="NDRSpezial6.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 6
 http://ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8
+#EXTINF:-1 tvg-name="NDR Spezial 7" tvg-id="NDRSpezial7.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 7
+https://ndrspezial7sp-lh.akamaihd.net/i/spezial_7@322396/master.m3u8
+#EXTINF:-1 tvg-name="NDR Spezial 8" tvg-id="NDRSpezial8.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 8
+https://ndrspezial8sp-lh.akamaihd.net/i/spezial_8@425044/master.m3u8
+#EXTINF:-1 tvg-name="NDR Spezial 9" tvg-id="NDRSpezial9.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 9
+https://ndrspezial9sp-lh.akamaihd.net/i/spezial_9@426506/master.m3u8
+#EXTINF:-1 tvg-name="NDR Spezial 10" tvg-id="NDRSpezial10.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 10
+https://ndrspezial10sp-lh.akamaihd.net/i/spezial_10@9732/master.m3u8
 #EXTINF:-1 tvg-name="BR Event 1" tvg-id="BREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 1
-http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8
+https://brevent.akamaized.net/hls/live/2028218/event_01/master.m3u8
 #EXTINF:-1 tvg-name="BR Event 2" tvg-id="BREvent2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 2
-http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8
+https://brevent.akamaized.net/hls/live/2028219/event_02/master.m3u8
 #EXTINF:-1 tvg-name="BR Event 3" tvg-id="BREvent3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 3
-http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8
+https://brevent.akamaized.net/hls/live/2028220/event_03/master.m3u8
 #EXTINF:-1 tvg-name="BR Event 4" tvg-id="BREvent4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png",BR Event 4
-http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-b.m3u8
+https://brevent.akamaized.net/hls/live/2028221/event_04/master.m3u8
 #EXTINF:-1 tvg-name="MDR+ 1" tvg-id="MDRPlus1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 1
 https://mdrevent1wwhls.akamaized.net/hls/live/2025205/mdrevent1ww/master.m3u8
 #EXTINF:-1 tvg-name="MDR+ 2" tvg-id="MDRPlus2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 2
 https://mdrevent2wwhls.akamaized.net/hls/live/2025367/mdrevent2ww/master.m3u8
 #EXTINF:-1 tvg-name="MDR+ 3" tvg-id="MDRPlus3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 3
 https://mdrevent3wwhls.akamaized.net/hls/live/2025368/mdrevent3ww/master.m3u8
+#EXTINF:-1 tvg-name="MDR+ 4" tvg-id="MDRPlus4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 4
+https://mdrevent4wwhls.akamaized.net/hls/live/2025369/mdrevent4ww/master.m3u8
 #EXTINF:-1 tvg-name="MDR+ 5" tvg-id="MDRPlus5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR+ 5
 https://mdrevent5wwhls.akamaized.net/hls/live/2025370/mdrevent5ww/master.m3u8
 #EXTINF:-1 tvg-name="HR Event 1" tvg-id="HREvent1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",HR Event 1
