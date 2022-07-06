@@ -819,7 +819,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr2kultur.png
         tvg_name: hr2-kultur
-        url: https://dispatcher.rndfnk.com/hr/hr2/live/mp3/128/stream.mp3
+        url: https://dispatcher.rndfnk.com/hr/hr2/live/mp3/256/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: hr3
