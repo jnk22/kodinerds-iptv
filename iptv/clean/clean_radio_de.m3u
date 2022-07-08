@@ -130,7 +130,7 @@ https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high
 #EXTINF:-1 tvg-name="hr1" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr1.png",hr1
 https://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="hr2-kultur" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr2kultur.png",hr2-kultur
-https://dispatcher.rndfnk.com/hr/hr2/live/mp3/128/stream.mp3
+https://dispatcher.rndfnk.com/hr/hr2/live/mp3/256/stream.mp3
 #EXTINF:-1 tvg-name="hr3" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr3.png",hr3
 https://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="hr4" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr4.png",hr4
