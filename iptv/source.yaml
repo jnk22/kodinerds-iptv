@@ -1466,7 +1466,7 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png
         tvg_name: RADIO ENERGY Sachsen
         url: https://scdn.nrjaudio.fm/adwz1/de/33013/mp3_128.mp3
-        - group_title: Radio-DE
+      - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO ENERGY Stuttgart
         quality: ''
