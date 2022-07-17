@@ -1468,6 +1468,15 @@ radio:
         url: https://scdn.nrjaudio.fm/adwz1/de/33013/mp3_128.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: RADIO ENERGY Stuttgart
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergystuttgart.png
+        tvg_name: RADIO ENERGY Stuttgart
+        url: https://scdn.nrjaudio.fm/adwz1/de/33005/mp3_128.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: Radio Horeb
         quality: ''
         radio: true
