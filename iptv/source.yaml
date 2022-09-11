@@ -4210,7 +4210,7 @@ tv:
         tvg_id: morethansports.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/morethansports.png
         tvg_name: More than Sports TV
-        url: https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
+        url: https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Filme / Serien;Kinder / Jugend
         name: RiC
