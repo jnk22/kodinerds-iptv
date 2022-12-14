@@ -4291,7 +4291,7 @@ tv:
         tvg_id: Rockland.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rocklandtv.png
         tvg_name: Rockland TV
-        url: http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
+        url: https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: MTV Germany
