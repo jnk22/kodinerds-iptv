@@ -4221,6 +4221,15 @@ tv:
         tvg_name: More than Sports TV
         url: https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
       - group_title: IPTV-DE
+        group_title_kodi: Sport
+        name: DAZN FAST+
+        quality: hd
+        radio: false
+        tvg_id: daznfastplus.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daznfastplus.png
+        tvg_name: DAZN FAST+
+        url: https://d2606t9eyamzl3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ia6qw6xh7nd2w-ssai-prd/out/v1/64dc66ee167d48db833377ab85217dfd/DAZN-FAST-HLS-CMAF-DRM/index.m3u8
+      - group_title: IPTV-DE
         group_title_kodi: Filme / Serien;Kinder / Jugend
         name: RiC
         quality: sd
