@@ -5120,3 +5120,12 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png
         tvg_name: London Live
         url: http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+      - group_title: IPTV-UK
+        group_title_kodi: Musik
+        name: 4Music
+        quality: sd
+        radio: false
+        tvg_id: 4Music.uk
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/4music.png
+        tvg_name: 4Music
+        url: https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
