@@ -920,7 +920,7 @@ http://streamtdy.ir-media-tec.com/live/mp3-128/web/play.mp3
 #EXTINF:-1 tvg-name="rbb Inforadio" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbInforadio.png",rbb Inforadio
 https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
 #EXTINF:-1 tvg-name="rbbKultur" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbKultur.png",rbbKultur
-https://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/mid
+https://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high
 #EXTINF:-1 tvg-name="radioeins" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioeins.png",radioeins
 https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid
 #EXTINF:-1 tvg-name="rbb 88.8" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbb888.png",rbb 88.8
