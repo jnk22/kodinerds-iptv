@@ -517,8 +517,6 @@ https://zypelive-lh.akamaihd.net/i/default_1@745545/index_720_av-p.m3u8
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-name="KTVU Fox 2" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktvufox2.png",KTVU Fox 2
 http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
-#EXTINF:-1 tvg-name="MSNBC" tvg-id="MSNBC.us" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/msnbc.png",MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
 #EXTINF:-1 tvg-name="WGN-TV" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wgntv.png",WGN-TV
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-name="CMC" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png",CMC
