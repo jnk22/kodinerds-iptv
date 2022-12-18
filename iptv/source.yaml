@@ -1477,6 +1477,15 @@ radio:
         url: https://scdn.nrjaudio.fm/adwz1/de/33005/mp3_128.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: RADIO ENERGY Bremen
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergybremen.png
+        tvg_name: RADIO ENERGY Bremen
+        url: http://ffn-stream24.radiohost.de/energybremen_mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: Radio Horeb
         quality: ''
         radio: true
@@ -1772,6 +1781,15 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/youfm.png
         tvg_name: YOU FM
         url: https://dispatcher.rndfnk.com/hr/youfm/live/mp3/128/stream.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio 21 Hannover
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio21hannover.png
+        tvg_name: Radio 21 Hannover
+        url: https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655
     it:
       id: 9
       streams:
