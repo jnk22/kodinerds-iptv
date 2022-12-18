@@ -5077,15 +5077,6 @@ tv:
         url: http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
       - group_title: IPTV-US
         group_title_kodi: International;Nachrichten
-        name: MSNBC
-        quality: hd
-        radio: false
-        tvg_id: MSNBC.us
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/msnbc.png
-        tvg_name: MSNBC
-        url: http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
-      - group_title: IPTV-US
-        group_title_kodi: International;Nachrichten
         name: WGN-TV
         quality: hd
         radio: false
