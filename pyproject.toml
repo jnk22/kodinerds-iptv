@@ -28,7 +28,7 @@ unfixable = ["T201", "T203", "F401"]
 
 [tool.ruff.per-file-ignores]
 "__init__.py" = ["D104"]
-"generate_lists.py" = ["T201", "T203"]
+"generate_lists.py" = ["T201", "T203", "INP001"]
 
 [tool.ruff.pydocstyle]
 convention = "numpy"
