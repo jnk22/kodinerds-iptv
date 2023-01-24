@@ -1,24 +1,26 @@
+---
 name: Update .m3u files
+
 on:
   push:
     branches:
       - master
+      - update-script
 
 jobs:
   run:
-    name: Update .m3u files
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      - name: Run script
-        run: ./scripts/yaml_to_m3u.py
+      - name: Update IPTV lists
+        run: src/generate_lines.py --destination iptv source.yaml
 
       - name: Commit changes
-        uses: EndBug/add-and-commit@v6
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: Update Bot
           author_email: update-bot@example.com
-          message: 'Update .m3u files'
-          add: '*.m3u'
+          message: "Update .m3u files"
+          add: "iptv/*.m3u"
