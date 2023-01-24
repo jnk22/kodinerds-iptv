@@ -1,5 +1,7 @@
 # Kodinerds IPTV
 
+[![Prettify, lint and test](https://github.com/jnk22/kodinerds-iptv/actions/workflows/ci.yml/badge.svg)](https://github.com/jnk22/kodinerds-iptv/actions/workflows/ci.yml)
+
 ## Einleitung
 
 Kodinerds IPTV ist eine Sammlung von frei empfangbaren Streams für TV- und Radiosender.
