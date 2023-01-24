@@ -44,4 +44,4 @@ jobs:
         run: poetry run ruff --format=github .
 
       - name: Run tests
-        run: poetry run pytest
+        run: poetry run pytest --doctest-modules
