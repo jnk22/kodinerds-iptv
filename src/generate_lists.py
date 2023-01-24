@@ -14,6 +14,7 @@ from line_parser import LineParser, ParseType
 def generate_stream_lines(
     content: dict[str, Any],
     list_type: ParseType,
+    image_base_path: str,
 ) -> dict[str, list[str]]:
     """Generate stream lines for all categories based on type.
 
@@ -27,6 +28,8 @@ def generate_stream_lines(
         A dictionary of content to be parsed.
     list_type : ParseType
         The type of parse to be applied to the content.
+    image_base_path : str
+        Base path for images that 'tvg_logo' will be appended to.
 
     Returns
     -------
@@ -35,7 +38,7 @@ def generate_stream_lines(
 
     Examples
     --------
-    >>> stream = {"id": 1, "name": "ZDF", "tvg_name": "ZDF", "quality": "sd", "radio": "false", "tvg_id": "zdf.de", "group_title": "IPTV-DE", "group_title_kodi": "Vollprogramm", "tvg_logo": "zdf.png", "url": "https://zdf.m3u8"}
+    >>> stream = {"id": 1, "name": "ZDF", "tvg_name": "ZDF", "quality": "sd", "radio": "false", "tvg_id": "zdf.de", "group_title": "IPTV-DE", "group_title_kodi": "Vollprogramm", "tvg_logo": "tv/zdf.png", "url": "https://zdf.m3u8"}
     >>> content = {"tv": {"id": 1, "subcategories": {"main": {"id": 1, "streams": [stream]}}}}
     >>> list_type = ParseType.CLEAN
     >>> generate_stream_lines(content, list_type)  # doctest: +ELLIPSIS
@@ -60,7 +63,8 @@ def generate_stream_lines(
 
             for stream in subcategory["streams"]:
                 for path in [all_path, category_path, subcategory_path]:
-                    output_contents[path].extend(line_parser.get_lines(stream))
+                    lines = line_parser.get_lines(stream, image_base_path)
+                    output_contents[path].extend(lines)
 
     return output_contents
 
@@ -82,6 +86,12 @@ def __parse_arguments() -> argparse.Namespace:
         default="m3u",
         type=str,
         help="Output file extension",
+    )
+    parser.add_argument(
+        "-b",
+        "--image_base_path",
+        type=str,
+        help="Base path for images",
     )
 
     return parser.parse_args()
@@ -120,7 +130,11 @@ def main() -> None:
     output_content = {}
     for list_type in ParseType:
         print(f"Generating content for type '{list_type.value}'")
-        output_content |= generate_stream_lines(content, list_type)
+        output_content |= generate_stream_lines(
+            content,
+            list_type,
+            image_base_path=args.image_base_path,
+        )
 
     for file_name_part, lines in output_content.items():
         output_file = Path(f"{args.destination}/{file_name_part}.{args.extension}")

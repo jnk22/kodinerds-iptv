@@ -51,13 +51,19 @@ class LineParser:
             parser() for key, parser in _PARSER_MAPPING.items() if key == list_type
         )
 
-    def get_lines(self, stream: dict[str, Any]) -> tuple[str, str]:
+    def get_lines(
+        self,
+        stream: dict[str, Any],
+        image_base_path: str = "",
+    ) -> tuple[str, str]:
         """Return a tuple of the header and stream line for the provided stream.
 
         Parameters
         ----------
         stream : dict[str, Any]
             A dictionary containing information about the stream.
+        image_base_path : str
+            Base path for images that 'tvg_logo' will be appended to.
 
         Returns
         -------
@@ -73,10 +79,13 @@ class LineParser:
         """  # noqa: E501
         return tuple(
             " ".join(line.split())
-            for line in (self._header_line(stream), self._stream_line(stream))
+            for line in (
+                self._header_line(stream, image_base_path),
+                self._stream_line(stream),
+            )
         )
 
-    def _header_line(self, stream: dict[str, Any]) -> str:
+    def _header_line(self, stream: dict[str, Any], image_base_path: str) -> str:
         # Return header line for stream.
         return f"""
         #EXTINF:-1
@@ -84,7 +93,7 @@ class LineParser:
         {self._tv_part(stream)}
         group-title="{self._group_title(stream)}"
         {self._radio_part(stream)}
-        tvg-logo="{stream["tvg_logo"]}",{stream["name"]}
+        tvg-logo="{image_base_path}{stream["tvg_logo"]}",{stream["name"]}
         """
 
     def _stream_line(self, stream: dict[str, Any]) -> str:
