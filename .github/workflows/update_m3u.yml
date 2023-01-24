@@ -6,6 +6,8 @@ on:
     branches:
       - master
       - update-script
+    paths:
+      - source.yaml
 
 jobs:
   run:
