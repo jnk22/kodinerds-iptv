@@ -17,10 +17,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update IPTV lists
-        run: src/generate_lists.py \
-          --destination iptv \
-          --image_base_path https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/ \
-          source.yaml
+        run: src/generate_lists.py --destination iptv --image_base_path https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/ source.yaml
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
