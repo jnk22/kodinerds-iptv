@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update IPTV lists
-        run: src/generate_lines.py --destination iptv source.yaml
+        run: ./src/generate_lines.py --destination iptv source.yaml
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
