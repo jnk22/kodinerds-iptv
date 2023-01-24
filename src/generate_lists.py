@@ -8,8 +8,7 @@ from pathlib import Path
 from typing import Any
 
 import yaml
-
-from .line_parser import LineParser, ParseType
+from line_parser import LineParser, ParseType
 
 
 def generate_stream_lines(
@@ -92,7 +91,7 @@ def __read_source_file(source_file: Path) -> dict[str, Any]:
     # Read YAML source file.
     print(f"Reading source: {source_file}")
     try:
-        with source_file.open("w") as file:
+        with source_file.open("r") as file:
             return yaml.safe_load(file)
     except FileNotFoundError:
         print(f"Source file does not exist: {source_file}")
