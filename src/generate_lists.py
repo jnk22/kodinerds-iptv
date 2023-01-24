@@ -40,8 +40,9 @@ def generate_stream_lines(
     --------
     >>> stream = {"id": 1, "name": "ZDF", "tvg_name": "ZDF", "quality": "sd", "radio": "false", "tvg_id": "zdf.de", "group_title": "IPTV-DE", "group_title_kodi": "Vollprogramm", "tvg_logo": "tv/zdf.png", "url": "https://zdf.m3u8"}
     >>> content = {"tv": {"id": 1, "subcategories": {"main": {"id": 1, "streams": [stream]}}}}
+    >>> image_base_path = "https://example.com/logos/"
     >>> list_type = ParseType.CLEAN
-    >>> generate_stream_lines(content, list_type)  # doctest: +ELLIPSIS
+    >>> generate_stream_lines(content, list_type, image_base_path)  # doctest: +ELLIPSIS
     defaultdict(<class 'list'>, {'clean/clean': ['#EXTINF:-1 tvg-name="ZDF" ..., 'https://zdf.m3u8'], 'clean/clean_tv': ['#EXTINF:-1 tvg-name="ZDF" ..., 'https://zdf.m3u8'], 'clean/clean_tv_main': ['#EXTINF:-1 tvg-name="ZDF" ..., 'https://zdf.m3u8']})
     """  # noqa: E501
     output_contents = collections.defaultdict(list)

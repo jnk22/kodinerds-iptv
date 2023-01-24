@@ -73,9 +73,10 @@ class LineParser:
         Examples
         --------
         >>> stream = {"id": 1, "name": "ZDF", "tvg_name": "ZDF", "quality": "sd", "radio": False, "tvg_id": "zdf.de", "group_title": "IPTV-DE", "group_title_kodi": "Vollprogramm", "tvg_logo": "zdf.png", "url": "https://zdf.m3u8"}
+        >>> image_base_path = "https://example.com/logos/"
         >>> list_type = ParseType.CLEAN
-        >>> LineParser().get_lines(stream)
-        ('#EXTINF:-1 tvg-name="ZDF" tvg-id="zdf.de" group-title="IPTV-DE" tvg-logo="zdf.png",ZDF', 'https://zdf.m3u8')
+        >>> LineParser().get_lines(stream, image_base_path)
+        ('#EXTINF:-1 tvg-name="ZDF" tvg-id="zdf.de" group-title="IPTV-DE" tvg-logo="https://example.com/logos/zdf.png",ZDF', 'https://zdf.m3u8')
         """  # noqa: E501
         return tuple(
             " ".join(line.split())
