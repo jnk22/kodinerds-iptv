@@ -41,7 +41,7 @@ def generate_stream_lines(
     >>> list_type = ParseType.CLEAN
     >>> generate_stream_lines(content, list_type)  # doctest: +ELLIPSIS
     defaultdict(<class 'list'>, {'clean/clean': ['#EXTINF:-1 tvg-name="ZDF" ..., 'https://zdf.m3u8'], 'clean/clean_tv': ['#EXTINF:-1 tvg-name="ZDF" ..., 'https://zdf.m3u8'], 'clean/clean_tv_main': ['#EXTINF:-1 tvg-name="ZDF" ..., 'https://zdf.m3u8']})
-    """
+    """  # noqa: E501
     output_contents = collections.defaultdict(list)
     line_parser = LineParser.from_list_type(list_type)
 
