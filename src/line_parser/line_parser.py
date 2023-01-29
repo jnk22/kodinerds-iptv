@@ -87,12 +87,14 @@ class LineParser:
 
     def _header_line(self, stream: dict[str, Any], image_base_path: str) -> str:
         # Return header line for stream.
+        radio_stream = bool(stream["radio"])
+
         return f"""
         #EXTINF:-1
         tvg-name="{stream["tvg_name"]}"
-        {self._tv_part(stream)}
+        {"" if radio_stream else f'tvg-id="{stream["tvg_id"]}"'}
         group-title="{self._group_title(stream)}"
-        {self._radio_part(stream)}
+        {'radio="true"' if radio_stream else ""}
         tvg-logo="{image_base_path}{stream["tvg_logo"]}",{stream["name"]}
         """
 
@@ -103,17 +105,6 @@ class LineParser:
     def _group_title(self, stream: dict[str, Any]) -> str:
         # Return default group title for stream.
         return stream["group_title"]
-
-    def _tv_part(self, stream: dict[str, Any]) -> str:
-        # Return TV part for stream.
-        # This is empty for radio streams.
-        return "" if stream["radio"] else f'tvg-id="{stream["tvg_id"]}"'
-
-    def _radio_part(self, stream: dict[str, Any]) -> str:
-        # Return radio part for stream.
-        # This is empty for TV streams.
-        radio = bool(stream["radio"])
-        return f'radio="{radio}"'.lower() if radio else ""
 
 
 class KodiLineParser(LineParser):
