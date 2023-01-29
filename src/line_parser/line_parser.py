@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Parser module for generating IPTV m3u lines."""
 
 from __future__ import annotations
@@ -34,8 +33,8 @@ class LineParser:
     stream.
     """
 
-    @classmethod
-    def from_list_type(cls, list_type: ParseType) -> LineParser:
+    @staticmethod
+    def from_list_type(list_type: ParseType) -> LineParser:
         """Return an instance of LineParser class based on parse type.
 
         Parameters
