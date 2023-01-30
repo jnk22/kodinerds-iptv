@@ -1256,6 +1256,7 @@ radio:
         - group_title: Radio-DE
           group_title_kodi: Deutschland
           name: RADIO BOB! 90er Rock
+          quality: ""
           radio: true
           tvg_id: ""
           tvg_logo: radio/radiobob.png
@@ -1354,6 +1355,7 @@ radio:
         - group_title: Radio-DE
           group_title_kodi: Deutschland
           name: RADIO BOB! Southern Rock
+          quality: ""
           radio: true
           tvg_id: ""
           tvg_logo: radio/radiobob.png
