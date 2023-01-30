@@ -8,7 +8,7 @@ from pathlib import Path
 from typing import Any
 
 import yaml
-from line_parser import LineParser, ParseType
+from line_parser import LineParser, ParseType, Stream
 
 
 def generate_stream_lines(
@@ -38,7 +38,7 @@ def generate_stream_lines(
 
     Examples
     --------
-    >>> stream = {"id": 1, "name": "ZDF", "tvg_name": "ZDF", "quality": "sd", "radio": "false", "tvg_id": "zdf.de", "group_title": "IPTV-DE", "group_title_kodi": "Vollprogramm", "tvg_logo": "tv/zdf.png", "url": "https://zdf.m3u8"}
+    >>> stream = {"name": "ZDF", "tvg_name": "ZDF", "quality": "sd", "radio": "false", "tvg_id": "zdf.de", "group_title": "IPTV-DE", "group_title_kodi": "Vollprogramm", "tvg_logo": "tv/zdf.png", "url": "https://zdf.m3u8"}
     >>> content = {"tv": {"id": 1, "subcategories": {"main": {"id": 1, "streams": [stream]}}}}
     >>> image_base_path = "https://example.com/logos/"
     >>> list_type = ParseType.CLEAN
@@ -64,7 +64,7 @@ def generate_stream_lines(
 
             for stream in subcategory["streams"]:
                 for path in [all_path, category_path, subcategory_path]:
-                    lines = line_parser.get_lines(stream, image_base_path)
+                    lines = line_parser.get_lines(Stream(**stream), image_base_path)
                     output_contents[path].extend(lines)
 
     return output_contents
