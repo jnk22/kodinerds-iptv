@@ -9,6 +9,8 @@ packages = [{ include = "src" }]
 [tool.poetry.dependencies]
 python = "^3.10"
 PyYAML = "^6.0"
+httpx = "^0.23.3"
+trio = "^0.22.0"
 
 [tool.poetry.dev-dependencies]
 black = "^22.12.0"
@@ -29,6 +31,7 @@ unfixable = ["T201", "T203", "F401"]
 [tool.ruff.per-file-ignores]
 "__init__.py" = ["D104"]
 "generate_lists.py" = ["T201", "T203", "INP001"]
+"test_streams.py" = ["T201", "T203", "INP001"]
 
 [tool.ruff.pydocstyle]
 convention = "numpy"
