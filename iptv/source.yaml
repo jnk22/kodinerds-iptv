@@ -3913,12 +3913,12 @@ tv:
         url: https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
-        name: Regio TV HD Bodensee
+        name: Regio TV Bodensee
         quality: hd
         radio: false
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png
-        tvg_name: Regio TV HD Bodensee
+        tvg_name: Regio TV Bodensee
         url: https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
