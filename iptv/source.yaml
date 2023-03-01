@@ -3928,7 +3928,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png
         tvg_name: Regio TV Schwaben
-        url: https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
+        url: https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Regio TV Stuttgart
@@ -4355,6 +4355,42 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png
         tvg_name: DELUXE MUSIC
         url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
+        name: DLX Dance by Kontor
+        quality: hd
+        radio: false
+        tvg_id: DLXDance.de
+        tvg_logo: 
+        tvg_name: DLX Dance by Kontor
+        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
+        name: DLX Flashback
+        quality: hd
+        radio: false
+        tvg_id: DLXFlashback.de
+        tvg_logo: 
+        tvg_name: DLX Flashback
+        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
+        name: DLX Rap
+        quality: hd
+        radio: false
+        tvg_id: DLXRap.de
+        tvg_logo: 
+        tvg_name: DLX Rap
+        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
+        name: DLX Rock
+        quality: hd
+        radio: false
+        tvg_id: DLXRock.de
+        tvg_logo: 
+        tvg_name: DLX Rock
+        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Folx TV
