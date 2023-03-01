@@ -4357,6 +4357,42 @@ tv:
         url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
+        name: DELUXE MUSIC ROCK
+        quality: hd
+        radio: false
+        tvg_id: DeLuxeMusicRock.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrock.png
+        tvg_name: DELUXE MUSIC ROCK
+        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
+        name: DELUXE MUSIC FLASHBACK
+        quality: hd
+        radio: false
+        tvg_id: DeLuxeMusicFlashback.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicflashback.png
+        tvg_name: DELUXE MUSIC FLASHBACK
+        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
+        name: DELUXE MUSIC DANCE
+        quality: hd
+        radio: false
+        tvg_id: DeLuxeMusicDance.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicdance.png
+        tvg_name: DELUXE MUSIC DANCE
+        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
+        name: DELUXE MUSIC RAP
+        quality: hd
+        radio: false
+        tvg_id: DeLuxeMusicRap.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrap.png
+        tvg_name: DELUXE MUSIC RAP
+        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
         name: Folx TV
         quality: hd
         radio: false
