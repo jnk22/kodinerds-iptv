@@ -43,7 +43,7 @@ def generate_stream_lines(
 
     >>> stream = {"name": "ZDF", "tvg_name": "ZDF", "quality": "sd", "radio": "false", "tvg_id": "zdf.de", "group_title": "IPTV-DE", "group_title_kodi": "Vollprogramm", "tvg_logo": "tv/zdf.png", "url": "https://zdf.m3u8"}
     >>> content = {"tv": {"id": 1, "subcategories": {"main": {"id": 1, "streams": [stream]}}}}
-    >>> __generate_stream_lines(content, ListType.CLEAN, "https://example.com/logos/")  # doctest: +ELLIPSIS
+    >>> generate_stream_lines(content, ListType.CLEAN, "https://example.com/logos/")  # doctest: +ELLIPSIS
     defaultdict(<class 'list'>, {'clean/clean': ['#EXTINF:-1 tvg-name="ZDF" ..., 'https://zdf.m3u8'], 'clean/clean_tv': ['#EXTINF:-1 tvg-name="ZDF" ..., 'https://zdf.m3u8'], 'clean/clean_tv_main': ['#EXTINF:-1 tvg-name="ZDF" ..., 'https://zdf.m3u8']})
     """  # noqa: E501
     stream_lines: defaultdict[str, list[str]] = defaultdict(list)
