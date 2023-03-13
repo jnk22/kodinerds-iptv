@@ -1,0 +1,8 @@
+---
+extends: default
+
+files:
+  - source.yaml
+
+rules:
+  line-length: disable

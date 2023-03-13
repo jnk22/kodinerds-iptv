@@ -12,15 +12,16 @@ PyYAML = "^6.0"
 httpx = "^0.23.3"
 trio = "^0.22.0"
 typer = { extras = ["all"], version = "^0.7.0" }
-pytest-cov = "^4.0.0"
-
-[tool.poetry.dev-dependencies]
-black = "^23.1.0"
-ruff = "^0.0.254"
-pytest = "^7.2.1"
 
 [tool.poetry.scripts]
 kn-generate = "kodinerds_iptv.generate_lists:app"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.1.0"
+ruff = "^0.0.254"
+pytest = "^7.2.1"
+pytest-cov = "^4.0.0"
+types-pyyaml = "^6.0.12.8"
 
 [build-system]
 requires = ["poetry-core"]

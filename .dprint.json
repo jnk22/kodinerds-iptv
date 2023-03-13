@@ -1,0 +1,15 @@
+{
+  "json": {
+  },
+  "markdown": {
+  },
+  "toml": {
+  },
+  "includes": ["**/*.{json,md,toml,yaml,yml}"],
+  "plugins": [
+    "https://plugins.dprint.dev/json-0.17.0.wasm",
+    "https://plugins.dprint.dev/markdown-0.15.2.wasm",
+    "https://plugins.dprint.dev/toml-0.5.4.wasm",
+    "https://plugins.dprint.dev/prettier-0.20.0.json@a858510ad0110784e7583b02c38d6ee6bfd448c8087ba2303312ca3cd5899561"
+  ]
+}

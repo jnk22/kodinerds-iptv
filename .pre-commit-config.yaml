@@ -4,10 +4,37 @@ repos:
     rev: v4.4.0
     hooks:
       - id: check-yaml
+      - id: check-toml
       - id: check-added-large-files
+        exclude: logos
       - id: check-executables-have-shebangs
+      - id: check-case-conflict
+      - id: check-merge-conflict
+      - id: detect-private-key
+      - id: name-tests-test
       - id: trailing-whitespace
       - id: end-of-file-fixer
+  # - repo: https://github.com/adamchainz/pre-commit-dprint
+  #   rev: "v0.35.3"
+  #   hooks:
+  #     - id: dprint
+  - repo: https://github.com/adrienverge/yamllint
+    rev: v1.29.0
+    hooks:
+      - id: yamllint
+      - id: yamllint
+        name: yamllint source.yaml
+        args: ["-c", ".yamllint-source.yaml"]
+  - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
+    rev: 2.7.1
+    hooks:
+      - id: editorconfig-checker
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.0.1
+    hooks:
+      - id: mypy
+        additional_dependencies:
+          - "types-PyYAML==6.0.12.8"
   - repo: https://github.com/psf/black
     rev: 23.1.0
     hooks:

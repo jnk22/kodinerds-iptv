@@ -17,13 +17,6 @@ jobs:
       - name: pre-commit
         uses: pre-commit/action@v3.0.0
 
-      # TODO: Replace with pre-commit hook
-      - name: Prettify source.yaml
-        uses: creyD/prettier_action@v4.2
-        with:
-          prettier_options: --write source.yaml
-          file_pattern: source.yaml
-
   test:
     runs-on: ubuntu-latest
     needs: format
@@ -40,9 +33,6 @@ jobs:
 
       - name: Install dependencies
         run: poetry install --with=dev
-
-      - name: Run Ruff
-        run: poetry run ruff --format=github .
 
       - name: Run tests
         run: poetry run pytest --cov --cov-report=xml

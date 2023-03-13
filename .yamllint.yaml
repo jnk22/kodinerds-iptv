@@ -1,0 +1,9 @@
+---
+extends: default
+
+ignore:
+  - source.yaml
+
+rules:
+  truthy:
+    check-keys: false

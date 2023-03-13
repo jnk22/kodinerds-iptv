@@ -2,7 +2,7 @@
 
 [![Prettify, lint and test](https://github.com/jnk22/kodinerds-iptv/actions/workflows/ci.yml/badge.svg)](https://github.com/jnk22/kodinerds-iptv/actions/workflows/ci.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/242bd9127abdaab359d6/maintainability)](https://codeclimate.com/github/jnk22/kodinerds-iptv/maintainability)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/885b3ad68d5d49688cd493861ab30a6c)](https://www.codacy.com/gh/jnk22/kodinerds-iptv/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jnk22/kodinerds-iptv&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/885b3ad68d5d49688cd493861ab30a6c)](https://www.codacy.com/gh/jnk22/kodinerds-iptv/dashboard?utm_source=github.com&utm_medium=referral&utm_content=jnk22/kodinerds-iptv&utm_campaign=Badge_Grade)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/jnk22/kodinerds-iptv/master.svg)](https://results.pre-commit.ci/latest/github/jnk22/kodinerds-iptv/master)
 
 ## Einleitung
