@@ -1,6 +1,6 @@
 # Kodinerds IPTV
 
-[![Prettify, lint and test](https://github.com/jnk22/kodinerds-iptv/actions/workflows/ci.yml/badge.svg)](https://github.com/jnk22/kodinerds-iptv/actions/workflows/ci.yml)
+[![CI](https://github.com/jnk22/kodinerds-iptv/actions/workflows/ci.yml/badge.svg)](https://github.com/jnk22/kodinerds-iptv/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/jnk22/kodinerds-iptv/branch/update-script/graph/badge.svg?token=hi6gqcnIPM)](https://codecov.io/gh/jnk22/kodinerds-iptv)
 [![Maintainability](https://api.codeclimate.com/v1/badges/242bd9127abdaab359d6/maintainability)](https://codeclimate.com/github/jnk22/kodinerds-iptv/maintainability)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/885b3ad68d5d49688cd493861ab30a6c)](https://www.codacy.com/gh/jnk22/kodinerds-iptv/dashboard?utm_source=github.com&utm_medium=referral&utm_content=jnk22/kodinerds-iptv&utm_campaign=Badge_Grade)

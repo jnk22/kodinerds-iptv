@@ -1,5 +1,5 @@
 ---
-name: Update .m3u files
+name: Update streams
 
 on:
   push:
