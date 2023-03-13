@@ -79,8 +79,6 @@ def __generate_stream_lines(
 
 def __read_source_file(source_file: Path) -> dict[str, Any]:
     # Read YAML source file.
-    print(f"Reading source: {source_file}")
-
     try:
         with source_file.open("r") as file:
             return yaml.safe_load(file)
@@ -94,15 +92,6 @@ def __read_source_file(source_file: Path) -> dict[str, Any]:
         sys.exit(1)
 
 
-def __write_streams(lines: list[str], output_file: Path) -> None:
-    # Write output file with given lines.
-    # Each line will be written as a separate line in the file.
-    print(f"Writing file: {output_file}")
-
-    output_file.parent.mkdir(parents=True, exist_ok=True)
-    output_file.write_text("\n".join(("#EXTM3U", *lines, "")))
-
-
 @app.command()
 def main(
     source: Path = Argument(..., exists=True, help="YAML source file."),
@@ -112,14 +101,19 @@ def main(
     logo_base_path: str = Option("", help="Prepended base path for channel logos."),
 ) -> None:
     """Generate IPTV lists based on YAML source file."""
+    print(f"Reading source: {source}")
     yaml_content = __read_source_file(source)
 
     stream_lists: dict[str, list[str]] = {}
     for lt in set(list_type):
-        print(f"Generating content for type '{lt.value}'")
+        print(f"Generating stream lines for type '{lt.value}'")
         stream_lists |= __generate_stream_lines(yaml_content, lt, logo_base_path)
 
     for file_name, streams in stream_lists.items():
-        __write_streams(streams, Path(f"{output_path}/{file_name}.{output_extension}"))
+        output_file = Path(f"{output_path}/{file_name}.{output_extension}")
+
+        print(f"Writing file: {output_file}")
+        output_file.parent.mkdir(parents=True, exist_ok=True)
+        output_file.write_text("\n".join(("#EXTM3U", *streams, "")))
 
     print("Finished")
