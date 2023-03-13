@@ -3,44 +3,16 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from enum import Enum
 from functools import reduce
-from typing import Any
+from typing import TYPE_CHECKING, Any
+
+from .enums import ListType
+
+if TYPE_CHECKING:
+    from .stream import Stream
 
 
 @dataclass
-class Stream:
-    """Stream class for storing information about a stream."""
-
-    name: str
-    group_title: str
-    group_title_kodi: str
-    quality: str
-    radio: bool
-    tvg_id: str
-    tvg_name: str
-    tvg_logo: str
-    url: str
-
-
-class ParseType(Enum):
-    """Enumeration for different types of parsing.
-
-    Attributes
-    ----------
-        CLEAN: Indicates that the parse should be done with
-               no additional processing.
-        KODI:  Indicates that the parse should be done in a way that is
-               compatible with Kodi.
-        PIPE:  Indicates that the parse should be done by piping the
-               data through FFmpeg.
-    """
-
-    CLEAN = "CLEAN"
-    KODI = "KODI"
-    PIPE = "PIPE"
-
-
 class LineParser:
     """Default class for parsing lines of stream information.
 
@@ -49,55 +21,37 @@ class LineParser:
     stream.
     """
 
-    @staticmethod
-    def from_list_type(list_type: ParseType) -> LineParser:
-        """Return an instance of LineParser class based on parse type.
+    logo_base_path: str = ""
 
-        Parameters
-        ----------
-        list_type : ParseType
-            The type of parsing to be performed.
-
-        Returns
-        -------
-        An instance of the appropriate LineParser subclass.
-        """
-        return next(
-            parser() for key, parser in _PARSER_MAPPING.items() if key == list_type
-        )
-
-    def get_lines(self, stream: Stream, image_base_path: str = "") -> tuple[str, str]:
+    def get_lines(self, stream: Stream) -> tuple[str, str]:
         """Return a tuple of the header and stream line for the provided stream.
 
         Parameters
         ----------
-        stream : Stream
+        stream
             Stream object containing information about the stream.
-        image_base_path : str
-            Base path for images that 'tvg_logo' will be appended to.
 
         Returns
         -------
-        tuple[str, str]: A tuple containing the header line and stream
-                         line for the provided stream.
+        tuple[str, str]
+            A tuple containing the header line and stream line for the provided stream.
 
         Examples
         --------
+        Generate lines for a single stream:
+
+        >>> from .stream import Stream
+        >>> line_parser = AutoLineParser.from_list_type(ListType.CLEAN, "https://example.com/logos/")
         >>> stream = Stream(name="ZDF", tvg_name="ZDF", quality="sd", radio=False, tvg_id="zdf.de", group_title="IPTV-DE", group_title_kodi="Vollprogramm", tvg_logo="zdf.png", url="https://zdf.m3u8")
-        >>> image_base_path = "https://example.com/logos/"
-        >>> list_type = ParseType.CLEAN
-        >>> LineParser().get_lines(stream, image_base_path)
+        >>> line_parser.get_lines(stream)
         ('#EXTINF:-1 tvg-name="ZDF" tvg-id="zdf.de" group-title="IPTV-DE" tvg-logo="https://example.com/logos/zdf.png",ZDF', 'https://zdf.m3u8')
         """  # noqa: E501
-        return tuple(
-            " ".join(line.split())
-            for line in (
-                self._header_line(stream, image_base_path),
-                self._stream_line(stream),
-            )
-        )
+        lines = (self._header_line(stream), self._stream_line(stream))
+        header_line, stream_line = (" ".join(line.split()) for line in lines)
 
-    def _header_line(self, stream: Stream, image_base_path: str) -> str:
+        return header_line, stream_line
+
+    def _header_line(self, stream: Stream) -> str:
         # Return header line for stream.
         return f"""
         #EXTINF:-1
@@ -105,7 +59,7 @@ class LineParser:
         {"" if stream.radio else f'tvg-id="{stream.tvg_id}"'}
         group-title="{self._group_title(stream)}"
         {'radio="true"' if stream.radio else ""}
-        tvg-logo="{image_base_path}{stream.tvg_logo}",{stream.name}
+        tvg-logo="{self.logo_base_path}{stream.tvg_logo}",{stream.name}
         """
 
     def _stream_line(self, stream: Stream) -> str:
@@ -133,7 +87,7 @@ class KodiLineParser(LineParser):
 
     def _stream_line(self, stream: Stream) -> str:
         # Override YouTube streams for usage with Kodi's YouTube plugin.
-        return stream.url.replace(*KodiLineParser._YOUTUBE_REPLACE)
+        return stream.url.replace(*self._YOUTUBE_REPLACE)
 
     def _group_title(self, stream: Stream) -> str:
         # Override group title with Kodi specific group.
@@ -165,7 +119,7 @@ class PipeLineParser(LineParser):
         # The stream URL includes several required attributes for FFmpeg.
         codec_part = "radio" if stream.radio else f"{stream.quality}tv"
         service_name = reduce(
-            lambda s, kv: s.replace(*kv), PipeLineParser._REPLACE_CHARS, stream.name
+            lambda s, kv: s.replace(*kv), self._REPLACE_CHARS, stream.name
         )
 
         return f"""
@@ -182,8 +136,31 @@ class PipeLineParser(LineParser):
         """
 
 
-_PARSER_MAPPING: dict[ParseType, Any] = {
-    ParseType.CLEAN: LineParser,
-    ParseType.KODI: KodiLineParser,
-    ParseType.PIPE: PipeLineParser,
-}
+class AutoLineParser:
+    """TODO."""
+
+    __MAPPING: dict[ListType, Any] = {
+        ListType.CLEAN: LineParser,
+        ListType.KODI: KodiLineParser,
+        ListType.PIPE: PipeLineParser,
+    }
+
+    @classmethod
+    def from_list_type(cls, list_type: ListType, logo_base_path: str) -> LineParser:
+        """Return an instance of LineParser class based on parse type.
+
+        Parameters
+        ----------
+        list_type
+            The type of parsing to be performed.
+
+        Returns
+        -------
+        LineParser
+            An instance of the appropriate LineParser subclass.
+        """
+        return next(
+            parser(logo_base_path)
+            for key, parser in cls.__MAPPING.items()
+            if key == list_type
+        )

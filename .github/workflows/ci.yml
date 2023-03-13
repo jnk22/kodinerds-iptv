@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - master
+      - update-script
 
 jobs:
   format:
@@ -13,9 +14,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Run black
-        uses: psf/black@stable
+      - name: pre-commit
+        uses: pre-commit/action@v3.0.0
 
+      # TODO: Replace with pre-commit hook
       - name: Prettify source.yaml
         uses: creyD/prettier_action@v4.2
         with:
@@ -43,4 +45,20 @@ jobs:
         run: poetry run ruff --format=github .
 
       - name: Run tests
-        run: poetry run pytest --doctest-modules
+        run: poetry run pytest --cov --cov-report=xml
+
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v3
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+
+      - name: Codacy Coverage Reporter
+        uses: codacy/codacy-coverage-reporter-action@v1.3.0
+        with:
+          project-token: ${{ secrets.CODACY_PROJECT_TOKEN }}
+          coverage-reports: coverage.xml
+
+      - name: Code Climate Coverage Action
+        uses: paambaati/codeclimate-action@v3.2.0
+        env:
+          CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}

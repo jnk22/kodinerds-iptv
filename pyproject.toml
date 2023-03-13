@@ -4,39 +4,62 @@ version = "0.1.0"
 description = "Free TV and radio streams for Kodi."
 authors = ["Jannik Schäfer <jannik.schaefer@inbox-online.de>"]
 readme = "README.md"
-packages = [{ include = "src" }]
+packages = [{ include = "kodinerds_iptv" }]
 
 [tool.poetry.dependencies]
 python = "^3.10"
 PyYAML = "^6.0"
 httpx = "^0.23.3"
 trio = "^0.22.0"
+typer = { extras = ["all"], version = "^0.7.0" }
+pytest-cov = "^4.0.0"
 
 [tool.poetry.dev-dependencies]
-black = "^22.12.0"
-ruff = "^0.0.231"
+black = "^23.1.0"
+ruff = "^0.0.254"
 pytest = "^7.2.1"
+
+[tool.poetry.scripts]
+kn-generate = "kodinerds_iptv.generate_lists:app"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
+[tool.pytest.ini_options]
+addopts = "--doctest-modules"
+
+[tool.coverage.report]
+exclude_lines = ["if (typing\\.)?TYPE_CHECKING:"]
+
+[tool.mypy]
+ignore_missing_imports = true
+
 [tool.ruff]
 line-length = 88
 select = ["ALL"]
 target-version = "py310"
-extend-ignore = ["ANN101", "ANN102", "COM812"]
-unfixable = ["T201", "T203", "F401"]
+ignore = [
+  "ANN101", # flake8-annotations: missing-type-self
+  "ANN102", # flake8-annotations: missing-type-cls
+  "COM812", # flake8-commas: trailing-comma-on-bare-tuple-prohibited
+]
+unfixable = [
+  "T201", # flake8-print: print-found
+  "ERA001", # eradicate: commented-out-code
+  "F401", # Pyflakes: unused-import
+  "F841", # Pyflakes: unused-variable
+]
 
 [tool.ruff.per-file-ignores]
-"__init__.py" = ["D104"]
-"generate_lists.py" = ["T201", "T203", "INP001"]
-"test_streams.py" = ["T201", "T203", "INP001"]
+"__init__.py" = ["D104", "F401"]
+"generate_lists.py" = ["T201", "T203", "B008"]
+"test_streams.py" = ["T201", "T203"]
 
 [tool.ruff.pydocstyle]
 convention = "numpy"
 
 [tool.vulture]
 min_confidence = 100
-paths = ["src"]
+paths = ["kodinerds_iptv"]
 sort_by_size = true

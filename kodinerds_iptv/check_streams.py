@@ -14,7 +14,8 @@ from typing import Any
 import trio
 import yaml
 from httpx import AsyncClient, ConnectError, ReadTimeout
-from line_parser import Stream
+
+from .stream import Stream
 
 
 @dataclass
