@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Module for generating IPTV m3u files based on YAML source files."""
+"""Command line interface for kodinerds-iptv."""
 
 from pathlib import Path
 from types import NotImplementedType
