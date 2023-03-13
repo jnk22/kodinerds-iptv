@@ -14,7 +14,7 @@ trio = "^0.22.0"
 typer = { extras = ["all"], version = "^0.7.0" }
 
 [tool.poetry.scripts]
-kn-generate = "kodinerds_iptv.generate_lists:app"
+kn-iptv = "kodinerds_iptv.cli:app"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.1.0"
@@ -54,8 +54,8 @@ unfixable = [
 
 [tool.ruff.per-file-ignores]
 "__init__.py" = ["D104", "F401"]
-"generate_lists.py" = ["T201", "T203", "B008"]
-"check_streams.py" = ["T201", "T203"]
+"cli.py" = ["T201", "T203", "B008"]
+"generate_lists.py" = ["T201", "T203"]
 
 [tool.ruff.pydocstyle]
 convention = "numpy"

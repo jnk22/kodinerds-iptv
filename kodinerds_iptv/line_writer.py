@@ -1,4 +1,4 @@
-"""Parser module for generating IPTV m3u lines."""
+"""Writer module for generating IPTV stream lines."""
 
 from __future__ import annotations
 
@@ -13,12 +13,11 @@ if TYPE_CHECKING:
 
 
 @dataclass
-class LineParser:
-    """Default class for parsing lines of stream information.
+class LineWriter:
+    """Default class for creating lines of stream information.
 
-    This class provides basic functionality for parsing stream
-    information and generating a header line and stream line for the
-    stream.
+    This class provides basic functionality for creating stream
+    information output, including a header line and stream line.
     """
 
     logo_base_path: str = ""
@@ -41,9 +40,9 @@ class LineParser:
         Generate lines for a single stream:
 
         >>> from .stream import Stream
-        >>> line_parser = AutoLineParser.from_list_type(ListType.CLEAN, "https://example.com/logos/")
+        >>> line_writer = AutoLineWriter.from_list_type(ListType.CLEAN, "https://example.com/logos/")
         >>> stream = Stream(name="ZDF", tvg_name="ZDF", quality="sd", radio=False, tvg_id="zdf.de", group_title="IPTV-DE", group_title_kodi="Vollprogramm", tvg_logo="zdf.png", url="https://zdf.m3u8")
-        >>> line_parser.get_lines(stream)
+        >>> line_writer.get_lines(stream)
         ('#EXTINF:-1 tvg-name="ZDF" tvg-id="zdf.de" group-title="IPTV-DE" tvg-logo="https://example.com/logos/zdf.png",ZDF', 'https://zdf.m3u8')
         """  # noqa: E501
         lines = (self._header_line(stream), self._stream_line(stream))
@@ -71,13 +70,13 @@ class LineParser:
         return stream.group_title
 
 
-class KodiLineParser(LineParser):
-    """A LineParser subclass for Kodi-specific parsing.
+class KodiLineWrite(LineWriter):
+    """A LineWrite subclass for Kodi-specific stream lines.
 
-    This class inherits from the LineParser class and overrides certain
-    methods to provide Kodi-specific parsing. This includes modifying
-    the group title and replacing URLs for YouTube streams to be
-    compatible with Kodi's YouTube plugin.
+    This class inherits from the LineWriter class and overrides certain
+    methods to provide Kodi-specific stream lines. This includes
+    modifying the group title and replacing URLs for YouTube streams to
+    be compatible with Kodi's YouTube plugin.
     """
 
     _YOUTUBE_REPLACE = (
@@ -94,13 +93,14 @@ class KodiLineParser(LineParser):
         return stream.group_title_kodi
 
 
-class PipeLineParser(LineParser):
-    """A LineParser subclass for parsing lines for use with FFmpeg.
+class PipeLineWriter(LineWriter):
+    """A LineWrite subclass for writing lines for use with FFmpeg.
 
-    This class inherits from the LineParser class and overrides certain
-    methods to provide parsing that is suitable for use with FFmpeg.
-    This includes replacing special characters in the stream url and
-    adding codec information to the stream url.
+    This class inherits from the LineWriter class and overrides certain
+    methods to provide stream lines that can be used in Tvheadend where
+    piping streams through FFmpeg is required. Modifications include
+    replacing special characters and adding codec information to the
+    stream URL.
     """
 
     _REPLACE_CHARS = {
@@ -136,31 +136,31 @@ class PipeLineParser(LineParser):
         """
 
 
-class AutoLineParser:
+class AutoLineWriter:
     """TODO."""
 
     __MAPPING: dict[ListType, Any] = {
-        ListType.CLEAN: LineParser,
-        ListType.KODI: KodiLineParser,
-        ListType.PIPE: PipeLineParser,
+        ListType.CLEAN: LineWriter,
+        ListType.KODI: KodiLineWrite,
+        ListType.PIPE: PipeLineWriter,
     }
 
     @classmethod
-    def from_list_type(cls, list_type: ListType, logo_base_path: str) -> LineParser:
-        """Return an instance of LineParser class based on parse type.
+    def from_list_type(cls, list_type: ListType, logo_base_path: str) -> LineWriter:
+        """Return an instance of LineWriter class based on list type.
 
         Parameters
         ----------
         list_type
-            The type of parsing to be performed.
+            The type of list that is required.
 
         Returns
         -------
-        LineParser
-            An instance of the appropriate LineParser subclass.
+        LineWriter
+            An instance of the appropriate LineWriter.
         """
         return next(
-            parser(logo_base_path)
-            for key, parser in cls.__MAPPING.items()
-            if key == list_type
+            writer_class(logo_base_path)
+            for lt_key, writer_class in cls.__MAPPING.items()
+            if lt_key == list_type
         )

@@ -20,10 +20,9 @@ jobs:
         run: pipx install .
 
       - name: Update IPTV lists
-        run: kn-generate \
-          --logo_base_path \
+        run: kn-iptv generate --output-dir iptv --logo_base_path \
           https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/ \
-          --output-path iptv source.yaml
+          source.yaml
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9

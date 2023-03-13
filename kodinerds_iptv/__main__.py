@@ -1,5 +1,5 @@
 """Entrypoint for the package."""
 
-from kodinerds_iptv.generate_lists import app
+from kodinerds_iptv.cli import app
 
 app()

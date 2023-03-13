@@ -7,25 +7,20 @@ from pathlib import Path
 from typing import Any
 
 import yaml
-from typer import Argument, Option, Typer
 
 from .enums import ListType
-from .line_parser import AutoLineParser
+from .line_writer import AutoLineWriter
 from .stream import Stream
 
-ALL_LIST_TYPES = [list_type.value for list_type in ListType]
 
-app = Typer()
-
-
-def __generate_stream_lines(
+def generate_stream_lines(
     content: dict[str, Any],
     list_type: ListType,
     logo_base_path: str,
 ) -> dict[str, list[str]]:
     """Generate stream lines for all categories based on type.
 
-    Given a dictionary of content and a parse type, this function
+    Given a dictionary of content and a list type, this function
     generates a nested dictionary of lists containing parsed lines
     of content.
 
@@ -34,7 +29,7 @@ def __generate_stream_lines(
     content
         A dictionary of content to be parsed.
     list_type
-        The type of parse to be applied to the content.
+        The type of required output format.
     image_base_path
         Base path for images that 'tvg_logo' will be appended to.
 
@@ -45,15 +40,15 @@ def __generate_stream_lines(
 
     Examples
     --------
-    Generate lines for a single stream with the 'clean' parse type:
+    Generate lines for a single stream with the 'clean' list type:
 
     >>> stream = {"name": "ZDF", "tvg_name": "ZDF", "quality": "sd", "radio": "false", "tvg_id": "zdf.de", "group_title": "IPTV-DE", "group_title_kodi": "Vollprogramm", "tvg_logo": "tv/zdf.png", "url": "https://zdf.m3u8"}
     >>> content = {"tv": {"id": 1, "subcategories": {"main": {"id": 1, "streams": [stream]}}}}
     >>> __generate_stream_lines(content, ListType.CLEAN, "https://example.com/logos/")  # doctest: +ELLIPSIS
     defaultdict(<class 'list'>, {'clean/clean': ['#EXTINF:-1 tvg-name="ZDF" ..., 'https://zdf.m3u8'], 'clean/clean_tv': ['#EXTINF:-1 tvg-name="ZDF" ..., 'https://zdf.m3u8'], 'clean/clean_tv_main': ['#EXTINF:-1 tvg-name="ZDF" ..., 'https://zdf.m3u8']})
     """  # noqa: E501
-    output_contents: defaultdict[str, list[str]] = defaultdict(list)
-    line_parser = AutoLineParser.from_list_type(list_type, logo_base_path)
+    stream_lines: defaultdict[str, list[str]] = defaultdict(list)
+    line_writer = AutoLineWriter.from_list_type(list_type, logo_base_path)
 
     categories = dict(sorted(content.items(), key=lambda x: x[1]["id"]))
     all_path = f"{list_type.value.lower()}/{list_type.value.lower()}"
@@ -71,14 +66,13 @@ def __generate_stream_lines(
 
             for stream in subcategory["streams"]:
                 for path in [all_path, category_path, subcategory_path]:
-                    stream_lines = line_parser.get_lines(Stream(**stream))
-                    output_contents[path].extend(stream_lines)
+                    stream_lines[path].extend(line_writer.get_lines(Stream(**stream)))
 
-    return output_contents
+    return stream_lines
 
 
-def __read_source_file(source_file: Path) -> dict[str, Any]:
-    # Read YAML source file.
+def read_source_file(source_file: Path) -> dict[str, Any]:
+    """TODO."""
     try:
         with source_file.open("r") as file:
             return yaml.safe_load(file)
@@ -90,30 +84,3 @@ def __read_source_file(source_file: Path) -> dict[str, Any]:
     except yaml.YAMLError as exc:
         print(f"Error while parsing YAML file: {exc}")
         sys.exit(1)
-
-
-@app.command()
-def main(
-    source: Path = Argument(..., exists=True, help="YAML source file."),
-    list_type: list[ListType] = Option(ALL_LIST_TYPES, help="List type(s)."),
-    output_path: Path = Option("output", writable=True, help="Output directory."),
-    output_extension: str = Option("m3u", help="Output file extension."),
-    logo_base_path: str = Option("", help="Prepended base path for channel logos."),
-) -> None:
-    """Generate IPTV lists based on YAML source file."""
-    print(f"Reading source: {source}")
-    yaml_content = __read_source_file(source)
-
-    stream_lists: dict[str, list[str]] = {}
-    for lt in set(list_type):
-        print(f"Generating stream lines for type '{lt.value}'")
-        stream_lists |= __generate_stream_lines(yaml_content, lt, logo_base_path)
-
-    for file_name, streams in stream_lists.items():
-        output_file = Path(f"{output_path}/{file_name}.{output_extension}")
-
-        print(f"Writing file: {output_file}")
-        output_file.parent.mkdir(parents=True, exist_ok=True)
-        output_file.write_text("\n".join(("#EXTM3U", *streams, "")))
-
-    print("Finished")
