@@ -48,23 +48,18 @@ def generate_stream_lines(
     """  # noqa: E501
     stream_lines: defaultdict[str, list[str]] = defaultdict(list)
     line_writer = AutoLineWriter.from_list_type(list_type, logo_base_path)
+    full_path = f"{list_type.value.lower()}/{list_type.value.lower()}"
 
-    categories = dict(sorted(content.items(), key=lambda x: x[1]["id"]))
-    all_path = f"{list_type.value.lower()}/{list_type.value.lower()}"
+    for source_name, source in content.items():
+        categories = dict(sorted(source.items(), key=lambda x: x[1]["id"]))
+        source_path = f"{full_path}_{source_name}"
 
-    # Iterate over main categories, i.e. TV and radio
-    for category_name, category in categories.items():
-        subcategories = dict(
-            sorted(category["subcategories"].items(), key=lambda x: x[1]["id"]),
-        )
-        category_path = f"{all_path}_{category_name}"
+        # Iterate over categories: countries for radio, genre for TV
+        for category_name, category in categories.items():
+            category_path = f"{source_path}_{category_name}"
 
-        # Iterate over subcategories: countries for radio, genre for TV
-        for subcategory_name, subcategory in subcategories.items():
-            subcategory_path = f"{category_path}_{subcategory_name}"
-
-            for stream in subcategory["streams"]:
-                for path in [all_path, category_path, subcategory_path]:
+            for stream in category["streams"]:
+                for path in [full_path, source_path, category_path]:
                     stream_lines[path].extend(line_writer.get_lines(Stream(**stream)))
 
     return stream_lines

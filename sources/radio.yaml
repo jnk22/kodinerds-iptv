@@ -1,0 +1,2296 @@
+---
+at:
+  id: 2
+  streams:
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: FM4
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/fm4.png
+      tvg_name: FM4
+      url: https://orf-live.ors-shoutcast.at/fm4-q2a
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: Hitradio Ö3
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/hitradiooe3.png
+      tvg_name: Hitradio Ö3
+      url: https://orf-live.ors-shoutcast.at/oe3-q2a
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: Klassik Radio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/klassikradio.png
+      tvg_name: Klassik Radio
+      url: https://edge61.streams.klassikradio.de/klassikradio-oesterreich/stream/mp3
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: KRONEHIT
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/kronehit.png
+      tvg_name: KRONEHIT
+      url: http://onair.krone.at:80/kronehit.mp3
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: KRONEHIT Dance
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/kronehit.png
+      tvg_name: KRONEHIT Dance
+      url: http://onair.krone.at:80/kronehit-dance.mp3
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: Life Radio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/liferadio.png
+      tvg_name: Life Radio
+      url: https://stream.liferadio.at/liferadio/mp3-192
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: Orange 94.0
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/orange94.0.png
+      tvg_name: Orange 94.0
+      url: https://securestream.o94.at/live.mp3
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: Ö1
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/oe1.png
+      tvg_name: Ö1
+      url: https://orf-live.ors-shoutcast.at/oe1-q2a
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: Ö1 Campus
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/oe1.png
+      tvg_name: Ö1 Campus
+      url: https://orf-live.ors-shoutcast.at/campus-q2a
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: Radio Niederösterreich
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radioniederoesterreich.png
+      tvg_name: Radio Niederösterreich
+      url: https://orf-live.ors-shoutcast.at/noe-q2a
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: Radio Steiermark
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiosteiermark.png
+      tvg_name: Radio Steiermark
+      url: https://orf-live.ors-shoutcast.at/stm-q2a
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: Radio Tirol
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiotirol.png
+      tvg_name: Radio Tirol
+      url: https://orf-live.ors-shoutcast.at/tir-q2a
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: Radio Wien
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiowien.png
+      tvg_name: Radio Wien
+      url: https://orf-live.ors-shoutcast.at/wie-q2a
+    - group_title: Radio-AT
+      group_title_kodi: Österreich
+      name: U1 Tirol
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/u1tirol.png
+      tvg_name: U1 Tirol
+      url: https://live.u1-radio.at/stream.mp3
+ch:
+  id: 3
+  streams:
+    - group_title: Radio-CH
+      group_title_kodi: Schweiz
+      name: Radio SRF 1
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiosrf1.png
+      tvg_name: Radio SRF 1
+      url: http://stream.srg-ssr.ch/m/drs1/mp3_128
+    - group_title: Radio-CH
+      group_title_kodi: Schweiz
+      name: Radio SRF 2 Kultur
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiosrf2kultur.png
+      tvg_name: Radio SRF 2 Kultur
+      url: http://stream.srg-ssr.ch/m/drs2/mp3_128
+    - group_title: Radio-CH
+      group_title_kodi: Schweiz
+      name: Radio SRF 3
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiosrf3.png
+      tvg_name: Radio SRF 3
+      url: http://stream.srg-ssr.ch/m/drs3/mp3_128
+    - group_title: Radio-CH
+      group_title_kodi: Schweiz
+      name: Radio SRF 4 News
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiosrf4news.png
+      tvg_name: Radio SRF 4 News
+      url: http://stream.srg-ssr.ch/m/drs4news/mp3_128
+    - group_title: Radio-CH
+      group_title_kodi: Schweiz
+      name: Radio SRF Musikwelle
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiosrfmusikwelle.png
+      tvg_name: Radio SRF Musikwelle
+      url: http://stream.srg-ssr.ch/m/drsmw/mp3_128
+    - group_title: Radio-CH
+      group_title_kodi: Schweiz
+      name: Radio SRF Virus
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiosrfvirus.png
+      tvg_name: Radio SRF Virus
+      url: http://stream.srg-ssr.ch/m/drsvirus/mp3_128
+    - group_title: Radio-CH
+      group_title_kodi: Schweiz
+      name: Radio Swiss Pop
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radioswisspop.png
+      tvg_name: Radio Swiss Pop
+      url: http://stream.srg-ssr.ch/m/rsp/mp3_128
+    - group_title: Radio-CH
+      group_title_kodi: Schweiz
+      name: Radio Swiss Classic
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radioswissclassic.png
+      tvg_name: Radio Swiss Classic
+      url: http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+    - group_title: Radio-CH
+      group_title_kodi: Schweiz
+      name: Radio Swiss Jazz
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radioswissjazz.png
+      tvg_name: Radio Swiss Jazz
+      url: http://stream.srg-ssr.ch/m/rsj/mp3_128
+    - group_title: Radio-CH
+      group_title_kodi: Schweiz
+      name: Radio Zürisee
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiozuerisee.png
+      tvg_name: Radio Zürisee
+      url: http://mp3.radio.ch/radiozuerisee128k
+de:
+  id: 1
+  streams:
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: 100'5 Alemannia
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/1005dashitradio.png
+      tvg_name: 100'5 Alemannia
+      url: https://stream.dashitradio.de/alemannia/mp3-128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: 100'5 DAS HITRADIO
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/1005dashitradio.png
+      tvg_name: 100'5 DAS HITRADIO
+      url: https://stream.dashitradio.de/dashitradio/mp3-128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: 105'5 Spreeradio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/1055spreeradio.png
+      tvg_name: 105'5 Spreeradio
+      url: http://stream.spreeradio.de/spree-live/mp3-128/konsole
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: 105'5 Spreeradio 80er
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/1055spreeradio.png
+      tvg_name: 105'5 Spreeradio 80er
+      url: http://stream.spreeradio.de/spree-80er/mp3-128/konsole
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: 105'5 Spreeradio Love
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/1055spreeradio.png
+      tvg_name: 105'5 Spreeradio Love
+      url: http://stream.spreeradio.de/spree-love/mp3-128/konsole
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: 105'5 Spreeradio Rock
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/1055spreeradio.png
+      tvg_name: 105'5 Spreeradio Rock
+      url: http://stream.spreeradio.de/spree-rock/mp3-128/konsole
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: 105'5 Spreeradio Weihnachtsradio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/1055spreeradio.png
+      tvg_name: 105'5 Spreeradio Weihnachtsradio
+      url: http://stream.spreeradio.de/spree-event/mp3-128/konsole
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: 1LIVE
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/1live.png
+      tvg_name: 1LIVE
+      url: http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: 1LIVE diggi
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/1livediggi.png
+      tvg_name: 1LIVE diggi
+      url: http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: 89.0 RTL
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/890rtl.png
+      tvg_name: 89.0 RTL
+      url: http://stream.89.0rtl.de/live/mp3-256/direktlinkHP
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Absolut Radio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/absolutradio.png
+      tvg_name: Absolut Radio
+      url: http://stream.absolutradio.de/hq/mp3-160/stream.absolutradio.de
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Absolut relax
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/absolutrelax.png
+      tvg_name: Absolut relax
+      url: http://stream.absolutradio.de/relax/mp3-160/stream.absolutradio.de
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: antenne 1
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/antenne1.png
+      tvg_name: antenne 1
+      url: http://stream.antenne1.de/a1stg/livestream2.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: ANTENNE BAYERN
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/antennebayern.png
+      tvg_name: ANTENNE BAYERN
+      url: http://mp3channels.webradio.antenne.de:80/antenne
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Antenne Brandenburg
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/antennebrandenburg.png
+      tvg_name: Antenne Brandenburg
+      url: https://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: ANTENNE THÜRINGEN
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/antennethueringen.png
+      tvg_name: ANTENNE THÜRINGEN
+      url: http://stream.antennethueringen.de/live/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: AntenneSaar
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/antennesaar.png
+      tvg_name: AntenneSaar
+      url: http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: BR24
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/br24.png
+      tvg_name: BR24
+      url: https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: BR24 live
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/br24live.png
+      tvg_name: BR24 live
+      url: https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Bayern 1 Mittel- und Oberfranken
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bayern1.png
+      tvg_name: Bayern 1 Mittel- und Oberfranken
+      url: https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Bayern 1 Mainfranken
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bayern1.png
+      tvg_name: Bayern 1 Mainfranken
+      url: https://dispatcher.rndfnk.com/br/br1/mainfranken/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Bayern 1 Oberbayern
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bayern1.png
+      tvg_name: Bayern 1 Oberbayern
+      url: https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Bayern 1 Niederbayern und Oberpfalz
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bayern1.png
+      tvg_name: Bayern 1 Niederbayern und Oberpfalz
+      url: https://dispatcher.rndfnk.com/br/br1/nbopf/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Bayern 1 Schwaben
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bayern1.png
+      tvg_name: Bayern 1 Schwaben
+      url: https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Bayern 2 Nord
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bayern2.png
+      tvg_name: Bayern 2 Nord
+      url: https://dispatcher.rndfnk.com/br/br2/nord/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Bayern 2 Süd
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bayern2.png
+      tvg_name: Bayern 2 Süd
+      url: https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Bayern 3
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bayern3.png
+      tvg_name: Bayern 3
+      url: https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: bigFM
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bigfm.png
+      tvg_name: bigFM
+      url: https://streams.bigfm.de/bigfm-deutschland-128-mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: BlackBeats.FM
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/blackbeatsfm.png
+      tvg_name: BlackBeats.FM
+      url: http://stream.blackbeatslive.de/
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: BR Heimat
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/brheimat.png
+      tvg_name: BR Heimat
+      url: https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: BR-Klassik
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/brklassik.png
+      tvg_name: BR-Klassik
+      url: https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Bremen Eins
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bremeneins.png
+      tvg_name: Bremen Eins
+      url: https://dispatcher.rndfnk.com/rb/bremeneins/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Bremen Vier
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bremenvier.png
+      tvg_name: Bremen Vier
+      url: https://dispatcher.rndfnk.com/rb/bremenvier/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Bremen Vier rockt
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bremenvier.png
+      tvg_name: Bremen Vier rockt
+      url: https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Bremen Zwei
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bremenzwei.png
+      tvg_name: Bremen Zwei
+      url: https://dispatcher.rndfnk.com/rb/bremenzwei/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Campusradio Köln (Kölncampus)
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/koelncampus.png
+      tvg_name: Campusradio Köln (Kölncampus)
+      url: http://koelncampus.uni-koeln.de:80/hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Campusradio Münster (Radio Q)
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radioq.png
+      tvg_name: Campusradio Münster (Radio Q)
+      url: https://rqstream.radioq.de/stream/192.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Campusradio Paderborn (L'UniCo)
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/lunico.png
+      tvg_name: Campusradio Paderborn (L'UniCo)
+      url: http://icecast.l-uni.co:8001/lunico_high_mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Campusradio Bielefeld (Hertz 87.9)
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/hertz879.png
+      tvg_name: Campusradio Bielefeld (Hertz 87.9)
+      url: http://stream.radiohertz.de/hertz-hq.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: DASDING
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/dasding.png
+      tvg_name: DASDING
+      url: https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: DELUXE 80S EXTREME
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deluxeradio.png
+      tvg_name: DELUXE 80S EXTREME
+      url: https://audiostreams.deluxemusic.tv/80s/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: DELUXE RCK Radio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deluxeradio.png
+      tvg_name: DELUXE RCK Radio
+      url: https://audiostreams.deluxemusic.tv/rck/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: DELUXE CHEFSESSEL by WAGNER
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deluxeradio.png
+      tvg_name: DELUXE CHEFSESSEL by WAGNER
+      url: https://audiostreams.deluxemusic.tv/chefsessel/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: DELUXE EASY
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deluxeeasy.png
+      tvg_name: DELUXE EASY
+      url: https://audiostreams.deluxemusic.tv/easy/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: DELUXE LOUNGE RADIO
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deluxeloungeradio.png
+      tvg_name: DELUXE LOUNGE RADIO
+      url: https://audiostreams.deluxemusic.tv/lounge/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: DELUXE MUSIC RADIO
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deluxemusicradio.png
+      tvg_name: DELUXE MUSIC RADIO
+      url: https://audiostreams.deluxemusic.tv/music/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: DELUXE NEW ARRIVALS
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deluxeradio.png
+      tvg_name: DELUXE NEW ARRIVALS
+      url: https://audiostreams.deluxemusic.tv/arrivals/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: DELUXE TOP 40
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deluxeradio.png
+      tvg_name: DELUXE TOP 40
+      url: https://audiostreams.deluxemusic.tv/top40/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Deutschlandfunk
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deutschlandfunk.png
+      tvg_name: Deutschlandfunk
+      url: https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Deutschlandfunk Kultur
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deutschlandfunkkultur.png
+      tvg_name: Deutschlandfunk Kultur
+      url: https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Deutschlandfunk Nova
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deutschlandfunknova.png
+      tvg_name: Deutschlandfunk Nova
+      url: https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Deutschlandradio Dokumente und Debatten
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deutschlandradiodud.png
+      tvg_name: Deutschlandradio Dokumente und Debatten
+      url: https://st04.sslstream.dlf.de/dlf/04/high/aac/stream.aac
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: DIE NEUE 107.7
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/dieneue1077.png
+      tvg_name: DIE NEUE 107.7
+      url: http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: DELUXE DISCO
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deluxeradio.png
+      tvg_name: DELUXE DISCO
+      url: https://audiostreams.deluxemusic.tv/disco/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: domradio.de
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/domradiode.png
+      tvg_name: domradio.de
+      url: https://dom.audiostream.io/domradio/1000/mp3/128/domradio-rp.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: DONAU 3 FM
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/donau3fm.png
+      tvg_name: DONAU 3 FM
+      url: http://mp3.donau3fm.c.nmdn.net/donau3fm/live.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: egoFM
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/egofm.png
+      tvg_name: egoFM
+      url: http://mp3ad.egofm.c.nmdn.net/ps-egofm_192/livestream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: ERF Plus
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/erfplus.png
+      tvg_name: ERF Plus
+      url: http://erf1a64-ice-edge-1106-fra-eco-cdn.cast.addradio.de/erf1a64/live/mp3/high
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: ERF Pop
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/erfpop.png
+      tvg_name: ERF Pop
+      url: http://erf1068-ice-edge-1103-fra-eco-cdn.cast.addradio.de/erf1068/live/mp3/high
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: FluxFM
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/fluxfm.png
+      tvg_name: FluxFM
+      url: http://streams.fluxfm.de/live/mp3-320/audio/
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Fritz
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/fritz.png
+      tvg_name: Fritz
+      url: https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: harmony.fm
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/harmonyfm.png
+      tvg_name: harmony.fm
+      url: https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: HIT RADIO FFH
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/hitradioffh.png
+      tvg_name: HIT RADIO FFH
+      url: http://mp3.ffh.de/radioffh/hqlivestream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: hr-info
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/hrinfo.png
+      tvg_name: hr-info
+      url: https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: hr1
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/hr1.png
+      tvg_name: hr1
+      url: https://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: hr2-kultur
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/hr2kultur.png
+      tvg_name: hr2-kultur
+      url: https://dispatcher.rndfnk.com/hr/hr2/live/mp3/256/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: hr3
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/hr3.png
+      tvg_name: hr3
+      url: https://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: hr4
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/hr4.png
+      tvg_name: hr4
+      url: https://dispatcher.rndfnk.com/hr/hr4/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: JAM FM
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/jamfm.png
+      tvg_name: JAM FM
+      url: http://stream.jam.fm/jamfm-live/mp3-128/konsole/
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: JAM FM Black Label
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/jamfm.png
+      tvg_name: JAM FM Black Label
+      url: http://stream.jam.fm/jamfm-bl/mp3-128/konsole/
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: JAM FM New Music Radio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/jamfm.png
+      tvg_name: JAM FM New Music Radio
+      url: http://stream.jam.fm/jamfm-nmr/mp3-128/konsole/
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: JazzRadio Berlin
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/jazzradio.png
+      tvg_name: JazzRadio Berlin
+      url: http://streaming.radio.co:80/s774887f7b/listen
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: JUKEBOX RADIO
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/deluxeradio.png
+      tvg_name: JUKEBOX RADIO
+      url: https://audiostreams.deluxemusic.tv/jukebox/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: WDR Die Maus
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/mausradio.png
+      tvg_name: WDR Die Maus
+      url: https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: LandesWelle Thüringen
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/landeswellethueringen.png
+      tvg_name: LandesWelle Thüringen
+      url: http://stream.landeswelle.de/lwt/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: MDR AKTUELL
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/mdraktuell.png
+      tvg_name: MDR AKTUELL
+      url: http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: MDR JUMP
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/mdrjump.png
+      tvg_name: MDR JUMP
+      url: http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: MDR KLASSIK
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/mdrklassik.png
+      tvg_name: MDR KLASSIK
+      url: http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: MDR KULTUR
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/mdrkultur.png
+      tvg_name: MDR KULTUR
+      url: http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: MDR SACHSEN
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/mdrsachsen.png
+      tvg_name: MDR SACHSEN
+      url: http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: MDR SPUTNIK
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/mdrsputnik.png
+      tvg_name: MDR SPUTNIK
+      url: http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: MDR THÜRINGEN
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/mdrthueringen.png
+      tvg_name: MDR THÜRINGEN
+      url: http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Metal Only
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/metalonly.png
+      tvg_name: Metal Only
+      url: http://metal-only.streampanel.cloud/stream
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: multicult.fm
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/multicultfm.png
+      tvg_name: multicult.fm
+      url: http://stream.multicult.fm:8000/hifi
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: N-JOY
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/njoy.png
+      tvg_name: N-JOY
+      url: https://dispatcher.rndfnk.com/ndr/njoy/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: NDR 1 Niedersachsen
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/ndr1niedersachsen.png
+      tvg_name: NDR 1 Niedersachsen
+      url: https://dispatcher.rndfnk.com/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: NDR 1 Radio MV
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/ndr1radiomv.png
+      tvg_name: NDR 1 Radio MV
+      url: https://dispatcher.rndfnk.com/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: NDR 1 Welle Nord
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/ndr1wellenord.png
+      tvg_name: NDR 1 Welle Nord
+      url: https://dispatcher.rndfnk.com/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: NDR 2
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/ndr2.png
+      tvg_name: NDR 2
+      url: https://dispatcher.rndfnk.com/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: NDR 90.3
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/ndr903.png
+      tvg_name: NDR 90.3
+      url: https://dispatcher.rndfnk.com/ndr/ndr903/hamburg/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: NDR Blue
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/ndrblue.png
+      tvg_name: NDR Blue
+      url: https://dispatcher.rndfnk.com/ndr/ndrblue/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: NDR Info
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/ndrinfo.png
+      tvg_name: NDR Info
+      url: https://dispatcher.rndfnk.com/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: NDR Info Spezial
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/ndrinfospezial.png
+      tvg_name: NDR Info Spezial
+      url: https://dispatcher.rndfnk.com/ndr/ndrinfospezial/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: NDR kultur
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/ndrkultur.png
+      tvg_name: NDR kultur
+      url: https://dispatcher.rndfnk.com/ndr/ndrkultur/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: NDR Plus
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/ndrplus.png
+      tvg_name: NDR Plus
+      url: https://dispatcher.rndfnk.com/ndr/ndrplus/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: nice
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/nice.png
+      tvg_name: nice
+      url: https://ice.cr5.streamzilla.xlcdn.com:8000/sz%3Dnice-broadcast-media-gmbh%3Dniceradio1-mp3-256
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: oldenburg eins
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/oldenburgeins.png
+      tvg_name: oldenburg eins
+      url: http://radio.oeins.de:8000/oeins
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Ostseewelle HIT-RADIO
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/ostseewelle.png
+      tvg_name: Ostseewelle HIT-RADIO
+      url: http://mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: planet radio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/planetradio.png
+      tvg_name: planet radio
+      url: http://mp3.planetradio.de/planetradio/hqlivestream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: PULS
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/puls.png
+      tvg_name: PULS
+      url: https://dispatcher.rndfnk.com/br/puls/live/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Radio 7
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio7.png
+      tvg_name: Radio 7
+      url: https://edge04.streamonkey.net/radio7-dab
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Radio 90.1
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio901.png
+      tvg_name: Radio 90.1
+      url: http://mp3.radiomg.c.nmdn.net/radiomg/livestream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: radio B2
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiob2.png
+      tvg_name: radio B2
+      url: http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! national
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! national
+      url: https://bob.hoerradar.de/radiobob-national-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! NRW
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! NRW
+      url: https://bob.hoerradar.de/bob-live-nrw-mitte-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Schleswig-Holstein
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Schleswig-Holstein
+      url: https://bob.hoerradar.de/radiobob-shlive-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Hessen
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Hessen
+      url: https://bob.hoerradar.de/radiobob-live-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Metal
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Metal
+      url: https://bob.hoerradar.de/radiobob-metal-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Alternative Rock
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Alternative Rock
+      url: https://bob.hoerradar.de/radiobob-alternativerock-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Classic Rock
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Classic Rock
+      url: https://bob.hoerradar.de/radiobob-classicrock-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! ACDC
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! ACDC
+      url: https://bob.hoerradar.de/radiobob-acdc-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Deutschrock
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Deutschrock
+      url: https://bob.hoerradar.de/radiobob-deutschrock-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Wacken
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Wacken
+      url: https://bob.hoerradar.de/radiobob-wacken-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Grunge
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Grunge
+      url: https://bob.hoerradar.de/radiobob-grunge-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! 90er Rock
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! 90er Rock
+      url: https://bob.hoerradar.de/radiobob-90srock-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Hardrock
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Hardrock
+      url: https://bob.hoerradar.de/radiobob-hardrock-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Metalcore
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Metalcore
+      url: https://bob.hoerradar.de/radiobob-metalcore-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Metallica
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Metallica
+      url: https://bob.hoerradar.de/radiobob-metallica-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Tobias Sammet Rockshow
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Tobias Sammet Rockshow
+      url: https://bob.hoerradar.de/radiobob-sammet-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Mittelalter Rock
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Mittelalter Rock
+      url: https://bob.hoerradar.de/radiobob-mittelalter-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Symphonic Metal
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Symphonic Metal
+      url: https://bob.hoerradar.de/radiobob-symphmetal-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Punk
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Punk
+      url: https://bob.hoerradar.de/radiobob-punk-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Kuschelrock
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Kuschelrock
+      url: https://bob.hoerradar.de/radiobob-kuschelrock-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Death Metal
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Death Metal
+      url: https://bob.hoerradar.de/radiobob-deathmetal-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Rockparty
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Rockparty
+      url: https://bob.hoerradar.de/radiobob-rockparty-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Southern Rock
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Southern Rock
+      url: https://bob.hoerradar.de/radiobob-southernrock-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Der Dunkle Parabelritter
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Der Dunkle Parabelritter
+      url: https://bob.hoerradar.de/radiobob-dunklepritter-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Newcomer
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Newcomer
+      url: https://bob.hoerradar.de/radiobob-newcomer-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Gothic Rock
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Gothic Rock
+      url: https://bob.hoerradar.de/radiobob-gothic-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Best of Rock
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Best of Rock
+      url: https://bob.hoerradar.de/radiobob-bestofrock-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Festival
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Festival
+      url: https://bob.hoerradar.de/radiobob-festival-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Unplugged
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Unplugged
+      url: https://bob.hoerradar.de/radiobob-chillout-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Rockabilly
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Rockabilly
+      url: https://bob.hoerradar.de/radiobob-rockabilly-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Harte Saite
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Harte Saite
+      url: https://bob.hoerradar.de/radiobob-hartesaite-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Singer-Songwriter
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Singer-Songwriter
+      url: https://bob.hoerradar.de/radiobob-singersong-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO BOB! Rock Hits
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobob.png
+      tvg_name: RADIO BOB! Rock Hits
+      url: https://bob.hoerradar.de/radiobob-rockhits-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Radio Brocken
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiobrocken.png
+      tvg_name: Radio Brocken
+      url: http://stream.radiobrocken.de/live/mp3-256
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO ENERGY Sachsen
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radioenergysachsen.png
+      tvg_name: RADIO ENERGY Sachsen
+      url: https://scdn.nrjaudio.fm/adwz1/de/33013/mp3_128.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO ENERGY Stuttgart
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radioenergystuttgart.png
+      tvg_name: RADIO ENERGY Stuttgart
+      url: https://scdn.nrjaudio.fm/adwz1/de/33005/mp3_128.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RADIO ENERGY Bremen
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radioenergybremen.png
+      tvg_name: RADIO ENERGY Bremen
+      url: http://ffn-stream24.radiohost.de/energybremen_mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Radio Horeb
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiohoreb.png
+      tvg_name: Radio Horeb
+      url: http://rs16.stream24.org:8000/horeb.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Radio Paloma
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiopaloma.png
+      tvg_name: Radio Paloma
+      url: http://pool.radiopaloma.de/RADIOPALOMA.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Radio Regenbogen
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radioregenbogen.png
+      tvg_name: Radio Regenbogen
+      url: http://streams.regenbogen.de/rr-mannheim-128-mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: radio SAW
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiosaw.png
+      tvg_name: radio SAW
+      url: http://stream.radiosaw.de
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: radio TOP 40
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiotop40.png
+      tvg_name: radio TOP 40
+      url: http://stream.radiotop40.de/live/mp3-192
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Radio TEDDY
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radioteddy.png
+      tvg_name: Radio TEDDY
+      url: http://streamtdy.ir-media-tec.com/live/mp3-128/web/play.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: rbb Inforadio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/rbbInforadio.png
+      tvg_name: rbb Inforadio
+      url: https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: rbbKultur
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/rbbKultur.png
+      tvg_name: rbbKultur
+      url: https://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: radioeins
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radioeins.png
+      tvg_name: radioeins
+      url: https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: rbb 88.8
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/rbb888.png
+      tvg_name: rbb 88.8
+      url: https://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: reboot.fm
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/rebootfm.png
+      tvg_name: reboot.fm
+      url: http://87.118.122.220:8002/stream
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: ROCK ANTENNE
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/rockantenne.png
+      tvg_name: ROCK ANTENNE
+      url: http://mp3channels.webradio.rockantenne.de/rockantenne
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: ROCK ANTENNE HEAVY-METAL
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/rockantenne.png
+      tvg_name: ROCK ANTENNE HEAVY-METAL
+      url: http://stream.rockantenne.de/heavy-metal
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Rockland Radio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/rocklandradio.png
+      tvg_name: Rockland Radio
+      url: https://stream.rockland.de/rockland.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: ROCKLAND.FM
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/rocklandfm.png
+      tvg_name: ROCKLAND.FM
+      url: http://stream.rockland-digital.de
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RPR1
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/rpr1.png
+      tvg_name: RPR1
+      url: http://streams.rpr1.de/rpr-koeln-128-mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: RTF.3
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/rtf3.png
+      tvg_name: RTF.3
+      url: http://37.187.93.104:8414/stream
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: SR 1 Europawelle
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/sr1europawelle.png
+      tvg_name: SR 1 Europawelle
+      url: http://sr1m.akacast.akamaistream.net/7/725/142685/v1/gnl.akacast.akamaistream.net/sr1m
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: SR 2 Kulturradio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/sr2kulturradio.png
+      tvg_name: SR 2 Kulturradio
+      url: http://sr2m.akacast.akamaistream.net/7/375/142686/v1/gnl.akacast.akamaistream.net/sr2m
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: SR 3 Saarlandwelle
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/sr3saarlandwelle.png
+      tvg_name: SR 3 Saarlandwelle
+      url: http://sr3m.akacast.akamaistream.net/7/722/142687/v1/gnl.akacast.akamaistream.net/sr3m
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: sunshine live
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/sunshinelive.png
+      tvg_name: sunshine live
+      url: http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: SWR1 Baden-Württemberg
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/swr1.png
+      tvg_name: SWR1 Baden-Württemberg
+      url: https://dispatcher.rndfnk.com/swr/swr1/bw/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: SWR1 Rheinland-Pfalz
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/swr1.png
+      tvg_name: SWR1 Rheinland-Pfalz
+      url: https://dispatcher.rndfnk.com/swr/swr1/rp/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: SWR2
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/swr2.png
+      tvg_name: SWR2
+      url: https://dispatcher.rndfnk.com/swr/swr2/live/mp3/256/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: SWR3
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/swr3.png
+      tvg_name: SWR3
+      url: https://dispatcher.rndfnk.com/swr/swr3/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: SWR4 Baden-Württemberg
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/swr4.png
+      tvg_name: SWR4 Baden-Württemberg
+      url: https://dispatcher.rndfnk.com/swr/swr4/bw/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: SWR4 Rheinland-Pfalz
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/swr4.png
+      tvg_name: SWR4 Rheinland-Pfalz
+      url: https://dispatcher.rndfnk.com/swr/swr4/rp/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: UNSERDING
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/unserding.png
+      tvg_name: UNSERDING
+      url: http://udm.akacast.akamaistream.net/7/384/142688/v1/gnl.akacast.akamaistream.net/udm
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: WDR 2
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/wdr2.png
+      tvg_name: WDR 2
+      url: http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: WDR 3
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/wdr3.png
+      tvg_name: WDR 3
+      url: http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: WDR 4
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/wdr4.png
+      tvg_name: WDR 4
+      url: http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: WDR 5
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/wdr5.png
+      tvg_name: WDR 5
+      url: http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: YOU FM
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/youfm.png
+      tvg_name: YOU FM
+      url: https://dispatcher.rndfnk.com/hr/youfm/live/mp3/128/stream.mp3
+    - group_title: Radio-DE
+      group_title_kodi: Deutschland
+      name: Radio 21 Hannover
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio21hannover.png
+      tvg_name: Radio 21 Hannover
+      url: https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655
+it:
+  id: 9
+  streams:
+    - group_title: Radio-IT
+      group_title_kodi: Italien und Südtirol
+      name: Radio 2000
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio2000it.png
+      tvg_name: Radio 2000
+      url: http://159.69.217.78:8000/?radio=radio2000.mp3
+fr:
+  id: 5
+  streams:
+    - group_title: Radio-FR
+      group_title_kodi: Frankreich
+      name: Mouv'
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/mouv.png
+      tvg_name: Mouv'
+      url: http://direct.mouv.fr/live/mouv-midfi.mp3
+    - group_title: Radio-FR
+      group_title_kodi: Frankreich
+      name: Radio Nova
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radionova.png
+      tvg_name: Radio Nova
+      url: http://novazz.ice.infomaniak.ch/novazz-128.mp3
+nl:
+  id: 6
+  streams:
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: HitRadio Veronica
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/hitradioveronica.png
+      tvg_name: HitRadio Veronica
+      url: http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: Radio 538
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio538.png
+      tvg_name: Radio 538
+      url: https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: Radio 538 Zomer
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio538.png
+      tvg_name: Radio 538 Zomer
+      url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: Radio 538 Dance Department
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio538.png
+      tvg_name: Radio 538 Dance Department
+      url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: Radio 538 Drops
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio538.png
+      tvg_name: Radio 538 Drops
+      url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: Radio 538 Hitzone
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio538.png
+      tvg_name: Radio 538 Hitzone
+      url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: Radio 538 Ibiza
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio538.png
+      tvg_name: Radio 538 Ibiza
+      url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: Radio 538 Non-Stop
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio538.png
+      tvg_name: Radio 538 Non-Stop
+      url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: Radio 538 Party
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio538.png
+      tvg_name: Radio 538 Party
+      url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: Radio 538 Top 50 Radio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio538.png
+      tvg_name: Radio 538 Top 50 Radio
+      url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: Radio 538 Verrückte Stunde
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radio538.png
+      tvg_name: Radio 538 Verrückte Stunde
+      url: https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: Radio Veronica
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radioveronica.png
+      tvg_name: Radio Veronica
+      url: http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
+    - group_title: Radio-NL
+      group_title_kodi: Niederlande
+      name: Sky Radio 101 FM
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/skyradio101fm.png
+      tvg_name: Sky Radio 101 FM
+      url: http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
+pl:
+  id: 7
+  streams:
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Planeta FM
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/planetafm.png
+      tvg_name: Planeta FM
+      url: http://pla01.cdn.eurozet.pl:8700/pla-net.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Planeta FM Dope Hits
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/planetafm.png
+      tvg_name: Planeta FM Dope Hits
+      url: http://pla02.cdn.eurozet.pl:8208/PLAHOU.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Planeta FM Electronic Wave
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/planetafm.png
+      tvg_name: Planeta FM Electronic Wave
+      url: http://pla02.cdn.eurozet.pl:8228/PLAEDM.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Planeta FM Good Vibes
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/planetafm.png
+      tvg_name: Planeta FM Good Vibes
+      url: http://pla01.cdn.eurozet.pl:8204/PLACHI.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Planeta FM Indie Day Mood
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/planetafm.png
+      tvg_name: Planeta FM Indie Day Mood
+      url: http://pla02.cdn.eurozet.pl:8230/PLAIDM.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Radio ZET
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiozet.png
+      tvg_name: Radio ZET
+      url: http://n-4-14.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Radio ZET 2000
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiozet.png
+      tvg_name: Radio ZET 2000
+      url: http://zet.cdn.eurozet.pl/ZET200.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Radio ZET 80
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiozet.png
+      tvg_name: Radio ZET 80
+      url: http://zet.cdn.eurozet.pl/ZET080.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Radio ZET 90
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiozet.png
+      tvg_name: Radio ZET 90
+      url: http://zet.cdn.eurozet.pl/ZET090.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Radio ZET Dance
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiozet.png
+      tvg_name: Radio ZET Dance
+      url: http://zet.cdn.eurozet.pl/ZETDAN.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Radio ZET Hits
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiozet.png
+      tvg_name: Radio ZET Hits
+      url: http://zet.cdn.eurozet.pl/ZETHIT.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Radio ZET Love
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiozet.png
+      tvg_name: Radio ZET Love
+      url: https://zt.cdn.eurozet.pl/ZETLOV.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Radio ZET Party
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiozet.png
+      tvg_name: Radio ZET Party
+      url: http://zet.cdn.eurozet.pl/ZETPAR.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Radio ZET PL
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiozet.png
+      tvg_name: Radio ZET PL
+      url: http://zet.cdn.eurozet.pl/ZETPL1.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: Radio ZET Rock
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiozet.png
+      tvg_name: Radio ZET Rock
+      url: http://zet.cdn.eurozet.pl/ZETROK.mp3
+    - group_title: Radio-PL
+      group_title_kodi: Polen
+      name: RMF FM
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/rmffm.png
+      tvg_name: RMF FM
+      url: http://195.150.20.243/RMFFM48
+ro:
+  id: 8
+  streams:
+    - group_title: Radio-RO
+      group_title_kodi: Rumänien
+      name: Radio Manele
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/radiomanele.png
+      tvg_name: Radio Manele
+      url: https://radio.ascultatare.ro/8044/stream
+uk:
+  id: 4
+  streams:
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Asian Network
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcasiannetwork.png
+      tvg_name: BBC Asian Network
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio 1
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradio1.png
+      tvg_name: BBC Radio 1
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio 1Xtra
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradio1xtra.png
+      tvg_name: BBC Radio 1Xtra
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio 2
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradio2.png
+      tvg_name: BBC Radio 2
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio 3
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradio3.png
+      tvg_name: BBC Radio 3
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio 4
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradio4.png
+      tvg_name: BBC Radio 4
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio 4 Extra
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradio4extra.png
+      tvg_name: BBC Radio 4 Extra
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio 5 Live
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradio5live.png
+      tvg_name: BBC Radio 5 Live
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio 6 Music
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradio6music.png
+      tvg_name: BBC Radio 6 Music
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio Cymru
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradiocymru.png
+      tvg_name: BBC Radio Cymru
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio Foyle
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradiofoyle.png
+      tvg_name: BBC Radio Foyle
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio nan Gàidheal
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradionangaidheal.png
+      tvg_name: BBC Radio nan Gàidheal
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio Scotland
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradioscotland.png
+      tvg_name: BBC Radio Scotland
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio Ulster
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradioulster.png
+      tvg_name: BBC Radio Ulster
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC Radio Wales
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcradiowales.png
+      tvg_name: BBC Radio Wales
+      url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: BBC World Service
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/bbcworldservice.png
+      tvg_name: BBC World Service
+      url: http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: Classic FM
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/classicfm.png
+      tvg_name: Classic FM
+      url: http://media-ice.musicradio.com:80/ClassicFMMP3
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: Scala
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/scala.png
+      tvg_name: Scala
+      url: https://stream-mz.planetradio.co.uk/scalahigh.aac
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: Classical 1
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/classical1.png
+      tvg_name: Classical 1
+      url: http://185.80.221.113:8500/stream
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: LBC (national)
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/lbc.png
+      tvg_name: LBC (national)
+      url: https://media-ssl.musicradio.com/LBCUK
+    - group_title: Radio-UK
+      group_title_kodi: Großbritannien
+      name: Times Radio
+      quality: ""
+      radio: true
+      tvg_id: ""
+      tvg_logo: radio/timesradio.png
+      tvg_name: Times Radio
+      url: http://timesradio.wireless.radio/stream?ref=rf

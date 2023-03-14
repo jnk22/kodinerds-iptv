@@ -3,6 +3,7 @@
 
 from pathlib import Path
 from types import NotImplementedType
+from typing import Any
 
 from typer import Argument, Option, Typer
 
@@ -29,20 +30,23 @@ def check(
 
 @app.command()
 def generate(
-    source: Path = Argument(..., exists=True, help="YAML source file."),
+    sources: list[Path] = Argument(..., exists=True, help="YAML source file."),
     list_type: list[ListType] = Option(ALL_LIST_TYPES, help="List type(s)."),
     output_dir: Path = Option("output", writable=True, help="Output directory."),
     output_extension: str = Option("m3u", help="Output file extension."),
     logo_base_path: str = Option("", help="Prepended base path for channel logos."),
 ) -> None:
     """Generate IPTV lists based on YAML source file."""
-    print(f"Reading source: {source}")
-    yaml_content = read_source_file(source)
+    source_content: dict[str, Any] = {}
+    for source in sources:
+        print(f"Reading source: {source}")
+        file_name = source.stem
+        source_content[file_name] = read_source_file(source)
 
     stream_lists: dict[str, list[str]] = {}
     for lt in set(list_type):
         print(f"Generating stream lines for type '{lt.value}'")
-        stream_lists |= generate_stream_lines(yaml_content, lt, logo_base_path)
+        stream_lists |= generate_stream_lines(source_content, lt, logo_base_path)
 
     for file_name, streams in stream_lists.items():
         output_file = Path(f"{output_dir}/{file_name}.{output_extension}")
