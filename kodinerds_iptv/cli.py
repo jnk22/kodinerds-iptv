@@ -40,8 +40,7 @@ def generate(
     source_content: dict[str, Any] = {}
     for source in sources:
         print(f"Reading source: {source}")
-        file_name = source.stem
-        source_content[file_name] = read_source_file(source)
+        source_content[source.stem] = read_source_file(source)
 
     stream_lists: dict[str, list[str]] = {}
     for lt in set(list_type):
