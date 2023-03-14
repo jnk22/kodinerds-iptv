@@ -9,7 +9,7 @@ from typer import Argument, Option, Typer
 from .enums import ListType
 from .generate_lists import generate_stream_lines, read_source_file
 
-ALL_LIST_TYPES = [list_type.value for list_type in ListType]
+DEFAULT_LIST_TYPES = [lt.value for lt in {ListType.CLEAN, ListType.KODI, ListType.PIPE}]
 
 app = Typer()
 
@@ -30,7 +30,7 @@ def check(
 @app.command()
 def generate(
     sources: list[Path] = Argument(..., exists=True, help="YAML source file."),
-    list_type: list[ListType] = Option(ALL_LIST_TYPES, help="List type(s)."),
+    list_type: list[ListType] = Option(DEFAULT_LIST_TYPES, help="List type(s)."),
     output_dir: Path = Option("output", writable=True, help="Output directory."),
     output_extension: str = Option("m3u", help="Output file extension."),
     logo_base_path: str = Option("", help="Prepended base path for channel logos."),
