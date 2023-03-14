@@ -7,7 +7,7 @@ on:
       - master
       - update-script
     paths:
-      - source.yaml
+      - sources/**
 
 jobs:
   run:
@@ -20,7 +20,7 @@ jobs:
         run: pipx install .
 
       - name: Update IPTV lists
-        run: kn-iptv generate --output-dir iptv --logo_base_path \
+        run: kn-iptv generate --output-dir iptv --logo-base-path \
           https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/ \
           sources/*.yaml
 
