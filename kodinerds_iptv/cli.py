@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Command line interface for kodinerds-iptv."""
 
 from pathlib import Path
