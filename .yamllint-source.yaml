@@ -2,7 +2,7 @@
 extends: default
 
 files:
-  - source.yaml
+  - sources/**
 
 rules:
   line-length: disable

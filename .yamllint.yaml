@@ -2,7 +2,7 @@
 extends: default
 
 ignore:
-  - source.yaml
+  - sources/**
 
 rules:
   truthy:
