@@ -70,8 +70,8 @@ class LineWriter:
         return stream.group_title
 
 
-class KodiLineWrite(LineWriter):
-    """A LineWrite subclass for Kodi-specific stream lines.
+class KodiLineWriter(LineWriter):
+    """A LineWriter subclass for Kodi-specific stream lines.
 
     This class inherits from the LineWriter class and overrides certain
     methods to provide Kodi-specific stream lines. This includes
@@ -94,7 +94,7 @@ class KodiLineWrite(LineWriter):
 
 
 class PipeLineWriter(LineWriter):
-    """A LineWrite subclass for writing lines for use with FFmpeg.
+    """A LineWriter subclass for writing lines for use with FFmpeg.
 
     This class inherits from the LineWriter class and overrides certain
     methods to provide stream lines that can be used in Tvheadend where
@@ -136,13 +136,35 @@ class PipeLineWriter(LineWriter):
         """
 
 
+class DashLineWriter(LineWriter):
+    """A LineWriter subclass for writing Dash/MPD streams.
+
+    TODO
+    """  # TODO
+
+    _KODIPROPS = [
+        "#KODIPROP:inputstreamaddon=inputstream.adaptive",
+        "#KODIPROP:inputstream.adaptive.manifest_type=mpd",
+    ]
+
+    def _stream_line(self, stream: Stream) -> str:
+        # Override stream line for pipe usage.
+        # The stream URL includes several required attributes for FFmpeg.
+        return "\n".join(stream.url, *self._KODIPROPS)
+
+    def _group_title(self, stream: Stream) -> str:
+        # Override group title with Kodi specific group.
+        return stream.group_title_kodi
+
+
 class AutoLineWriter:
     """TODO."""
 
     __MAPPING: dict[ListType, Any] = {
         ListType.CLEAN: LineWriter,
-        ListType.KODI: KodiLineWrite,
+        ListType.KODI: KodiLineWriter,
         ListType.PIPE: PipeLineWriter,
+        ListType.DASH: DashLineWriter,
     }
 
     @classmethod

@@ -8,11 +8,13 @@ class ListType(Enum):
 
     Attributes
     ----------
-    CLEAN: Indicates that list should use raw stream URL.
-    KODI:  Indicates that list should be compatible with Kodi.
-    PIPE:  Indicates that stream should be piped through FFmpeg with special header.
+    CLEAN: Stream uses raw URL.
+    KODI:  Stream has full Kodi compatibiliy with extended details.
+    PIPE:  Stream is piped through FFmpeg with special header.
+    DASH:  Stream has special header to be used with Kodi's adaptive inputstream.
     """
 
     CLEAN = "clean"
     KODI = "kodi"
     PIPE = "pipe"
+    DASH = "dash"
