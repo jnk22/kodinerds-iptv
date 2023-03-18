@@ -206,71 +206,105 @@ http://mp3.radiomg.c.nmdn.net/radiomg/livestream.mp3
 #EXTINF:-1 tvg-name="radio B2" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png",radio B2
 http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
 #EXTINF:-1 tvg-name="RADIO BOB! national" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! national
-https://bob.hoerradar.de/radiobob-national-mp3-hq
+http://streams.radiobob.de/bob-national/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! NRW" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! NRW
-https://bob.hoerradar.de/bob-live-nrw-mitte-mp3-hq
+http://streams.radiobob.de/live-nrw-mitte/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Schleswig-Holstein" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Schleswig-Holstein
-https://bob.hoerradar.de/radiobob-shlive-mp3-hq
+http://streams.radiobob.de/bob-shlive/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Hessen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Hessen
-https://bob.hoerradar.de/radiobob-live-mp3-hq
+http://streams.radiobob.de/bob-live/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Metal" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Metal
-https://bob.hoerradar.de/radiobob-metal-mp3-hq
+http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Alternative Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Alternative Rock
-https://bob.hoerradar.de/radiobob-alternativerock-mp3-hq
+http://streams.radiobob.de/bob-alternative/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Classic Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Classic Rock
-https://bob.hoerradar.de/radiobob-classicrock-mp3-hq
+http://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="RADIO BOB! Country" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Country
+http://streams.radiobob.de/country/mp3-192/mediaplayer/
+#EXTINF:-1 tvg-name="RADIO BOB! Blues" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Blues
+http://streams.radiobob.de/blues/mp3-192/mediaplayer/
+#EXTINF:-1 tvg-name="RADIO BOB! College Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! College Rock
+http://streams.radiobob.de/collegerock/mp3-192/mediaplayer/
+#EXTINF:-1 tvg-name="RADIO BOB! Emo" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Emo
+http://streams.radiobob.de/emo/mp3-192/mediaplayer/
+#EXTINF:-1 tvg-name="RADIO BOB! Christmas" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Christmas
+http://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-name="RADIO BOB! ACDC" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! ACDC
-https://bob.hoerradar.de/radiobob-acdc-mp3-hq
+http://streams.radiobob.de/bob-acdc/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Deutschrock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Deutschrock
-https://bob.hoerradar.de/radiobob-deutschrock-mp3-hq
+http://streams.radiobob.de/bob-deutsch/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Wacken" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Wacken
-https://bob.hoerradar.de/radiobob-wacken-mp3-hq
+http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Grunge" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Grunge
-https://bob.hoerradar.de/radiobob-grunge-mp3-hq
+http://streams.radiobob.de/bob-grunge/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="RADIO BOB! 70er Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! 70er Rock
+https://streams.radiobob.de/70errock/mp3-192/mediaplayer/
+#EXTINF:-1 tvg-name="RADIO BOB! 80er Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! 80er Rock
+http://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! 90er Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! 90er Rock
-https://bob.hoerradar.de/radiobob-90srock-mp3-hq
+http://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="RADIO BOB! 2000er Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! 2000er Rock
+http://streams.radiobob.de/2000er/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-name="RADIO BOB! Hardrock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Hardrock
-https://bob.hoerradar.de/radiobob-hardrock-mp3-hq
+http://streams.radiobob.de/bob-hardrock/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Metalcore" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Metalcore
-https://bob.hoerradar.de/radiobob-metalcore-mp3-hq
+http://streams.radiobob.de/metalcore/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Metallica" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Metallica
-https://bob.hoerradar.de/radiobob-metallica-mp3-hq
+http://streams.radiobob.de/metallica/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-name="RADIO BOB! Tobias Sammet Rockshow" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Tobias Sammet Rockshow
-https://bob.hoerradar.de/radiobob-sammet-mp3-hq
+http://streams.radiobob.de/sammet/mp3-192/mediaplayer/
+#EXTINF:-1 tvg-name="RADIO BOB! The Boss Hoss" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! The Boss Hoss
+http://streams.radiobob.de/bosshoss/mp3-192/mediaplayer/
+#EXTINF:-1 tvg-name="RADIO BOB! Fury in the Slaughterhouse" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Fury in the Slaughterhouse
+http://streams.radiobob.de/fury/mp3-192/mediaplayer/
+#EXTINF:-1 tvg-name="RADIO BOB! Donots" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Donots
+http://streams.radiobob.de/donots/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-name="RADIO BOB! Mittelalter Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Mittelalter Rock
-https://bob.hoerradar.de/radiobob-mittelalter-mp3-hq
+http://streams.radiobob.de/mittelalter/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Symphonic Metal" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Symphonic Metal
-https://bob.hoerradar.de/radiobob-symphmetal-mp3-hq
+http://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-name="RADIO BOB! Punk" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Punk
-https://bob.hoerradar.de/radiobob-punk-mp3-hq
+http://streams.radiobob.de/bob-punk/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="RADIO BOB! Prog-Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Prog-Rock
+http://streams.radiobob.de/progrock/mp3-192/mediaplayer/
+#EXTINF:-1 tvg-name="RADIO BOB! Power Metal" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Power Metal
+https://streams.radiobob.de/powermetal/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-name="RADIO BOB! Kuschelrock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Kuschelrock
-https://bob.hoerradar.de/radiobob-kuschelrock-mp3-hq
+http://streams.radiobob.de/bob-kuschelrock/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Death Metal" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Death Metal
-https://bob.hoerradar.de/radiobob-deathmetal-mp3-hq
+http://streams.radiobob.de/deathmetal/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-name="RADIO BOB! Rockparty" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Rockparty
-https://bob.hoerradar.de/radiobob-rockparty-mp3-hq
+http://streams.radiobob.de/rockparty/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-name="RADIO BOB! Southern Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Southern Rock
-https://bob.hoerradar.de/radiobob-southernrock-mp3-hq
+http://streams.radiobob.de/southernrock/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Der Dunkle Parabelritter" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Der Dunkle Parabelritter
-https://bob.hoerradar.de/radiobob-dunklepritter-mp3-hq
+http://streams.radiobob.de/ritter/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Newcomer" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Newcomer
-https://bob.hoerradar.de/radiobob-newcomer-mp3-hq
+http://streams.radiobob.de/newcomer/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-name="RADIO BOB! Gothic Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Gothic Rock
-https://bob.hoerradar.de/radiobob-gothic-mp3-hq
+http://streams.radiobob.de/gothic/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Best of Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Best of Rock
-https://bob.hoerradar.de/radiobob-bestofrock-mp3-hq
+http://streams.radiobob.de/bob-bestofrock/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Festival" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Festival
-https://bob.hoerradar.de/radiobob-festival-mp3-hq
+http://streams.radiobob.de/bob-livemusic/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="RADIO BOB! Folk Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Folk Rock
+https://streams.radiobob.de/folkrock/mp3-192/streams.radiobob.de/
 #EXTINF:-1 tvg-name="RADIO BOB! Unplugged" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Unplugged
-https://bob.hoerradar.de/radiobob-chillout-mp3-hq
+http://streams.radiobob.de/bob-chillout/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-name="RADIO BOB! Rockabilly" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Rockabilly
-https://bob.hoerradar.de/radiobob-rockabilly-mp3-hq
+http://streams.radiobob.de/bob-blues/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Harte Saite" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Harte Saite
-https://bob.hoerradar.de/radiobob-hartesaite-mp3-hq
+http://streams.radiobob.de/bob-hartesaite/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! Singer-Songwriter" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Singer-Songwriter
-https://bob.hoerradar.de/radiobob-singersong-mp3-hq
+http://streams.radiobob.de/bob-singersong/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="RADIO BOB! Queen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Queen
+http://streams.radiobob.de/bob-queen/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-name="RADIO BOB! Rock Hits" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Rock Hits
-https://bob.hoerradar.de/radiobob-rockhits-mp3-hq
+http://streams.radiobob.de/bob-rockhits/mp3-192/mediaplayer
+#EXTINF:-1 tvg-name="RADIO BOB! Motörhead" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Motörhead
+https://streams.radiobob.de/motoerhead/mp3-192/mediaplayer/
+#EXTINF:-1 tvg-name="RADIO BOB! Rock Oldies" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! Rock Oldies
+http://streams.radiobob.de/rockoldies/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="Radio Brocken" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobrocken.png",Radio Brocken
 http://stream.radiobrocken.de/live/mp3-256
 #EXTINF:-1 tvg-name="RADIO ENERGY Sachsen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png",RADIO ENERGY Sachsen
