@@ -34,17 +34,7 @@ class LineWriter:
         -------
         tuple[str, str]
             A tuple containing the header line and stream line for the provided stream.
-
-        Examples
-        --------
-        Generate lines for a single stream:
-
-        >>> from .stream import Stream
-        >>> line_writer = AutoLineWriter.from_list_type(ListType.CLEAN, "https://example.com/logos/")
-        >>> stream = Stream(name="ZDF", tvg_name="ZDF", quality="sd", radio=False, tvg_id="zdf.de", group_title="IPTV-DE", group_title_kodi="Vollprogramm", tvg_logo="zdf.png", url="https://zdf.m3u8")
-        >>> line_writer.get_lines(stream)
-        ('#EXTINF:-1 tvg-name="ZDF" tvg-id="zdf.de" group-title="IPTV-DE" tvg-logo="https://example.com/logos/zdf.png",ZDF', 'https://zdf.m3u8')
-        """  # noqa: E501
+        """
         lines = (self._header_line(stream), self._stream_line(stream))
         header_line, stream_line = (" ".join(line.split()) for line in lines)
 
@@ -79,14 +69,14 @@ class KodiLineWriter(LineWriter):
     be compatible with Kodi's YouTube plugin.
     """
 
-    _YOUTUBE_REPLACE = (
+    __YOUTUBE_URL_REPLACE = (
         "https://www.youtube.com/embed/",
         "plugin://plugin.video.youtube/play/?video_id=",
     )
 
     def _stream_line(self, stream: Stream) -> str:
         # Override YouTube streams for usage with Kodi's YouTube plugin.
-        return stream.url.replace(*self._YOUTUBE_REPLACE)
+        return stream.url.replace(*self.__YOUTUBE_URL_REPLACE)
 
     def _group_title(self, stream: Stream) -> str:
         # Override group title with Kodi specific group.
@@ -103,7 +93,7 @@ class PipeLineWriter(LineWriter):
     stream URL.
     """
 
-    _REPLACE_CHARS = {
+    __REPLACE_ENCODING_CHARS = {
         ("Ä", "Ae"),
         ("ä", "ae"),
         ("Ö", "Oe"),
@@ -119,7 +109,7 @@ class PipeLineWriter(LineWriter):
         # The stream URL includes several required attributes for FFmpeg.
         codec_part = "radio" if stream.radio else f"{stream.quality}tv"
         service_name = reduce(
-            lambda s, kv: s.replace(*kv), self._REPLACE_CHARS, stream.name
+            lambda s, kv: s.replace(*kv), self.__REPLACE_ENCODING_CHARS, stream.name
         )
 
         return f"""
@@ -142,7 +132,7 @@ class DashLineWriter(LineWriter):
     TODO
     """  # TODO
 
-    _KODIPROPS = [
+    __KODI_PROPS = [
         "#KODIPROP:inputstreamaddon=inputstream.adaptive",
         "#KODIPROP:inputstream.adaptive.manifest_type=mpd",
     ]
@@ -150,7 +140,7 @@ class DashLineWriter(LineWriter):
     def _stream_line(self, stream: Stream) -> str:
         # Override stream line for pipe usage.
         # The stream URL includes several required attributes for FFmpeg.
-        return "\n".join(stream.url, *self._KODIPROPS)
+        return "\n".join(stream.url, *self.__KODI_PROPS)
 
     def _group_title(self, stream: Stream) -> str:
         # Override group title with Kodi specific group.

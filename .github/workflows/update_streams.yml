@@ -22,7 +22,7 @@ jobs:
       - name: Update IPTV lists
         run: kn-iptv generate --output-dir iptv --logo-base-path \
           https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/ \
-          sources/*.yaml
+          sources/tv.yaml sources/radio.yaml
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9

@@ -52,6 +52,7 @@ unfixable = [
 
 [tool.ruff.per-file-ignores]
 "__init__.py" = ["D104", "F401"]
+"tests/*.py" = ["S101"]
 "cli.py" = ["T201", "T203", "B008"]
 "generate_lists.py" = ["T201", "T203"]
 
