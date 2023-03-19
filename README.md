@@ -6,16 +6,10 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/885b3ad68d5d49688cd493861ab30a6c)](https://www.codacy.com/gh/jnk22/kodinerds-iptv/dashboard?utm_source=github.com&utm_medium=referral&utm_content=jnk22/kodinerds-iptv&utm_campaign=Badge_Grade)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/jnk22/kodinerds-iptv/master.svg)](https://results.pre-commit.ci/latest/github/jnk22/kodinerds-iptv/master)
 
-## Einleitung
-
 Kodinerds IPTV ist eine Sammlung von frei empfangbaren Streams für TV- und Radiosender.
 
 Eine ausführliche Anleitung und Beschreibung findet sich auf Kodinerds.net:
 [Kodinerds IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56713/)
-
-Dieses Angebot stellt ein Parallelangebot zu
-[Entertain IPTV](https://github.com/jnk22/entertain-iptv) für Telekom
-EntertainTV-Kunden dar.
 
 ## Beschreibung / Erklärung
 
@@ -71,84 +65,84 @@ Die Benutzung von kodi oder weiteren Unterlisten würde daher keinen Mehrwert br
 
 ### kodi - für PVR IPTV Simple Client mit Inhaltskategorien (Kodi)
 
-- https://bit.ly/kn-kodi
-  - https://bit.ly/kn-kodi-tv
-    - https://bit.ly/kn-kodi-tv-main
-    - https://bit.ly/kn-kodi-tv-shop
-    - https://bit.ly/kn-kodi-tv-regional
-    - https://bit.ly/kn-kodi-tv-local
-    - https://bit.ly/kn-kodi-tv-extra
-    - https://bit.ly/kn-kodi-tv-atch
-    - https://bit.ly/kn-kodi-tv-usuk
-    - https://bit.ly/kn-kodi-tv-international
-  - https://bit.ly/kn-kodi-radio
-    - https://bit.ly/kn-kodi-radio-de
-    - https://bit.ly/kn-kodi-radio-at
-    - https://bit.ly/kn-kodi-radio-ch
-    - https://bit.ly/kn-kodi-radio-uk
-    - https://bit.ly/kn-kodi-radio-fr
-    - https://bit.ly/kn-kodi-radio-nl
-    - https://bit.ly/kn-kodi-radio-pl1
+- <https://bit.ly/kn-kodi>
+  - <https://bit.ly/kn-kodi-tv>
+    - <https://bit.ly/kn-kodi-tv-main>
+    - <https://bit.ly/kn-kodi-tv-shop>
+    - <https://bit.ly/kn-kodi-tv-regional>
+    - <https://bit.ly/kn-kodi-tv-local>
+    - <https://bit.ly/kn-kodi-tv-extra>
+    - <https://bit.ly/kn-kodi-tv-atch>
+    - <https://bit.ly/kn-kodi-tv-usuk>
+    - <https://bit.ly/kn-kodi-tv-international>
+  - <https://bit.ly/kn-kodi-radio>
+    - <https://bit.ly/kn-kodi-radio-de>
+    - <https://bit.ly/kn-kodi-radio-at>
+    - <https://bit.ly/kn-kodi-radio-ch>
+    - <https://bit.ly/kn-kodi-radio-uk>
+    - <https://bit.ly/kn-kodi-radio-fr>
+    - <https://bit.ly/kn-kodi-radio-nl>
+    - <https://bit.ly/kn-kodi-radio-pl1>
 
 ### clean - Basisliste mit IPTV-Kanälen (VLC media player)
 
-- https://bit.ly/kn-clean
-  - https://bit.ly/kn-clean-tv
-    - https://bit.ly/kn-clean-tv-main
-    - https://bit.ly/kn-clean-tv-shop
-    - https://bit.ly/kn-clean-tv-regional
-    - https://bit.ly/kn-clean-tv-local
-    - https://bit.ly/kn-clean-tv-extra
-    - https://bit.ly/kn-clean-tv-atch
-    - https://bit.ly/kn-clean-tv-usuk
-    - https://bit.ly/kn-clean-tv-international
-  - https://bit.ly/kn-clean-radio
-    - https://bit.ly/kn-clean-radio-de
-    - https://bit.ly/kn-clean-radio-at
-    - https://bit.ly/kn-clean-radio-ch
-    - https://bit.ly/kn-clean-radio-uk
-    - https://bit.ly/kn-clean-radio-fr
-    - https://bit.ly/kn-clean-radio-nl
-    - https://bit.ly/kn-clean-radio-pl1
+- <https://bit.ly/kn-clean>
+  - <https://bit.ly/kn-clean-tv>
+    - <https://bit.ly/kn-clean-tv-main>
+    - <https://bit.ly/kn-clean-tv-shop>
+    - <https://bit.ly/kn-clean-tv-regional>
+    - <https://bit.ly/kn-clean-tv-local>
+    - <https://bit.ly/kn-clean-tv-extra>
+    - <https://bit.ly/kn-clean-tv-atch>
+    - <https://bit.ly/kn-clean-tv-usuk>
+    - <https://bit.ly/kn-clean-tv-international>
+  - <https://bit.ly/kn-clean-radio>
+    - <https://bit.ly/kn-clean-radio-de>
+    - <https://bit.ly/kn-clean-radio-at>
+    - <https://bit.ly/kn-clean-radio-ch>
+    - <https://bit.ly/kn-clean-radio-uk>
+    - <https://bit.ly/kn-clean-radio-fr>
+    - <https://bit.ly/kn-clean-radio-nl>
+    - <https://bit.ly/kn-clean-radio-pl1>
 
 ### pipe - Basisliste mit IPTV-Kanälen (Tvheadend)
 
-- https://bit.ly/kn-pipe
-  - https://bit.ly/kn-pipe-tv
-    - https://bit.ly/kn-pipe-tv-main
-    - https://bit.ly/kn-pipe-tv-shop
-    - https://bit.ly/kn-pipe-tv-regional
-    - https://bit.ly/kn-pipe-tv-local
-    - https://bit.ly/kn-pipe-tv-extra
-    - https://bit.ly/kn-pipe-tv-atch
-    - https://bit.ly/kn-pipe-tv-usuk
-    - https://bit.ly/kn-pipe-tv-international
-  - https://bit.ly/kn-pipe-radio
-    - https://bit.ly/kn-pipe-radio-de
-    - https://bit.ly/kn-pipe-radio-at
-    - https://bit.ly/kn-pipe-radio-ch
-    - https://bit.ly/kn-pipe-radio-uk
-    - https://bit.ly/kn-pipe-radio-fr
-    - https://bit.ly/kn-pipe-radio-nl
-    - https://bit.ly/kn-pipe-radio-pl1
+- <https://bit.ly/kn-pipe>
+  - <https://bit.ly/kn-pipe-tv>
+    - <https://bit.ly/kn-pipe-tv-main>
+    - <https://bit.ly/kn-pipe-tv-shop>
+    - <https://bit.ly/kn-pipe-tv-regional>
+    - <https://bit.ly/kn-pipe-tv-local>
+    - <https://bit.ly/kn-pipe-tv-extra>
+    - <https://bit.ly/kn-pipe-tv-atch>
+    - <https://bit.ly/kn-pipe-tv-usuk>
+    - <https://bit.ly/kn-pipe-tv-international>
+  - <https://bit.ly/kn-pipe-radio>
+    - <https://bit.ly/kn-pipe-radio-de>
+    - <https://bit.ly/kn-pipe-radio-at>
+    - <https://bit.ly/kn-pipe-radio-ch>
+    - <https://bit.ly/kn-pipe-radio-uk>
+    - <https://bit.ly/kn-pipe-radio-fr>
+    - <https://bit.ly/kn-pipe-radio-nl>
+    - <https://bit.ly/kn-pipe-radio-pl1>
 
 ### rtmp - RTMP-Streams
 
-- https://bit.ly/kn-rtmp
-  - https://bit.ly/kn-rtmp-tv
-    - https://bit.ly/kn-rtmp-tv-main
-    - https://bit.ly/kn-rtmp-tv-local
-    - https://bit.ly/kn-rtmp-tv-international
+- <https://bit.ly/kn-rtmp>
+  - <https://bit.ly/kn-rtmp-tv>
+    - <https://bit.ly/kn-rtmp-tv-main>
+    - <https://bit.ly/kn-rtmp-tv-local>
+    - <https://bit.ly/kn-rtmp-tv-international>
 
 ### dash - DASH-Streams
 
-- https://bit.ly/kn-dash
-  - https://bit.ly/kn-dash-tv
-    - https://bit.ly/kn-dash-tv-main
-    - https://bit.ly/kn-dash-tv-regional
-    - https://bit.ly/kn-dash-tv-extra
-  - https://bit.ly/kn-dash-radio
-    - https://bit.ly/kn-dash-radio-uk
+- <https://bit.ly/kn-dash>
+  - <https://bit.ly/kn-dash-tv>
+    - <https://bit.ly/kn-dash-tv-main>
+    - <https://bit.ly/kn-dash-tv-regional>
+    - <https://bit.ly/kn-dash-tv-extra>
+  - <https://bit.ly/kn-dash-radio>
+    - <https://bit.ly/kn-dash-radio-uk>
 
 ## Stream URL ermitteln
 
