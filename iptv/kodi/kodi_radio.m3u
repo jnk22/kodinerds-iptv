@@ -325,6 +325,48 @@ http://stream.radiosaw.de
 http://stream.radiotop40.de/live/mp3-192
 #EXTINF:-1 tvg-name="Radio TEDDY" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY
 http://streamtdy.ir-media-tec.com/live/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Bayern" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Bayern
+http://streamtdy.ir-media-tec.com/livestream-bayern/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Berlin Brandenburg" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Berlin Brandenburg
+http://streamtdy.ir-media-tec.com/sc-brandenburg/mp3-128/web/play.com
+#EXTINF:-1 tvg-name="Radio TEDDY Bremen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Bremen
+http://streamtdy.ir-media-tec.com/sc-bremen/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Hessen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Hessen
+http://streamtdy.ir-media-tec.com/sc-hessen/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Mecklenburg-Vorpommern" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Mecklenburg-Vorpommern
+http://streamtdy.ir-media-tec.com/sc-mv/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Nordrhein-Westfalen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Nordrhein-Westfalen
+http://streamtdy.ir-media-tec.com/sc-nrw/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Südwest" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Südwest
+http://streamtdy.ir-media-tec.com/sc-rlp-bw/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Thüringen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Thüringen
+http://streamtdy.ir-media-tec.com/sc-thueringen/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Deutsche Balladen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Deutsche Balladen
+http://streamtdy.ir-media-tec.com/softmix/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Deutsch-Pop Nonstop" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Deutsch-Pop Nonstop
+http://streamtdy.ir-media-tec.com/deutschpop/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Gute Nacht Lieder" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Gute Nacht Lieder
+http://streamtdy.ir-media-tec.com/gutenacht/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Kinder Disco" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Kinder Disco
+http://streamtdy.ir-media-tec.com/disco/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Kinderlieder" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Kinderlieder
+http://streamtdy.ir-media-tec.com/kinderlieder/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Kita Kabelsalat" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Kita Kabelsalat
+http://streamtdy.ir-media-tec.com/kita-kabelsalat/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Rolf Zuckowski" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Rolf Zuckowski
+http://streamtdy.ir-media-tec.com/zuckowski/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Schlager" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Schlager
+http://streamtdy.ir-media-tec.com/schlager/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY TEDDY Cool - Bibi & Tina" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY TEDDY Cool - Bibi & Tina
+http://streamtdy.ir-media-tec.com/cool/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY TEDDY Cool - Charts & Neue Hits" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY TEDDY Cool - Charts & Neue Hits
+http://streamtdy.ir-media-tec.com/charts-hits/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY TEDDY Cool - Eure Superstars" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY TEDDY Cool - Eure Superstars
+http://streamtdy.ir-media-tec.com/eure-superstars/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Weihnachts-Hits" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Weihnachts-Hits
+http://streamtdy.ir-media-tec.com/xmas-hits/mp3-128/web/play.mp3
+#EXTINF:-1 tvg-name="Radio TEDDY Weihnachtslieder" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png",Radio TEDDY Weihnachtslieder
+http://streamtdy.ir-media-tec.com/weihnachtslieder/mp3-128/web/play.mp3
 #EXTINF:-1 tvg-name="rbb Inforadio" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbInforadio.png",rbb Inforadio
 https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
 #EXTINF:-1 tvg-name="rbbKultur" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbbKultur.png",rbbKultur
