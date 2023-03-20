@@ -1,6 +1,6 @@
 """TODO."""
 
-from dataclasses import dataclass
+from dataclasses import KW_ONLY, dataclass
 
 
 @dataclass
@@ -16,3 +16,13 @@ class Stream:
     tvg_name: str
     tvg_logo: str
     url: str
+    _: KW_ONLY
+    skip_check: bool = False
+
+
+@dataclass
+class StreamCategory:
+    """Wrapper for streams in a category."""
+
+    name: str
+    streams: list[Stream]

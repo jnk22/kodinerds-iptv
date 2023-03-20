@@ -12,7 +12,7 @@ PyYAML = "^6.0"
 typer = { extras = ["all"], version = "^0.7.0" }
 
 [tool.poetry.scripts]
-kn-iptv = "kodinerds_iptv.cli:app"
+kn-iptv = "kodinerds_iptv.main:app"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.1.0"
@@ -53,8 +53,10 @@ unfixable = [
 [tool.ruff.per-file-ignores]
 "__init__.py" = ["D104", "F401"]
 "tests/*.py" = ["S101"]
-"cli.py" = ["T201", "T203", "B008"]
+"main.py" = ["T201", "T203", "B008"]
 "generate_lists.py" = ["T201", "T203"]
+"check_availability.py" = ["T201", "T203"]
+"io_utils.py" = ["T201", "T203"]
 
 [tool.ruff.pydocstyle]
 convention = "numpy"
