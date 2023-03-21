@@ -18,3 +18,13 @@ class ListType(Enum):
     KODI = "kodi"
     PIPE = "pipe"
     DASH = "dash"
+
+
+class StreamState(Enum):
+    """TODO."""
+
+    SUCCESS = "success"
+    WARNING = "warning"
+    ERROR = "error"
+    UNKNOWN = "unknown"
+    SKIPPED = "skipped"

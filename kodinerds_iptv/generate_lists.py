@@ -12,9 +12,9 @@ from .stream import StreamCategory
 EXTM3U_HEADER = "#EXTM3U"
 
 
-def generate_wrapper(
+def generate_sources(
     sources: list[Path],
-    list_type: list[ListType],
+    list_types: list[ListType],
     output_dir: Path,
     output_extension: str,
     logo_base_path: str | None,
@@ -26,9 +26,9 @@ def generate_wrapper(
         source_content[source.stem] = read_streams(source)
 
     stream_lists: dict[str, list[str]] = {}
-    for lt in set(list_type):
-        print(f"Generating stream lines for type '{lt.value}'")
-        stream_lists |= generate_stream_lines(source_content, lt, logo_base_path)
+    for list_type in set(list_types):
+        print(f"Generating stream lines for type '{list_type.value}'")
+        stream_lists |= generate_stream_lines(source_content, list_type, logo_base_path)
 
     for file_name, streams in stream_lists.items():
         output_file = Path(f"{output_dir}/{file_name}.{output_extension}")

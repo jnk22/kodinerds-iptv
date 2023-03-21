@@ -1,49 +1,24 @@
 """TODO."""
 
 import asyncio
-from dataclasses import dataclass
-from enum import Enum
+from collections.abc import Coroutine
 from http import HTTPStatus
 from itertools import chain
 from pathlib import Path
 from typing import Any
 
-from httpx import AsyncClient, AsyncHTTPTransport
+from httpx import AsyncClient, AsyncHTTPTransport, Response
 
+from .enums import StreamState
 from .io_utils import read_streams
-from .stream import Stream, StreamCategory
+from .stream import Stream, StreamCategory, StreamCheck
 
 
-class StreamState(Enum):
-    """TODO."""
-
-    SUCCESS = "success"
-    WARNING = "warning"
-    ERROR = "error"
-    SKIPPED = "skipped"
-
-
-@dataclass
-class StreamCheck:
-    """TODO."""
-
-    stream: Stream
-    state: StreamState
-    response: Any = None
-    reason: str | None = None
-
-    @property
-    def output(self) -> str:
-        """TODO."""
-        error_line = f" ({self.reason})" if self.reason else ""
-        return f"{self.stream.name}: {self.state.value}{error_line}"
-
-
-def check_wrapper(
-    sources: list[Path], report_dir: Path, timeout: int, retries: int
+def check_sources(
+    sources: list[Path], output_dir: Path, timeout: int, retries: int
 ) -> None:
     """TODO."""
-    asyncio.run(check_availability(sources, report_dir, timeout, retries))
+    asyncio.run(check_availability(sources, output_dir, timeout, retries))
 
 
 async def check_availability(
@@ -56,51 +31,66 @@ async def check_availability(
         source_content[source.stem] = read_streams(source)
 
     transport = AsyncHTTPTransport(retries=retries)
-    final_results: dict[str, list[StreamCheck]] = {}
+    results: dict[str, list[StreamCheck]] = {}
 
     async with AsyncClient(transport=transport) as client:
         for source_name, stream_groups in source_content.items():
-            print(f"Checking streams from {source_name}")
+            print(f"Checking streams from source '{source_name}'")
 
             streams = list(chain.from_iterable(sg.streams for sg in stream_groups))
-            tasks = [
-                skip_check()
-                if stream.skip_check
-                else client.head(stream.url, timeout=timeout)
-                for stream in streams
+            tasks = [check(stream, client, timeout) for stream in streams]
+            gather_results = await asyncio.gather(*tasks, return_exceptions=True)
+
+            results[source_name] = [
+                match_stream_check_response(*stream_result)
+                for stream_result in zip(streams, gather_results, strict=True)
             ]
-            results = await asyncio.gather(*tasks, return_exceptions=True)
-            stream_results = zip(streams, results, strict=True)
 
-            stream_checks = []
-            for stream, response in stream_results:
-                # TODO: Replace with pattern matching
-
-                if response is StreamState.SKIPPED:
-                    check = StreamCheck(stream, state=StreamState.SKIPPED)
-
-                elif isinstance(response, Exception):
-                    check = StreamCheck(stream, StreamState.ERROR, reason=str(response))
-
-                elif response.status_code != HTTPStatus.OK:
-                    http_error = f"HTTP {response.status_code}"
-                    check = StreamCheck(stream, StreamState.ERROR, reason=http_error)
-
-                else:
-                    check = StreamCheck(stream, state=StreamState.SUCCESS)
-
-                stream_checks.append(check)
-
-            final_results[source_name] = stream_checks
-
-    for source_name, stream_checks in final_results.items():
+    for source_name, stream_checks in results.items():
         report_file = report_dir / f"{source_name}.txt"
         write_results(stream_checks, report_file)
 
+    print("Finished")
 
-async def skip_check() -> StreamState:
+
+def match_stream_check_response(
+    stream: Stream, response: Response | Exception | None
+) -> StreamCheck:
     """TODO."""
-    return StreamState.SKIPPED
+    match response:
+        case None:
+            return StreamCheck(stream, StreamState.SKIPPED)
+
+        case Exception() as e:
+            return StreamCheck(stream, StreamState.ERROR, reason=str(e))
+
+        case _:
+            # TODO: Check for redirects.
+            # TODO: Match against more status codes explicitly.
+            status = response.status_code
+            check = (
+                StreamCheck(stream, StreamState.SUCCESS)
+                if status == HTTPStatus.OK
+                else StreamCheck(stream, StreamState.ERROR, reason=f"HTTP: {status}")
+            )
+
+            if check.state == StreamState.SUCCESS and stream.url.startswith("http://"):
+                # Stream URL is HTTP, but it works.
+                check.state = StreamState.WARNING
+                check.reason = "Try using https:// instead of http://"
+
+            return check
+
+
+async def check(
+    stream: Stream, client: AsyncClient, timeout: int
+) -> Coroutine[Any, Any, Response | None]:
+    """TODO."""
+    return noop() if stream.skip_check else client.head(stream.url, timeout=timeout)
+
+
+async def noop() -> None:
+    """No-op function."""
 
 
 def write_results(results: list[StreamCheck], output_file: Path) -> None:

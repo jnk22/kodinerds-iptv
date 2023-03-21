@@ -171,6 +171,8 @@ class AutoLineWriter:
         ----------
         list_type
             The type of list that is required.
+        kwargs
+            Keyword arguments that will be passed to the LineWriter.
 
         Returns
         -------

@@ -1,6 +1,8 @@
 """TODO."""
 
-from dataclasses import dataclass
+from dataclasses import KW_ONLY, dataclass
+
+from .enums import StreamState
 
 
 @dataclass
@@ -25,3 +27,19 @@ class StreamCategory:
 
     name: str
     streams: list[Stream]
+
+
+@dataclass
+class StreamCheck:
+    """TODO."""
+
+    stream: Stream
+    state: StreamState
+    _: KW_ONLY
+    reason: str | None = None
+
+    @property
+    def output(self) -> str:
+        """TODO."""
+        error_line = f" ({self.reason})" if self.reason else ""
+        return f"{self.stream.name}: {self.state.value}{error_line}"

@@ -55,6 +55,7 @@ unfixable = [
 "__init__.py" = ["D104", "F401"]
 "tests/*.py" = ["S101"]
 "main.py" = ["T201", "T203", "B008"]
+"cli_helpers.py" = ["T201", "T203"]
 "generate_lists.py" = ["T201", "T203"]
 "check_availability.py" = ["T201", "T203"]
 "io_utils.py" = ["T201", "T203"]
