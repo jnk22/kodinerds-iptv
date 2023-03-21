@@ -9,6 +9,7 @@ packages = [{ include = "kodinerds_iptv" }]
 [tool.poetry.dependencies]
 python = "^3.10"
 PyYAML = "^6.0"
+httpx = "^0.23.3"
 typer = { extras = ["all"], version = "^0.7.0" }
 
 [tool.poetry.scripts]
