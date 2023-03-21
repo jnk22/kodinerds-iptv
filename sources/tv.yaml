@@ -4,7 +4,6 @@ main:
     group_title_kodi: Vollprogramm
     name: Das Erste HD
     quality: hd
-    radio: false
     tvg_id: DasErste.de
     tvg_logo: tv/daserstehd.png
     tvg_name: Das Erste HD
@@ -13,7 +12,6 @@ main:
     group_title_kodi: Vollprogramm
     name: ZDF HD
     quality: hd
-    radio: false
     tvg_id: ZDF.de
     tvg_logo: tv/zdfhd.png
     tvg_name: ZDF HD
@@ -22,7 +20,6 @@ main:
     group_title_kodi: Vollprogramm
     name: 3sat
     quality: sd
-    radio: false
     tvg_id: 3sat.de
     tvg_logo: tv/3sat.png
     tvg_name: 3sat
@@ -31,7 +28,6 @@ main:
     group_title_kodi: Vollprogramm
     name: ARTE HD
     quality: hd
-    radio: false
     tvg_id: ARTE.de
     tvg_logo: tv/artehd.png
     tvg_name: ARTE HD
@@ -40,7 +36,6 @@ main:
     group_title_kodi: Spartenprogramm
     name: ServusTV HD
     quality: hd
-    radio: false
     tvg_id: ServusHD.de
     tvg_logo: tv/servustvhd.png
     tvg_name: ServusTV HD
@@ -49,7 +44,6 @@ main:
     group_title_kodi: Spartenprogramm
     name: ARD-alpha
     quality: hd
-    radio: false
     tvg_id: ARD-alpha.de
     tvg_logo: tv/ardalpha.png
     tvg_name: ARD-alpha
@@ -58,7 +52,6 @@ main:
     group_title_kodi: Spartenprogramm
     name: one HD
     quality: hd
-    radio: false
     tvg_id: One.de
     tvg_logo: tv/onehd.png
     tvg_name: one HD
@@ -67,7 +60,6 @@ main:
     group_title_kodi: Spartenprogramm
     name: ZDFneo HD
     quality: hd
-    radio: false
     tvg_id: ZDFneo.de
     tvg_logo: tv/zdfneohd.png
     tvg_name: ZDFneo HD
@@ -76,7 +68,6 @@ main:
     group_title_kodi: Spartenprogramm
     name: ZDFinfo HD
     quality: hd
-    radio: false
     tvg_id: ZDFinfo.de
     tvg_logo: tv/zdfinfohd.png
     tvg_name: ZDFinfo HD
@@ -85,7 +76,6 @@ main:
     group_title_kodi: Spartenprogramm
     name: Welt der Wunder
     quality: sd
-    radio: false
     tvg_id: WeltderWunder.de
     tvg_logo: tv/weltderwunder.png
     tvg_name: Welt der Wunder
@@ -94,7 +84,6 @@ main:
     group_title_kodi: Nachrichten
     name: phoenix
     quality: hd
-    radio: false
     tvg_id: phoenix.de
     tvg_logo: tv/phoenix.png
     tvg_name: phoenix HD
@@ -103,7 +92,6 @@ main:
     group_title_kodi: Nachrichten
     name: tagesschau24
     quality: hd
-    radio: false
     tvg_id: tagesschau24.de
     tvg_logo: tv/tagesschau24.png
     tvg_name: tagesschau24
@@ -112,7 +100,6 @@ main:
     group_title_kodi: Nachrichten;Dokumentationen
     name: WELT
     quality: hd
-    radio: false
     tvg_id: WELT.de
     tvg_logo: tv/welt.png
     tvg_name: WELT
@@ -121,7 +108,6 @@ main:
     group_title_kodi: Nachrichten
     name: WELT News (Dauerschleife)
     quality: sd
-    radio: false
     tvg_id: WELTNewsLoop.de
     tvg_logo: tv/welt.png
     tvg_name: WELT News (loop)
@@ -130,7 +116,6 @@ main:
     group_title_kodi: Nachrichten
     name: euronews deutsch
     quality: hd
-    radio: false
     tvg_id: euronews.com
     tvg_logo: tv/euronews.png
     tvg_name: euronews deutsch
@@ -139,7 +124,6 @@ main:
     group_title_kodi: Nachrichten;Dokumentationen
     name: Bild
     quality: hd
-    radio: false
     tvg_id: BILD.de
     tvg_logo: tv/BildTV.png
     tvg_name: Bild
@@ -148,7 +132,6 @@ main:
     group_title_kodi: International;Sport
     name: Red Bull TV
     quality: hd
-    radio: false
     tvg_logo: tv/redbulltv.png
     tvg_name: Red Bull TV
     url: https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -156,7 +139,6 @@ main:
     group_title_kodi: Spartenprogramm
     name: ANIXE HD
     quality: hd
-    radio: false
     tvg_id: Anixe.de
     tvg_logo: tv/anixehd.png
     tvg_name: ANIXE HD
@@ -165,7 +147,6 @@ main:
     group_title_kodi: Sport
     name: More than Sports TV
     quality: hd
-    radio: false
     tvg_id: morethansports.de
     tvg_logo: tv/morethansports.png
     tvg_name: More than Sports TV
@@ -174,7 +155,6 @@ main:
     group_title_kodi: Sport
     name: DAZN FAST+
     quality: hd
-    radio: false
     tvg_id: daznfastplus.de
     tvg_logo: tv/daznfastplus.png
     tvg_name: DAZN FAST+
@@ -183,7 +163,6 @@ main:
     group_title_kodi: Filme / Serien;Kinder / Jugend
     name: RiC
     quality: sd
-    radio: false
     tvg_id: RiC.de
     tvg_logo: tv/ric.png
     tvg_name: RiC
@@ -192,7 +171,6 @@ main:
     group_title_kodi: Kinder / Jugend
     name: KiKA
     quality: hd
-    radio: false
     tvg_id: Kika.de
     tvg_logo: tv/kika.png
     tvg_name: KiKA
@@ -201,7 +179,6 @@ main:
     group_title_kodi: Kinder / Jugend
     name: Nickelodeon
     quality: hd
-    radio: false
     tvg_id: Nickelodeon.de
     tvg_logo: tv/nickelodeon.png
     tvg_name: Nickelodeon
@@ -210,7 +187,6 @@ main:
     group_title_kodi: Musik
     name: Ö3-VisualRadio
     quality: hd
-    radio: false
     tvg_id: oe3.at
     tvg_logo: radio/hitradiooe3.png
     tvg_name: Ö3-VisualRadio
@@ -219,7 +195,6 @@ main:
     group_title_kodi: Musik
     name: SWR3-VisualRadio
     quality: hd
-    radio: false
     tvg_id: swr3.de
     tvg_logo: radio/swr3.png
     tvg_name: SWR3-VisualRadio
@@ -228,7 +203,6 @@ main:
     group_title_kodi: Musik
     name: DASDING-VisualRadio
     quality: hd
-    radio: false
     tvg_id: Dasding.de
     tvg_logo: radio/dasding.png
     tvg_name: DASDING-VisualRadio
@@ -237,7 +211,6 @@ main:
     group_title_kodi: Musik
     name: UNSERDING-VisualRadio
     quality: hd
-    radio: false
     tvg_id: Unserding.de
     tvg_logo: radio/unserding.png
     tvg_name: UNSERDING-VisualRadio
@@ -246,7 +219,6 @@ main:
     group_title_kodi: Musik
     name: Rockland TV
     quality: hd
-    radio: false
     tvg_id: Rockland.de
     tvg_logo: tv/rocklandtv.png
     tvg_name: Rockland TV
@@ -255,7 +227,6 @@ main:
     group_title_kodi: Musik
     name: MTV Germany
     quality: hd
-    radio: false
     tvg_id: MTVGermany.de
     tvg_logo: tv/mtvgermany.png
     tvg_name: MTV Germany
@@ -264,7 +235,6 @@ main:
     group_title_kodi: Musik
     name: DELUXE MUSIC
     quality: hd
-    radio: false
     tvg_id: DeLuxeMusic.de
     tvg_logo: tv/deluxemusic.png
     tvg_name: DELUXE MUSIC
@@ -273,7 +243,6 @@ main:
     group_title_kodi: Musik
     name: Folx TV
     quality: hd
-    radio: false
     tvg_id: FolxTV.de
     tvg_logo: tv/folxtv.png
     tvg_name: Folx TV
@@ -282,7 +251,6 @@ main:
     group_title_kodi: Musik
     name: One 1 Music TV
     quality: hd
-    radio: false
     tvg_id: One1MusicTV.de
     tvg_logo: tv/one1musictv.png
     tvg_name: One 1 Music TV
@@ -291,7 +259,6 @@ main:
     group_title_kodi: Musik
     name: Zwei 2 Music TV
     quality: hd
-    radio: false
     tvg_id: Zwei2MusicTV.de
     tvg_logo: tv/zwei2musictv.png
     tvg_name: Zwei 2 Music TV
@@ -300,7 +267,6 @@ main:
     group_title_kodi: Musik
     name: Deutsches Musik Fernsehen
     quality: hd
-    radio: false
     tvg_id: DeutschesMusikFernsehen.de
     tvg_logo: tv/deutschesmusikfernsehen.png
     tvg_name: Deutsches Musik Fernsehen
@@ -309,7 +275,6 @@ main:
     group_title_kodi: Musik
     name: Schlager Deluxe
     quality: hd
-    radio: false
     tvg_id: SchlagerDeluxe.de
     tvg_logo: tv/schlagerdeluxe.png
     tvg_name: Schlager Deluxe
@@ -318,7 +283,6 @@ main:
     group_title_kodi: Musik
     name: Magenta Musik 360 1
     quality: hd
-    radio: false
     tvg_id: MagentaMusik1.de
     tvg_logo: tv/magentamusik.png
     tvg_name: Magenta Musik 360 1
@@ -327,7 +291,6 @@ main:
     group_title_kodi: Musik
     name: Magenta Musik 360 2
     quality: hd
-    radio: false
     tvg_id: MagentaMusik2.de
     tvg_logo: tv/magentamusik.png
     tvg_name: Magenta Musik 360 2
@@ -336,7 +299,6 @@ main:
     group_title_kodi: Religion
     name: Bibel TV
     quality: sd
-    radio: false
     tvg_id: BibelTV.de
     tvg_logo: tv/bibeltv.png
     tvg_name: Bibel TV
@@ -345,7 +307,6 @@ main:
     group_title_kodi: Religion
     name: Bibel TV Impuls
     quality: sd
-    radio: false
     tvg_id: BibelTVImpuls.de
     tvg_logo: tv/bibeltv.png
     tvg_name: Bibel TV Impuls
@@ -354,7 +315,6 @@ main:
     group_title_kodi: Religion
     name: Bibel TV Musik
     quality: sd
-    radio: false
     tvg_id: BibelTVMusik.de
     tvg_logo: tv/bibeltv.png
     tvg_name: Bibel TV Musik
@@ -363,7 +323,6 @@ main:
     group_title_kodi: Religion
     name: K-TV
     quality: sd
-    radio: false
     tvg_id: KTV.de
     tvg_logo: tv/ktv.png
     tvg_name: K-TV
@@ -372,7 +331,6 @@ main:
     group_title_kodi: Religion
     name: EWTN katholisches TV
     quality: sd
-    radio: false
     tvg_id: EWTN.de
     tvg_logo: tv/ewtnkatholischestv.png
     tvg_name: EWTN katholisches TV
@@ -381,7 +339,6 @@ main:
     group_title_kodi: Religion
     name: ERF 1
     quality: hd
-    radio: false
     tvg_id: ERFeins.de
     tvg_logo: tv/erf1.png
     tvg_name: ERF 1
@@ -390,7 +347,6 @@ main:
     group_title_kodi: Sonstiges
     name: health.tv
     quality: hd
-    radio: false
     tvg_id: Health.de
     tvg_logo: tv/healthtv.png
     tvg_name: health.tv
@@ -399,7 +355,6 @@ main:
     group_title_kodi: Sonstiges
     name: VISIT-X.tv
     quality: sd
-    radio: false
     tvg_logo: tv/visitxtv.png
     tvg_name: VISIT-X.tv
     url: https://stream.visit-x.tv/vxtv/live/playlist.m3u8
@@ -407,7 +362,6 @@ main:
     group_title_kodi: Sonstiges
     name: Wir24TV
     quality: hd
-    radio: false
     tvg_id: "wir24.tv"
     tvg_logo: tv/wirtv24.png
     tvg_name: wir24.tv
@@ -417,7 +371,6 @@ shop:
     group_title_kodi: Teleshopping
     name: 1-2-3.tv
     quality: sd
-    radio: false
     tvg_id: 123.tv.de
     tvg_logo: tv/123tv.png
     tvg_name: 1-2-3.tv
@@ -426,7 +379,6 @@ shop:
     group_title_kodi: Teleshopping
     name: pearl.tv
     quality: hd
-    radio: false
     tvg_id: Pearl.tv.de
     tvg_logo: tv/pearltv.png
     tvg_name: pearl.tv
@@ -435,7 +387,6 @@ shop:
     group_title_kodi: Teleshopping
     name: QVC
     quality: hd
-    radio: false
     tvg_id: QVC.de
     tvg_logo: tv/qvc.png
     tvg_name: QVC
@@ -444,7 +395,6 @@ shop:
     group_title_kodi: Teleshopping
     name: QVC PLUS
     quality: hd
-    radio: false
     tvg_id: QVCPlus.de
     tvg_logo: tv/qvcplus.png
     tvg_name: QVC PLUS
@@ -453,7 +403,6 @@ shop:
     group_title_kodi: Teleshopping
     name: QVC Beauty & Style
     quality: hd
-    radio: false
     tvg_logo: tv/qvcbeautystyle.png
     tvg_name: QVC Beauty & Style
     url: https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
@@ -461,7 +410,6 @@ shop:
     group_title_kodi: Teleshopping
     name: SonnenklarTV HD
     quality: hd
-    radio: false
     tvg_id: sonnenklar.tv
     tvg_logo: tv/sonnenklartv.png
     tvg_name: SonnenklarTV HD
@@ -471,7 +419,6 @@ regional:
     group_title_kodi: Regional
     name: WDR HD
     quality: hd
-    radio: false
     tvg_id: WDRFernsehen.de
     tvg_logo: tv/wdrhd.png
     tvg_name: WDR HD
@@ -480,7 +427,6 @@ regional:
     group_title_kodi: Regional
     name: WDR Aachen HD
     quality: hd
-    radio: false
     tvg_id: WDRFernsehen.de
     tvg_logo: tv/wdrhd.png
     tvg_name: WDR HD
@@ -489,7 +435,6 @@ regional:
     group_title_kodi: Regional
     name: WDR Bonn HD
     quality: hd
-    radio: false
     tvg_id: WDRFernsehen.de
     tvg_logo: tv/wdrhd.png
     tvg_name: WDR HD
@@ -498,7 +443,6 @@ regional:
     group_title_kodi: Regional
     name: WDR Bergisches Land HD
     quality: hd
-    radio: false
     tvg_id: WDRFernsehen.de
     tvg_logo: tv/wdrhd.png
     tvg_name: WDR HD
@@ -507,7 +451,6 @@ regional:
     group_title_kodi: Regional
     name: WDR Dortmund HD
     quality: hd
-    radio: false
     tvg_id: WDRFernsehen.de
     tvg_logo: tv/wdrhd.png
     tvg_name: WDR HD
@@ -516,7 +459,6 @@ regional:
     group_title_kodi: Regional
     name: WDR Düsseldorf HD
     quality: hd
-    radio: false
     tvg_id: WDRFernsehen.de
     tvg_logo: tv/wdrhd.png
     tvg_name: WDR HD
@@ -525,7 +467,6 @@ regional:
     group_title_kodi: Regional
     name: WDR Duisburg HD
     quality: hd
-    radio: false
     tvg_id: WDRFernsehen.de
     tvg_logo: tv/wdrhd.png
     tvg_name: WDR HD
@@ -534,7 +475,6 @@ regional:
     group_title_kodi: Regional
     name: WDR Köln HD
     quality: hd
-    radio: false
     tvg_id: WDRFernsehen.de
     tvg_logo: tv/wdrhd.png
     tvg_name: WDR HD
@@ -543,7 +483,6 @@ regional:
     group_title_kodi: Regional
     name: WDR Münsterland HD
     quality: hd
-    radio: false
     tvg_id: WDRFernsehen.de
     tvg_logo: tv/wdrhd.png
     tvg_name: WDR HD
@@ -552,7 +491,6 @@ regional:
     group_title_kodi: Regional
     name: WDR Ostwestfalen HD
     quality: hd
-    radio: false
     tvg_id: WDRFernsehen.de
     tvg_logo: tv/wdrhd.png
     tvg_name: WDR HD
@@ -561,7 +499,6 @@ regional:
     group_title_kodi: Regional
     name: WDR Südwestfalen HD
     quality: hd
-    radio: false
     tvg_id: WDRFernsehen.de
     tvg_logo: tv/wdrhd.png
     tvg_name: WDR HD
@@ -570,7 +507,6 @@ regional:
     group_title_kodi: Regional
     name: WDR Ruhr HD
     quality: hd
-    radio: false
     tvg_id: WDRFernsehen.de
     tvg_logo: tv/wdrhd.png
     tvg_name: WDR HD
@@ -579,7 +515,6 @@ regional:
     group_title_kodi: Regional
     name: SWR Baden-Württemberg HD
     quality: hd
-    radio: false
     tvg_id: SWRFernsehen.de
     tvg_logo: tv/swrhd.png
     tvg_name: "SWR Baden-Württemberg HD "
@@ -588,7 +523,6 @@ regional:
     group_title_kodi: Regional
     name: SWR Rheinland-Pfalz HD
     quality: hd
-    radio: false
     tvg_id: SWRFernsehen-rp.de
     tvg_logo: tv/swrhd.png
     tvg_name: SWR Rheinland-Pfalz HD
@@ -597,7 +531,6 @@ regional:
     group_title_kodi: Regional
     name: NDR Niedersachsen HD
     quality: hd
-    radio: false
     tvg_id: NDRFernsehen.de
     tvg_logo: tv/ndrhd.png
     tvg_name: NDR Niedersachsen HD
@@ -606,7 +539,6 @@ regional:
     group_title_kodi: Regional
     name: NDR Schleswig-Holstein HD
     quality: hd
-    radio: false
     tvg_id: ndr.de
     tvg_logo: tv/ndrhd.png
     tvg_name: NDR Schleswig-Holstein HD
@@ -615,7 +547,6 @@ regional:
     group_title_kodi: Regional
     name: NDR Mecklenburg-Vorpommern HD
     quality: hd
-    radio: false
     tvg_id: ndr.de
     tvg_logo: tv/ndrhd.png
     tvg_name: NDR Mecklenburg-Vorpommern HD
@@ -624,7 +555,6 @@ regional:
     group_title_kodi: Regional
     name: NDR Hamburg HD
     quality: hd
-    radio: false
     tvg_id: ndr.de
     tvg_logo: tv/ndrhd.png
     tvg_name: NDR Hamburg HD
@@ -633,7 +563,6 @@ regional:
     group_title_kodi: Regional
     name: Radio Bremen TV HD
     quality: hd
-    radio: false
     tvg_id: RadioBremen.de
     tvg_logo: tv/rbtv.png
     tvg_name: Radio Bremen TV HD
@@ -642,7 +571,6 @@ regional:
     group_title_kodi: Regional
     name: BR Fernsehen Nord HD
     quality: hd
-    radio: false
     tvg_id: BR.de
     tvg_logo: tv/brhd.png
     tvg_name: BR Fernsehen Nord HD
@@ -651,7 +579,6 @@ regional:
     group_title_kodi: Regional
     name: BR Fernsehen Süd HD
     quality: hd
-    radio: false
     tvg_id: BRFernsehen.de
     tvg_logo: tv/brhd.png
     tvg_name: BR Fernsehen Süd HD
@@ -660,7 +587,6 @@ regional:
     group_title_kodi: Regional
     name: MDR Sachsen HD
     quality: hd
-    radio: false
     tvg_id: MDRSachsen.de
     tvg_logo: tv/mdrhd.png
     tvg_name: MDR Sachsen HD
@@ -669,7 +595,6 @@ regional:
     group_title_kodi: Regional
     name: MDR Sachsen-Anhalt HD
     quality: hd
-    radio: false
     tvg_id: MDRS-Anhalt.de
     tvg_logo: tv/mdrhd.png
     tvg_name: MDR Sachsen-Anhalt HD
@@ -678,7 +603,6 @@ regional:
     group_title_kodi: Regional
     name: MDR Thüringen HD
     quality: sd
-    radio: false
     tvg_id: MDRThuringen.de
     tvg_logo: tv/mdrhd.png
     tvg_name: MDR Thüringen HD
@@ -687,7 +611,6 @@ regional:
     group_title_kodi: Regional
     name: hr-fernsehen
     quality: hd
-    radio: false
     tvg_id: HR.de
     tvg_logo: tv/hr.png
     tvg_name: hr-fernsehen
@@ -696,7 +619,6 @@ regional:
     group_title_kodi: Regional
     name: rbb Berlin HD
     quality: hd
-    radio: false
     tvg_id: rbbBerlin.de
     tvg_logo: tv/rbbhd.png
     tvg_name: rbb Berlin HD
@@ -705,7 +627,6 @@ regional:
     group_title_kodi: Regional
     name: rbb Brandenburg HD
     quality: hd
-    radio: false
     tvg_id: rbbBrandenburg.de
     tvg_logo: tv/rbbhd.png
     tvg_name: rbb Brandenburg HD
@@ -714,7 +635,6 @@ regional:
     group_title_kodi: Regional
     name: SR Fernsehen HD
     quality: sd
-    radio: false
     tvg_id: SRFernsehen.de
     tvg_logo: tv/srhd.png
     tvg_name: SR Fernsehen HD
@@ -723,7 +643,6 @@ regional:
     group_title_kodi: Regional
     name: Deutsche Welle
     quality: sd
-    radio: false
     tvg_id: DeutscheWelleDE.de
     tvg_logo: tv/deutschewelle.png
     tvg_name: Deutsche Welle
@@ -732,7 +651,6 @@ regional:
     group_title_kodi: Regional
     name: Deutsche Welle+
     quality: sd
-    radio: false
     tvg_id: DeutscheWelleDE+.de
     tvg_logo: tv/deutschewelle.png
     tvg_name: Deutsche Welle+
@@ -741,7 +659,6 @@ regional:
     group_title_kodi: Regional
     name: Deutsche Welle (EN)
     quality: sd
-    radio: false
     tvg_id: DeutscheWelleEN.de
     tvg_logo: tv/deutschewelle.png
     tvg_name: Deutsche Welle (EN)
@@ -750,7 +667,6 @@ regional:
     group_title_kodi: Regional
     name: Südthüringer Regionalfernsehen
     quality: hd
-    radio: false
     tvg_id: srf-online.de
     tvg_logo: tv/suedthueringer_regionalfernsehen.png
     tvg_name: Südthüringer Regionalfernsehen
@@ -759,7 +675,6 @@ regional:
     group_title_kodi: Regional
     name: Rennsteig.tv
     quality: hd
-    radio: false
     tvg_id: rennsteig.tv
     tvg_logo: tv/rennsteigtv.png
     tvg_name: Rennsteig.tv
@@ -768,7 +683,6 @@ regional:
     group_title_kodi: Regional
     name: h1
     quality: hd
-    radio: false
     tvg_id: h-eins.tv
     tvg_logo: tv/h1tv.png
     tvg_name: h-eins.tv
@@ -778,7 +692,6 @@ local:
     group_title_kodi: Lokal
     name: a.tv
     quality: hd
-    radio: false
     tvg_id: a.tv.de
     tvg_logo: tv/atv.png
     tvg_name: a.tv
@@ -787,7 +700,6 @@ local:
     group_title_kodi: Lokal
     name: ALEX Berlin
     quality: sd
-    radio: false
     tvg_logo: tv/alexberlin.png
     tvg_name: ALEX Berlin
     url: https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
@@ -795,7 +707,6 @@ local:
     group_title_kodi: Lokal
     name: allgäu.tv
     quality: sd
-    radio: false
     tvg_id: AllgauTV.de
     tvg_logo: tv/allgaeutv.png
     tvg_name: allgäu.tv
@@ -804,7 +715,6 @@ local:
     group_title_kodi: Lokal
     name: Baden TV
     quality: hd
-    radio: false
     tvg_logo: tv/badentv.png
     tvg_name: Baden TV
     url: http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
@@ -812,7 +722,6 @@ local:
     group_title_kodi: Lokal
     name: Chemnitz Fernsehen
     quality: sd
-    radio: false
     tvg_logo: tv/chemnitzfernsehen.png
     tvg_name: Chemnitz Fernsehen
     url: https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
@@ -820,7 +729,6 @@ local:
     group_title_kodi: Lokal
     name: Dresden Fernsehen
     quality: sd
-    radio: false
     tvg_logo: tv/dresdenfernsehen.png
     tvg_name: Dresden Fernsehen
     url: https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
@@ -828,7 +736,6 @@ local:
     group_title_kodi: Lokal
     name: Franken Fernsehen
     quality: sd
-    radio: false
     tvg_id: FrankenTV.de
     tvg_logo: tv/frankenfernsehen.png
     tvg_name: Franken Fernsehen
@@ -837,7 +744,6 @@ local:
     group_title_kodi: Lokal
     name: Hamburg 1
     quality: hd
-    radio: false
     tvg_id: Hamburg1.de
     tvg_logo: tv/hamburg1.png
     tvg_name: Hamburg 1
@@ -846,7 +752,6 @@ local:
     group_title_kodi: Lokal
     name: KabelJournal
     quality: sd
-    radio: false
     tvg_logo: tv/kabeljournal.png
     tvg_name: KabelJournal
     url: https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
@@ -854,7 +759,6 @@ local:
     group_title_kodi: Lokal
     name: L-TV
     quality: hd
-    radio: false
     tvg_logo: tv/ltv.png
     tvg_name: L-TV
     url: https://live2.telvi.de/hls/l-tv_s1.m3u8
@@ -862,7 +766,6 @@ local:
     group_title_kodi: Lokal
     name: Leipzig Fernsehen
     quality: sd
-    radio: false
     tvg_logo: tv/leipzigfernsehen.png
     tvg_name: Leipzig Fernsehen
     url: https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
@@ -870,7 +773,6 @@ local:
     group_title_kodi: Lokal
     name: münchen.tv
     quality: sd
-    radio: false
     tvg_id: MunchenTV.de
     tvg_logo: tv/muenchentv.png
     tvg_name: münchen.tv
@@ -879,7 +781,6 @@ local:
     group_title_kodi: Lokal
     name: MyTVplus
     quality: sd
-    radio: false
     tvg_id: MyTVplus.de
     tvg_logo: tv/mytvplus.png
     tvg_name: MyTVplus
@@ -888,7 +789,6 @@ local:
     group_title_kodi: Lokal
     name: noa4 Hamburg HD
     quality: hd
-    radio: false
     tvg_logo: tv/noa4.png
     tvg_name: noa4 Hamburg HD
     url: https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
@@ -896,7 +796,6 @@ local:
     group_title_kodi: Lokal
     name: noa4 Norderstedt HD
     quality: hd
-    radio: false
     tvg_logo: tv/noa4.png
     tvg_name: noa4 Norderstedt HD
     url: https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
@@ -904,7 +803,6 @@ local:
     group_title_kodi: Lokal
     name: NRWision HD
     quality: sd
-    radio: false
     tvg_logo: tv/nrwision.png
     tvg_name: NRWision HD
     url: https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
@@ -912,7 +810,6 @@ local:
     group_title_kodi: Lokal
     name: Oberpfalz TV
     quality: hd
-    radio: false
     tvg_logo: tv/oberpfalztv.png
     tvg_name: Oberpfalz TV
     url: https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
@@ -920,7 +817,6 @@ local:
     group_title_kodi: Lokal
     name: OK4 (Adenau Andernach Koblenz Neuwied)
     quality: sd
-    radio: false
     tvg_logo: tv/okkoblenz.png
     tvg_name: OK4 (Adenau Andernach Koblenz Neuwied)
     url: https://s.ok54.de/abr_ok4/live/playlist.m3u8
@@ -928,7 +824,6 @@ local:
     group_title_kodi: Lokal
     name: OK54 (Trier)
     quality: sd
-    radio: false
     tvg_logo: tv/oktrier.png
     tvg_name: OK54 (Trier)
     url: https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
@@ -936,7 +831,6 @@ local:
     group_title_kodi: Lokal
     name: OK Kaiserslautern
     quality: sd
-    radio: false
     tvg_logo: tv/okkaiserslautern.png
     tvg_name: OK Kaiserslautern
     url: https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
@@ -944,7 +838,6 @@ local:
     group_title_kodi: Lokal
     name: OK naheTV (Idar-Oberstein)
     quality: sd
-    radio: false
     tvg_logo: tv/oknahetv.png
     tvg_name: OK naheTV (Idar-Oberstein)
     url: https://s.ok54.de/nahetv/webstream/chunks.m3u8
@@ -952,7 +845,6 @@ local:
     group_title_kodi: Lokal
     name: OK RheinLokal (Worms)
     quality: sd
-    radio: false
     tvg_logo: tv/okrheinlokal.png
     tvg_name: OK RheinLokal (Worms)
     url: https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
@@ -960,7 +852,6 @@ local:
     group_title_kodi: Lokal
     name: OK Suedwestpfalz
     quality: sd
-    radio: false
     tvg_logo: tv/oksuedwestpfalz.png
     tvg_name: OK Suedwestpfalz
     url: https://s.ok54.de/okswp/test/chunks.m3u8
@@ -968,7 +859,6 @@ local:
     group_title_kodi: Lokal
     name: OK Weinstraße (Neustadt)
     quality: sd
-    radio: false
     tvg_logo: tv/okweinstrasse.png
     tvg_name: OK Weinstraße (Neustadt)
     url: https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
@@ -976,7 +866,6 @@ local:
     group_title_kodi: Lokal
     name: OK Flensburg
     quality: sd
-    radio: false
     tvg_logo: tv/fltv.png
     tvg_name: OK Flensburg
     url: https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
@@ -984,7 +873,6 @@ local:
     group_title_kodi: Lokal
     name: OK Kiel
     quality: sd
-    radio: false
     tvg_logo: tv/kieltv.png
     tvg_name: OK Kiel
     url: https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
@@ -992,7 +880,6 @@ local:
     group_title_kodi: Lokal
     name: OK Merseburg-Querfurt
     quality: sd
-    radio: false
     tvg_logo: tv/okmerseburg.png
     tvg_name: OK Merseburg-Querfurt
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
@@ -1000,7 +887,6 @@ local:
     group_title_kodi: Lokal
     name: OK Rhein-Main (Offenbach Frankfurt)
     quality: sd
-    radio: false
     tvg_logo: tv/okrheinmain.png
     tvg_name: OK Rhein-Main (Offenbach Frankfurt)
     url: https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
@@ -1008,7 +894,6 @@ local:
     group_title_kodi: Lokal
     name: OK Fulda
     quality: sd
-    radio: false
     tvg_logo: tv/okfulda.png
     tvg_name: OK Fulda
     url: https://s.ok54.de/mok-fu/livestream/playlist.m3u8
@@ -1016,7 +901,6 @@ local:
     group_title_kodi: Lokal
     name: OK Gießen
     quality: sd
-    radio: false
     tvg_logo: tv/okgiessen.png
     tvg_name: OK Gießen
     url: https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
@@ -1024,7 +908,6 @@ local:
     group_title_kodi: Lokal
     name: OK Kassel
     quality: sd
-    radio: false
     tvg_logo: tv/okkassel.png
     tvg_name: OK Kassel
     url: https://s.ok54.de/mok-ks/kassel/playlist.m3u8
@@ -1032,7 +915,6 @@ local:
     group_title_kodi: Lokal
     name: OK Ludwigshafen
     quality: sd
-    radio: false
     tvg_logo: tv/okludwigshafen.png
     tvg_name: OK Ludwigshafen
     url: https://s.ok54.de/oklu/livestream/playlist.m3u8
@@ -1040,7 +922,6 @@ local:
     group_title_kodi: Lokal
     name: OK Dessau
     quality: sd
-    radio: false
     tvg_logo: tv/okdessau.png
     tvg_name: OK Dessau
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
@@ -1048,7 +929,6 @@ local:
     group_title_kodi: Lokal
     name: OK Magdeburg
     quality: sd
-    radio: false
     tvg_logo: tv/okmagdeburg.png
     tvg_name: OK Magdeburg
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
@@ -1056,7 +936,6 @@ local:
     group_title_kodi: Lokal
     name: OK Salzwedel
     quality: sd
-    radio: false
     tvg_logo: tv/oksalzwedel.png
     tvg_name: OK Salzwedel
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
@@ -1064,7 +943,6 @@ local:
     group_title_kodi: Lokal
     name: OK Stendal
     quality: sd
-    radio: false
     tvg_logo: tv/okstendal.png
     tvg_name: OK Stendal
     url: http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
@@ -1072,7 +950,6 @@ local:
     group_title_kodi: Lokal
     name: OK Wernigerode
     quality: sd
-    radio: false
     tvg_logo: tv/okwernigerode.png
     tvg_name: OK Wernigerode
     url: http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
@@ -1080,7 +957,6 @@ local:
     group_title_kodi: Lokal
     name: Tide TV
     quality: sd
-    radio: false
     tvg_logo: tv/tidetv.png
     tvg_name: Tide TV
     url: https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
@@ -1088,7 +964,6 @@ local:
     group_title_kodi: Lokal
     name: BLK Regional TV
     quality: sd
-    radio: false
     tvg_logo: tv/blkregionaltv.png
     tvg_name: BLK Regional TV
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
@@ -1096,7 +971,6 @@ local:
     group_title_kodi: Lokal
     name: kulturmd
     quality: sd
-    radio: false
     tvg_logo: tv/kulturmd.png
     tvg_name: kulturmd
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
@@ -1104,7 +978,6 @@ local:
     group_title_kodi: Lokal
     name: MDF.1
     quality: sd
-    radio: false
     tvg_logo: tv/mdf1.png
     tvg_name: MDF.1
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
@@ -1112,7 +985,6 @@ local:
     group_title_kodi: Lokal
     name: PUNKTum
     quality: sd
-    radio: false
     tvg_logo: tv/punktum.png
     tvg_name: PUNKTum
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
@@ -1120,7 +992,6 @@ local:
     group_title_kodi: Lokal
     name: RFH
     quality: sd
-    radio: false
     tvg_logo: tv/rfh.png
     tvg_name: RFH
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
@@ -1128,7 +999,6 @@ local:
     group_title_kodi: Lokal
     name: WTV (OK Wettin)
     quality: sd
-    radio: false
     tvg_logo: tv/wtv.png
     tvg_name: WTV (OK Wettin)
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wettin_high/playlist.m3u8
@@ -1136,7 +1006,6 @@ local:
     group_title_kodi: Lokal
     name: RAN1
     quality: sd
-    radio: false
     tvg_logo: tv/ran1.png
     tvg_name: RAN1
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
@@ -1144,7 +1013,6 @@ local:
     group_title_kodi: Lokal
     name: RBW
     quality: sd
-    radio: false
     tvg_logo: tv/rbw.png
     tvg_name: RBW
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
@@ -1152,7 +1020,6 @@ local:
     group_title_kodi: Lokal
     name: TV Halle
     quality: sd
-    radio: false
     tvg_logo: tv/tvhalle.png
     tvg_name: TV Halle
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
@@ -1160,7 +1027,6 @@ local:
     group_title_kodi: Lokal
     name: ELBEKANAL
     quality: sd
-    radio: false
     tvg_logo: tv/elbekanal.png
     tvg_name: ELBEKANAL
     url: http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
@@ -1168,7 +1034,6 @@ local:
     group_title_kodi: Lokal
     name: seenluft24
     quality: sd
-    radio: false
     tvg_logo: tv/seenluft24.png
     tvg_name: seenluft24
     url: https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8
@@ -1176,7 +1041,6 @@ local:
     group_title_kodi: Lokal
     name: oldenburg eins
     quality: hd
-    radio: false
     tvg_logo: tv/oldenburgeins.png
     tvg_name: oldenburg eins
     url: https://oeins.de/live/studio.m3u8
@@ -1184,7 +1048,6 @@ local:
     group_title_kodi: Lokal
     name: Potsdam TV
     quality: hd
-    radio: false
     tvg_logo: tv/potsdamtv.png
     tvg_name: Potsdam TV
     url: https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
@@ -1192,7 +1055,6 @@ local:
     group_title_kodi: Lokal
     name: Regio TV Schwaben
     quality: hd
-    radio: false
     tvg_logo: tv/regiotvschwaben.png
     tvg_name: Regio TV Schwaben
     url: https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
@@ -1200,7 +1062,6 @@ local:
     group_title_kodi: Lokal
     name: RFO
     quality: sd
-    radio: false
     tvg_id: Oberbayern.de
     tvg_logo: tv/rfo.png
     tvg_name: RFO
@@ -1209,7 +1070,6 @@ local:
     group_title_kodi: Lokal
     name: Rhein Neckar Fernsehen
     quality: sd
-    radio: false
     tvg_logo: tv/rnf.png
     tvg_name: Rhein Neckar Fernsehen
     url: https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
@@ -1217,7 +1077,6 @@ local:
     group_title_kodi: Lokal
     name: rheinmaintv
     quality: sd
-    radio: false
     tvg_id: rheinmaintv.de
     tvg_logo: tv/rheinmaintv.png
     tvg_name: rheinmaintv
@@ -1226,7 +1085,6 @@ local:
     group_title_kodi: Lokal
     name: Sylt1
     quality: sd
-    radio: false
     tvg_logo: tv/sylt1.png
     tvg_name: Sylt1
     url: https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
@@ -1234,7 +1092,6 @@ local:
     group_title_kodi: Lokal
     name: Niederbayern TV Passau
     quality: sd
-    radio: false
     tvg_id: niederbayerntv.de
     tvg_logo: tv/niederbayerntv.png
     tvg_name: Niederbayern TV Passau
@@ -1243,7 +1100,6 @@ local:
     group_title_kodi: Lokal
     name: tv.ingolstadt
     quality: sd
-    radio: false
     tvg_id: tvingolstadt.de
     tvg_logo: tv/tvingolstadt.png
     tvg_name: tv.ingolstadt
@@ -1252,7 +1108,6 @@ local:
     group_title_kodi: Lokal
     name: TV Mittelrhein
     quality: hd
-    radio: false
     tvg_logo: tv/tvmittelrhein.png
     tvg_name: TV Mittelrhein
     url: https://live2.telvi.de/hls/tvm_hd720.m3u8
@@ -1260,7 +1115,6 @@ local:
     group_title_kodi: Lokal
     name: TV Mainfranken
     quality: hd
-    radio: false
     tvg_id: tvmainfranken.de
     tvg_logo: tv/tvmainfranken.png
     tvg_name: TV Mainfranken
@@ -1269,7 +1123,6 @@ local:
     group_title_kodi: Lokal
     name: TV Würzburg
     quality: sd
-    radio: false
     tvg_logo: tv/wuerzburgtv.png
     tvg_name: TV Würzburg
     url: https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
@@ -1277,7 +1130,6 @@ local:
     group_title_kodi: Lokal
     name: tv.berlin
     quality: sd
-    radio: false
     tvg_id: TVBerlin.de
     tvg_logo: tv/tvberlin.png
     tvg_name: tv.berlin
@@ -1286,7 +1138,6 @@ local:
     group_title_kodi: Lokal
     name: TVA
     quality: hd
-    radio: false
     tvg_logo: tv/tva.png
     tvg_name: TVA
     url: https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
@@ -1294,7 +1145,6 @@ local:
     group_title_kodi: Lokal
     name: TVO
     quality: sd
-    radio: false
     tvg_id: tvo.de
     tvg_logo: tv/tvo.png
     tvg_name: TVO
@@ -1303,7 +1153,6 @@ local:
     group_title_kodi: Lokal
     name: Westerwald TV
     quality: hd
-    radio: false
     tvg_logo: tv/westerwaldtv.png
     tvg_name: Westerwald TV
     url: https://live2.telvi.de/hls/wwtv.m3u8
@@ -1311,7 +1160,6 @@ local:
     group_title_kodi: Lokal
     name: teltOwkanal
     quality: sd
-    radio: false
     tvg_logo: tv/teltOwkanal.png
     tvg_name: teltOwkanal
     url: https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
@@ -1319,7 +1167,6 @@ local:
     group_title_kodi: Lokal
     name: Ems TV
     quality: sd
-    radio: false
     tvg_logo: tv/emstv.png
     tvg_name: emstv
     url: https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
@@ -1327,7 +1174,6 @@ local:
     group_title_kodi: Lokal
     name: FRF24
     quality: sd
-    radio: false
     tvg_logo: tv/frf24.png
     tvg_name: frf24
     url: https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
@@ -1336,7 +1182,6 @@ extra:
     group_title_kodi: Extra
     name: ARD Event 1
     quality: hd
-    radio: false
     tvg_id: ARDEvent1.de
     tvg_logo: tv/daserste.png
     tvg_name: ARD Event 1
@@ -1345,7 +1190,6 @@ extra:
     group_title_kodi: Extra
     name: ARD Event 2
     quality: hd
-    radio: false
     tvg_id: ARDEvent2.de
     tvg_logo: tv/daserste.png
     tvg_name: ARD Event 2
@@ -1354,7 +1198,6 @@ extra:
     group_title_kodi: Extra
     name: ZDF Event 1
     quality: hd
-    radio: false
     tvg_id: ZDFEvent1.de
     tvg_logo: tv/zdf.png
     tvg_name: ZDF Event 1
@@ -1363,7 +1206,6 @@ extra:
     group_title_kodi: Extra
     name: ZDF Event 2
     quality: hd
-    radio: false
     tvg_id: ZDFEvent2.de
     tvg_logo: tv/zdf.png
     tvg_name: ZDF Event 2
@@ -1372,7 +1214,6 @@ extra:
     group_title_kodi: Extra
     name: ZDF Event 3
     quality: hd
-    radio: false
     tvg_id: ZDFEvent.de3
     tvg_logo: tv/zdf.png
     tvg_name: ZDF Event 3
@@ -1381,7 +1222,6 @@ extra:
     group_title_kodi: Extra
     name: ZDF Event 4
     quality: hd
-    radio: false
     tvg_id: ZDFEvent4.de
     tvg_logo: tv/zdf.png
     tvg_name: ZDF Event 4
@@ -1390,7 +1230,6 @@ extra:
     group_title_kodi: Extra
     name: ZDF Event 5
     quality: hd
-    radio: false
     tvg_id: ZDFEvent5.de
     tvg_logo: tv/zdf.png
     tvg_name: ZDF Event 5
@@ -1399,7 +1238,6 @@ extra:
     group_title_kodi: Extra
     name: ZDF Event 6
     quality: hd
-    radio: false
     tvg_id: ZDFEvent6.de
     tvg_logo: tv/zdf.png
     tvg_name: ZDF Event 6
@@ -1408,7 +1246,6 @@ extra:
     group_title_kodi: Extra
     name: ARTE Event 1
     quality: hd
-    radio: false
     tvg_id: ArteEvent1.de
     tvg_logo: tv/arte.png
     tvg_name: ARTE Event 1
@@ -1417,7 +1254,6 @@ extra:
     group_title_kodi: Extra
     name: ARTE Event 2
     quality: hd
-    radio: false
     tvg_id: ArteEvent2.de
     tvg_logo: tv/arte.png
     tvg_name: ARTE Event 2
@@ -1426,7 +1262,6 @@ extra:
     group_title_kodi: Extra
     name: ARTE Event 3
     quality: hd
-    radio: false
     tvg_id: ArteEvent3.de
     tvg_logo: tv/arte.png
     tvg_name: ARTE Event 3
@@ -1435,7 +1270,6 @@ extra:
     group_title_kodi: Extra
     name: ARTE Event 4
     quality: hd
-    radio: false
     tvg_id: ArteEvent4.de
     tvg_logo: tv/arte.png
     tvg_name: ARTE Event 4
@@ -1444,7 +1278,6 @@ extra:
     group_title_kodi: Extra
     name: ARTE Event 5
     quality: hd
-    radio: false
     tvg_id: ArteEvent5.de
     tvg_logo: tv/arte.png
     tvg_name: ARTE Event 5
@@ -1453,7 +1286,6 @@ extra:
     group_title_kodi: Extra
     name: ARTE Event 6
     quality: hd
-    radio: false
     tvg_id: ArteEvent6.de
     tvg_logo: tv/arte.png
     tvg_name: ARTE Event 6
@@ -1462,7 +1294,6 @@ extra:
     group_title_kodi: Extra
     name: WDR Event 1
     quality: hd
-    radio: false
     tvg_id: WDREvent1.de
     tvg_logo: tv/wdr.png
     tvg_name: WDR Event 1
@@ -1471,7 +1302,6 @@ extra:
     group_title_kodi: Extra
     name: WDR Event 2
     quality: hd
-    radio: false
     tvg_id: WDREvent2.de
     tvg_logo: tv/wdr.png
     tvg_name: WDR Event 2
@@ -1480,7 +1310,6 @@ extra:
     group_title_kodi: Extra
     name: WDR Event 3
     quality: hd
-    radio: false
     tvg_id: WDREvent3.de
     tvg_logo: tv/wdr.png
     tvg_name: WDR Event 3
@@ -1489,7 +1318,6 @@ extra:
     group_title_kodi: Extra
     name: WDR Event 7
     quality: hd
-    radio: false
     tvg_id: WDREvent7.de
     tvg_logo: tv/wdr.png
     tvg_name: WDR Event 7
@@ -1498,7 +1326,6 @@ extra:
     group_title_kodi: Extra
     name: WDR Event 8
     quality: hd
-    radio: false
     tvg_id: WDREvent8.de
     tvg_logo: tv/wdr.png
     tvg_name: WDR Event 8
@@ -1507,7 +1334,6 @@ extra:
     group_title_kodi: Extra
     name: WDR Event 9
     quality: hd
-    radio: false
     tvg_id: WDREvent9.de
     tvg_logo: tv/wdr.png
     tvg_name: WDR Event 9
@@ -1516,7 +1342,6 @@ extra:
     group_title_kodi: Extra
     name: WDR Event 10
     quality: hd
-    radio: false
     tvg_id: WDREvent10.de
     tvg_logo: tv/wdr.png
     tvg_name: WDR Event 10
@@ -1525,7 +1350,6 @@ extra:
     group_title_kodi: Extra
     name: SWR Event 1
     quality: hd
-    radio: false
     tvg_id: SWREvent1.de
     tvg_logo: tv/swr.png
     tvg_name: SWR Event 1
@@ -1534,7 +1358,6 @@ extra:
     group_title_kodi: Extra
     name: SWR Event 2
     quality: hd
-    radio: false
     tvg_id: SWREvent2.de
     tvg_logo: tv/swr.png
     tvg_name: SWR Event 2
@@ -1543,7 +1366,6 @@ extra:
     group_title_kodi: Extra
     name: SWR Event 3
     quality: hd
-    radio: false
     tvg_id: SWREvent3.de
     tvg_logo: tv/swr.png
     tvg_name: SWR Event 3
@@ -1552,7 +1374,6 @@ extra:
     group_title_kodi: Extra
     name: SWR Event 4
     quality: hd
-    radio: false
     tvg_id: SWREvent4.de
     tvg_logo: tv/swr.png
     tvg_name: SWR Event 4
@@ -1561,7 +1382,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Event 1
     quality: hd
-    radio: false
     tvg_id: NDREvent1.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Event 1
@@ -1570,7 +1390,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Event 2
     quality: hd
-    radio: false
     tvg_id: NDREvent2.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Event 2
@@ -1579,7 +1398,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Event 3
     quality: hd
-    radio: false
     tvg_id: NDREvent3.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Event 3
@@ -1588,7 +1406,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Spezial 1
     quality: hd
-    radio: false
     tvg_id: NDRSpezial1.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Spezial 1
@@ -1597,7 +1414,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Spezial 2
     quality: hd
-    radio: false
     tvg_id: NDRSpezial2.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Spezial 2
@@ -1606,7 +1422,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Spezial 3
     quality: hd
-    radio: false
     tvg_id: NDRSpezial3.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Spezial 3
@@ -1615,7 +1430,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Spezial 4
     quality: hd
-    radio: false
     tvg_id: NDRSpezial4.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Spezial 4
@@ -1624,7 +1438,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Spezial 5
     quality: hd
-    radio: false
     tvg_id: NDRSpezial5.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Spezial 5
@@ -1633,7 +1446,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Spezial 6
     quality: hd
-    radio: false
     tvg_id: NDRSpezial6.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Spezial 6
@@ -1642,7 +1454,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Spezial 7
     quality: hd
-    radio: false
     tvg_id: NDRSpezial7.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Spezial 7
@@ -1651,7 +1462,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Spezial 8
     quality: hd
-    radio: false
     tvg_id: NDRSpezial8.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Spezial 8
@@ -1660,7 +1470,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Spezial 9
     quality: hd
-    radio: false
     tvg_id: NDRSpezial9.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Spezial 9
@@ -1669,7 +1478,6 @@ extra:
     group_title_kodi: Extra
     name: NDR Spezial 10
     quality: hd
-    radio: false
     tvg_id: NDRSpezial10.de
     tvg_logo: tv/ndr.png
     tvg_name: NDR Spezial 10
@@ -1678,7 +1486,6 @@ extra:
     group_title_kodi: Extra
     name: BR Event 1
     quality: hd
-    radio: false
     tvg_id: BREvent1.de
     tvg_logo: tv/br.png
     tvg_name: BR Event 1
@@ -1687,7 +1494,6 @@ extra:
     group_title_kodi: Extra
     name: BR Event 2
     quality: hd
-    radio: false
     tvg_id: BREvent2.de
     tvg_logo: tv/br.png
     tvg_name: BR Event 2
@@ -1696,7 +1502,6 @@ extra:
     group_title_kodi: Extra
     name: BR Event 3
     quality: hd
-    radio: false
     tvg_id: BREvent3.de
     tvg_logo: tv/br.png
     tvg_name: BR Event 3
@@ -1705,7 +1510,6 @@ extra:
     group_title_kodi: Extra
     name: BR Event 4
     quality: hd
-    radio: false
     tvg_id: BREvent4.de
     tvg_logo: tv/br.png
     tvg_name: BR Event 4
@@ -1714,7 +1518,6 @@ extra:
     group_title_kodi: Extra
     name: MDR+ 1
     quality: hd
-    radio: false
     tvg_id: MDRPlus1.de
     tvg_logo: tv/mdr.png
     tvg_name: MDR+ 1
@@ -1723,7 +1526,6 @@ extra:
     group_title_kodi: Extra
     name: MDR+ 2
     quality: hd
-    radio: false
     tvg_id: MDRPlus2.de
     tvg_logo: tv/mdr.png
     tvg_name: MDR+ 2
@@ -1732,7 +1534,6 @@ extra:
     group_title_kodi: Extra
     name: MDR+ 3
     quality: hd
-    radio: false
     tvg_id: MDRPlus3.de
     tvg_logo: tv/mdr.png
     tvg_name: MDR+ 3
@@ -1741,7 +1542,6 @@ extra:
     group_title_kodi: Extra
     name: MDR+ 4
     quality: hd
-    radio: false
     tvg_id: MDRPlus4.de
     tvg_logo: tv/mdr.png
     tvg_name: MDR+ 4
@@ -1750,7 +1550,6 @@ extra:
     group_title_kodi: Extra
     name: MDR+ 5
     quality: hd
-    radio: false
     tvg_id: MDRPlus5.de
     tvg_logo: tv/mdr.png
     tvg_name: MDR+ 5
@@ -1759,7 +1558,6 @@ extra:
     group_title_kodi: Extra
     name: HR Event 1
     quality: hd
-    radio: false
     tvg_id: HREvent1.de
     tvg_logo: tv/hr.png
     tvg_name: HR Event 1
@@ -1768,7 +1566,6 @@ extra:
     group_title_kodi: Extra
     name: HR Event 2
     quality: hd
-    radio: false
     tvg_id: HREvent2.de
     tvg_logo: tv/hr.png
     tvg_name: HR Event 2
@@ -1777,7 +1574,6 @@ extra:
     group_title_kodi: Extra
     name: rbb Event 1
     quality: hd
-    radio: false
     tvg_id: RBBEvent1.de
     tvg_logo: tv/rbb.png
     tvg_name: rbb Event 1
@@ -1786,7 +1582,6 @@ extra:
     group_title_kodi: Extra
     name: rbb Event 2
     quality: hd
-    radio: false
     tvg_id: RBBEvent2.de
     tvg_logo: tv/rbb.png
     tvg_name: rbb Event 2
@@ -1795,7 +1590,6 @@ extra:
     group_title_kodi: Extra;Information / Bildung
     name: Parlamentsfernsehen 1
     quality: hd
-    radio: false
     tvg_logo: tv/parlamentsfernsehen.png
     tvg_name: Parlamentsfernsehen 1
     url: https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
@@ -1803,7 +1597,6 @@ extra:
     group_title_kodi: Extra;Information / Bildung
     name: Parlamentsfernsehen 2
     quality: hd
-    radio: false
     tvg_logo: tv/parlamentsfernsehen.png
     tvg_name: Parlamentsfernsehen 2
     url: https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
@@ -1811,7 +1604,6 @@ extra:
     group_title_kodi: Extra;Information / Bildung
     name: Parlamentsfernsehen 3
     quality: hd
-    radio: false
     tvg_logo: tv/parlamentsfernsehen.png
     tvg_name: Parlamentsfernsehen 3
     url: https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
@@ -1819,7 +1611,6 @@ extra:
     group_title_kodi: Extra;Information / Bildung
     name: Parlamentsfernsehen 4
     quality: hd
-    radio: false
     tvg_logo: tv/parlamentsfernsehen.png
     tvg_name: Parlamentsfernsehen 4
     url: https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
@@ -1827,7 +1618,6 @@ extra:
     group_title_kodi: Extra;Information / Bildung
     name: EbS Live (Europe by Satellite)
     quality: hd
-    radio: false
     tvg_logo: tv/ebs.png
     tvg_name: EbS Live (Europe by Satellite)
     url: https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
@@ -1835,7 +1625,6 @@ extra:
     group_title_kodi: Extra;Information / Bildung
     name: EbS+ Live (Europe by Satellite)
     quality: hd
-    radio: false
     tvg_logo: tv/ebs.png
     tvg_name: EbS+ Live (Europe by Satellite)
     url: https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
@@ -1844,7 +1633,6 @@ atch:
     group_title_kodi: International;Spartenprogramm
     name: ServusTV HD (AT)
     quality: hd
-    radio: false
     tvg_id: ServusTV.at
     tvg_logo: tv/servustvhd.png
     tvg_name: ServusTV HD (AT)
@@ -1853,7 +1641,6 @@ atch:
     group_title_kodi: International;Spartenprogramm
     name: Krone.TV
     quality: sd
-    radio: false
     tvg_id: KroneTV.at
     tvg_logo: tv/kronetv.png
     tvg_name: Krone.TV
@@ -1862,7 +1649,6 @@ atch:
     group_title_kodi: International;Spartenprogramm
     name: Okto
     quality: hd
-    radio: false
     tvg_id: OKTO.at
     tvg_logo: tv/okto.png
     tvg_name: Okto
@@ -1871,7 +1657,6 @@ atch:
     group_title_kodi: International
     name: ORF eins HD
     quality: hd
-    radio: false
     tvg_id: ORF1.at
     tvg_logo: tv/orf1hd.png
     tvg_name: ORF eins HD
@@ -1880,7 +1665,6 @@ atch:
     group_title_kodi: International
     name: ORF 2 HD
     quality: hd
-    radio: false
     tvg_id: ORF2.at
     tvg_logo: tv/orf2hd.png
     tvg_name: ORF 2 HD
@@ -1889,7 +1673,6 @@ atch:
     group_title_kodi: International
     name: ORF III HD
     quality: hd
-    radio: false
     tvg_id: ORF3.at
     tvg_logo: tv/orf3hd.png
     tvg_name: ORF III HD
@@ -1898,7 +1681,6 @@ atch:
     group_title_kodi: International;Sport
     name: ORF SPORT +
     quality: hd
-    radio: false
     tvg_id: ORFSport.at
     tvg_logo: tv/orfsportplushd.png
     tvg_name: ORF SPORT +
@@ -1907,7 +1689,6 @@ atch:
     group_title_kodi: International
     name: dorf tv
     quality: sd
-    radio: false
     tvg_logo: tv/dorftv.png
     tvg_name: dorf tv
     url: https://stream.openplayout.org/hls/dorf_high/index.m3u8
@@ -1915,7 +1696,6 @@ atch:
     group_title_kodi: International
     name: RE eins TV
     quality: sd
-    radio: false
     tvg_logo: tv/reeins.png
     tvg_name: RE eins TV
     url: http://www.reeins.tv:1935/live/re1/playlist.m3u8
@@ -1923,7 +1703,6 @@ atch:
     group_title_kodi: International
     name: Tirol TV
     quality: sd
-    radio: false
     tvg_logo: tv/tiroltv.png
     tvg_name: Tirol TV
     url: https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
@@ -1931,7 +1710,6 @@ atch:
     group_title_kodi: International
     name: oe24 TV
     quality: sd
-    radio: false
     tvg_id: OE24TV.at
     tvg_logo: tv/oe24tv.png
     tvg_name: oe24 TV
@@ -1940,7 +1718,6 @@ atch:
     group_title_kodi: International
     name: M4TV
     quality: sd
-    radio: false
     tvg_logo: tv/m4tv.png
     tvg_name: M4TV
     url: https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
@@ -1948,7 +1725,6 @@ atch:
     group_title_kodi: International
     name: RTV (AT)
     quality: sd
-    radio: false
     tvg_logo: tv/rtvat.png
     tvg_name: RTV (AT)
     url: http://iptv.rtv-ooe.at/stream.m3u8
@@ -1956,7 +1732,6 @@ atch:
     group_title_kodi: International
     name: W24 TV
     quality: sd
-    radio: false
     tvg_id: W24.at
     tvg_logo: tv/w24.png
     tvg_name: W24 TV
@@ -1965,7 +1740,6 @@ atch:
     group_title_kodi: International;Musik
     name: Kronehit TV
     quality: hd
-    radio: false
     tvg_logo: tv/kronehittv.png
     tvg_name: Kronehit TV
     url: https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
@@ -1973,7 +1747,6 @@ atch:
     group_title_kodi: International;Musik
     name: Melodie TV
     quality: hd
-    radio: false
     tvg_logo: tv/melodietv.png
     tvg_name: Melodie TV
     url: https://www.youtube.com/embed/1nHkPNp4Yc0
@@ -1981,7 +1754,6 @@ atch:
     group_title_kodi: International
     name: TeleZüri HD
     quality: sd
-    radio: false
     tvg_id: TeleZuri.ch
     tvg_logo: tv/telezueri.png
     tvg_name: TeleZüri HD
@@ -1990,7 +1762,6 @@ atch:
     group_title_kodi: International
     name: TeleBärn HD
     quality: sd
-    radio: false
     tvg_logo: tv/telebaern.png
     tvg_name: TeleBärn HD
     url: http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
@@ -1998,7 +1769,6 @@ atch:
     group_title_kodi: International
     name: Tele M1 HD
     quality: sd
-    radio: false
     tvg_id: TeleM1.ch
     tvg_logo: tv/telem1.png
     tvg_name: Tele M1 HD
@@ -2007,7 +1777,6 @@ atch:
     group_title_kodi: International
     name: TVO (CH)
     quality: sd
-    radio: false
     tvg_id: TVO.ch
     tvg_logo: tv/tvo_ch.png
     tvg_name: TVO (CH)
@@ -2016,7 +1785,6 @@ atch:
     group_title_kodi: International
     name: TeleBielingue
     quality: sd
-    radio: false
     tvg_id: TeleBielingue.ch
     tvg_logo: tv/telebielingue.png
     tvg_name: TeleBielingue
@@ -2025,7 +1793,6 @@ atch:
     group_title_kodi: International;Musik
     name: TVM3
     quality: sd
-    radio: false
     tvg_id: TVM3.ch
     tvg_logo: tv/tvm3.png
     tvg_name: TVM3
@@ -2034,7 +1801,6 @@ atch:
     group_title_kodi: International
     name: Telebasel
     quality: sd
-    radio: false
     tvg_logo: tv/telebasel.png
     tvg_name: Telebasel
     url: http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
@@ -2043,7 +1809,6 @@ usuk:
     group_title_kodi: International;Nachrichten
     name: ABC News
     quality: hd
-    radio: false
     tvg_logo: tv/abcnews.png
     tvg_name: ABC News
     url: https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -2051,7 +1816,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim
     quality: sd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim
     url: http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
@@ -2059,7 +1823,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (Rick and Morty Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Rick and Morty
     url: https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
@@ -2067,7 +1830,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (Last Stream on the Left Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Last Stream on the Left
     url: https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_7.m3u8
@@ -2075,7 +1837,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (Off the Air Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Off the Air
     url: https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_7.m3u8
@@ -2083,7 +1844,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (Metalocalypse Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Metalocalypse
     url: https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_7.m3u8
@@ -2091,7 +1851,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (Robot Chicken Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Robot Chicken
     url: https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
@@ -2099,7 +1858,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (Samurai Jack Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Samurai Jack
     url: https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
@@ -2107,7 +1865,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (Aqua Teen Hunger Force Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Aqua Teen Hunger Force
     url: https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8
@@ -2115,7 +1872,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (The Eric Andre Show Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - The Eric Andre Show
     url: https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_7.m3u8
@@ -2123,7 +1879,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (The Venture Brothers Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - The Venture Brothers
     url: https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
@@ -2131,7 +1886,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (Channel 5 Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Channel 5
     url: https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_7.m3u8
@@ -2139,7 +1893,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (Infomercials Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Infomercials
     url: https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_7.m3u8
@@ -2147,7 +1900,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (Black Jesus Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Black Jesus
     url: https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_7.m3u8
@@ -2155,7 +1907,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (Your Pretty Face is Going to Hell Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Your Pretty Face is Going to Hell
     url: https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_7.m3u8
@@ -2163,7 +1914,6 @@ usuk:
     group_title_kodi: International;Comedy
     name: Adult Swim (Dream Corp LLC Marathon)
     quality: hd
-    radio: false
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Dream Corp LLC
     url: https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
@@ -2171,7 +1921,6 @@ usuk:
     group_title_kodi: International;Religion;Kinder / Jugend
     name: JUCE TV
     quality: sd
-    radio: false
     tvg_logo: tv/jucetv.png
     tvg_name: JUCE TV
     url: http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
@@ -2179,7 +1928,6 @@ usuk:
     group_title_kodi: International;Information / Bildung
     name: NASA TV
     quality: sd
-    radio: false
     tvg_id: NASA.us
     tvg_logo: tv/nasatv.png
     tvg_name: NASA TV
@@ -2188,7 +1936,6 @@ usuk:
     group_title_kodi: International;Nachrichten
     name: CBSN
     quality: hd
-    radio: false
     tvg_logo: tv/cbsn.png
     tvg_name: CBS News
     url: https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
@@ -2196,7 +1943,6 @@ usuk:
     group_title_kodi: International;Nachrichten
     name: CBN News
     quality: sd
-    radio: false
     tvg_logo: tv/cbnnews.png
     tvg_name: CBN News
     url: https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
@@ -2204,7 +1950,6 @@ usuk:
     group_title_kodi: International;Wirtschaft
     name: Bloomberg TV
     quality: hd
-    radio: false
     tvg_id: Bloomberg.nws
     tvg_logo: tv/bloombergtv.png
     tvg_name: Bloomberg TV
@@ -2213,7 +1958,6 @@ usuk:
     group_title_kodi: International;Religion
     name: SBN
     quality: sd
-    radio: false
     tvg_id: SonLife.uk
     tvg_logo: tv/sbn.png
     tvg_name: SBN
@@ -2222,7 +1966,6 @@ usuk:
     group_title_kodi: International;Religion
     name: GOD TV
     quality: hd
-    radio: false
     tvg_id: GODChannel.uk
     tvg_logo: tv/godtv.png
     tvg_name: GOD TV
@@ -2231,7 +1974,6 @@ usuk:
     group_title_kodi: International;Nachrichten;Information / Bildung
     name: Voice of America
     quality: sd
-    radio: false
     tvg_id: VOA.com
     tvg_logo: tv/voiceofamerica.png
     tvg_name: Voice of America
@@ -2240,7 +1982,6 @@ usuk:
     group_title_kodi: International;Nachrichten
     name: KTVU Fox 2
     quality: hd
-    radio: false
     tvg_logo: tv/ktvufox2.png
     tvg_name: KTVU Fox 2
     url: http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
@@ -2248,7 +1989,6 @@ usuk:
     group_title_kodi: International;Nachrichten
     name: WGN-TV
     quality: hd
-    radio: false
     tvg_logo: tv/wgntv.png
     tvg_name: WGN-TV
     url: http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
@@ -2256,7 +1996,6 @@ usuk:
     group_title_kodi: International;Musik
     name: CMC
     quality: sd
-    radio: false
     tvg_logo: tv/cmc.png
     tvg_name: CMC
     url: https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
@@ -2264,7 +2003,6 @@ usuk:
     group_title_kodi: International;Sonstiges
     name: Hunt Channel
     quality: sd
-    radio: false
     tvg_logo: tv/huntchannel.png
     tvg_name: Hunt Channel
     url: https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
@@ -2272,7 +2010,6 @@ usuk:
     group_title_kodi: International;Teleshopping
     name: Create & Craft TV
     quality: hd
-    radio: false
     tvg_id: CreateCraft.uk
     tvg_logo: tv/createandcraft.png
     tvg_name: Create & Craft TV
@@ -2281,7 +2018,6 @@ usuk:
     group_title_kodi: International;Nachrichten
     name: Sky News
     quality: hd
-    radio: false
     tvg_id: SkyNews.uk
     tvg_logo: tv/skynews.png
     tvg_name: Sky News
@@ -2290,7 +2026,6 @@ usuk:
     group_title_kodi: International;Nachrichten
     name: London Live
     quality: hd
-    radio: false
     tvg_id: LondonLive.uk
     tvg_logo: tv/londonlive.png
     tvg_name: London Live
@@ -2299,7 +2034,6 @@ usuk:
     group_title_kodi: Musik
     name: 4Music
     quality: sd
-    radio: false
     tvg_id: 4Music.uk
     tvg_logo: tv/4music.png
     tvg_name: 4Music
@@ -2309,7 +2043,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: Sky News Extra
     quality: hd
-    radio: false
     tvg_id: SkyNewsExtra.au
     tvg_logo: tv/skynewsextra.png
     tvg_name: Sky News Extra
@@ -2318,7 +2051,6 @@ international:
     group_title_kodi: International;Musik
     name: Activa TV
     quality: hd
-    radio: false
     tvg_id: ActivaTV.es
     tvg_logo: tv/activatv.png
     tvg_name: Activa TV
@@ -2327,7 +2059,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: Deutsche Welle (ES)
     quality: hd
-    radio: false
     tvg_id: DeutscheWelleES.de
     tvg_logo: tv/deutschewelle.png
     tvg_name: Deutsche Welle (ES)
@@ -2336,7 +2067,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: Press TV
     quality: hd
-    radio: false
     tvg_id: PressTV.uk
     tvg_logo: tv/presstv.png
     tvg_name: Press TV
@@ -2345,7 +2075,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: CHCH
     quality: hd
-    radio: false
     tvg_id: CHCH.cdn
     tvg_logo: tv/chch.png
     tvg_name: CHCH
@@ -2354,7 +2083,6 @@ international:
     group_title_kodi: International
     name: TVNZ 1
     quality: sd
-    radio: false
     tvg_logo: tv/tvnz1.png
     tvg_name: TVNZ 1
     url: https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
@@ -2362,7 +2090,6 @@ international:
     group_title_kodi: International
     name: TVNZ 2
     quality: sd
-    radio: false
     tvg_logo: tv/tvnz2.png
     tvg_name: TVNZ 2
     url: https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
@@ -2370,7 +2097,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: Three
     quality: hd
-    radio: false
     tvg_logo: tv/three.png
     tvg_name: Three
     url: http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
@@ -2378,7 +2104,6 @@ international:
     group_title_kodi: International;Vollprogramm
     name: ARTE HD (FR)
     quality: hd
-    radio: false
     tvg_id: ARTE.fr
     tvg_logo: tv/artehd.png
     tvg_name: ARTE HD (FR)
@@ -2387,7 +2112,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: France 24
     quality: hd
-    radio: false
     tvg_id: France24.fr
     tvg_logo: tv/france24.png
     tvg_name: France 24
@@ -2396,7 +2120,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: BFMTV
     quality: hd
-    radio: false
     tvg_id: BFMTV.fr
     tvg_logo: tv/bfmtv.png
     tvg_name: BFMTV
@@ -2405,7 +2128,6 @@ international:
     group_title_kodi: International;Musik
     name: XITE
     quality: hd
-    radio: false
     tvg_logo: tv/xite.png
     tvg_name: XITE
     url: https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
@@ -2413,7 +2135,6 @@ international:
     group_title_kodi: International;Musik
     name: TV 538
     quality: hd
-    radio: false
     tvg_id: TV538.nl
     tvg_logo: tv/tv538.png
     tvg_name: TV 538
@@ -2422,7 +2143,6 @@ international:
     group_title_kodi: International
     name: SDF
     quality: sd
-    radio: false
     tvg_logo: tv/sdf.png
     tvg_name: SDF
     url: https://livestream.goinfo.it/SDFLive/sdfros/playlist.m3u8
@@ -2430,7 +2150,6 @@ international:
     group_title_kodi: International;Musik
     name: m2o Tv
     quality: hd
-    radio: false
     tvg_logo: tv/m2otv.png
     tvg_name: m2o TV
     url: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
@@ -2438,7 +2157,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: Rai News 24
     quality: hd
-    radio: false
     tvg_id: RaiNews.it
     tvg_logo: tv/rainews24.png
     tvg_name: Rai News 24
@@ -2447,7 +2165,6 @@ international:
     group_title_kodi: International
     name: Fjorton
     quality: sd
-    radio: false
     tvg_logo: tv/fjorton.png
     tvg_name: Fjorton
     url: http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
@@ -2455,7 +2172,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: Digi 24 HD
     quality: hd
-    radio: false
     tvg_id: digi24.ro
     tvg_logo: tv/digi24hd.png
     tvg_name: Digi 24 HD
@@ -2464,7 +2180,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: ProTv News
     quality: hd
-    radio: false
     tvg_id: ProTVInternational.ro
     tvg_logo: tv/protvnews.png
     tvg_name: ProTv News
@@ -2473,7 +2188,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: Realitatea TV
     quality: hd
-    radio: false
     tvg_id: RealitateaTV.ro
     tvg_logo: tv/realitateatv.png
     tvg_name: Realitatea TV
@@ -2482,7 +2196,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: Romania TV
     quality: hd
-    radio: false
     tvg_id: RomaniaTV.ro
     tvg_logo: tv/romaniatv.png
     tvg_name: Romania TV
@@ -2491,7 +2204,6 @@ international:
     group_title_kodi: International
     name: Sitel
     quality: sd
-    radio: false
     tvg_logo: tv/sitel.png
     tvg_name: Sitel
     url: http://51.255.92.232:1935/sitel/sitel.stream/playlist.m3u8
@@ -2499,7 +2211,6 @@ international:
     group_title_kodi: International
     name: Kanal 5
     quality: sd
-    radio: false
     tvg_logo: tv/kanal5.png
     tvg_name: Kanal 5
     url: http://37.187.158.217:8081/kanal5/kanal5/playlist.m3u8
@@ -2507,7 +2218,6 @@ international:
     group_title_kodi: International
     name: Alfa
     quality: sd
-    radio: false
     tvg_id: Alfa.hr
     tvg_logo: tv/alfa.png
     tvg_name: Alfa
@@ -2516,7 +2226,6 @@ international:
     group_title_kodi: International
     name: Telma
     quality: sd
-    radio: false
     tvg_logo: tv/telma.png
     tvg_name: Telma
     url: http://37.187.158.217:8081/telma/telma_360pp/playlist.m3u8
@@ -2524,7 +2233,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: 24 Vesti
     quality: sd
-    radio: false
     tvg_logo: tv/24vesti.png
     tvg_name: 24 Vesti
     url: http://37.187.158.217:8081/24vesti/24vesti/playlist.m3u8
@@ -2532,7 +2240,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: TRT World HD
     quality: hd
-    radio: false
     tvg_id: TRTworld.nws
     tvg_logo: tv/trtworld.png
     tvg_name: TRT World HD
@@ -2541,7 +2248,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: TV Rain (Doschd)
     quality: hd
-    radio: false
     tvg_id: tvrain.ru
     tvg_logo: tv/tvrain.png
     tvg_name: TV Rain
@@ -2550,7 +2256,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: MetroTV
     quality: sd
-    radio: false
     tvg_logo: tv/metrotv.png
     tvg_name: MetroTV
     url: http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
@@ -2558,7 +2263,6 @@ international:
     group_title_kodi: International;Nachrichten;Dokumentationen
     name: NHK WORLD TV
     quality: hd
-    radio: false
     tvg_logo: tv/nhkworldtv.png
     tvg_name: NHK WORLD TV
     url: https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -2566,7 +2270,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: Al Jazeera
     quality: sd
-    radio: false
     tvg_id: AlJazeeraArabe.nws
     tvg_logo: tv/aljazeera.png
     tvg_name: Al Jazeera
@@ -2575,7 +2278,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: Al Jazeera English
     quality: sd
-    radio: false
     tvg_id: AlJazeera.nws
     tvg_logo: tv/aljazeeraenglish.png
     tvg_name: Al Jazeera English
@@ -2584,7 +2286,6 @@ international:
     group_title_kodi: International;Filme / Serien
     name: Dubai One
     quality: hd
-    radio: false
     tvg_id: DubaiOne.net
     tvg_logo: tv/dubaione.png
     tvg_name: Dubai One
@@ -2593,7 +2294,6 @@ international:
     group_title_kodi: International
     name: KVF
     quality: sd
-    radio: false
     tvg_logo: tv/kvf.png
     tvg_name: KVF
     url: https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w121411721_b5000000_slfao.m3u8
@@ -2601,7 +2301,6 @@ international:
     group_title_kodi: International
     name: ALBUK TV
     quality: hd
-    radio: false
     tvg_logo: tv/albuktv.png
     tvg_name: ALBUK TV
     url: http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
@@ -2609,7 +2308,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: RTÉ News Now
     quality: hd
-    radio: false
     tvg_id: RTENewsNow.ie
     tvg_logo: tv/rtenewsnow.png
     tvg_name: RTÉ News Now
@@ -2618,7 +2316,6 @@ international:
     group_title_kodi: International;Filme / Serien
     name: Mello TV
     quality: hd
-    radio: false
     tvg_logo: tv/mellotv.png
     tvg_name: Mello TV
     url: https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
@@ -2626,7 +2323,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: Channel NewsAsia
     quality: hd
-    radio: false
     tvg_logo: tv/channelnewsasia.png
     tvg_name: Channel NewsAsia
     url: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -2634,7 +2330,6 @@ international:
     group_title_kodi: International;Nachrichten
     name: NKNews
     quality: sd
-    radio: false
     tvg_logo: tv/nknews.png
     tvg_name: NKNews
     url: https://tv.nknews.org/tvdash/stream.mpd
@@ -2642,7 +2337,6 @@ international:
     group_title_kodi: International
     name: Arirang TV
     quality: hd
-    radio: false
     tvg_id: "ArirangTv.kr"
     tvg_logo: tv/arirangtv.png
     tvg_name: Arirang TV
@@ -2651,7 +2345,6 @@ international:
     group_title_kodi: International
     name: Yle TV1
     quality: hd
-    radio: false
     tvg_id: yle1.fi
     tvg_logo: tv/yletv1.png
     tvg_name: Yle TV1
@@ -2660,7 +2353,6 @@ international:
     group_title_kodi: International
     name: Yle TV2
     quality: hd
-    radio: false
     tvg_id: yle2.fi
     tvg_logo: tv/yletv2.png
     tvg_name: Yle TV2
@@ -2669,7 +2361,6 @@ international:
     group_title_kodi: International
     name: Yle Teema & Fem
     quality: hd
-    radio: false
     tvg_id: yleteemafem.fi
     tvg_logo: tv/yleteemafem.png
     tvg_name: Yle Teema & Fem
@@ -2678,7 +2369,6 @@ international:
     group_title_kodi: International
     name: Taivas TV7
     quality: hd
-    radio: false
     tvg_id: taivastv7.fi
     tvg_logo: tv/taivastv7.png
     tvg_name: Taivas TV7
@@ -2687,7 +2377,6 @@ international:
     group_title_kodi: International
     name: Alfa TV
     quality: sd
-    radio: false
     tvg_id: alfatv.fi
     tvg_logo: tv/alfatv.png
     tvg_name: Alfa TV
@@ -2696,7 +2385,6 @@ international:
     group_title_kodi: International;Musik
     name: 4 FunTV
     quality: hd
-    radio: false
     tvg_id: 4fun.tv
     tvg_logo: tv/4funtv.png
     tvg_name: 4 FunTV
@@ -2705,7 +2393,6 @@ international:
     group_title_kodi: International
     name: SferaTV
     quality: sd
-    radio: false
     tvg_id: sferatv.pl
     tvg_logo: tv/sferatv.png
     tvg_name: SferaTV
