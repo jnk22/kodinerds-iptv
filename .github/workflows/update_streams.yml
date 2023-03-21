@@ -7,11 +7,15 @@ on:
       - master
       - update-script
     paths:
-      - sources/**
+      - sources/radio.yaml
+      - sources/tv.yaml
 
 jobs:
   run:
     runs-on: ubuntu-latest
+    env:
+      IPTV_OUTPUT_DIR: iptv
+      LOGO_BASE_PATH: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/ # yamllint disable-line
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -20,9 +24,7 @@ jobs:
         run: pipx install .
 
       - name: Update IPTV lists
-        run: kn-iptv generate --output-dir iptv --logo-base-path \
-          https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/ \
-          sources/tv.yaml sources/radio.yaml
+        run: kn-iptv generate --output-dir "$IPTV_OUTPUT_DIR" --logo-base-path "$LOGO_BASE_PATH" sources/tv.yaml sources/radio.yaml # yamllint disable-line
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
