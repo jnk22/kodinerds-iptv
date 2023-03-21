@@ -40,19 +40,22 @@ class LineWriter:
 
     def _header_line(self, stream: Stream) -> list[str]:
         # Return header line for stream.
-        logo_line = (
-            f' tvg-logo="{self.logo_base_path}{stream.tvg_logo}"'
-            if self.logo_base_path
-            else ""
+        raw_lines = (
+            "#EXTINF:-1",
+            f'tvg-name="{stream.tvg_name}"',
+            None if stream.radio else f'tvg-id="{stream.tvg_id}"',
+            f'group-title="{self._group_title(stream)}"',
+            'radio="true"' if stream.radio else None,
+            (
+                f'tvg-logo="{self.logo_base_path}{stream.tvg_logo}"'
+                if self.logo_base_path
+                else None
+            ),
         )
-        radio_line = ' radio="true"' if stream.radio else ""
-        header_line = f"""
-        #EXTINF:-1
-        tvg-name="{stream.tvg_name}"
-        {"" if stream.radio else f'tvg-id="{stream.tvg_id}"'}
-        group-title="{self._group_title(stream)}"{radio_line}{logo_line},{stream.name}"""
 
-        return [header_line]
+        lines = " ".join(line for line in raw_lines if line)
+
+        return [f"{lines},{stream.name}"]
 
     def _stream_line(self, stream: Stream) -> str:
         # Return stream line inclurding URL for stream.
