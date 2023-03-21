@@ -1,12 +1,15 @@
 """Command line interface for kodinerds-iptv."""
 
 from pathlib import Path
+from typing import Optional
 
 from typer import Argument, Option, Typer
 
 from .check_availability import check_wrapper
 from .enums import ListType
 from .generate_lists import generate_wrapper
+
+StrOrNone = Optional[str]
 
 DEFAULT_LIST_TYPES = [lt.value for lt in {ListType.CLEAN, ListType.KODI, ListType.PIPE}]
 
@@ -30,7 +33,9 @@ def generate(
     list_type: list[ListType] = Option(DEFAULT_LIST_TYPES, help="List type(s)."),
     output_dir: Path = Option("output", writable=True, help="Output directory."),
     output_extension: str = Option("m3u", help="Output file extension."),
-    logo_base_path: str = Option("", help="Prepended base path for channel logos."),
+    logo_base_path: StrOrNone = Option(
+        None, help="Prepended base path for channel logos."
+    ),
 ) -> None:
     """Generate IPTV lists based on YAML source file."""
     generate_wrapper(sources, list_type, output_dir, output_extension, logo_base_path)

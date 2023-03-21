@@ -18,7 +18,8 @@ class StreamState(Enum):
     """TODO."""
 
     SUCCESS = "success"
-    FAILED = "failed"
+    WARNING = "warning"
+    ERROR = "error"
     SKIPPED = "skipped"
 
 
@@ -79,13 +80,11 @@ async def check_availability(
                     check = StreamCheck(stream, state=StreamState.SKIPPED)
 
                 elif isinstance(response, Exception):
-                    check = StreamCheck(
-                        stream, StreamState.FAILED, reason=str(response)
-                    )
+                    check = StreamCheck(stream, StreamState.ERROR, reason=str(response))
 
                 elif response.status_code != HTTPStatus.OK:
                     http_error = f"HTTP {response.status_code}"
-                    check = StreamCheck(stream, StreamState.FAILED, reason=http_error)
+                    check = StreamCheck(stream, StreamState.ERROR, reason=http_error)
 
                 else:
                     check = StreamCheck(stream, state=StreamState.SUCCESS)
@@ -107,6 +106,7 @@ async def skip_check() -> StreamState:
 def write_results(results: list[StreamCheck], output_file: Path) -> None:
     """TODO."""
     print(f"Writing file: {output_file}")
-    output_file.parent.mkdir(parents=True, exist_ok=True)
     lines = [result.output for result in results]
+
+    output_file.parent.mkdir(parents=True, exist_ok=True)
     output_file.write_text("\n".join(lines))

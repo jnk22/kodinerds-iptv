@@ -44,10 +44,10 @@ ignore = [
   "COM812", # flake8-commas: trailing-comma-on-bare-tuple-prohibited
 ]
 unfixable = [
-  "T201", # flake8-print: print-found
+  "T201",   # flake8-print: print-found
   "ERA001", # eradicate: commented-out-code
-  "F401", # Pyflakes: unused-import
-  "F841", # Pyflakes: unused-variable
+  "F401",   # Pyflakes: unused-import
+  "F841",   # Pyflakes: unused-variable
 ]
 
 [tool.ruff.per-file-ignores]

@@ -9,13 +9,15 @@ from .io_utils import read_streams
 from .line_writer import AutoLineWriter
 from .stream import StreamCategory
 
+EXTM3U_HEADER = "#EXTM3U"
+
 
 def generate_wrapper(
     sources: list[Path],
     list_type: list[ListType],
     output_dir: Path,
     output_extension: str,
-    logo_base_path: str,
+    logo_base_path: str | None,
 ) -> None:
     """TODO."""
     source_content: dict[str, list[StreamCategory]] = {}
@@ -33,13 +35,15 @@ def generate_wrapper(
 
         print(f"Writing file: {output_file}")
         output_file.parent.mkdir(parents=True, exist_ok=True)
-        output_file.write_text("\n".join(("#EXTM3U", *streams, "")))
+        output_file.write_text("\n".join((EXTM3U_HEADER, *streams, "")))
 
     print("Finished")
 
 
 def generate_stream_lines(
-    content: dict[str, list[StreamCategory]], list_type: ListType, logo_base_path: str
+    content: dict[str, list[StreamCategory]],
+    list_type: ListType,
+    logo_base_path: str | None,
 ) -> dict[str, list[str]]:
     """Generate stream lines for all categories based on type.
 
@@ -61,7 +65,9 @@ def generate_stream_lines(
         A nested dictionary of lists containing parsed lines of content.
     """
     stream_lines: defaultdict[str, list[str]] = defaultdict(list)
-    line_writer = AutoLineWriter.from_list_type(list_type, logo_base_path)
+    line_writer = AutoLineWriter.from_list_type(
+        list_type, logo_base_path=logo_base_path
+    )
     full_path = f"{list_type.value.lower()}/{list_type.value.lower()}"
 
     for source_name, stream_groups in content.items():

@@ -149,7 +149,6 @@ main:
     name: Red Bull TV
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/redbulltv.png
     tvg_name: Red Bull TV
     url: https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -401,7 +400,6 @@ main:
     name: VISIT-X.tv
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/visitxtv.png
     tvg_name: VISIT-X.tv
     url: https://stream.visit-x.tv/vxtv/live/playlist.m3u8
@@ -456,7 +454,6 @@ shop:
     name: QVC Beauty & Style
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/qvcbeautystyle.png
     tvg_name: QVC Beauty & Style
     url: https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
@@ -791,7 +788,6 @@ local:
     name: ALEX Berlin
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/alexberlin.png
     tvg_name: ALEX Berlin
     url: https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
@@ -809,7 +805,6 @@ local:
     name: Baden TV
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/badentv.png
     tvg_name: Baden TV
     url: http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
@@ -818,7 +813,6 @@ local:
     name: Chemnitz Fernsehen
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/chemnitzfernsehen.png
     tvg_name: Chemnitz Fernsehen
     url: https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
@@ -827,7 +821,6 @@ local:
     name: Dresden Fernsehen
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/dresdenfernsehen.png
     tvg_name: Dresden Fernsehen
     url: https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
@@ -854,7 +847,6 @@ local:
     name: KabelJournal
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/kabeljournal.png
     tvg_name: KabelJournal
     url: https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
@@ -863,7 +855,6 @@ local:
     name: L-TV
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/ltv.png
     tvg_name: L-TV
     url: https://live2.telvi.de/hls/l-tv_s1.m3u8
@@ -872,7 +863,6 @@ local:
     name: Leipzig Fernsehen
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/leipzigfernsehen.png
     tvg_name: Leipzig Fernsehen
     url: https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
@@ -899,7 +889,6 @@ local:
     name: noa4 Hamburg HD
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/noa4.png
     tvg_name: noa4 Hamburg HD
     url: https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
@@ -908,7 +897,6 @@ local:
     name: noa4 Norderstedt HD
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/noa4.png
     tvg_name: noa4 Norderstedt HD
     url: https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
@@ -917,7 +905,6 @@ local:
     name: NRWision HD
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/nrwision.png
     tvg_name: NRWision HD
     url: https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
@@ -926,7 +913,6 @@ local:
     name: Oberpfalz TV
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/oberpfalztv.png
     tvg_name: Oberpfalz TV
     url: https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
@@ -935,7 +921,6 @@ local:
     name: OK4 (Adenau Andernach Koblenz Neuwied)
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okkoblenz.png
     tvg_name: OK4 (Adenau Andernach Koblenz Neuwied)
     url: https://s.ok54.de/abr_ok4/live/playlist.m3u8
@@ -944,7 +929,6 @@ local:
     name: OK54 (Trier)
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/oktrier.png
     tvg_name: OK54 (Trier)
     url: https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
@@ -953,7 +937,6 @@ local:
     name: OK Kaiserslautern
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okkaiserslautern.png
     tvg_name: OK Kaiserslautern
     url: https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
@@ -962,7 +945,6 @@ local:
     name: OK naheTV (Idar-Oberstein)
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/oknahetv.png
     tvg_name: OK naheTV (Idar-Oberstein)
     url: https://s.ok54.de/nahetv/webstream/chunks.m3u8
@@ -971,7 +953,6 @@ local:
     name: OK RheinLokal (Worms)
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okrheinlokal.png
     tvg_name: OK RheinLokal (Worms)
     url: https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
@@ -980,7 +961,6 @@ local:
     name: OK Suedwestpfalz
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/oksuedwestpfalz.png
     tvg_name: OK Suedwestpfalz
     url: https://s.ok54.de/okswp/test/chunks.m3u8
@@ -989,7 +969,6 @@ local:
     name: OK Weinstraße (Neustadt)
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okweinstrasse.png
     tvg_name: OK Weinstraße (Neustadt)
     url: https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
@@ -998,7 +977,6 @@ local:
     name: OK Flensburg
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/fltv.png
     tvg_name: OK Flensburg
     url: https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
@@ -1007,7 +985,6 @@ local:
     name: OK Kiel
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/kieltv.png
     tvg_name: OK Kiel
     url: https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
@@ -1016,7 +993,6 @@ local:
     name: OK Merseburg-Querfurt
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okmerseburg.png
     tvg_name: OK Merseburg-Querfurt
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
@@ -1025,7 +1001,6 @@ local:
     name: OK Rhein-Main (Offenbach Frankfurt)
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okrheinmain.png
     tvg_name: OK Rhein-Main (Offenbach Frankfurt)
     url: https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
@@ -1034,7 +1009,6 @@ local:
     name: OK Fulda
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okfulda.png
     tvg_name: OK Fulda
     url: https://s.ok54.de/mok-fu/livestream/playlist.m3u8
@@ -1043,7 +1017,6 @@ local:
     name: OK Gießen
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okgiessen.png
     tvg_name: OK Gießen
     url: https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
@@ -1052,7 +1025,6 @@ local:
     name: OK Kassel
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okkassel.png
     tvg_name: OK Kassel
     url: https://s.ok54.de/mok-ks/kassel/playlist.m3u8
@@ -1061,7 +1033,6 @@ local:
     name: OK Ludwigshafen
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okludwigshafen.png
     tvg_name: OK Ludwigshafen
     url: https://s.ok54.de/oklu/livestream/playlist.m3u8
@@ -1070,7 +1041,6 @@ local:
     name: OK Dessau
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okdessau.png
     tvg_name: OK Dessau
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
@@ -1079,7 +1049,6 @@ local:
     name: OK Magdeburg
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okmagdeburg.png
     tvg_name: OK Magdeburg
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
@@ -1088,7 +1057,6 @@ local:
     name: OK Salzwedel
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/oksalzwedel.png
     tvg_name: OK Salzwedel
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
@@ -1097,7 +1065,6 @@ local:
     name: OK Stendal
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okstendal.png
     tvg_name: OK Stendal
     url: http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
@@ -1106,7 +1073,6 @@ local:
     name: OK Wernigerode
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/okwernigerode.png
     tvg_name: OK Wernigerode
     url: http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
@@ -1115,7 +1081,6 @@ local:
     name: Tide TV
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/tidetv.png
     tvg_name: Tide TV
     url: https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
@@ -1124,7 +1089,6 @@ local:
     name: BLK Regional TV
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/blkregionaltv.png
     tvg_name: BLK Regional TV
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
@@ -1133,7 +1097,6 @@ local:
     name: kulturmd
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/kulturmd.png
     tvg_name: kulturmd
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
@@ -1142,7 +1105,6 @@ local:
     name: MDF.1
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/mdf1.png
     tvg_name: MDF.1
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
@@ -1151,7 +1113,6 @@ local:
     name: PUNKTum
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/punktum.png
     tvg_name: PUNKTum
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
@@ -1160,7 +1121,6 @@ local:
     name: RFH
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/rfh.png
     tvg_name: RFH
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
@@ -1169,7 +1129,6 @@ local:
     name: WTV (OK Wettin)
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/wtv.png
     tvg_name: WTV (OK Wettin)
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wettin_high/playlist.m3u8
@@ -1178,7 +1137,6 @@ local:
     name: RAN1
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/ran1.png
     tvg_name: RAN1
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
@@ -1187,7 +1145,6 @@ local:
     name: RBW
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/rbw.png
     tvg_name: RBW
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
@@ -1196,7 +1153,6 @@ local:
     name: TV Halle
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/tvhalle.png
     tvg_name: TV Halle
     url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
@@ -1205,7 +1161,6 @@ local:
     name: ELBEKANAL
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/elbekanal.png
     tvg_name: ELBEKANAL
     url: http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
@@ -1214,7 +1169,6 @@ local:
     name: seenluft24
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/seenluft24.png
     tvg_name: seenluft24
     url: https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8
@@ -1223,7 +1177,6 @@ local:
     name: oldenburg eins
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/oldenburgeins.png
     tvg_name: oldenburg eins
     url: https://oeins.de/live/studio.m3u8
@@ -1232,7 +1185,6 @@ local:
     name: Potsdam TV
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/potsdamtv.png
     tvg_name: Potsdam TV
     url: https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
@@ -1241,7 +1193,6 @@ local:
     name: Regio TV Schwaben
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/regiotvschwaben.png
     tvg_name: Regio TV Schwaben
     url: https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
@@ -1259,7 +1210,6 @@ local:
     name: Rhein Neckar Fernsehen
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/rnf.png
     tvg_name: Rhein Neckar Fernsehen
     url: https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
@@ -1277,7 +1227,6 @@ local:
     name: Sylt1
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/sylt1.png
     tvg_name: Sylt1
     url: https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
@@ -1304,7 +1253,6 @@ local:
     name: TV Mittelrhein
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/tvmittelrhein.png
     tvg_name: TV Mittelrhein
     url: https://live2.telvi.de/hls/tvm_hd720.m3u8
@@ -1322,7 +1270,6 @@ local:
     name: TV Würzburg
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/wuerzburgtv.png
     tvg_name: TV Würzburg
     url: https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
@@ -1340,7 +1287,6 @@ local:
     name: TVA
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/tva.png
     tvg_name: TVA
     url: https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
@@ -1358,7 +1304,6 @@ local:
     name: Westerwald TV
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/westerwaldtv.png
     tvg_name: Westerwald TV
     url: https://live2.telvi.de/hls/wwtv.m3u8
@@ -1367,7 +1312,6 @@ local:
     name: teltOwkanal
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/teltOwkanal.png
     tvg_name: teltOwkanal
     url: https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
@@ -1376,7 +1320,6 @@ local:
     name: Ems TV
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/emstv.png
     tvg_name: emstv
     url: https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
@@ -1385,7 +1328,6 @@ local:
     name: FRF24
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/frf24.png
     tvg_name: frf24
     url: https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
@@ -1854,7 +1796,6 @@ extra:
     name: Parlamentsfernsehen 1
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/parlamentsfernsehen.png
     tvg_name: Parlamentsfernsehen 1
     url: https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
@@ -1863,7 +1804,6 @@ extra:
     name: Parlamentsfernsehen 2
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/parlamentsfernsehen.png
     tvg_name: Parlamentsfernsehen 2
     url: https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
@@ -1872,7 +1812,6 @@ extra:
     name: Parlamentsfernsehen 3
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/parlamentsfernsehen.png
     tvg_name: Parlamentsfernsehen 3
     url: https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
@@ -1881,7 +1820,6 @@ extra:
     name: Parlamentsfernsehen 4
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/parlamentsfernsehen.png
     tvg_name: Parlamentsfernsehen 4
     url: https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
@@ -1890,7 +1828,6 @@ extra:
     name: EbS Live (Europe by Satellite)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/ebs.png
     tvg_name: EbS Live (Europe by Satellite)
     url: https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
@@ -1899,7 +1836,6 @@ extra:
     name: EbS+ Live (Europe by Satellite)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/ebs.png
     tvg_name: EbS+ Live (Europe by Satellite)
     url: https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
@@ -1972,7 +1908,6 @@ atch:
     name: dorf tv
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/dorftv.png
     tvg_name: dorf tv
     url: https://stream.openplayout.org/hls/dorf_high/index.m3u8
@@ -1981,7 +1916,6 @@ atch:
     name: RE eins TV
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/reeins.png
     tvg_name: RE eins TV
     url: http://www.reeins.tv:1935/live/re1/playlist.m3u8
@@ -1990,7 +1924,6 @@ atch:
     name: Tirol TV
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/tiroltv.png
     tvg_name: Tirol TV
     url: https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
@@ -2008,7 +1941,6 @@ atch:
     name: M4TV
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/m4tv.png
     tvg_name: M4TV
     url: https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
@@ -2017,7 +1949,6 @@ atch:
     name: RTV (AT)
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/rtvat.png
     tvg_name: RTV (AT)
     url: http://iptv.rtv-ooe.at/stream.m3u8
@@ -2035,7 +1966,6 @@ atch:
     name: Kronehit TV
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/kronehittv.png
     tvg_name: Kronehit TV
     url: https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
@@ -2044,7 +1974,6 @@ atch:
     name: Melodie TV
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/melodietv.png
     tvg_name: Melodie TV
     url: https://www.youtube.com/embed/1nHkPNp4Yc0
@@ -2062,7 +1991,6 @@ atch:
     name: TeleBärn HD
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/telebaern.png
     tvg_name: TeleBärn HD
     url: http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
@@ -2107,7 +2035,6 @@ atch:
     name: Telebasel
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/telebasel.png
     tvg_name: Telebasel
     url: http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
@@ -2117,7 +2044,6 @@ usuk:
     name: ABC News
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/abcnews.png
     tvg_name: ABC News
     url: https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -2126,7 +2052,6 @@ usuk:
     name: Adult Swim
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim
     url: http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
@@ -2135,7 +2060,6 @@ usuk:
     name: Adult Swim (Rick and Morty Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Rick and Morty
     url: https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
@@ -2144,7 +2068,6 @@ usuk:
     name: Adult Swim (Last Stream on the Left Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Last Stream on the Left
     url: https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_7.m3u8
@@ -2153,7 +2076,6 @@ usuk:
     name: Adult Swim (Off the Air Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Off the Air
     url: https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_7.m3u8
@@ -2162,7 +2084,6 @@ usuk:
     name: Adult Swim (Metalocalypse Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Metalocalypse
     url: https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_7.m3u8
@@ -2171,7 +2092,6 @@ usuk:
     name: Adult Swim (Robot Chicken Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Robot Chicken
     url: https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
@@ -2180,7 +2100,6 @@ usuk:
     name: Adult Swim (Samurai Jack Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Samurai Jack
     url: https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
@@ -2189,7 +2108,6 @@ usuk:
     name: Adult Swim (Aqua Teen Hunger Force Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Aqua Teen Hunger Force
     url: https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_7.m3u8
@@ -2198,7 +2116,6 @@ usuk:
     name: Adult Swim (The Eric Andre Show Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - The Eric Andre Show
     url: https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_7.m3u8
@@ -2207,7 +2124,6 @@ usuk:
     name: Adult Swim (The Venture Brothers Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - The Venture Brothers
     url: https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
@@ -2216,7 +2132,6 @@ usuk:
     name: Adult Swim (Channel 5 Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Channel 5
     url: https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_7.m3u8
@@ -2225,7 +2140,6 @@ usuk:
     name: Adult Swim (Infomercials Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Infomercials
     url: https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_7.m3u8
@@ -2234,7 +2148,6 @@ usuk:
     name: Adult Swim (Black Jesus Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Black Jesus
     url: https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_7.m3u8
@@ -2243,7 +2156,6 @@ usuk:
     name: Adult Swim (Your Pretty Face is Going to Hell Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Your Pretty Face is Going to Hell
     url: https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_7.m3u8
@@ -2252,7 +2164,6 @@ usuk:
     name: Adult Swim (Dream Corp LLC Marathon)
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/adultswim.png
     tvg_name: Adult Swim - Dream Corp LLC
     url: https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
@@ -2261,7 +2172,6 @@ usuk:
     name: JUCE TV
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/jucetv.png
     tvg_name: JUCE TV
     url: http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
@@ -2279,7 +2189,6 @@ usuk:
     name: CBSN
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/cbsn.png
     tvg_name: CBS News
     url: https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
@@ -2288,7 +2197,6 @@ usuk:
     name: CBN News
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/cbnnews.png
     tvg_name: CBN News
     url: https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
@@ -2333,7 +2241,6 @@ usuk:
     name: KTVU Fox 2
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/ktvufox2.png
     tvg_name: KTVU Fox 2
     url: http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
@@ -2342,7 +2249,6 @@ usuk:
     name: WGN-TV
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/wgntv.png
     tvg_name: WGN-TV
     url: http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
@@ -2351,7 +2257,6 @@ usuk:
     name: CMC
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/cmc.png
     tvg_name: CMC
     url: https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
@@ -2360,7 +2265,6 @@ usuk:
     name: Hunt Channel
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/huntchannel.png
     tvg_name: Hunt Channel
     url: https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
@@ -2451,7 +2355,6 @@ international:
     name: TVNZ 1
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/tvnz1.png
     tvg_name: TVNZ 1
     url: https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
@@ -2460,7 +2363,6 @@ international:
     name: TVNZ 2
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/tvnz2.png
     tvg_name: TVNZ 2
     url: https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
@@ -2469,7 +2371,6 @@ international:
     name: Three
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/three.png
     tvg_name: Three
     url: http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
@@ -2505,7 +2406,6 @@ international:
     name: XITE
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/xite.png
     tvg_name: XITE
     url: https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
@@ -2523,7 +2423,6 @@ international:
     name: SDF
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/sdf.png
     tvg_name: SDF
     url: https://livestream.goinfo.it/SDFLive/sdfros/playlist.m3u8
@@ -2532,7 +2431,6 @@ international:
     name: m2o Tv
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/m2otv.png
     tvg_name: m2o TV
     url: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
@@ -2550,7 +2448,6 @@ international:
     name: Fjorton
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/fjorton.png
     tvg_name: Fjorton
     url: http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
@@ -2595,7 +2492,6 @@ international:
     name: Sitel
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/sitel.png
     tvg_name: Sitel
     url: http://51.255.92.232:1935/sitel/sitel.stream/playlist.m3u8
@@ -2604,7 +2500,6 @@ international:
     name: Kanal 5
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/kanal5.png
     tvg_name: Kanal 5
     url: http://37.187.158.217:8081/kanal5/kanal5/playlist.m3u8
@@ -2622,7 +2517,6 @@ international:
     name: Telma
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/telma.png
     tvg_name: Telma
     url: http://37.187.158.217:8081/telma/telma_360pp/playlist.m3u8
@@ -2631,7 +2525,6 @@ international:
     name: 24 Vesti
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/24vesti.png
     tvg_name: 24 Vesti
     url: http://37.187.158.217:8081/24vesti/24vesti/playlist.m3u8
@@ -2658,7 +2551,6 @@ international:
     name: MetroTV
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/metrotv.png
     tvg_name: MetroTV
     url: http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
@@ -2667,7 +2559,6 @@ international:
     name: NHK WORLD TV
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/nhkworldtv.png
     tvg_name: NHK WORLD TV
     url: https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -2703,7 +2594,6 @@ international:
     name: KVF
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/kvf.png
     tvg_name: KVF
     url: https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist_w121411721_b5000000_slfao.m3u8
@@ -2712,7 +2602,6 @@ international:
     name: ALBUK TV
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/albuktv.png
     tvg_name: ALBUK TV
     url: http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
@@ -2730,7 +2619,6 @@ international:
     name: Mello TV
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/mellotv.png
     tvg_name: Mello TV
     url: https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
@@ -2739,7 +2627,6 @@ international:
     name: Channel NewsAsia
     quality: hd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/channelnewsasia.png
     tvg_name: Channel NewsAsia
     url: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -2748,7 +2635,6 @@ international:
     name: NKNews
     quality: sd
     radio: false
-    tvg_id: ""
     tvg_logo: tv/nknews.png
     tvg_name: NKNews
     url: https://tv.nknews.org/tvdash/stream.mpd

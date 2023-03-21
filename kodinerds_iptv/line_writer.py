@@ -20,9 +20,9 @@ class LineWriter:
     information output, including a header line and stream line.
     """
 
-    logo_base_path: str = ""
+    logo_base_path: str | None = None
 
-    def get_lines(self, stream: Stream) -> tuple[str, str]:
+    def get_lines(self, stream: Stream) -> list[str]:
         """Return a tuple of the header and stream line for the provided stream.
 
         Parameters
@@ -35,21 +35,24 @@ class LineWriter:
         tuple[str, str]
             A tuple containing the header line and stream line for the provided stream.
         """
-        lines = (self._header_line(stream), self._stream_line(stream))
-        header_line, stream_line = (" ".join(line.split()) for line in lines)
+        lines = (*self._header_line(stream), self._stream_line(stream))
+        return [" ".join(line.split()) for line in lines]
 
-        return header_line, stream_line
-
-    def _header_line(self, stream: Stream) -> str:
+    def _header_line(self, stream: Stream) -> list[str]:
         # Return header line for stream.
-        return f"""
+        logo_line = (
+            f' tvg-logo="{self.logo_base_path}{stream.tvg_logo}"'
+            if self.logo_base_path
+            else ""
+        )
+        radio_line = ' radio="true"' if stream.radio else ""
+        header_line = f"""
         #EXTINF:-1
         tvg-name="{stream.tvg_name}"
         {"" if stream.radio else f'tvg-id="{stream.tvg_id}"'}
-        group-title="{self._group_title(stream)}"
-        {'radio="true"' if stream.radio else ""}
-        tvg-logo="{self.logo_base_path}{stream.tvg_logo}",{stream.name}
-        """
+        group-title="{self._group_title(stream)}"{radio_line}{logo_line},{stream.name}"""
+
+        return [header_line]
 
     def _stream_line(self, stream: Stream) -> str:
         # Return stream line inclurding URL for stream.
@@ -137,10 +140,10 @@ class DashLineWriter(LineWriter):
         "#KODIPROP:inputstream.adaptive.manifest_type=mpd",
     ]
 
-    def _stream_line(self, stream: Stream) -> str:
+    def _header_line(self, stream: Stream) -> list[str]:
         # Override stream line for pipe usage.
         # The stream URL includes several required attributes for FFmpeg.
-        return "\n".join(stream.url, *self.__KODI_PROPS)
+        return [*super()._header_line(stream), *self.__KODI_PROPS]
 
     def _group_title(self, stream: Stream) -> str:
         # Override group title with Kodi specific group.
@@ -158,7 +161,7 @@ class AutoLineWriter:
     }
 
     @classmethod
-    def from_list_type(cls, list_type: ListType, logo_base_path: str) -> LineWriter:
+    def from_list_type(cls, list_type: ListType, **kwargs: str | None) -> LineWriter:
         """Return an instance of LineWriter class based on list type.
 
         Parameters
@@ -172,7 +175,7 @@ class AutoLineWriter:
             An instance of the appropriate LineWriter.
         """
         return next(
-            writer_class(logo_base_path)
+            writer_class(**kwargs)
             for lt_key, writer_class in cls.__MAPPING.items()
             if lt_key == list_type
         )

@@ -1,6 +1,6 @@
 """TODO."""
 
-from dataclasses import KW_ONLY, dataclass
+from dataclasses import dataclass
 
 
 @dataclass
@@ -8,15 +8,14 @@ class Stream:
     """Stores information about a TV or radio stream."""
 
     name: str
+    url: str
     group_title: str
     group_title_kodi: str
-    quality: str
-    radio: bool
-    tvg_id: str
     tvg_name: str
     tvg_logo: str
-    url: str
-    _: KW_ONLY
+    tvg_id: str | None = None
+    quality: str | None = None
+    radio: bool = False
     skip_check: bool = False
 
 

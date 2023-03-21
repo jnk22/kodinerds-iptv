@@ -23,7 +23,7 @@ repos:
     hooks:
       - id: yamllint
       - id: yamllint
-        name: yamllint source.yaml
+        name: yamllint sources
         args: ["-c", ".yamllint-sources.yaml"]
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
     rev: 2.7.1

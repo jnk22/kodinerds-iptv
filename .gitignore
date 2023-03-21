@@ -29,3 +29,5 @@ poetry.toml
 ### Kodinerds IPTV ###
 # Files are generated automatically with GitHub actions
 iptv/**
+reports/**
+output/**
