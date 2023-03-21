@@ -1,6 +1,7 @@
 """TODO."""
 
 import asyncio
+from collections import defaultdict
 from collections.abc import Coroutine
 from http import HTTPStatus
 from itertools import chain
@@ -38,7 +39,7 @@ async def check_availability(
             print(f"Checking streams from source '{source_name}'")
 
             streams = list(chain.from_iterable(sg.streams for sg in stream_groups))
-            tasks = [check(stream, client, timeout) for stream in streams]
+            tasks = [await check(stream, client, timeout) for stream in streams]
             gather_results = await asyncio.gather(*tasks, return_exceptions=True)
 
             results[source_name] = [
@@ -96,7 +97,19 @@ async def noop() -> None:
 def write_results(results: list[StreamCheck], output_file: Path) -> None:
     """TODO."""
     print(f"Writing file: {output_file}")
-    lines = [result.output for result in results]
+    sorted_results: defaultdict[StreamState, list[StreamCheck]] = defaultdict(list)
+    for result in results:
+        sorted_results[result.state].append(result)
+
+    final_result: str = "\n\n".join(
+        f"{'='*29} Results for: {state} {'='*29}\n{result_lines(sorted_results[state])}"
+        for state in StreamState
+    )
 
     output_file.parent.mkdir(parents=True, exist_ok=True)
-    output_file.write_text("\n".join(lines))
+    output_file.write_text(final_result)
+
+
+def result_lines(results: list[StreamCheck]) -> str:
+    """TODO."""
+    return "\n".join(f"- {result.output}" for result in results) or "Nothing here..."

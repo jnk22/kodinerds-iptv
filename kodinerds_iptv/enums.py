@@ -25,6 +25,6 @@ class StreamState(Enum):
 
     SUCCESS = "success"
     WARNING = "warning"
+    SKIPPED = "skipped"
     ERROR = "error"
     UNKNOWN = "unknown"
-    SKIPPED = "skipped"
