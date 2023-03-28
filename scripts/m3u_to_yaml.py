@@ -29,7 +29,7 @@ subcategory_ids = {
         "uk" : 4
     }
 }
-        
+
 
 streams = {}
 
@@ -37,20 +37,22 @@ streams = {}
 m3u_files = glob.glob("iptv/clean/clean_*_*.m3u")
 for filename in m3u_files:
     m = re.search("clean_(.*)_(.*).m3u", filename)
-    category = m.group(1)
-    if not category in streams:
+    category = m[1]
+    if category not in streams:
         category_id = 0
         if category in category_ids:
             category_id = category_ids[category]
         else:
             print("WARNING: could not determine category ID for \"" + category + "\"")
         streams[category] = { "id" : category_id, "subcategories" : {} }
-    subcategory = m.group(2)
-    if not subcategory in streams[category]["subcategories"]:
+    subcategory = m[2]
+    if subcategory not in streams[category]["subcategories"]:
         subcategory_id = 0
-        if category in subcategory_ids:
-            if subcategory in subcategory_ids[category]:
-                subcategory_id = subcategory_ids[category][subcategory]
+        if (
+            category in subcategory_ids
+            and subcategory in subcategory_ids[category]
+        ):
+            subcategory_id = subcategory_ids[category][subcategory]
         if subcategory_id == 0:
             print("WARNING: could not determine subcategory ID for \"" + subcategory + "\"")
         streams[category]["subcategories"][subcategory] = { "id" : subcategory_id, "streams" : [] }
@@ -60,49 +62,54 @@ for filename in m3u_files:
         for line in m3u:
             if line.startswith("#EXTINF"):
                 m = re.search("tvg-name=\"(.*?)\"", line)
-                tvg_name = m.group(1)
+                tvg_name = m[1]
                 m = re.search("tvg-id=\"(.*?)\"", line)
-                if m:
-                    tvg_id = m.group(1)
-                else:
-                    tvg_id = ""
+                tvg_id = m[1] if m else ""
                 m = re.search("group-title=\"(.*?)\"", line)
-                group_title = m.group(1)
+                group_title = m[1]
                 m = re.search("tvg-logo=\"(.*?)\"", line)
-                tvg_logo = m.group(1)
+                tvg_logo = m[1]
                 m = re.search(".*,(.*)", line)
-                name = m.group(1).strip()
+                name = m[1].strip()
                 extinf_found = True
-            else:
-                if extinf_found:
-                    url = line.strip()
-                    if name in streams[category]["subcategories"][subcategory]:
-                        print("WARNING: duplicate name \"" + name + "\". Ignoring.")
-                    else:
-                        stream = {"name": name, "tvg_id": tvg_id, "tvg_name": tvg_name, "group_title": group_title, "group_title_kodi": "", "tvg_logo": tvg_logo, "url": url, "quality": ""}
-                        stream["radio"] = (category == "radio")
-                        streams[category]["subcategories"][subcategory]["streams"].append(stream)
-                    extinf_found = False
+            elif extinf_found:
+                url = line.strip()
+                if name in streams[category]["subcategories"][subcategory]:
+                    print("WARNING: duplicate name \"" + name + "\". Ignoring.")
+                else:
+                    stream = {
+                        "name": name,
+                        "tvg_id": tvg_id,
+                        "tvg_name": tvg_name,
+                        "group_title": group_title,
+                        "group_title_kodi": "",
+                        "tvg_logo": tvg_logo,
+                        "url": url,
+                        "quality": "",
+                        "radio": category == "radio",
+                    }
+                    streams[category]["subcategories"][subcategory]["streams"].append(stream)
+                extinf_found = False
 
 # read .m3u for Kodi (uses different group titles)
 m3u_files = glob.glob("iptv/kodi/kodi_*_*.m3u")
 for filename in m3u_files:
     m = re.search("kodi_(.*)_(.*).m3u", filename)
-    category = m.group(1)
-    if not category in streams:
+    category = m[1]
+    if category not in streams:
         print("WARNING: category \"" + category + "\" exists only in Kodi list. Ignoring.")
         continue
-    subcategory = m.group(2)
-    if not subcategory in streams[category]["subcategories"]:
+    subcategory = m[2]
+    if subcategory not in streams[category]["subcategories"]:
         print("WARNING: category \"" + category + "\", subcategory \"" + subcategory + "\" exists only in Kodi list. Ignoring.")
         continue
     with open(filename) as m3u:
         for line in m3u:
             if line.startswith("#EXTINF"):
                 m = re.search("group-title=\"(.*?)\"", line)
-                group_title = m.group(1)
+                group_title = m[1]
                 m = re.search(".*,(.*)", line)
-                name = m.group(1).strip()
+                name = m[1].strip()
                 found = False
                 for stream in streams[category]["subcategories"][subcategory]["streams"]:
                     if stream["name"] == name:
@@ -116,34 +123,32 @@ for filename in m3u_files:
 m3u_files = glob.glob("iptv/pipe/pipe_*_*.m3u")
 for filename in m3u_files:
     m = re.search("pipe_(.*)_(.*).m3u", filename)
-    category = m.group(1)
-    if not category in streams:
+    category = m[1]
+    if category not in streams:
         print("WARNING: category \"" + category + "\" exists only in pipe list. Ignoring.")
         continue
-    subcategory = m.group(2)
-    if not subcategory in streams[category]["subcategories"]:
+    subcategory = m[2]
+    if subcategory not in streams[category]["subcategories"]:
         print("WARNING: category \"" + category + "\", subcategory \"" + subcategory + "\" exists only in pipe list. Ignoring.")
         continue
     with open(filename) as m3u:
         for line in m3u:
             if line.startswith("#EXTINF"):
                 m = re.search(".*,(.*)", line)
-                name = m.group(1).strip()
+                name = m[1].strip()
                 extinf_found = True
-            else:
-                if extinf_found:
-                    m = re.search("advanced_codec_digital_(.*)tv", line)
-                    if m:
-                        quality = m.group(1)
-                        found = False
-                        for stream in streams[category]["subcategories"][subcategory]["streams"]:
-                            if stream["name"] == name:
-                                stream["quality"] = quality
-                                found = True
-                                break
-                        if not found:
-                            print("WARNING: category \"" + category + "\", subcategory \"" + subcategory + "\", name \"" + name + "\" exists only in pipe list. Ignoring.")
-                    extinf_found = False
+            elif extinf_found:
+                if m := re.search("advanced_codec_digital_(.*)tv", line):
+                    quality = m[1]
+                    found = False
+                    for stream in streams[category]["subcategories"][subcategory]["streams"]:
+                        if stream["name"] == name:
+                            stream["quality"] = quality
+                            found = True
+                            break
+                    if not found:
+                        print("WARNING: category \"" + category + "\", subcategory \"" + subcategory + "\", name \"" + name + "\" exists only in pipe list. Ignoring.")
+                extinf_found = False
 
 # write yaml
 with open("iptv/source.yaml", 'w') as file:

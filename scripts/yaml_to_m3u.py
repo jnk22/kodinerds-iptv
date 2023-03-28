@@ -7,10 +7,10 @@ def write_clean(content):
     with open("iptv/clean/clean.m3u", 'w') as file:
         file.write("#EXTM3U\n")
         for category_name, category in OrderedDict(sorted(content.items(), key=lambda x: x[1]["id"])).items():
-            with open("iptv/clean/clean_" + category_name + ".m3u", 'w') as category_file:
+            with open(f"iptv/clean/clean_{category_name}.m3u", 'w') as category_file:
                 category_file.write("#EXTM3U\n")
                 for subcategory_name, subcategory in OrderedDict(sorted(category["subcategories"].items(), key=lambda x: x[1]["id"])).items():
-                    with open("iptv/clean/clean_" + category_name + "_" + subcategory_name + ".m3u", 'w') as subcategory_file:
+                    with open(f"iptv/clean/clean_{category_name}_{subcategory_name}.m3u", 'w') as subcategory_file:
                         subcategory_file.write("#EXTM3U\n")
                         for stream in subcategory["streams"]:
                             radio_str = ""
@@ -32,10 +32,10 @@ def write_kodi(content):
     with open("iptv/kodi/kodi.m3u", 'w') as file:
         file.write("#EXTM3U\n")
         for category_name, category in OrderedDict(sorted(content.items(), key=lambda x: x[1]["id"])).items():
-            with open("iptv/kodi/kodi_" + category_name + ".m3u", 'w') as category_file:
+            with open(f"iptv/kodi/kodi_{category_name}.m3u", 'w') as category_file:
                 category_file.write("#EXTM3U\n")
                 for subcategory_name, subcategory in OrderedDict(sorted(category["subcategories"].items(), key=lambda x: x[1]["id"])).items():
-                    with open("iptv/kodi/kodi_" + category_name + "_" + subcategory_name + ".m3u", 'w') as subcategory_file:
+                    with open(f"iptv/kodi/kodi_{category_name}_{subcategory_name}.m3u", 'w') as subcategory_file:
                         subcategory_file.write("#EXTM3U\n")
                         for stream in subcategory["streams"]:
                             radio_str = ""
@@ -57,10 +57,10 @@ def write_pipe(content):
     with open("iptv/pipe/pipe.m3u", 'w') as file:
         file.write("#EXTM3U\n")
         for category_name, category in OrderedDict(sorted(content.items(), key=lambda x: x[1]["id"])).items():
-            with open("iptv/pipe/pipe_" + category_name + ".m3u", 'w') as category_file:
+            with open(f"iptv/pipe/pipe_{category_name}.m3u", 'w') as category_file:
                 category_file.write("#EXTM3U\n")
                 for subcategory_name, subcategory in OrderedDict(sorted(category["subcategories"].items(), key=lambda x: x[1]["id"])).items():
-                    with open("iptv/pipe/pipe_" + category_name + "_" + subcategory_name + ".m3u", 'w') as subcategory_file:
+                    with open(f"iptv/pipe/pipe_{category_name}_{subcategory_name}.m3u", 'w') as subcategory_file:
                         subcategory_file.write("#EXTM3U\n")
                         for stream in subcategory["streams"]:
                             radio_str = ""
