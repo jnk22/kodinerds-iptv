@@ -28,3 +28,10 @@ class StreamState(Enum):
     SKIPPED = "skipped"
     ERROR = "error"
     UNKNOWN = "unknown"
+
+
+class ReportFormat(Enum):
+    """TODO."""
+
+    TEXT = "text"
+    MARKDOWN = "markdown"

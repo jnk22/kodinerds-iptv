@@ -6,24 +6,47 @@ from collections.abc import Coroutine
 from http import HTTPStatus
 from itertools import chain
 from pathlib import Path
-from typing import Any
+from typing import Any, Protocol
 
 from httpx import AsyncClient, AsyncHTTPTransport, Response
+from tabulate import tabulate
 
-from .enums import StreamState
+from .enums import ReportFormat, StreamState
 from .io_utils import read_streams
 from .stream import Stream, StreamCategory, StreamCheck
 
 
+class ReportOutput(Protocol):
+    """TODO."""
+
+    def write_header(self, state: StreamState) -> str:
+        """TODO."""
+        ...
+
+    def write_table(self, stream_checks: list[StreamCheck]) -> str:
+        """TODO."""
+        ...
+
+
 def check_sources(
-    sources: list[Path], output_dir: Path, timeout: int, retries: int
+    sources: list[Path],
+    output_dir: Path,
+    timeout: int,
+    retries: int,
+    report_format: ReportFormat,
 ) -> None:
     """TODO."""
-    asyncio.run(check_availability(sources, output_dir, timeout, retries))
+    asyncio.run(
+        check_availability(sources, output_dir, timeout, retries, report_format)
+    )
 
 
 async def check_availability(
-    sources: list[Path], report_dir: Path, timeout: int, retries: int
+    sources: list[Path],
+    report_dir: Path,
+    timeout: int,
+    retries: int,
+    report_format: ReportFormat,
 ) -> None:
     """TODO."""
     source_content: dict[str, list[StreamCategory]] = {}
@@ -47,8 +70,9 @@ async def check_availability(
                 for stream_result in zip(streams, gather_results, strict=True)
             ]
 
+    file_extension = "md" if report_format == ReportFormat.MARKDOWN else "txt"
     for source_name, stream_checks in results.items():
-        report_file = report_dir / f"{source_name}.txt"
+        report_file = report_dir / f"{source_name}.{file_extension}"
         write_results(stream_checks, report_file)
 
     print("Finished")
@@ -112,4 +136,19 @@ def write_results(results: list[StreamCheck], output_file: Path) -> None:
 
 def result_lines(results: list[StreamCheck]) -> str:
     """TODO."""
-    return "\n".join(f"- {result.output}" for result in results) or "Nothing here..."
+    return (
+        tabulate(
+            [
+                {
+                    "name": res.stream.name,
+                    "state": res.state.value,
+                    "reason": res.reason,
+                }
+                for res in results
+            ],
+            headers="keys",
+            tablefmt="github",
+        )
+        if results
+        else "Nothing here..."
+    )

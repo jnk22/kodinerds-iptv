@@ -6,7 +6,7 @@ from typing import Optional
 from typer import Argument, Option, Typer
 
 from .cli_helpers import version_callback
-from .enums import ListType
+from .enums import ListType, ReportFormat
 
 StrOrNone = Optional[str]
 
@@ -31,12 +31,15 @@ def check(
     output_dir: Path = Option("reports", writable=True, help="Reports directory."),
     timeout: int = Option(1, help="Timeout for stream check."),
     retries: int = Option(1, help="Retries for failed stream check."),
+    report_format: ReportFormat = Option(
+        ReportFormat.TEXT.value, help="Format for report output."
+    ),
 ) -> None:
     """Check stream URLs on availability."""
     # TODO: Check for duplicates in sources.
     from .check_availability import check_sources
 
-    check_sources(sources, output_dir, timeout, retries)
+    check_sources(sources, output_dir, timeout, retries, report_format)
 
 
 @app.command()
