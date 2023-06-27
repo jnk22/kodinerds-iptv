@@ -486,7 +486,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/blackbeatsfm.png
         tvg_name: BlackBeats.FM
-        url: http://stream.blackbeatslive.de/
+        url: http://blackbeats.fm/listen.m3u
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: BR Heimat
