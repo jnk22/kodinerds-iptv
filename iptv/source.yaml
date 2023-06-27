@@ -1543,7 +1543,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Rockabilly
-        url: http://streams.radiobob.de/bob-blues/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/blues/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Harte Saite
