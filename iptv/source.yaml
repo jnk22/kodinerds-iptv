@@ -2338,7 +2338,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
         tvg_name: Radio ZET
-        url: http://n-4-14.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+        url: https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
       - group_title: Radio-PL
         group_title_kodi: Polen
         name: Radio ZET 2000
