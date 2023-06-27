@@ -2074,7 +2074,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png
         tvg_name: UNSERDING
-        url: http://udm.akacast.akamaistream.net/7/384/142688/v1/gnl.akacast.akamaistream.net/udm
+        url: http://liveradio.sr.de/sr/ud/mp3/128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: WDR 2
