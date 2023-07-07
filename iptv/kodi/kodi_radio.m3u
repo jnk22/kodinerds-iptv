@@ -187,8 +187,8 @@ https://dispatcher.rndfnk.com/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3
 https://dispatcher.rndfnk.com/ndr/ndrinfospezial/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="NDR kultur" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrkultur.png",NDR kultur
 https://dispatcher.rndfnk.com/ndr/ndrkultur/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-name="NDR Plus" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrplus.png",NDR Plus
-https://dispatcher.rndfnk.com/ndr/ndrplus/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="NDR Schlager" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndrschlager.png",NDR Schlager
+https://dispatcher.rndfnk.com/ndr/ndrschlager/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="nice" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png",nice
 https://ice.cr5.streamzilla.xlcdn.com:8000/sz%3Dnice-broadcast-media-gmbh%3Dniceradio1-mp3-256
 #EXTINF:-1 tvg-name="oldenburg eins" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/oldenburgeins.png",oldenburg eins
