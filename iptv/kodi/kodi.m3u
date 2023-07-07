@@ -694,7 +694,7 @@ https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
 #EXTINF:-1 tvg-name="bigFM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM
 https://streams.bigfm.de/bigfm-deutschland-128-mp3
 #EXTINF:-1 tvg-name="BlackBeats.FM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/blackbeatsfm.png",BlackBeats.FM
-http://stream.blackbeatslive.de/
+http://blackbeats.fm/listen.m3u
 #EXTINF:-1 tvg-name="BR Heimat" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brheimat.png",BR Heimat
 https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
 #EXTINF:-1 tvg-name="BR-Klassik" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png",BR-Klassik
