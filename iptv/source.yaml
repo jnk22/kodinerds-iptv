@@ -1948,7 +1948,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandradio.png
         tvg_name: Rockland Radio
-        url: https://stream.rockland.de/rockland.mp3
+        url: https://streams.rockland.de/dab/mp3-192/streams.rockland.de/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: ROCKLAND.FM
