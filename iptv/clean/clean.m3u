@@ -658,9 +658,9 @@ http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="89.0 RTL" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/890rtl.png",89.0 RTL
 http://stream.89.0rtl.de/live/mp3-256/direktlinkHP
 #EXTINF:-1 tvg-name="Absolut Radio" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png",Absolut Radio
-http://stream.absolutradio.de/hq/mp3-160/stream.absolutradio.de
+https://absolut-top.live-sm.absolutradio.de/absolut-top/stream/mp3
 #EXTINF:-1 tvg-name="Absolut relax" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutrelax.png",Absolut relax
-http://stream.absolutradio.de/relax/mp3-160/stream.absolutradio.de
+https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/mp3
 #EXTINF:-1 tvg-name="antenne 1" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antenne1.png",antenne 1
 http://stream.antenne1.de/a1stg/livestream2.mp3
 #EXTINF:-1 tvg-name="ANTENNE BAYERN" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",ANTENNE BAYERN
