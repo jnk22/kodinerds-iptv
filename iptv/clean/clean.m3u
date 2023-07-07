@@ -1020,7 +1020,7 @@ http://mp3channels.webradio.rockantenne.de/rockantenne
 #EXTINF:-1 tvg-name="ROCK ANTENNE HEAVY-METAL" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE HEAVY-METAL
 http://stream.rockantenne.de/heavy-metal
 #EXTINF:-1 tvg-name="Rockland Radio" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandradio.png",Rockland Radio
-https://stream.rockland.de/rockland.mp3
+https://streams.rockland.de/dab/mp3-192/streams.rockland.de/
 #EXTINF:-1 tvg-name="ROCKLAND.FM" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandfm.png",ROCKLAND.FM
 http://stream.rockland-digital.de
 #EXTINF:-1 tvg-name="RPR1" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1
