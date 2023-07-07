@@ -975,15 +975,6 @@ radio:
         url: http://metal-only.streampanel.cloud/stream
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: multicult.fm
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/multicultfm.png
-        tvg_name: multicult.fm
-        url: http://stream.multicult.fm:8000/hifi
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
         name: N-JOY
         quality: ''
         radio: true
