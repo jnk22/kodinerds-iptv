@@ -1048,7 +1048,7 @@ https://dispatcher.rndfnk.com/swr/swr4/bw/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="SWR4 Rheinland-Pfalz" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr4.png",SWR4 Rheinland-Pfalz
 https://dispatcher.rndfnk.com/swr/swr4/rp/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="UNSERDING" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png",UNSERDING
-http://udm.akacast.akamaistream.net/7/384/142688/v1/gnl.akacast.akamaistream.net/udm
+http://liveradio.sr.de/sr/ud/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="WDR 2" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr2.png",WDR 2
 http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="WDR 3" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/wdr3.png",WDR 3
