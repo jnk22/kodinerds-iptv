@@ -39,7 +39,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png
         tvg_name: KRONEHIT
-        url: http://onair.krone.at:80/kronehit.mp3
+        url: https://secureonair.krone.at/kronehit-hp.mp3
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: KRONEHIT Dance
@@ -48,7 +48,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png
         tvg_name: KRONEHIT Dance
-        url: http://onair.krone.at:80/kronehit-dance.mp3
+        url: https://secureonair.krone.at/kronehit23.mp3
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: Life Radio
