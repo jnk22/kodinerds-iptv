@@ -803,8 +803,6 @@ http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
 http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="Metal Only" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/metalonly.png",Metal Only
 http://metal-only.streampanel.cloud/stream
-#EXTINF:-1 tvg-name="multicult.fm" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/multicultfm.png",multicult.fm
-http://stream.multicult.fm:8000/hifi
 #EXTINF:-1 tvg-name="N-JOY" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/njoy.png",N-JOY
 https://dispatcher.rndfnk.com/ndr/njoy/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="NDR 1 Niedersachsen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1niedersachsen.png",NDR 1 Niedersachsen
