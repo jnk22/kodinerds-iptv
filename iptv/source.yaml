@@ -324,7 +324,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutradio.png
         tvg_name: Absolut Radio
-        url: http://stream.absolutradio.de/hq/mp3-160/stream.absolutradio.de
+        url: https://absolut-top.live-sm.absolutradio.de/absolut-top/stream/mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Absolut relax
@@ -333,7 +333,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/absolutrelax.png
         tvg_name: Absolut relax
-        url: http://stream.absolutradio.de/relax/mp3-160/stream.absolutradio.de
+        url: https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: antenne 1
