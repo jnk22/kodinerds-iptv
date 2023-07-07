@@ -1089,7 +1089,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! national
-        url: http://streams.radiobob.de/bob-national/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-national/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! NRW
@@ -1098,7 +1098,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! NRW
-        url: http://streams.radiobob.de/live-nrw-mitte/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/live-nrw-mitte/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Schleswig-Holstein
@@ -1107,7 +1107,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Schleswig-Holstein
-        url: http://streams.radiobob.de/bob-shlive/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-shlive/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Hessen
@@ -1116,7 +1116,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Hessen
-        url: http://streams.radiobob.de/bob-live/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-live/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Metal
@@ -1125,7 +1125,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Metal
-        url: http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-metal/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Alternative Rock
@@ -1134,7 +1134,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Alternative Rock
-        url: http://streams.radiobob.de/bob-alternative/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-alternative/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Classic Rock
@@ -1143,7 +1143,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Classic Rock
-        url: http://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Country
@@ -1152,7 +1152,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Country
-        url: http://streams.radiobob.de/country/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/country/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Blues
@@ -1161,7 +1161,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Blues
-        url: http://streams.radiobob.de/blues/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/blues/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! College Rock
@@ -1170,7 +1170,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! College Rock
-        url: http://streams.radiobob.de/collegerock/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/collegerock/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Emo
@@ -1179,7 +1179,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Emo
-        url: http://streams.radiobob.de/emo/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/emo/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Christmas
@@ -1188,7 +1188,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Christmas
-        url: http://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! ACDC
@@ -1197,7 +1197,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! ACDC
-        url: http://streams.radiobob.de/bob-acdc/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-acdc/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Deutschrock
@@ -1206,7 +1206,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Deutschrock
-        url: http://streams.radiobob.de/bob-deutsch/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-deutsch/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Wacken
@@ -1215,7 +1215,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Wacken
-        url: http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Grunge
@@ -1224,7 +1224,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Grunge
-        url: http://streams.radiobob.de/bob-grunge/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-grunge/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! 70er Rock
@@ -1240,7 +1240,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! 80er Rock
-        url: http://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! 90er Rock
@@ -1248,7 +1248,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! 90er Rock
-        url: http://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! 2000er Rock
@@ -1256,7 +1256,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! 2000er Rock
-        url: http://streams.radiobob.de/2000er/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/2000er/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Hardrock
@@ -1265,7 +1265,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Hardrock
-        url: http://streams.radiobob.de/bob-hardrock/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-hardrock/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Metalcore
@@ -1274,7 +1274,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Metalcore
-        url: http://streams.radiobob.de/metalcore/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/metalcore/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Metallica
@@ -1283,7 +1283,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Metallica
-        url: http://streams.radiobob.de/metallica/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/metallica/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Tobias Sammet Rockshow
@@ -1292,7 +1292,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Tobias Sammet Rockshow
-        url: http://streams.radiobob.de/sammet/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/sammet/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! The Boss Hoss
@@ -1301,7 +1301,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! The Boss Hoss
-        url: http://streams.radiobob.de/bosshoss/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/bosshoss/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Fury in the Slaughterhouse
@@ -1310,7 +1310,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Fury in the Slaughterhouse
-        url: http://streams.radiobob.de/fury/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/fury/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Donots
@@ -1319,7 +1319,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Donots
-        url: http://streams.radiobob.de/donots/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/donots/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Mittelalter Rock
@@ -1328,7 +1328,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Mittelalter Rock
-        url: http://streams.radiobob.de/mittelalter/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/mittelalter/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Symphonic Metal
@@ -1337,7 +1337,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Symphonic Metal
-        url: http://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Punk
@@ -1346,7 +1346,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Punk
-        url: http://streams.radiobob.de/bob-punk/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-punk/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Prog-Rock
@@ -1355,7 +1355,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Prog-Rock
-        url: http://streams.radiobob.de/progrock/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/progrock/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Power Metal
@@ -1373,7 +1373,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Kuschelrock
-        url: http://streams.radiobob.de/bob-kuschelrock/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-kuschelrock/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Death Metal
@@ -1382,7 +1382,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Death Metal
-        url:  http://streams.radiobob.de/deathmetal/mp3-192/mediaplayer/
+        url:  https://streams.radiobob.de/deathmetal/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Rockparty
@@ -1391,7 +1391,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Rockparty
-        url: http://streams.radiobob.de/rockparty/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/rockparty/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Southern Rock
@@ -1399,7 +1399,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Southern Rock
-        url: http://streams.radiobob.de/southernrock/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/southernrock/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Der Dunkle Parabelritter
@@ -1408,7 +1408,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Der Dunkle Parabelritter
-        url: http://streams.radiobob.de/ritter/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/ritter/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Newcomer
@@ -1417,7 +1417,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Newcomer
-        url: http://streams.radiobob.de/newcomer/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/newcomer/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Gothic Rock
@@ -1426,7 +1426,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Gothic Rock
-        url: http://streams.radiobob.de/gothic/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/gothic/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Best of Rock
@@ -1435,7 +1435,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Best of Rock
-        url: http://streams.radiobob.de/bob-bestofrock/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-bestofrock/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Festival
@@ -1444,7 +1444,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Festival
-        url: http://streams.radiobob.de/bob-livemusic/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-livemusic/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Folk Rock
@@ -1462,7 +1462,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Unplugged
-        url: http://streams.radiobob.de/bob-chillout/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/bob-chillout/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Rockabilly
@@ -1471,7 +1471,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Rockabilly
-        url: http://streams.radiobob.de/bob-blues/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/blues/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Harte Saite
@@ -1480,7 +1480,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Harte Saite
-        url: http://streams.radiobob.de/bob-hartesaite/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-hartesaite/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Singer-Songwriter
@@ -1489,7 +1489,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Singer-Songwriter
-        url: http://streams.radiobob.de/bob-singersong/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-singersong/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Queen
@@ -1498,7 +1498,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Queen
-        url: http://streams.radiobob.de/bob-queen/mp3-192/mediaplayer/
+        url: https://streams.radiobob.de/bob-queen/mp3-192/mediaplayer/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Rock Hits
@@ -1507,7 +1507,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Rock Hits
-        url: http://streams.radiobob.de/bob-rockhits/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/bob-rockhits/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Motörhead
@@ -1525,7 +1525,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Rock Oldies
-        url: http://streams.radiobob.de/rockoldies/mp3-192/mediaplayer
+        url: https://streams.radiobob.de/rockoldies/mp3-192/mediaplayer
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Radio Brocken
