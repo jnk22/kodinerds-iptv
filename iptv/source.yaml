@@ -2368,7 +2368,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiomanele.png
         tvg_name: Radio Manele
-        url: https://radio.ascultatare.ro/8044/stream
+        url: https://ssl.servereradio.ro/8044/stream
     uk:
       id: 4
       streams:
