@@ -588,33 +588,6 @@ radio:
         url: https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: DELUXE 80S EXTREME
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
-        tvg_name: DELUXE 80S EXTREME
-        url: https://audiostreams.deluxemusic.tv/80s/mp3-192
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: DELUXE RCK Radio
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
-        tvg_name: DELUXE RCK Radio
-        url: https://audiostreams.deluxemusic.tv/rck/mp3-192
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: DELUXE CHEFSESSEL by WAGNER
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
-        tvg_name: DELUXE CHEFSESSEL by WAGNER
-        url: https://audiostreams.deluxemusic.tv/chefsessel/mp3-192
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
         name: DELUXE EASY
         quality: ''
         radio: true
@@ -640,24 +613,6 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxemusicradio.png
         tvg_name: DELUXE MUSIC RADIO
         url: https://audiostreams.deluxemusic.tv/music/mp3-192
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: DELUXE NEW ARRIVALS
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
-        tvg_name: DELUXE NEW ARRIVALS
-        url: https://audiostreams.deluxemusic.tv/arrivals/mp3-192
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: DELUXE TOP 40
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
-        tvg_name: DELUXE TOP 40
-        url: https://audiostreams.deluxemusic.tv/top40/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Deutschlandfunk
@@ -703,15 +658,6 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dieneue1077.png
         tvg_name: DIE NEUE 107.7
         url: http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: DELUXE DISCO
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
-        tvg_name: DELUXE DISCO
-        url: https://audiostreams.deluxemusic.tv/disco/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: domradio.de
@@ -874,15 +820,6 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jazzradio.png
         tvg_name: JazzRadio Berlin
         url: http://streaming.radio.co:80/s774887f7b/listen
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: JUKEBOX RADIO
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeradio.png
-        tvg_name: JUKEBOX RADIO
-        url: https://audiostreams.deluxemusic.tv/jukebox/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: WDR Die Maus
