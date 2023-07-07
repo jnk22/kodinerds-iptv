@@ -554,7 +554,7 @@ http://pla01.cdn.eurozet.pl:8204/PLACHI.mp3
 #EXTINF:-1 tvg-name="Planeta FM Indie Day Mood" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM Indie Day Mood
 http://pla02.cdn.eurozet.pl:8230/PLAIDM.mp3
 #EXTINF:-1 tvg-name="Radio ZET" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET
-http://n-4-14.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
 #EXTINF:-1 tvg-name="Radio ZET 2000" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET 2000
 http://zet.cdn.eurozet.pl/ZET200.mp3
 #EXTINF:-1 tvg-name="Radio ZET 80" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET 80
