@@ -447,3 +447,5 @@ https://stream.lokalradio.nrw/4456jvv
 https://stream.lokalradio.nrw/44523kb
 #EXTINF:-1 tvg-name="Radio Köln Sommer" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Sommer
 https://stream.lokalradio.nrw/4457mts
+#EXTINF:-1 tvg-name="Radio Bollerwagen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobollerwagen.png",Radio Bollerwagen
+https://ffn-de-hz-fal-stream09-cluster01.radiohost.de/radiobollerwagen_mp3-192
