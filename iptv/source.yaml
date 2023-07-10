@@ -2237,6 +2237,15 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
         tvg_name: Radio Köln Sommer
         url: https://stream.lokalradio.nrw/4457mts
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Bollerwagen
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobollerwagen.png
+        tvg_name: Radio Bollerwagen
+        url: https://ffn-de-hz-fal-stream09-cluster01.radiohost.de/radiobollerwagen_mp3-192
     it:
       id: 9
       streams:
