@@ -1045,6 +1045,46 @@ http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
 https://dispatcher.rndfnk.com/hr/youfm/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="Radio 21 Hannover" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio21hannover.png",Radio 21 Hannover
 https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655
+#EXTINF:-1 tvg-name="Radio Köln" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln
+https://stream.lokalradio.nrw/444z7kb
+#EXTINF:-1 tvg-name="Radio Köln 80er" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln 80er
+https://stream.lokalradio.nrw/444zgxt
+#EXTINF:-1 tvg-name="Radio Köln 90er" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln 90er
+https://stream.lokalradio.nrw/444zkbb
+#EXTINF:-1 tvg-name="Radio Köln 2000er" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln 2000er
+https://stream.lokalradio.nrw/4456wvh
+#EXTINF:-1 tvg-name="Radio Köln Deutschpop" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Deutschpop
+https://stream.lokalradio.nrw/444znpt
+#EXTINF:-1 tvg-name="Radio Köln Love" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Love
+https://stream.lokalradio.nrw/444zwtb
+#EXTINF:-1 tvg-name="Radio Köln Lounge" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Lounge
+https://stream.lokalradio.nrw/444ztft
+#EXTINF:-1 tvg-name="Radio Köln Karneval" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Karneval
+https://stream.lokalradio.nrw/444zdhk
+#EXTINF:-1 tvg-name="Radio Köln XMAS" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln XMAS
+https://stream.lokalradio.nrw/444zr3b
+#EXTINF:-1 tvg-name="Radio Köln Urban" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Urban
+https://stream.lokalradio.nrw/44528bb
+#EXTINF:-1 tvg-name="Radio Köln Oldie" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Oldie
+https://stream.lokalradio.nrw/44548n3
+#EXTINF:-1 tvg-name="Radio Köln Rock" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Rock
+https://stream.lokalradio.nrw/444zz6t
+#EXTINF:-1 tvg-name="Radio Köln Rockclassic" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Rockclassic
+https://stream.lokalradio.nrw/44578v5
+#EXTINF:-1 tvg-name="Radio Köln HipHop" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln HipHop
+https://stream.lokalradio.nrw/4458c6f
+#EXTINF:-1 tvg-name="Radio Köln Country" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Country
+https://stream.lokalradio.nrw/4457z6s
+#EXTINF:-1 tvg-name="Radio Köln Singer" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Singer
+https://stream.lokalradio.nrw/44566w7
+#EXTINF:-1 tvg-name="Radio Köln Top40" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Top40
+https://stream.lokalradio.nrw/44525xt
+#EXTINF:-1 tvg-name="Radio Köln Dance" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Dance
+https://stream.lokalradio.nrw/4456jvv
+#EXTINF:-1 tvg-name="Radio Köln Schlager" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Schlager
+https://stream.lokalradio.nrw/44523kb
+#EXTINF:-1 tvg-name="Radio Köln Sommer" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Sommer
+https://stream.lokalradio.nrw/4457mts
 #EXTINF:-1 tvg-name="FM4" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
 https://orf-live.ors-shoutcast.at/fm4-q2a
 #EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
