@@ -2057,6 +2057,186 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio21hannover.png
         tvg_name: Radio 21 Hannover
         url: https://radio21.streamabc.net/radio21-hannover-mp3-192-3735655
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln
+        url: https://stream.lokalradio.nrw/444z7kb
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln 80er
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln 80er
+        url: https://stream.lokalradio.nrw/444zgxt
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln 90er
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln 90er
+        url: https://stream.lokalradio.nrw/444zkbb
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln 2000er
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln 2000er
+        url: https://stream.lokalradio.nrw/4456wvh
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Deutschpop
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Deutschpop
+        url: https://stream.lokalradio.nrw/444znpt
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Love
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Love
+        url: https://stream.lokalradio.nrw/444zwtb
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Lounge
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Lounge
+        url: https://stream.lokalradio.nrw/444ztft
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Karneval
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Karneval
+        url: https://stream.lokalradio.nrw/444zdhk
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln XMAS
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln XMAS
+        url: https://stream.lokalradio.nrw/444zr3b
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Urban
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Urban
+        url: https://stream.lokalradio.nrw/44528bb
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Oldie
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Oldie
+        url: https://stream.lokalradio.nrw/44548n3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Rock
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Rock
+        url: https://stream.lokalradio.nrw/444zz6t
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Rockclassic
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Rockclassic
+        url: https://stream.lokalradio.nrw/44578v5
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln HipHop
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln HipHop
+        url: https://stream.lokalradio.nrw/4458c6f
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Country
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Country
+        url: https://stream.lokalradio.nrw/4457z6s
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Singer
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Singer
+        url: https://stream.lokalradio.nrw/44566w7
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Top40
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Top40
+        url: https://stream.lokalradio.nrw/44525xt
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Dance
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Dance
+        url: https://stream.lokalradio.nrw/4456jvv
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Schlager
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Schlager
+        url: https://stream.lokalradio.nrw/44523kb
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio Köln Sommer
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png
+        tvg_name: Radio Köln Sommer
+        url: https://stream.lokalradio.nrw/4457mts
     it:
       id: 9
       streams:
