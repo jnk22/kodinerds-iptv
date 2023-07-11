@@ -4864,7 +4864,7 @@ tv:
         tvg_id: One1MusicTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/one1musictv.png
         tvg_name: One 1 Music TV
-        url: https://folxplay-t.b-cdn.net/streams/ch-3/master.m3u8
+        url: https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Zwei 2 Music TV
@@ -4873,7 +4873,7 @@ tv:
         tvg_id: Zwei2MusicTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zwei2musictv.png
         tvg_name: Zwei 2 Music TV
-        url: https://folxplay-t.b-cdn.net/streams/ch-2/master.m3u8
+        url: https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Deutsches Musik Fernsehen
