@@ -32,7 +32,7 @@ https://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid
 #EXTINF:-1 tvg-name="ANTENNE THÜRINGEN" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennethueringen.png",ANTENNE THÜRINGEN
 http://stream.antennethueringen.de/live/mp3-192
 #EXTINF:-1 tvg-name="AntenneSaar" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennesaar.png",AntenneSaar
-http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm
+http://streaming01.sr-online.de/antennesaar_2.m3u
 #EXTINF:-1 tvg-name="BR24" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24.png",BR24
 https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
 #EXTINF:-1 tvg-name="BR24 live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/br24live.png",BR24 live
