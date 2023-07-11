@@ -477,7 +477,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png
         tvg_name: bigFM
-        url: https://streams.bigfm.de/bigfm-deutschland-128-mp3
+        url: https://stream.bigfm.de/deutschland/aac-128
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: BlackBeats.FM
