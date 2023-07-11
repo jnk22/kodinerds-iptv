@@ -4429,7 +4429,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png
         tvg_name: Sylt1
-        url: https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
+        url: https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/Playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Niederbayern TV Passau
