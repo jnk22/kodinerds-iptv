@@ -374,11 +374,11 @@ http://streams.rpr1.de/rpr-koeln-128-mp3
 #EXTINF:-1 tvg-name="RTF.3" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rtf3.png",RTF.3
 http://37.187.93.104:8414/stream
 #EXTINF:-1 tvg-name="SR 1 Europawelle" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr1europawelle.png",SR 1 Europawelle
-http://sr1m.akacast.akamaistream.net/7/725/142685/v1/gnl.akacast.akamaistream.net/sr1m
+https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="SR 2 Kulturradio" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr2kulturradio.png",SR 2 Kulturradio
-http://sr2m.akacast.akamaistream.net/7/375/142686/v1/gnl.akacast.akamaistream.net/sr2m
+https://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="SR 3 Saarlandwelle" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr3saarlandwelle.png",SR 3 Saarlandwelle
-http://sr3m.akacast.akamaistream.net/7/722/142687/v1/gnl.akacast.akamaistream.net/sr3m
+https://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="sunshine live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",sunshine live
 http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq
 #EXTINF:-1 tvg-name="SWR1 Baden-Württemberg" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png",SWR1 Baden-Württemberg
