@@ -470,7 +470,7 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36
 #EXTINF:-1 tvg-name="TeleBärn HD" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebaern.png",TeleBärn HD
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8
 #EXTINF:-1 tvg-name="Tele M1 HD" tvg-id="TeleM1.ch" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telem1.png",Tele M1 HD
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/protocol/https/format/applehttp/flavorIds/1_c3sydgl5,1_a4l5it9e,1_sc0f201h/a.m3u8
 #EXTINF:-1 tvg-name="TVO (CH)" tvg-id="TVO.ch" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo_ch.png",TVO (CH)
 https://s3.welocal.world/tvo/media/447348/videos/hls.m3u8
 #EXTINF:-1 tvg-name="TeleBielingue" tvg-id="TeleBielingue.ch" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebielingue.png",TeleBielingue
