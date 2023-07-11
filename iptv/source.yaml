@@ -2926,7 +2926,7 @@ tv:
         tvg_id: TeleM1.ch
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telem1.png
         tvg_name: Tele M1 HD
-        url: http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+        url: https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/protocol/https/format/applehttp/flavorIds/1_c3sydgl5,1_a4l5it9e,1_sc0f201h/a.m3u8
       - group_title: IPTV-CH
         group_title_kodi: International
         name: TVO (CH)
