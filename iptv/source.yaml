@@ -4528,7 +4528,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/emstv.png
         tvg_name: emstv
-        url: https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
+        url: https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: FRF24
