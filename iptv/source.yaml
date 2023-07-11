@@ -378,7 +378,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennesaar.png
         tvg_name: AntenneSaar
-        url: http://asm.akacast.akamaistream.net/7/495/305516/v1/gnl.akacast.akamaistream.net/asm
+        url: http://streaming01.sr-online.de/antennesaar_2.m3u
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: BR24
