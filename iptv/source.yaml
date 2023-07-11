@@ -4438,7 +4438,7 @@ tv:
         tvg_id: niederbayerntv.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/niederbayerntv.png
         tvg_name: Niederbayern TV Passau
-        url: https://stream03.stream.welocal.world/stream/npa/ngrp:npa.stream_all/playlist.m3u8
+        url: https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: tv.ingolstadt
