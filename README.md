@@ -152,6 +152,7 @@ Um die Stream URL für einen bestimmten Stream zu ermitteln, lässt sich z.B. Fi
 Hilfreich ist das Firefox-Add-On [The Stream Detector](https://addons.mozilla.org/de/firefox/addon/hls-stream-detector/).
 
 ## Weiterführende Links
+* [Link zum direkten Abspielen der Liste](https://iptvnator.vercel.app/iptv?url=http:%2F%2Fbit.ly%2Fkn-kodi-tv)
 * [Aktuelle To-Do Liste](https://github.com/jnk22/kodinerds-iptv/issues)
 * [Kodinerds IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56713/)
 * [Entertain IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/58228/)
