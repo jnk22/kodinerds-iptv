@@ -96,7 +96,7 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/p
 #EXTINF:-1 tvg-name="ELBEKANAL" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/elbekanal.png",ELBEKANAL
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
 #EXTINF:-1 tvg-name="seenluft24" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png",seenluft24
-https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8
 #EXTINF:-1 tvg-name="oldenburg eins" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
 https://oeins.de/live/studio.m3u8
 #EXTINF:-1 tvg-name="Potsdam TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png",Potsdam TV
