@@ -102,7 +102,7 @@ https://oeins.de/live/studio.m3u8
 #EXTINF:-1 tvg-name="Potsdam TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png",Potsdam TV
 https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
 #EXTINF:-1 tvg-name="Regio TV Bodensee" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png",Regio TV Bodensee
-https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+https://stream05.welocal.stream/stream/fhd-regiotv_298141/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Regio TV Schwaben" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png",Regio TV Schwaben
 https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Regio TV Stuttgart" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png",Regio TV Stuttgart
