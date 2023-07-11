@@ -2899,7 +2899,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/melodietv.png
         tvg_name: Melodie TV
-        url: https://www.youtube.com/embed/1nHkPNp4Yc0
+        url: https://www.youtube.com/embed/7ODUQKpsY9A
       - group_title: IPTV-CH
         group_title_kodi: International
         name: TeleZüri HD
@@ -2917,7 +2917,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebaern.png
         tvg_name: TeleBärn HD
-        url: http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
+        url: https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_obr1n222/protocol/https/format/applehttp/flavorIds/1_ilmyd94i,1_ndclh5za,1_y4atcpo4/a.m3u8
       - group_title: IPTV-CH
         group_title_kodi: International
         name: Tele M1 HD
