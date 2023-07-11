@@ -4465,7 +4465,7 @@ tv:
         tvg_id: tvmainfranken.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png
         tvg_name: TV Mainfranken
-        url: https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8
+        url: https://stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp:stream_all/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: TV Würzburg
