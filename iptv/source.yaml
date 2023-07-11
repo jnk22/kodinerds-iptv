@@ -4348,7 +4348,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png
         tvg_name: seenluft24
-        url: https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/mp4:livestreamhd20/chunklist.m3u8
+        url: https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: oldenburg eins
