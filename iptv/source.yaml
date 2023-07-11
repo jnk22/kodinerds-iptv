@@ -1912,7 +1912,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr1europawelle.png
         tvg_name: SR 1 Europawelle
-        url: http://sr1m.akacast.akamaistream.net/7/725/142685/v1/gnl.akacast.akamaistream.net/sr1m
+        url: https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: SR 2 Kulturradio
@@ -1921,7 +1921,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr2kulturradio.png
         tvg_name: SR 2 Kulturradio
-        url: http://sr2m.akacast.akamaistream.net/7/375/142686/v1/gnl.akacast.akamaistream.net/sr2m
+        url: https://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: SR 3 Saarlandwelle
@@ -1930,7 +1930,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr3saarlandwelle.png
         tvg_name: SR 3 Saarlandwelle
-        url: http://sr3m.akacast.akamaistream.net/7/722/142687/v1/gnl.akacast.akamaistream.net/sr3m
+        url: https://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: sunshine live
