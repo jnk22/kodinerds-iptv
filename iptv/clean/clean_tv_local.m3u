@@ -66,9 +66,9 @@ https://s.ok54.de/oklu/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Dessau" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png",OK Dessau
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Magdeburg" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png",OK Magdeburg
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Salzwedel" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png",OK Salzwedel
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Stendal" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png",OK Stendal
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Wernigerode" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png",OK Wernigerode
