@@ -4276,7 +4276,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdf1.png
         tvg_name: MDF.1
-        url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
+        url: https://h056.video-stream-hosting.de/medienasa-live/_definst_/mdf1_high/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: PUNKTum
