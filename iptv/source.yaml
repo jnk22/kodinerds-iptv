@@ -4375,7 +4375,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png
         tvg_name: Regio TV Bodensee
-        url: https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+        url: https://stream05.welocal.stream/stream/fhd-regiotv_298141/ngrp:stream_all/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Regio TV Schwaben
