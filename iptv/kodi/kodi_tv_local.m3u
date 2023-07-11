@@ -12,7 +12,7 @@ https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playl
 #EXTINF:-1 tvg-name="Dresden Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png",Dresden Fernsehen
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
-https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
+https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Hamburg 1" tvg-id="Hamburg1.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hamburg1.png",Hamburg 1
 https://hamburg1-jw.cdn.vustreams.com/live/09120205-afa3-4048-a965-318eb0cacffc/live.isml/.m3u8
 #EXTINF:-1 tvg-name="KabelJournal" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kabeljournal.png",KabelJournal
