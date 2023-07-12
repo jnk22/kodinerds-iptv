@@ -2545,7 +2545,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png
         tvg_name: RMF FM
-        url: http://195.150.20.243/RMFFM48
+        url: https://rs103-krk.rmfstream.pl/RMFFM48
     ro:
       id: 8
       streams:
