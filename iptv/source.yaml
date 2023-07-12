@@ -2509,7 +2509,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
         tvg_name: Radio ZET Love
-        url: https://zt.cdn.eurozet.pl/ZETLOV.mp3
+        url: https://zt02.cdn.eurozet.pl/ZETLOV.mp3
       - group_title: Radio-PL
         group_title_kodi: Polen
         name: Radio ZET Party
