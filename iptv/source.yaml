@@ -2410,7 +2410,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
         tvg_name: Planeta FM
-        url: http://pla01.cdn.eurozet.pl:8700/pla-net.mp3
+        url: https://pa04.cdn.eurozet.pl/pla-net.mp3
       - group_title: Radio-PL
         group_title_kodi: Polen
         name: Planeta FM Dope Hits
