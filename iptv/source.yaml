@@ -2569,7 +2569,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcasiannetwork.png
         tvg_name: BBC Asian Network
-        url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
+        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_asian_network.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 1
