@@ -600,7 +600,7 @@ pipe://ffmpeg -loglevel fatal -i http://zet.cdn.eurozet.pl/ZETPL1.mp3 -vcodec co
 #EXTINF:-1 tvg-name="Radio ZET Rock" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET Rock
 pipe://ffmpeg -loglevel fatal -i http://zet.cdn.eurozet.pl/ZETROK.mp3 -vcodec copy -acodec copy -metadata service_name=Radio\ ZET\ Rock -metadata service_provider=Radio-PL -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="RMF FM" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png",RMF FM
-pipe://ffmpeg -loglevel fatal -i http://195.150.20.243/RMFFM48 -vcodec copy -acodec copy -metadata service_name=RMF\ FM -metadata service_provider=Radio-PL -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+pipe://ffmpeg -loglevel fatal -i https://rs103-krk.rmfstream.pl/RMFFM48 -vcodec copy -acodec copy -metadata service_name=RMF\ FM -metadata service_provider=Radio-PL -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Radio Manele" group-title="Radio-RO" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiomanele.png",Radio Manele
 pipe://ffmpeg -loglevel fatal -i https://ssl.servereradio.ro/8044/stream -vcodec copy -acodec copy -metadata service_name=Radio\ Manele -metadata service_provider=Radio-RO -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Radio 2000" group-title="Radio-IT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio2000it.png",Radio 2000

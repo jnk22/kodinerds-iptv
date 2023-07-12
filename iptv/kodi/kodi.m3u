@@ -1238,7 +1238,7 @@ http://zet.cdn.eurozet.pl/ZETPL1.mp3
 #EXTINF:-1 tvg-name="Radio ZET Rock" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET Rock
 http://zet.cdn.eurozet.pl/ZETROK.mp3
 #EXTINF:-1 tvg-name="RMF FM" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png",RMF FM
-http://195.150.20.243/RMFFM48
+https://rs103-krk.rmfstream.pl/RMFFM48
 #EXTINF:-1 tvg-name="Radio Manele" group-title="Rumänien" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiomanele.png",Radio Manele
 https://ssl.servereradio.ro/8044/stream
 #EXTINF:-1 tvg-name="Radio 2000" group-title="Italien und Südtirol" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio2000it.png",Radio 2000
