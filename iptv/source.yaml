@@ -1444,7 +1444,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png
         tvg_name: RADIO BOB! Festival
-        url: https://streams.radiobob.de/bob-livemusic/mp3-192/mediaplayer
+        url: https://regiocast.streamabc.net/regc-radiobobfestival4791239-mp3-192-1869588
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! Folk Rock
