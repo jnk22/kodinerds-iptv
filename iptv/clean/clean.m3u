@@ -1018,7 +1018,7 @@ https://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="SR 3 Saarlandwelle" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr3saarlandwelle.png",SR 3 Saarlandwelle
 https://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="sunshine live" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",sunshine live
-http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq
+https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-6863798
 #EXTINF:-1 tvg-name="SWR1 Baden-Württemberg" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png",SWR1 Baden-Württemberg
 https://dispatcher.rndfnk.com/swr/swr1/bw/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="SWR1 Rheinland-Pfalz" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png",SWR1 Rheinland-Pfalz
