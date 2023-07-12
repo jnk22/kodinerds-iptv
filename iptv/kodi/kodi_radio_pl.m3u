@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Planeta FM" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM
-http://pla01.cdn.eurozet.pl:8700/pla-net.mp3
+https://pa04.cdn.eurozet.pl/pla-net.mp3
 #EXTINF:-1 tvg-name="Planeta FM Dope Hits" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM Dope Hits
 http://pla02.cdn.eurozet.pl:8208/PLAHOU.mp3
 #EXTINF:-1 tvg-name="Planeta FM Electronic Wave" group-title="Polen" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM Electronic Wave

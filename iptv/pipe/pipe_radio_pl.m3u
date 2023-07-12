@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Planeta FM" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM
-pipe://ffmpeg -loglevel fatal -i http://pla01.cdn.eurozet.pl:8700/pla-net.mp3 -vcodec copy -acodec copy -metadata service_name=Planeta\ FM -metadata service_provider=Radio-PL -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+pipe://ffmpeg -loglevel fatal -i https://pa04.cdn.eurozet.pl/pla-net.mp3 -vcodec copy -acodec copy -metadata service_name=Planeta\ FM -metadata service_provider=Radio-PL -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Planeta FM Dope Hits" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM Dope Hits
 pipe://ffmpeg -loglevel fatal -i http://pla02.cdn.eurozet.pl:8208/PLAHOU.mp3 -vcodec copy -acodec copy -metadata service_name=Planeta\ FM\ Dope\ Hits -metadata service_provider=Radio-PL -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Planeta FM Electronic Wave" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM Electronic Wave
