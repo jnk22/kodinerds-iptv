@@ -1138,7 +1138,7 @@ http://mp3.radio.ch/radiozuerisee128k
 #EXTINF:-1 tvg-name="BBC Asian Network" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcasiannetwork.png",BBC Asian Network
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_asian_network.mpd
 #EXTINF:-1 tvg-name="BBC Radio 1" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1.png",BBC Radio 1
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_one.mpd
 #EXTINF:-1 tvg-name="BBC Radio 1Xtra" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1xtra.png",BBC Radio 1Xtra
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
 #EXTINF:-1 tvg-name="BBC Radio 2" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio2.png",BBC Radio 2
