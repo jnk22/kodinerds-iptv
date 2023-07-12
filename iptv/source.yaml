@@ -2587,7 +2587,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1xtra.png
         tvg_name: BBC Radio 1Xtra
-        url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_1xtra.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 2
