@@ -2596,7 +2596,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio2.png
         tvg_name: BBC Radio 2
-        url: http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_two.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 3
