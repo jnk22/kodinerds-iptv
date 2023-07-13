@@ -150,6 +150,7 @@ Um die Stream URL für einen bestimmten Stream zu ermitteln, lässt sich z.B. Fi
 5. Stream URL im Detailfenster (rechte Seite) unter "Kopfzeilen" finden
 
 Hilfreich sind die Firefox-Add-Ons [The Stream Detector](https://addons.mozilla.org/de/firefox/addon/hls-stream-detector/) und [video downloadhelper](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/).
+[Auslesen von dash Streams](https://www.dvbviewer.tv/forum/topic/63394-mpeg-dash-empfangbar-machen/?do=findComment&comment=492185)
 
 ## Weiterführende Links
 * [Link zum direkten Abspielen der Liste](https://iptvnator.vercel.app/iptv?url=http:%2F%2Fbit.ly%2Fkn-kodi-tv)
