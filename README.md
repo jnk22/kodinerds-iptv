@@ -149,7 +149,7 @@ Um die Stream URL für einen bestimmten Stream zu ermitteln, lässt sich z.B. Fi
 4. Stream Datei in der Liste suchen (typischerweise `.m3u8`)
 5. Stream URL im Detailfenster (rechte Seite) unter "Kopfzeilen" finden
 
-Hilfreich ist das Firefox-Add-On [The Stream Detector](https://addons.mozilla.org/de/firefox/addon/hls-stream-detector/).
+Hilfreich sind die Firefox-Add-Ons [The Stream Detector](https://addons.mozilla.org/de/firefox/addon/hls-stream-detector/) und [video downloadhelper](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/).
 
 ## Weiterführende Links
 * [Link zum direkten Abspielen der Liste](https://iptvnator.vercel.app/iptv?url=http:%2F%2Fbit.ly%2Fkn-kodi-tv)
