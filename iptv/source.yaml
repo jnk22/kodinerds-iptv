@@ -4685,6 +4685,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png
         tvg_name: Bild
         url: https://bild.personalstream.tv/v1/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Sport
+        name: AUTO BILD TV
+        quality: hd
+        radio: false
+        tvg_id: AUTOBILD.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png
+        tvg_name: AutoBild
+        url: https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International;Sport
         name: Red Bull TV
