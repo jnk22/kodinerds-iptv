@@ -1088,7 +1088,7 @@ https://stream.lokalradio.nrw/44523kb
 #EXTINF:-1 tvg-name="Radio Köln Sommer" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokoeln.png",Radio Köln Sommer
 https://stream.lokalradio.nrw/4457mts
 #EXTINF:-1 tvg-name="Radio Bollerwagen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobollerwagen.png",Radio Bollerwagen
-https://ffn-de-hz-fal-stream09-cluster01.radiohost.de/radiobollerwagen_mp3-192
+http://player.ffn.de/radiobollerwagen.mp3
 #EXTINF:-1 tvg-name="FM4" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
 https://orf-live.ors-shoutcast.at/fm4-q2a
 #EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3
