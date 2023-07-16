@@ -2245,7 +2245,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobollerwagen.png
         tvg_name: Radio Bollerwagen
-        url: https://ffn-de-hz-fal-stream09-cluster01.radiohost.de/radiobollerwagen_mp3-192
+        url: http://player.ffn.de/radiobollerwagen.mp3
     it:
       id: 9
       streams:
