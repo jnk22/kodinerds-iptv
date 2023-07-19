@@ -4947,24 +4947,6 @@ tv:
         tvg_name: Schlager Deluxe
         url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
       - group_title: IPTV-DE
-        group_title_kodi: Musik
-        name: Magenta Musik 360 1
-        quality: hd
-        radio: false
-        tvg_id: MagentaMusik1.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png
-        tvg_name: Magenta Musik 360 1
-        url: https://streaming.magenta-musik-360.de/csm/573870/magentamusik1/index.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
-        name: Magenta Musik 360 2
-        quality: hd
-        radio: false
-        tvg_id: MagentaMusik2.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png
-        tvg_name: Magenta Musik 360 2
-        url: https://streaming.magenta-musik-360.de/csm/573871/magentamusik2/index.m3u8
-      - group_title: IPTV-DE
         group_title_kodi: Religion
         name: Bibel TV
         quality: sd
