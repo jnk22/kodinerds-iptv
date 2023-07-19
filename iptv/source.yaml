@@ -612,7 +612,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ctdasradio.png
         tvg_name: CT das radio (Uniradio Bochum)
-        url: https://www.ctdasradio.de/wp-content/themes/nd_theme/listen.pls
+        url: http://live.ctdasradio.de:8008/web-playlist
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Studentenfunk (Universität Regensburg)
