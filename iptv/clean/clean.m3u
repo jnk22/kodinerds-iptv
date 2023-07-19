@@ -717,6 +717,10 @@ https://rqstream.radioq.de/stream/192.mp3
 http://icecast.l-uni.co:8001/lunico_high_mp3
 #EXTINF:-1 tvg-name="Campusradio Bielefeld (Hertz 87.9)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hertz879.png",Campusradio Bielefeld (Hertz 87.9)
 http://stream.radiohertz.de/hertz-hq.mp3
+#EXTINF:-1 tvg-name="Campus Crew (Universität Passau)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/campuscrew.png",Campus Crew (Universität Passau)
+http://server14575.streamplus.de/listen.mp3
+#EXTINF:-1 tvg-name="CampusFM (Hochschulradio Universität Duisburg-Essen)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/campusfm.png",CampusFM (Hochschulradio Universität Duisburg-Essen)
+http://campusfm.de
 #EXTINF:-1 tvg-name="DASDING" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING
 https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="DELUXE EASY" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeasy.png",DELUXE EASY
