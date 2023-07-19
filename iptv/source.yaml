@@ -4990,7 +4990,7 @@ tv:
         tvg_id: EWTN.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png
         tvg_name: EWTN katholisches TV
-        url: https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+        url: https://1775071782.rsc.cdn77.org/1775071782/tracks-v1a1/mono.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Religion
         name: ERF 1
