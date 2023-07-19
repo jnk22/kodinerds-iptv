@@ -5002,15 +5002,6 @@ tv:
         url: https://bcovlive-a.akamaihd.net/8d3c5f8c76724987a30eb69d4ba6ca80/eu-central-1/6194387526001/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Sonstiges
-        name: health.tv
-        quality: hd
-        radio: false
-        tvg_id: Health.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/healthtv.png
-        tvg_name: health.tv
-        url: http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Sonstiges
         name: VISIT-X.tv
         quality: sd
         radio: false
