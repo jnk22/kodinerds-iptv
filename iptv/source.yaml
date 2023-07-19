@@ -4837,7 +4837,7 @@ tv:
         tvg_id: Unserding.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png
         tvg_name: UNSERDING-VisualRadio
-        url: https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
+        url: https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/master-540p-1728.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Rockland TV
