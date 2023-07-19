@@ -615,6 +615,15 @@ radio:
         url: https://www.ctdasradio.de/wp-content/themes/nd_theme/listen.pls
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: Studentenfunk (Universität Regensburg)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/studentenfunk.png
+        tvg_name: Studentenfunk (Universität Regensburg)
+        url: https://studentenfunk.out.airtime.pro/studentenfunk_a#
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: DASDING
         quality: ''
         radio: true
