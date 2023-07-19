@@ -576,7 +576,16 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hertz879.png
         tvg_name: Campusradio Bielefeld (Hertz 87.9)
-        url: http://stream.radiohertz.de/hertz-hq.mp3 
+        url: http://stream.radiohertz.de/hertz-hq.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Campusradio Mannheim (Radioaktiv)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioaktiv.png
+        tvg_name: Campusradio Mannheim (Radioaktiv)
+        url: https://stream.radioaktiv.org/VeryHiFi
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Campus Crew (Universität Passau)
