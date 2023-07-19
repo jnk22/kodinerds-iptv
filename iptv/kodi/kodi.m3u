@@ -724,7 +724,7 @@ http://server14575.streamplus.de/listen.mp3
 #EXTINF:-1 tvg-name="CampusFM (Hochschulradio Universität Duisburg-Essen)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/campusfm.png",CampusFM (Hochschulradio Universität Duisburg-Essen)
 http://campusfm.de
 #EXTINF:-1 tvg-name="CT das radio (Uniradio Bochum)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ctdasradio.png",CT das radio (Uniradio Bochum)
-https://www.ctdasradio.de/wp-content/themes/nd_theme/listen.pls
+http://live.ctdasradio.de:8008/web-playlist
 #EXTINF:-1 tvg-name="Studentenfunk (Universität Regensburg)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/studentenfunk.png",Studentenfunk (Universität Regensburg)
 https://studentenfunk.out.airtime.pro/studentenfunk_a#
 #EXTINF:-1 tvg-name="DASDING" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING
