@@ -597,6 +597,15 @@ radio:
         url: http://campusfm.de
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: CT das radio (Uniradio Bochum)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ctdasradio.png
+        tvg_name: CT das radio (Uniradio Bochum)
+        url: https://www.ctdasradio.de/wp-content/themes/nd_theme/listen.pls
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: DASDING
         quality: ''
         radio: true
