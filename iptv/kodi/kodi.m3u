@@ -721,6 +721,8 @@ http://stream.radiohertz.de/hertz-hq.mp3
 http://server14575.streamplus.de/listen.mp3
 #EXTINF:-1 tvg-name="CampusFM (Hochschulradio Universität Duisburg-Essen)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/campusfm.png",CampusFM (Hochschulradio Universität Duisburg-Essen)
 http://campusfm.de
+#EXTINF:-1 tvg-name="CT das radio (Uniradio Bochum)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ctdasradio.png",CT das radio (Uniradio Bochum)
+https://www.ctdasradio.de/wp-content/themes/nd_theme/listen.pls
 #EXTINF:-1 tvg-name="DASDING" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING
 https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="DELUXE EASY" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeasy.png",DELUXE EASY
