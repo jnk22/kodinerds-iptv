@@ -570,7 +570,7 @@ https://livestream.goinfo.it/SDFLive/sdfros/playlist.m3u8
 #EXTINF:-1 tvg-name="m2o TV" tvg-id="" group-title="International;Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/m2otv.png",m2o Tv
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai News 24" tvg-id="RaiNews.it" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rainews24.png",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-name="Fjorton" tvg-id="" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fjorton.png",Fjorton
 http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Digi 24 HD" tvg-id="digi24.ro" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/digi24hd.png",Digi 24 HD
