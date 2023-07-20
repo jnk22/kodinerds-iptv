@@ -3670,7 +3670,7 @@ tv:
         tvg_id: RaiNews.it
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rainews24.png
         tvg_name: Rai News 24
-        url: https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+        url: https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
       - group_title: IPTV-SW
         group_title_kodi: International
         name: Fjorton
