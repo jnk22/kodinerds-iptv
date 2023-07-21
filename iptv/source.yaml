@@ -4840,6 +4840,15 @@ tv:
         url: https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/master-540p-1728.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
+        name: NDR 1 Radio MV-VisualRadio
+        quality: hd
+        radio: false
+        tvg_id: NDR1RadioMV.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1radiomv.png
+        tvg_name: NDR 1 Radio MV-VisualRadio
+        url: https://ndrvisualradiohls.akamaized.net/hls/live/2018951/ndrvr_mv_ndr1/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
         name: Rockland TV
         quality: hd
         radio: false
