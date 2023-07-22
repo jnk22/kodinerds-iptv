@@ -624,6 +624,51 @@ radio:
         url: https://studentenfunk.out.airtime.pro/studentenfunk_a#
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: BonnFM
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bonnfm.png
+        tvg_name: BonnFM
+        url: https://stream.bonn.fm/live_high
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: radius921 (Universität Siegen)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radius921.png
+        tvg_name: radius921 (Universität Siegen)
+        url: http://141.99.154.10:8002/;
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Triquency (Hochschulradio TH OWL / Lemgo)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/triquency.png
+        tvg_name: Triquency (Hochschulradio TH OWL / Lemgo)
+        url: http://livestream.triquency.de:8000/live192.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: radioFH! (Fachhochschule Südwestfalen, Meschede)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiofh.png
+        tvg_name: radioFH! (Fachhochschule Südwestfalen, Meschede)
+        url: https://server28989.streamplus.de/stream.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Radio KIT (Karlsruhe)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokit.png
+        tvg_name: Radio KIT (Karlsruhe)
+        url: http://campusradio.zak.kit.edu:8000/campusradiokitbib
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: DASDING
         quality: ''
         radio: true
