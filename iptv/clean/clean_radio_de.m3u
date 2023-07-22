@@ -87,6 +87,16 @@ http://campusfm.de
 http://live.ctdasradio.de:8008/web-playlist
 #EXTINF:-1 tvg-name="Studentenfunk (Universität Regensburg)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/studentenfunk.png",Studentenfunk (Universität Regensburg)
 https://studentenfunk.out.airtime.pro/studentenfunk_a#
+#EXTINF:-1 tvg-name="BonnFM" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bonnfm.png",BonnFM
+https://stream.bonn.fm/live_high
+#EXTINF:-1 tvg-name="radius921 (Universität Siegen)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radius921.png",radius921 (Universität Siegen)
+http://141.99.154.10:8002/;
+#EXTINF:-1 tvg-name="Triquency (Hochschulradio TH OWL / Lemgo)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/triquency.png",Triquency (Hochschulradio TH OWL / Lemgo)
+http://livestream.triquency.de:8000/live192.mp3
+#EXTINF:-1 tvg-name="radioFH! (Fachhochschule Südwestfalen, Meschede)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiofh.png",radioFH! (Fachhochschule Südwestfalen, Meschede)
+https://server28989.streamplus.de/stream.mp3
+#EXTINF:-1 tvg-name="Radio KIT (Karlsruhe)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokit.png",Radio KIT (Karlsruhe)
+http://campusradio.zak.kit.edu:8000/campusradiokitbib
 #EXTINF:-1 tvg-name="DASDING" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING
 https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="DELUXE EASY" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeasy.png",DELUXE EASY
