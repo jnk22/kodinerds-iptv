@@ -669,6 +669,33 @@ radio:
         url: http://campusradio.zak.kit.edu:8000/campusradiokitbib
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: 99drei Radio Mittweida
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/99drei.png
+        tvg_name: 99drei Radio Mittweida
+        url: http://netradio.ext.htwm.de:8000/live256
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Guericke FM (Uniradio Magdeburg)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/GuerickeFM.png
+        tvg_name: Guericke FM (Uniradio Magdeburg)
+        url: https://server14976.streamplus.de/stream.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Hochschulradio Ilmenau
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hsf.png
+        tvg_name: Hochschulradio Ilmenau
+        url: https://stream.radio-hsf.de/hsf.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: DASDING
         quality: ''
         radio: true
