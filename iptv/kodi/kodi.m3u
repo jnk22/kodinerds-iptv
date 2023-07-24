@@ -733,6 +733,12 @@ http://livestream.triquency.de:8000/live192.mp3
 https://server28989.streamplus.de/stream.mp3
 #EXTINF:-1 tvg-name="Radio KIT (Karlsruhe)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokit.png",Radio KIT (Karlsruhe)
 http://campusradio.zak.kit.edu:8000/campusradiokitbib
+#EXTINF:-1 tvg-name="99drei Radio Mittweida" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/99drei.png",99drei Radio Mittweida
+http://netradio.ext.htwm.de:8000/live256
+#EXTINF:-1 tvg-name="Guericke FM (Uniradio Magdeburg)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/GuerickeFM.png",Guericke FM (Uniradio Magdeburg)
+https://server14976.streamplus.de/stream.mp3
+#EXTINF:-1 tvg-name="Hochschulradio Ilmenau" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hsf.png",Hochschulradio Ilmenau
+https://stream.radio-hsf.de/hsf.mp3
 #EXTINF:-1 tvg-name="DASDING" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING
 https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="DELUXE EASY" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deluxeeasy.png",DELUXE EASY
