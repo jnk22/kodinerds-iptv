@@ -588,111 +588,111 @@ radio:
         url: https://stream.radioaktiv.org/VeryHiFi
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: Campus Crew (Universität Passau)
+        name: Campusradio Passau (Campus Crew)
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/campuscrew.png
-        tvg_name: Campus Crew (Universität Passau)
+        tvg_name: Campusradio Passau (Campus Crew)
         url: http://server14575.streamplus.de/listen.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: CampusFM (Hochschulradio Universität Duisburg-Essen)
+        name: Campusradio Universität Duisburg-Essen (CampusFM)
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/campusfm.png
-        tvg_name: CampusFM (Hochschulradio Universität Duisburg-Essen)
+        tvg_name: Campusradio Universität Duisburg-Essen (CampusFM)
         url: http://campusfm.de
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: CT das radio (Uniradio Bochum)
+        name: Campusradio Bochum (CT das radio)
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ctdasradio.png
-        tvg_name: CT das radio (Uniradio Bochum)
+        tvg_name: Campusradio Bochum (CT das radio)
         url: http://live.ctdasradio.de:8008/web-playlist
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: Studentenfunk (Universität Regensburg)
+        name: Campusradio Regensburg (Studentenfunk)
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/studentenfunk.png
-        tvg_name: Studentenfunk (Universität Regensburg)
+        tvg_name: Campusradio Regensburg (Studentenfunk)
         url: https://studentenfunk.out.airtime.pro/studentenfunk_a#
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: BonnFM
+        name: Campusradio Bonn (BonnFM)
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bonnfm.png
-        tvg_name: BonnFM
+        tvg_name: Campusradio Bonn (BonnFM)
         url: https://stream.bonn.fm/live_high
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: radius921 (Universität Siegen)
+        name: Campusradio Siegen (radius921)
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radius921.png
-        tvg_name: radius921 (Universität Siegen)
+        tvg_name: Campusradio Siegen (radius921)
         url: http://141.99.154.10:8002/;
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: Triquency (Hochschulradio TH OWL / Lemgo)
+        name: Campusradio TH OWL / Lemgo (Triquency)
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/triquency.png
-        tvg_name: Triquency (Hochschulradio TH OWL / Lemgo)
+        tvg_name: Campusradio TH OWL / Lemgo (Triquency)
         url: http://livestream.triquency.de:8000/live192.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: radioFH! (Fachhochschule Südwestfalen, Meschede)
+        name: Campusradio Meschede (radioFH!)
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiofh.png
-        tvg_name: radioFH! (Fachhochschule Südwestfalen, Meschede)
+        tvg_name: Campusradio Meschede (radioFH!)
         url: https://server28989.streamplus.de/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: Radio KIT (Karlsruhe)
+        name: Campusradio Karlsruhe (Radio KIT)
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokit.png
-        tvg_name: Radio KIT (Karlsruhe)
+        tvg_name: Campusradio Karlsruhe (Radio KIT)
         url: http://campusradio.zak.kit.edu:8000/campusradiokitbib
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: 99drei Radio Mittweida
+        name: Campusradio Mittweida (99drei)
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/99drei.png
-        tvg_name: 99drei Radio Mittweida
+        tvg_name: Campusradio Mittweida (99drei)
         url: http://netradio.ext.htwm.de:8000/live256
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: Guericke FM (Uniradio Magdeburg)
+        name: Campusradio Magdeburg (Guericke FM)
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/GuerickeFM.png
-        tvg_name: Guericke FM (Uniradio Magdeburg)
+        tvg_name: Campusradio Magdeburg (Guericke FM)
         url: https://server14976.streamplus.de/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: Hochschulradio Ilmenau
+        name: Campusradio Ilmenau
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hsf.png
-        tvg_name: Hochschulradio Ilmenau
+        tvg_name: Campusradio Ilmenau
         url: https://stream.radio-hsf.de/hsf.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
