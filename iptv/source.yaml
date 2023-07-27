@@ -2041,6 +2041,15 @@ radio:
         url: http://37.187.93.104:8414/stream
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: Schlagerparadies
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/schlagerparadies.png
+        tvg_name: Schlagerparadies
+        url: https://webstream.schlagerparadies.de/schlagerparadies128.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: SR 1 Europawelle
         quality: ''
         radio: true
