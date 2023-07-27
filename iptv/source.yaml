@@ -1002,6 +1002,15 @@ radio:
         url: http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: MDR Sachsen-Anhalt
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrsachsenanhalt.png
+        tvg_name: MDR Sachsen-Anhalt
+        url: http://avw.mdr.de/streams/284290-1_mp3_high.m3u
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: MDR SACHSEN
         quality: ''
         radio: true
