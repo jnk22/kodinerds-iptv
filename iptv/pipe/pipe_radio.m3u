@@ -131,6 +131,8 @@ pipe://ffmpeg -loglevel fatal -i http://mp3ad.egofm.c.nmdn.net/ps-egofm_192/live
 pipe://ffmpeg -loglevel fatal -i https://stream.erf.de/erfplus.m3u -vcodec copy -acodec copy -metadata service_name=ERF\ Plus -metadata service_provider=Radio-DE -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="ERF Jess" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/erfpop.png",ERF Jess
 pipe://ffmpeg -loglevel fatal -i https://stream.erf.de/erfpop.m3u -vcodec copy -acodec copy -metadata service_name=ERF\ Jess -metadata service_provider=Radio-DE -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+#EXTINF:-1 tvg-name="ffn" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn
+pipe://ffmpeg -loglevel fatal -i https://player.ffn.de/radioffn.mp3 -vcodec copy -acodec copy -metadata service_name=ffn -metadata service_provider=Radio-DE -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="FluxFM" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png",FluxFM
 pipe://ffmpeg -loglevel fatal -i http://streams.fluxfm.de/live/mp3-320/audio/ -vcodec copy -acodec copy -metadata service_name=FluxFM -metadata service_provider=Radio-DE -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Fritz" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png",Fritz

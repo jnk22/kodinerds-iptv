@@ -767,6 +767,8 @@ http://mp3ad.egofm.c.nmdn.net/ps-egofm_192/livestream.mp3
 https://stream.erf.de/erfplus.m3u
 #EXTINF:-1 tvg-name="ERF Jess" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/erfpop.png",ERF Jess
 https://stream.erf.de/erfpop.m3u
+#EXTINF:-1 tvg-name="ffn" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png",ffn
+https://player.ffn.de/radioffn.mp3
 #EXTINF:-1 tvg-name="FluxFM" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png",FluxFM
 http://streams.fluxfm.de/live/mp3-320/audio/
 #EXTINF:-1 tvg-name="Fritz" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png",Fritz
