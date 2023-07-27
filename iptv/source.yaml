@@ -822,6 +822,15 @@ radio:
         url: https://stream.erf.de/erfpop.m3u
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: ffn
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ffn.png
+        tvg_name: ffn
+        url: https://player.ffn.de/radioffn.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: FluxFM
         quality: ''
         radio: true
