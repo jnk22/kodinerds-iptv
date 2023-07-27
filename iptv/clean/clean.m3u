@@ -807,6 +807,8 @@ http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
 http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="MDR KULTUR" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrkultur.png",MDR KULTUR
 http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrsachsenanhalt.png",MDR Sachsen-Anhalt
+http://avw.mdr.de/streams/284290-1_mp3_high.m3u
 #EXTINF:-1 tvg-name="MDR SACHSEN" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrsachsen.png",MDR SACHSEN
 http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="MDR SPUTNIK" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrsputnik.png",MDR SPUTNIK
