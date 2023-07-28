@@ -867,6 +867,15 @@ radio:
         url: https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: HBR
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiohbr.png
+        tvg_name: HBR
+        url: https://stream1.radiohbr.de:80/stream.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: hcjb
         quality: ''
         radio: true
@@ -928,6 +937,15 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr4.png
         tvg_name: hr4
         url: https://dispatcher.rndfnk.com/hr/hr4/live/mp3/128/stream.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Inselradio
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/inselradio.png
+        tvg_name: Inselradio
+        url: https://inselradio--di--nacs-ais-lgc--02--cdn.cast.addradio.de/inselradio/live/mp3/high
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: JAM FM
