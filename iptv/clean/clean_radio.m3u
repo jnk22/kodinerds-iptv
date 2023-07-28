@@ -141,6 +141,8 @@ http://radiofd.ice.infomaniak.ch/radiofd.mp3
 https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
 #EXTINF:-1 tvg-name="harmony.fm" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/harmonyfm.png",harmony.fm
 https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
+#EXTINF:-1 tvg-name="HBR" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiohbr.png",HBR
+https://stream1.radiohbr.de:80/stream.mp3
 #EXTINF:-1 tvg-name="hcjb" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hcjb.png",hcjb
 http://segenswelle.de/hcjb
 #EXTINF:-1 tvg-name="HIT RADIO FFH" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioffh.png",HIT RADIO FFH
@@ -155,6 +157,8 @@ https://dispatcher.rndfnk.com/hr/hr2/live/mp3/256/stream.mp3
 https://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="hr4" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hr4.png",hr4
 https://dispatcher.rndfnk.com/hr/hr4/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-name="Inselradio" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/inselradio.png",Inselradio
+https://inselradio--di--nacs-ais-lgc--02--cdn.cast.addradio.de/inselradio/live/mp3/high
 #EXTINF:-1 tvg-name="JAM FM" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM
 http://stream.jam.fm/jamfm-live/mp3-128/konsole/
 #EXTINF:-1 tvg-name="JAM FM Black Label" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/jamfm.png",JAM FM Black Label
