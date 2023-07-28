@@ -771,6 +771,8 @@ https://stream.erf.de/erfpop.m3u
 https://player.ffn.de/radioffn.mp3
 #EXTINF:-1 tvg-name="FluxFM" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png",FluxFM
 http://streams.fluxfm.de/live/mp3-320/audio/
+#EXTINF:-1 tvg-name="Freundesdienst" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiofd.png",Freundesdienst
+http://radiofd.ice.infomaniak.ch/radiofd.mp3
 #EXTINF:-1 tvg-name="Fritz" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fritz.png",Fritz
 https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
 #EXTINF:-1 tvg-name="harmony.fm" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/harmonyfm.png",harmony.fm
