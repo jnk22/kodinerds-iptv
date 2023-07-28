@@ -840,6 +840,15 @@ radio:
         url: http://streams.fluxfm.de/live/mp3-320/audio/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: Freundesdienst
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiofd.png
+        tvg_name: Freundesdienst
+        url: http://radiofd.ice.infomaniak.ch/radiofd.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: Fritz
         quality: ''
         radio: true
