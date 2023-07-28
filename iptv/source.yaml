@@ -1164,6 +1164,15 @@ radio:
         url: https://dispatcher.rndfnk.com/ndr/ndrschlager/live/mp3/128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: Neue Hoffnung
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rnh.png
+        tvg_name: Neue Hoffnung
+        url: https://stream.mnr.ch/rnh-mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: nice
         quality: ''
         radio: true
