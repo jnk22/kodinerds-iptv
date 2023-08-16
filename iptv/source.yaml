@@ -3922,7 +3922,7 @@ tv:
         tvg_id: tvrain.ru
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvrain.png
         tvg_name: TV Rain
-        url: https://www.youtube.com/embed/a-FtIbrC0pE
+        url: https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b4692000.m3u8
       - group_title: IPTV-ID
         group_title_kodi: International;Nachrichten
         name: MetroTV
