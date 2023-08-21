@@ -154,7 +154,8 @@ Hilfreich sind die Firefox-Add-Ons [The Stream Detector](https://addons.mozilla.
 [Auslesen von dash Streams](https://www.dvbviewer.tv/forum/topic/63394-mpeg-dash-empfangbar-machen/?do=findComment&comment=492185)
 
 ## Weiterführende Links
-* [Link zum direkten Abspielen der Liste](https://iptvnator.vercel.app/iptv?url=http:%2F%2Fbit.ly%2Fkn-kodi-tv)
+* [Link zum direkten Abspielen der TV-Liste](https://iptvnator.vercel.app/iptv?url=http:%2F%2Fbit.ly%2Fkn-kodi-tv)
+* [Link zum direkten Abspielen der Radio-Liste](https://iptvnator.vercel.app/iptv?url=http:%2F%2Fbit.ly%2Fkn-kodi-radio)
 * [Aktuelle To-Do Liste](https://github.com/jnk22/kodinerds-iptv/issues)
 * [Kodinerds IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56713/)
 * [Entertain IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/58228/)
