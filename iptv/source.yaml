@@ -4846,7 +4846,7 @@ tv:
         tvg_id: WELT.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png
         tvg_name: WELT
-        url: https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+        url: https://welt.personalstream.tv/v1/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten
         name: WELT News (Dauerschleife)
