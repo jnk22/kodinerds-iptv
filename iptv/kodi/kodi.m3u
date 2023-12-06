@@ -1063,8 +1063,108 @@ https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3
 https://liveradio.sr.de/sr/sr2/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="SR 3 Saarlandwelle" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr3saarlandwelle.png",SR 3 Saarlandwelle
 https://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3
-#EXTINF:-1 tvg-name="sunshine live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",sunshine live
-https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-6863798
+#EXTINF:-1 tvg-name="Sunshine Live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live
+http://stream.sunshine-live.de/live/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live House" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live House
+http://stream.sunshine-live.de/house/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live EDM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live EDM
+http://stream.sunshine-live.de/edm/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Classics" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Classics
+http://stream.sunshine-live.de/classics/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Trance" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Trance
+http://stream.sunshine-live.de/trance/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Hard" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Hard
+http://stream.sunshine-live.de/hard/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Techno" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Techno
+http://stream.sunshine-live.de/techno/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Lounge" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Lounge
+http://stream.sunshine-live.de/lounge/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live 90er" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live 90er
+http://stream.sunshine-live.de/90er/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Festival" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Festival
+http://stream.sunshine-live.de/festival/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Drum 'n' Bass" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Drum 'n' Bass
+http://stream.sunshine-live.de/dnb/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Hand's up" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Hand's up
+http://stream.sunshine-live.de/handsup/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Mayday" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Mayday
+http://stream.sunshine-live.de/mayday/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Nature One" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Nature One
+http://stream.sunshine-live.de/natureone/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Time Warp" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Time Warp
+http://stream.sunshine-live.de/timewarp/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Relax" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Relax
+http://stream.sunshine-live.de/relax/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live 80er" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live 80er
+http://stream.sunshine-live.de/80er/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live 2000er" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live 2000er
+http://stream.sunshine-live.de/2000er/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Chillout" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Chillout
+http://stream.sunshine-live.de/sp8/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Summer Beats" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Summer Beats
+http://stream.sunshine-live.de/sp2/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Tech House" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Tech House
+http://stream.sunshine-live.de/sp4/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live 90s Anthems" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live 90s Anthems
+http://stream.sunshine-live.de/sp5/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Charts" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Charts
+http://stream.sunshine-live.de/sp6/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live After Hour" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live After Hour
+http://stream.sunshine-live.de/sp7/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Avicii" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Avicii
+http://stream.sunshine-live.de/avicii/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Vocal & Classic House" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Vocal & Classic House
+http://stream.sunshine-live.de/vocalhouse/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Tropical House" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Tropical House
+http://stream.sunshine-live.de/tropicalhouse/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Pride" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Pride
+http://stream.sunshine-live.de/pride/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Prodigy" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Prodigy
+http://stream.sunshine-live.de/prodigy/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Techno Live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Techno Live
+http://stream.sunshine-live.de/techno_live/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Focus" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Focus
+http://stream.sunshine-live.de/focus/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Peaceful Beats (aka Winter Chill)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Peaceful Beats (aka Winter Chill)
+http://stream.sunshine-live.de/winterchill/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live I am raving" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live I am raving
+http://stream.sunshine-live.de/iamraving/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Female Power" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Female Power
+http://stream.sunshine-live.de/technoqueens/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Waiting for the Night (aka Depeche Mode)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Waiting for the Night (aka Depeche Mode)
+http://stream.sunshine-live.de/depechemode/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Melodic Beats" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Melodic Beats
+http://stream.sunshine-live.de/melodic-live/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Bunker" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Bunker
+http://stream.sunshine-live.de/amsterdam/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Psytrance" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Psytrance
+http://stream.sunshine-live.de/xmas/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Ibiza" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Ibiza
+http://stream.sunshine-live.de/ibiza/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live 20 Jahre Sunhine Live" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live 20 Jahre Sunhine Live
+http://stream.sunshine-live.de/twenty/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Eurodance" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Eurodance
+http://stream.sunshine-live.de/eurodance/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Remix" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Remix
+http://stream.sunshine-live.de/germante/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Melodic Techno" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Melodic Techno
+http://stream.sunshine-live.de/melodic-techno/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Gaming (aka Gamescom)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Gaming (aka Gamescom)
+http://stream.sunshine-live.de/gamescom/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Party" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Party
+http://stream.sunshine-live.de/party/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Clubsound Berlin" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Clubsound Berlin
+http://stream.sunshine-live.de/playlist1/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Workout" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Workout
+http://stream.sunshine-live.de/workout/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Future Bass" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Future Bass
+http://stream.sunshine-live.de/futurebass/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live New Music" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live New Music
+http://stream.sunshine-live.de/newhits/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live Love" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Love
+http://stream.sunshine-live.de/love/mp3-192
+#EXTINF:-1 tvg-name="Sunshine Live 01. Mai 2021 (aka Backstage)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live 01. Mai 2021 (aka Backstage)
+http://stream.sunshine-live.de/backstage/mp3-192
 #EXTINF:-1 tvg-name="SWR1 Baden-Württemberg" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png",SWR1 Baden-Württemberg
 https://dispatcher.rndfnk.com/swr/swr1/bw/mp3/128/stream.mp3
 #EXTINF:-1 tvg-name="SWR1 Rheinland-Pfalz" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr1.png",SWR1 Rheinland-Pfalz
