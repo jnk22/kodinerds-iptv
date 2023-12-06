@@ -2122,13 +2122,463 @@ radio:
         url: https://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: sunshine live
+        name: Sunshine Live
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
-        tvg_name: sunshine live
-        url: https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-6863798
+        tvg_name: Sunshine Live
+        url: http://stream.sunshine-live.de/live/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live House
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live House
+        url: http://stream.sunshine-live.de/house/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live EDM
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live EDM
+        url: http://stream.sunshine-live.de/edm/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Classics
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Classics  
+        url: http://stream.sunshine-live.de/classics/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Trance
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Trance  
+        url: http://stream.sunshine-live.de/trance/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Hard
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Hard 
+        url: http://stream.sunshine-live.de/hard/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Techno
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Techno  
+        url: http://stream.sunshine-live.de/techno/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Lounge
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Lounge 
+        url: http://stream.sunshine-live.de/lounge/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live 90er
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live 90er  
+        url: http://stream.sunshine-live.de/90er/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Festival
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Festival  
+        url: http://stream.sunshine-live.de/festival/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Drum 'n' Bass
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Drum 'n' Bass  
+        url: http://stream.sunshine-live.de/dnb/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Hand's up
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Hand's up  
+        url: http://stream.sunshine-live.de/handsup/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Mayday
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Mayday 
+        url: http://stream.sunshine-live.de/mayday/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Nature One
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Nature One  
+        url: http://stream.sunshine-live.de/natureone/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Time Warp
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Time Warp  
+        url: http://stream.sunshine-live.de/timewarp/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Relax
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Relax  
+        url: http://stream.sunshine-live.de/relax/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live 80er
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live 80er  
+        url: http://stream.sunshine-live.de/80er/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live 2000er
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live 2000er  
+        url: http://stream.sunshine-live.de/2000er/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Chillout
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Chillout  
+        url: http://stream.sunshine-live.de/sp8/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Summer Beats
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Summer Beats  
+        url: http://stream.sunshine-live.de/sp2/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Tech House
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Tech House  
+        url: http://stream.sunshine-live.de/sp4/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live 90s Anthems
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live 90s Anthems  
+        url: http://stream.sunshine-live.de/sp5/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Charts
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Charts  
+        url: http://stream.sunshine-live.de/sp6/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live After Hour
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live After Hour  
+        url: http://stream.sunshine-live.de/sp7/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Avicii
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Avicii  
+        url: http://stream.sunshine-live.de/avicii/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Vocal & Classic House
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Vocal & Classic House  
+        url: http://stream.sunshine-live.de/vocalhouse/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Tropical House
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Tropical House  
+        url: http://stream.sunshine-live.de/tropicalhouse/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Pride
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Pride  
+        url: http://stream.sunshine-live.de/pride/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Prodigy
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Prodigy  
+        url: http://stream.sunshine-live.de/prodigy/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Techno Live
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Techno Live  
+        url: http://stream.sunshine-live.de/techno_live/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Focus
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Focus  
+        url: http://stream.sunshine-live.de/focus/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Peaceful Beats (aka Winter Chill)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Peaceful Beats (aka Winter Chill)  
+        url: http://stream.sunshine-live.de/winterchill/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live I am raving
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live I am raving  
+        url: http://stream.sunshine-live.de/iamraving/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Female Power
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Female Power  
+        url: http://stream.sunshine-live.de/technoqueens/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Waiting for the Night (aka Depeche Mode)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Waiting for the Night (aka Depeche Mode)  
+        url: http://stream.sunshine-live.de/depechemode/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Melodic Beats
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Melodic Beats  
+        url: http://stream.sunshine-live.de/melodic-live/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Bunker
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Bunker  
+        url: http://stream.sunshine-live.de/amsterdam/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Psytrance
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Psytrance 
+        url: http://stream.sunshine-live.de/xmas/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Ibiza
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Ibiza  
+        url: http://stream.sunshine-live.de/ibiza/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live 20 Jahre Sunhine Live
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live 20 Jahre Sunhine Live  
+        url: http://stream.sunshine-live.de/twenty/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Eurodance
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Eurodance  
+        url: http://stream.sunshine-live.de/eurodance/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Remix
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Remix  
+        url: http://stream.sunshine-live.de/germante/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Melodic Techno
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Melodic Techno  
+        url: http://stream.sunshine-live.de/melodic-techno/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Gaming (aka Gamescom)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Gaming (aka Gamescom)
+        url: http://stream.sunshine-live.de/gamescom/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Party
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Party  
+        url: http://stream.sunshine-live.de/party/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Clubsound Berlin
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Clubsound Berlin 
+        url: http://stream.sunshine-live.de/playlist1/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Workout
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Workout  
+        url: http://stream.sunshine-live.de/workout/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Future Bass
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Future Bass  
+        url: http://stream.sunshine-live.de/futurebass/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live New Music
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live New Music  
+        url: http://stream.sunshine-live.de/newhits/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live Love
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live Love  
+        url: http://stream.sunshine-live.de/love/mp3-192
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: Sunshine Live 01. Mai 2021 (aka Backstage)
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png
+        tvg_name: Sunshine Live 01. Mai 2021 (aka Backstage) 
+        url: http://stream.sunshine-live.de/backstage/mp3-192
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: SWR1 Baden-Württemberg
