@@ -43,8 +43,8 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 https://d2606t9eyamzl3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ia6qw6xh7nd2w-ssai-prd/out/v1/64dc66ee167d48db833377ab85217dfd/DAZN-FAST-HLS-CMAF-DRM/index.m3u8
 #EXTINF:-1 tvg-name="RiC" tvg-id="RiC.de" group-title="Filme / Serien;Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png",RiC
 plugin://plugin.video.youtube/play/?video_id=vRgu-o0chwI
-#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-name="Lilo.TV" tvg-id="lilo.tv" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png",Lilo.TV
+https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-name="Ö3-VisualRadio" tvg-id="oe3.at" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Ö3-VisualRadio
