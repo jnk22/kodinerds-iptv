@@ -25,8 +25,6 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
 https://welt.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-name="WELT News (loop)" tvg-id="WELTNewsLoop.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT News (Dauerschleife)
-https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/index.m3u8
 #EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
