@@ -5299,15 +5299,6 @@ tv:
         url: https://welt.personalstream.tv/v1/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten
-        name: WELT News (Dauerschleife)
-        quality: sd
-        radio: false
-        tvg_id: WELTNewsLoop.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png
-        tvg_name: WELT News (loop)
-        url: https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/index.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Nachrichten
         name: euronews deutsch
         quality: hd
         radio: false
