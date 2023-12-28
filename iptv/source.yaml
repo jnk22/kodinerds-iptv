@@ -4393,22 +4393,22 @@ tv:
         url: https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
       - group_title: IPTV-QA
         group_title_kodi: International;Nachrichten
-        name: Al Jazeera
-        quality: sd
+        name: Al Jazeera Arabic
+        quality: hd
         radio: false
         tvg_id: AlJazeeraArabe.nws
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeera.png
-        tvg_name: Al Jazeera
-        url: http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+        tvg_name: Al Jazeera Arabic
+        url: https://live-hls-web-aja.getaj.net/AJA/index.m3u8
       - group_title: IPTV-QA
         group_title_kodi: International;Nachrichten
         name: Al Jazeera English
-        quality: sd
+        quality: hd
         radio: false
         tvg_id: AlJazeera.nws
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png
         tvg_name: Al Jazeera English
-        url: https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+        url: https://live-hls-web-aje.getaj.net/AJE/index.m3u8
       - group_title: IPTV-AE
         group_title_kodi: International;Filme / Serien
         name: Dubai One
