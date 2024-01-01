@@ -5367,7 +5367,7 @@ tv:
         radio: false
         tvg_id: Dokusat.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png
-        tvg_name: DF1 HD
+        tvg_name: Dokusat
         url: https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Filme / Serien;Kinder / Jugend
