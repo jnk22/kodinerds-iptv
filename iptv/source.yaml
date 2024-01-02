@@ -5395,7 +5395,7 @@ tv:
         tvg_id: lilo.tv
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png
         tvg_name: Lilo.TV
-        url: https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
+        url: https://muc2.iptv-playoutcenter.de/volksmusik/volksmusik-sat1/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Kinder / Jugend
         name: Nickelodeon
