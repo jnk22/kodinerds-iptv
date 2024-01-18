@@ -2885,6 +2885,15 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobollerwagen.png
         tvg_name: Radio Bollerwagen
         url: http://player.ffn.de/radiobollerwagen.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: eldoradio
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/eldoradio.png
+        tvg_name: eldoradio
+        url: http://sender.eldoradio.de:8000/128.mp3
     it:
       id: 9
       streams:
