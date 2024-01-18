@@ -223,6 +223,15 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozuerisee.png
         tvg_name: Radio Zürisee
         url: http://mp3.radio.ch/radiozuerisee128k
+      - group_title: Radio-CH
+        group_title_kodi: Schweiz
+        name: KONTRAFUNK
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kontrafunk.png
+        tvg_name: KONTRAFUNK
+        url: https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3
     de:
       id: 1
       streams:
