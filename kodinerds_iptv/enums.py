@@ -1,6 +1,6 @@
 """TODO."""
 
-from enum import Enum
+from enum import Enum, IntEnum
 
 
 class ListType(Enum):
@@ -11,27 +11,24 @@ class ListType(Enum):
     CLEAN: Stream uses raw URL.
     KODI:  Stream has full Kodi compatibiliy with extended details.
     PIPE:  Stream is piped through FFmpeg with special header.
-    DASH:  Stream has special header to be used with Kodi's adaptive inputstream.
     """
 
     CLEAN = "clean"
     KODI = "kodi"
     PIPE = "pipe"
-    DASH = "dash"
 
 
-class StreamState(Enum):
+class StreamState(IntEnum):
     """TODO."""
 
-    SUCCESS = "success"
-    WARNING = "warning"
-    SKIPPED = "skipped"
-    ERROR = "error"
-    UNKNOWN = "unknown"
+    SUCCESS = 1
+    WARNING = 2
+    SKIPPED = 3
+    ERROR = 4
+    UNKNOWN = 5
 
 
 class ReportFormat(Enum):
     """TODO."""
 
     TEXT = "text"
-    MARKDOWN = "markdown"

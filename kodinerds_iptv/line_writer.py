@@ -2,9 +2,8 @@
 
 from __future__ import annotations
 
-from dataclasses import dataclass
 from functools import reduce
-from typing import TYPE_CHECKING, Any
+from typing import TYPE_CHECKING, Final
 
 from .enums import ListType
 
@@ -12,7 +11,7 @@ if TYPE_CHECKING:
     from .stream import Stream
 
 
-@dataclass
+# TODO: Rename to something like LinesGenerator.
 class LineWriter:
     """Default class for creating lines of stream information.
 
@@ -21,6 +20,16 @@ class LineWriter:
     """
 
     logo_base_path: str | None = None
+
+    def __init__(self, *, logo_base_path: str | None = None) -> None:
+        """Initialize the LineWriter class.
+
+        Parameters
+        ----------
+        logo_base_path
+            The base path for the logo files.
+        """
+        self.logo_base_path = logo_base_path
 
     def get_lines(self, stream: Stream) -> list[str]:
         """Return a tuple of the header and stream line for the provided stream.
@@ -35,10 +44,10 @@ class LineWriter:
         tuple[str, str]
             A tuple containing the header line and stream line for the provided stream.
         """
-        lines = (*self._header_line(stream), self._stream_line(stream))
+        lines = (*self._header_lines(stream), self._stream_line(stream))
         return [" ".join(line.split()) for line in lines]
 
-    def _header_line(self, stream: Stream) -> list[str]:
+    def _header_lines(self, stream: Stream) -> list[str]:
         # Return header line for stream.
         raw_lines = (
             "#EXTINF:-1",
@@ -61,7 +70,7 @@ class LineWriter:
         # Return stream line inclurding URL for stream.
         return f"{stream.url}"
 
-    def _group_title(self, stream: Stream) -> str:
+    def _group_title(self, stream: Stream) -> str | None:
         # Return default group title for stream.
         return stream.group_title
 
@@ -75,7 +84,7 @@ class KodiLineWriter(LineWriter):
     be compatible with Kodi's YouTube plugin.
     """
 
-    __YOUTUBE_URL_REPLACE = (
+    __YOUTUBE_URL_REPLACE: Final[tuple[str, str]] = (
         "https://www.youtube.com/embed/",
         "plugin://plugin.video.youtube/play/?video_id=",
     )
@@ -86,7 +95,7 @@ class KodiLineWriter(LineWriter):
 
     def _group_title(self, stream: Stream) -> str:
         # Override group title with Kodi specific group.
-        return stream.group_title_kodi
+        return ";".join(stream.group_titles_kodi)
 
 
 class PipeLineWriter(LineWriter):
@@ -99,7 +108,7 @@ class PipeLineWriter(LineWriter):
     stream URL.
     """
 
-    __REPLACE_ENCODING_CHARS = {
+    __REPLACE_ENCODING_CHARS: Final[set[tuple[str, str]]] = {
         ("Ä", "Ae"),
         ("ä", "ae"),
         ("Ö", "Oe"),
@@ -132,35 +141,13 @@ class PipeLineWriter(LineWriter):
         """
 
 
-class DashLineWriter(LineWriter):
-    """A LineWriter subclass for writing Dash/MPD streams.
-
-    TODO
-    """  # TODO
-
-    __KODI_PROPS = [
-        "#KODIPROP:inputstreamaddon=inputstream.adaptive",
-        "#KODIPROP:inputstream.adaptive.manifest_type=mpd",
-    ]
-
-    def _header_line(self, stream: Stream) -> list[str]:
-        # Override stream line for pipe usage.
-        # The stream URL includes several required attributes for FFmpeg.
-        return [*super()._header_line(stream), *self.__KODI_PROPS]
-
-    def _group_title(self, stream: Stream) -> str:
-        # Override group title with Kodi specific group.
-        return stream.group_title_kodi
-
-
 class AutoLineWriter:
     """TODO."""
 
-    __MAPPING: dict[ListType, Any] = {
+    __MAPPING: Final[dict[ListType, type[LineWriter]]] = {
         ListType.CLEAN: LineWriter,
         ListType.KODI: KodiLineWriter,
         ListType.PIPE: PipeLineWriter,
-        ListType.DASH: DashLineWriter,
     }
 
     @classmethod

@@ -7,22 +7,24 @@ readme = "README.md"
 packages = [{ include = "kodinerds_iptv" }]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+# TODO: Support more Python versions if possible.
+python = "^3.11"
 PyYAML = "^6.0"
-httpx = "^0.23.3"
-typer = { extras = ["all"], version = "^0.7.0" }
+httpx = "^0.26.0"
+typer = { extras = ["all"], version = "^0.9.0" }
 tabulate = "^0.9.0"
+aiometer = "^0.5.0"
+loguru = "^0.7.2"
 
 [tool.poetry.scripts]
 kn-iptv = "kodinerds_iptv.main:app"
 
 [tool.poetry.group.dev.dependencies]
-black = "^23.1.0"
-ruff = "^0.0.254"
-pytest = "^7.2.1"
-pytest-cov = "^4.0.0"
-types-pyyaml = "^6.0.12.8"
-types-tabulate = "^0.9.0.1"
+ruff = "^0.1.0"
+pytest = "^7.4.0"
+pytest-cov = "^4.1.0"
+types-pyyaml = "6.0.12.12"
+types-tabulate = "0.9.0.20240106"
 
 [build-system]
 requires = ["poetry-core"]
@@ -40,27 +42,13 @@ ignore_missing_imports = true
 [tool.ruff]
 line-length = 88
 select = ["ALL"]
-target-version = "py310"
-ignore = [
-  "ANN101", # flake8-annotations: missing-type-self
-  "ANN102", # flake8-annotations: missing-type-cls
-  "COM812", # flake8-commas: trailing-comma-on-bare-tuple-prohibited
-]
-unfixable = [
-  "T201",   # flake8-print: print-found
-  "ERA001", # eradicate: commented-out-code
-  "F401",   # Pyflakes: unused-import
-  "F841",   # Pyflakes: unused-variable
-]
+target-version = "py311"
+ignore = ["ANN101", "ANN102", "COM812", "TD002", "TD003"]
+unfixable = ["T201", "ERA001", "F841"]
 
 [tool.ruff.per-file-ignores]
 "__init__.py" = ["D104", "F401"]
 "tests/*.py" = ["S101"]
-"main.py" = ["T201", "T203", "B008"]
-"cli_helpers.py" = ["T201", "T203"]
-"generate_lists.py" = ["T201", "T203"]
-"check_availability.py" = ["T201", "T203"]
-"io_utils.py" = ["T201", "T203"]
 
 [tool.ruff.pydocstyle]
 convention = "numpy"

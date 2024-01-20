@@ -1,10 +1,11 @@
 ---
-main:
-  - group_title: IPTV-DE
-    group_title_kodi: Vollprogramm
-    name: Das Erste HD
-    quality: hd
-    tvg_id: DasErste.de
-    tvg_logo: tv/daserstehd.png
-    tvg_name: Das Erste HD
-    url: https://mcdn.daserste.de/daserste/dash/manifest.mpd
+- group_title: IPTV-DE
+  group_titles_kodi:
+    - Vollprogramm
+  category: main
+  name: Das Erste HD
+  quality: hd
+  tvg_id: DasErste.de
+  tvg_logo: tv/daserstehd.png
+  tvg_name: Das Erste HD
+  url: https://mcdn.daserste.de/daserste/dash/manifest.mpd
