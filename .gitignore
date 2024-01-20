@@ -1,8 +1,18 @@
+### Created by https://www.gitignore.io
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
 
 # Environments
 .env
@@ -13,11 +23,13 @@ ENV/
 env.bak/
 venv.bak/
 
-# Unit test / coverage reports
-.coverage
-.coverage.*
-coverage.xml
-.pytest_cache/
+# Rope project settings
+.ropeproject
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
 
 ### Python Patch ###
 # Poetry local configuration file - https://python-poetry.org/docs/configuration/#local-configuration
