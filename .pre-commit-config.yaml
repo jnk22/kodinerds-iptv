@@ -1,7 +1,7 @@
 ---
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.4.0
+    rev: v4.5.0
     hooks:
       - id: check-yaml
       - id: check-toml
@@ -15,36 +15,30 @@ repos:
       - id: trailing-whitespace
       - id: end-of-file-fixer
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: "v3.0.0-alpha.6"
+    rev: "v4.0.0-alpha.8"
     hooks:
       - id: prettier
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.29.0
+    rev: v1.33.0
     hooks:
       - id: yamllint
-      - id: yamllint
-        name: yamllint sources
-        args: ["-c", ".yamllint-sources.yaml"]
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-    rev: 2.7.1
+    rev: 2.7.3
     hooks:
       - id: editorconfig-checker
   - repo: https://github.com/pre-commit/mirrors-mypy
-    rev: v1.1.1
+    rev: v1.8.0
     hooks:
       - id: mypy
         additional_dependencies:
-          - "types-PyYAML==6.0.12.8"
-          - "types-tabulate==0.9.0.1"
-  - repo: https://github.com/psf/black
-    rev: 23.1.0
-    hooks:
-      - id: black
-  - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: v0.0.255
+          - "types-PyYAML==6.0.12.12"
+          - "types-tabulate==0.9.0.20240106"
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.1.11
     hooks:
       - id: ruff
+      - id: ruff-format
   - repo: https://github.com/jendrikseipp/vulture
-    rev: v2.7
+    rev: v2.10
     hooks:
       - id: vulture
