@@ -11,6 +11,12 @@ Kodinerds IPTV ist eine Sammlung von frei empfangbaren Streams für TV- und Radi
 Eine ausführliche Anleitung und Beschreibung findet sich auf Kodinerds.net:
 [Kodinerds IPTV auf Kodinerds.net](https://www.kodinerds.net/index.php/Thread/56713/)
 
+## Missing Features
+
+- [ ] Auto-detect stream quality (SD, HD, 4K, ...) based on stream URL and/or available resolutions.
+- [ ] Add workflow to automatically report current state of streams to GitHub.
+- [ ] Allow custom output path for generated files, based on stream attributes (category, resolution, ...).
+
 ## Beschreibung / Erklärung
 
 Die Listen sind unterteilt in verschiedene Typen, hier gibt es folgende Typen:
