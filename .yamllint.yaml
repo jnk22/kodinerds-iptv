@@ -1,9 +1,10 @@
 ---
 extends: default
 
-ignore:
-  - sources/**
-
 rules:
   truthy:
     check-keys: false
+
+  line-length:
+    ignore:
+      - sources/*.yaml

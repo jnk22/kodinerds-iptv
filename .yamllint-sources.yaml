@@ -1,8 +1,0 @@
----
-extends: default
-
-files:
-  - sources/**
-
-rules:
-  line-length: disable
