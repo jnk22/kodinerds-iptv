@@ -591,6 +591,8 @@ pipe://ffmpeg -loglevel fatal -i https://stream.lokalradio.nrw/44523kb -vcodec c
 pipe://ffmpeg -loglevel fatal -i https://stream.lokalradio.nrw/4457mts -vcodec copy -acodec copy -metadata service_name=Radio\ Koeln\ Sommer -metadata service_provider=Radio-DE -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Radio Bollerwagen" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobollerwagen.png",Radio Bollerwagen
 pipe://ffmpeg -loglevel fatal -i http://player.ffn.de/radiobollerwagen.mp3 -vcodec copy -acodec copy -metadata service_name=Radio\ Bollerwagen -metadata service_provider=Radio-DE -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+#EXTINF:-1 tvg-name="eldoradio" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/eldoradio.png",eldoradio
+pipe://ffmpeg -loglevel fatal -i http://sender.eldoradio.de:8000/128.mp3 -vcodec copy -acodec copy -metadata service_name=eldoradio -metadata service_provider=Radio-DE -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="FM4" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fm4.png",FM4
 pipe://ffmpeg -loglevel fatal -i https://orf-live.ors-shoutcast.at/fm4-q2a -vcodec copy -acodec copy -metadata service_name=FM4 -metadata service_provider=Radio-AT -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradiooe3.png",Hitradio Ö3

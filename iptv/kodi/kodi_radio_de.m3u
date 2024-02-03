@@ -591,3 +591,5 @@ https://stream.lokalradio.nrw/44523kb
 https://stream.lokalradio.nrw/4457mts
 #EXTINF:-1 tvg-name="Radio Bollerwagen" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobollerwagen.png",Radio Bollerwagen
 http://player.ffn.de/radiobollerwagen.mp3
+#EXTINF:-1 tvg-name="eldoradio" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/eldoradio.png",eldoradio
+http://sender.eldoradio.de:8000/128.mp3
