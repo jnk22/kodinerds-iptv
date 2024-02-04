@@ -3658,7 +3658,7 @@ tv:
         tvg_id: ZDFEvent.de3
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png
         tvg_name: ZDF Event 3
-        url: http://zdf0506-lh.akamaihd.net/i/de05_v1@392857/index_3096_av-p.m3u8
+        url: https://zdf-hls-03.akamaized.net/hls/live/2016213/de/high/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: ZDF Event 4
@@ -3676,7 +3676,7 @@ tv:
         tvg_id: ZDFEvent5.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png
         tvg_name: ZDF Event 5
-        url: http://zdf0708-lh.akamaihd.net/i/de07_v1@392868/index_3096_av-p.m3u8
+        url: https://zdf-hls-05.akamaized.net/hls/live/2016300/de/high/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: ZDF Event 6
@@ -3686,6 +3686,33 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png
         tvg_name: ZDF Event 6
         url: http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_229_av-b.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: ZDF Event 7
+        quality: hd
+        radio: false
+        tvg_id: ZDFEvent7.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png
+        tvg_name: ZDF Event 7
+        url: https://zdf-hls-07.akamaized.net/hls/live/2016302/de/high/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: ZDF Event 9
+        quality: hd
+        radio: false
+        tvg_id: ZDFEvent7.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png
+        tvg_name: ZDF Event 9
+        url: https://zdf-hls-09.akamaized.net/hls/live/2016304/de/high/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Extra
+        name: ZDF Event 10
+        quality: hd
+        radio: false
+        tvg_id: ZDFEvent10.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png
+        tvg_name: ZDF Event 10
+        url: https://zdf-hls-10.akamaized.net/hls/live/2016305/de/high/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra
         name: ARTE Event 1
