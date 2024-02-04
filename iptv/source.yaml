@@ -1242,7 +1242,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio7.png
         tvg_name: Radio 7
-        url: https://edge04.streamonkey.net/radio7-dab
+        url: https://streams.radio7.de/dab/aac-128/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Radio 90.1
