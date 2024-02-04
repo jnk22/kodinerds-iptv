@@ -5227,6 +5227,15 @@ tv:
         url: https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
+        name: DF1 HD
+        quality: hd
+        radio: false
+        tvg_id: DF1.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png
+        tvg_name: DF1 HD
+        url: https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Spartenprogramm
         name: ServusTV HD
         quality: hd
         radio: false
@@ -5369,6 +5378,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daznfastplus.png
         tvg_name: DAZN FAST+
         url: https://d2606t9eyamzl3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ia6qw6xh7nd2w-ssai-prd/out/v1/64dc66ee167d48db833377ab85217dfd/DAZN-FAST-HLS-CMAF-DRM/index.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Spartenprogramm
+        name: Dokusat
+        quality: hd
+        radio: false
+        tvg_id: Dokusat.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png
+        tvg_name: Dokusat
+        url: https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8      
       - group_title: IPTV-DE
         group_title_kodi: Filme / Serien;Kinder / Jugend
         name: RiC
@@ -5630,6 +5648,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png
         tvg_name: ERF 1
         url: https://bcovlive-a.akamaihd.net/8d3c5f8c76724987a30eb69d4ba6ca80/eu-central-1/6194387526001/playlist.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Sport
+        name: SPORT BILD TV
+        quality: hd
+        radio: false
+        tvg_id: SPORTBILD.de
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sportbildtv.png
+        tvg_name: SportBild
+        url: https://sport-bild.personalstream.tv/v1/bildde/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Sonstiges
         name: VISIT-X.tv
