@@ -8,13 +8,19 @@ http://zdf0304-lh.akamaihd.net/i/de03_v1@392855/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 2" tvg-id="ZDFEvent2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 2
 http://zdf0304-lh.akamaihd.net/i/de04_v1@392856/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 3" tvg-id="ZDFEvent.de3" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 3
-http://zdf0506-lh.akamaihd.net/i/de05_v1@392857/index_3096_av-p.m3u8
+https://zdf-hls-03.akamaized.net/hls/live/2016213/de/high/master.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 4" tvg-id="ZDFEvent4.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 4
 http://zdf0506-lh.akamaihd.net/i/de06_v1@392858/index_3096_av-p.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 5" tvg-id="ZDFEvent5.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 5
-http://zdf0708-lh.akamaihd.net/i/de07_v1@392868/index_3096_av-p.m3u8
+https://zdf-hls-05.akamaized.net/hls/live/2016300/de/high/master.m3u8
 #EXTINF:-1 tvg-name="ZDF Event 6" tvg-id="ZDFEvent6.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 6
 http://zdf0708-lh.akamaihd.net/i/de08_v1@392869/index_229_av-b.m3u8
+#EXTINF:-1 tvg-name="ZDF Event 7" tvg-id="ZDFEvent7.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 7
+https://zdf-hls-07.akamaized.net/hls/live/2016302/de/high/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event 9" tvg-id="ZDFEvent7.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 9
+https://zdf-hls-09.akamaized.net/hls/live/2016304/de/high/master.m3u8
+#EXTINF:-1 tvg-name="ZDF Event 10" tvg-id="ZDFEvent10.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 10
+https://zdf-hls-10.akamaized.net/hls/live/2016305/de/high/master.m3u8
 #EXTINF:-1 tvg-name="ARTE Event 1" tvg-id="ArteEvent1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 1
 https://arteconcerthls.akamaized.net/hls/live/2025494/channel01/master.m3u8
 #EXTINF:-1 tvg-name="ARTE Event 2" tvg-id="ArteEvent2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/arte.png",ARTE Event 2
