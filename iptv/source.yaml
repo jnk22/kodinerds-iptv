@@ -5893,7 +5893,7 @@ tv:
         tvg_id: MDRSachsen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png
         tvg_name: MDR Sachsen HD
-        url: https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+        url: https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: MDR Sachsen-Anhalt HD
@@ -5902,7 +5902,7 @@ tv:
         tvg_id: MDRS-Anhalt.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png
         tvg_name: MDR Sachsen-Anhalt HD
-        url: https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+        url: https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: MDR Thüringen HD
@@ -5911,7 +5911,7 @@ tv:
         tvg_id: MDRThuringen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png
         tvg_name: MDR Thüringen HD
-        url: https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
+        url: https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: hr-fernsehen
@@ -5920,7 +5920,7 @@ tv:
         tvg_id: HR.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png
         tvg_name: hr-fernsehen
-        url: https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
+        url: https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: rbb Berlin HD
