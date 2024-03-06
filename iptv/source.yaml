@@ -3502,7 +3502,7 @@ tv:
         tvg_id: OE24TV.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oe24tv.png
         tvg_name: oe24 TV
-        url: https://oe24.mdn.ors.at/out/u/oe24tv_hd-nodrm.m3u8
+        url: https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International
         name: M4TV
