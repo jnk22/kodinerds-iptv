@@ -4157,6 +4157,33 @@ tv:
     international:
       id: 8
       streams:
+      - group_title: IPTV-IT
+        group_title_kodi: International;Nachrichten
+        name: Peer TV Südtirol
+        quality: hd
+        radio: false
+        tvg_id: peer.tv
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/peer-tv-suedtirol.png
+        tvg_name: Peer TV Südtirol
+        url: https://iptv.peer.biz/live/peertv.m3u8
+      - group_title: IPTV-IT
+        group_title_kodi: International
+        name: Peer TV Alto Adige
+        quality: hd
+        radio: false
+        tvg_id: peer.tv
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/peer-tv-alto-adige.png
+        tvg_name: Peer TV Alto Adige
+        url: https://iptv.peer.biz/live/peertv-it.m3u8
+      - group_title: IPTV-IT
+        group_title_kodi: International
+        name: Peer TV South Tyrol
+        quality: hd
+        radio: false
+        tvg_id: peer.tv
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/peer-tv-south-tyrol.png
+        tvg_name: Peer TV South Tyrol
+        url: https://iptv.peer.biz/live/peertv-en.m3u8
       - group_title: IPTV-AU
         group_title_kodi: International;Nachrichten
         name: Sky News Extra
