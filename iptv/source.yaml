@@ -714,6 +714,51 @@ radio:
         url: https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: DASDING Zukunftsmusik
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png
+        tvg_name: DASDING Zukunftsmusik
+        url: https://liveradio.swr.de/d245tgd/raka12/
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: DASDING Chillout
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png
+        tvg_name: DASDING Chillout
+        url: https://liveradio.swr.de/d245tgd/raka10/
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: DASDING Partyfieber
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png
+        tvg_name: DASDING Partyfieber
+        url: https://liveradio.swr.de/d245tgd/raka07/
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: DASDING Rap, sonst nichts
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png
+        tvg_name: DASDING Rap, sonst nichts
+        url: https://liveradio.swr.de/d245tgd/raka11/
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: DASDING Weekend WarmUp
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png
+        tvg_name: DASDING Weekend WarmUp
+        url: https://liveradio.swr.de/d245tgd/raka04/
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: DELUXE EASY
         quality: ''
         radio: true
@@ -2624,6 +2669,51 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png
         tvg_name: SWR3
         url: https://dispatcher.rndfnk.com/swr/swr3/live/mp3/128/stream.mp3
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: SWR3 Lyrix
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png
+        tvg_name: SWR3 Lyrix
+        url: https://liveradio.swr.de/s344dh2/raka03/play.aac
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: SWR3 Rock
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png
+        tvg_name: SWR3 Rock
+        url: https://liveradio.swr.de/s344dh2/raka05/play.aac
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: SWR3 Party
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png
+        tvg_name: SWR3 Party
+        url: https://liveradio.swr.de/s344dh2/raka06/play.aac
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: SWR3 Mottotage
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png
+        tvg_name: SWR3 Mottotage
+        url: https://liveradio.swr.de/s344dh2/raka08/play.aac
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
+        name: SWR3 Specials
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/swr3.png
+        tvg_name: SWR3 Specials
+        url: https://liveradio.swr.de/s344dh2/raka09/play.aac
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: SWR4 Baden-Württemberg
