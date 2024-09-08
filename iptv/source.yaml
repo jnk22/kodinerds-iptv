@@ -4238,6 +4238,24 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chch.png
         tvg_name: CHCH
         url: https://bcovlive-a.akamaihd.net/45a29af6ec4341539ddd3dd505c4b669/us-west-2/5644964886001/playlist.m3u8
+      - group_title: IPTV-CA
+        group_title_kodi: International;Information / Bildung
+        name: Love Nature
+        quality: hd
+        radio: false
+        tvg_id: LoveNature.ca
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lovenature.png
+        tvg_name: Love Nature
+        url: https://lnc-love-nature.tubi.video/playlist.m3u8
+      - group_title: IPTV-CA
+        group_title_kodi: International;Information / Bildung
+        name: Love Nature 4K
+        quality: hd
+        radio: false
+        tvg_id: LoveNature4K.ca
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lovenature4k.png
+        tvg_name: Love Nature 4K
+        url: https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
       - group_title: IPTV-NZ
         group_title_kodi: International
         name: TVNZ 1
@@ -5512,7 +5530,7 @@ tv:
         tvg_id: Unserding.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png
         tvg_name: UNSERDING-VisualRadio
-        url: https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/master-540p-1728.m3u8
+        url: https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: NDR 1 Radio MV-VisualRadio
@@ -6126,6 +6144,15 @@ tv:
         tvg_name: Adult Swim - Rick and Morty
         url: https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
       - group_title: IPTV-US
+        group_title_kodi: International
+        name: Adult Swim (Primal Marathon)
+        quality: hd
+        radio: false
+        tvg_id: AdultSwimPrimal.us
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
+        tvg_name: Adult Swim - Primal
+        url: https://adultswim-vodlive.cdn.turner.com/live/primal/stream_7.m3u8
+      - group_title: IPTV-US
         group_title_kodi: International;Comedy
         name: Adult Swim (Last Stream on the Left Marathon)
         quality: hd
@@ -6242,6 +6269,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png
         tvg_name: Adult Swim - Dream Corp LLC
         url: https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Comedy
+        name: Comedy Dynamics
+        quality: hd
+        radio: false
+        tvg_id: ComedyDynamics.us
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/comedydynamics.png
+        tvg_name: Comedy Dynamics
+        url: https://lnc-comedy-dynamics.tubi.video/playlist.m3u8
       - group_title: IPTV-US
         group_title_kodi: International;Religion;Kinder / Jugend
         name: JUCE TV
