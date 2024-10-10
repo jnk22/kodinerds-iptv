@@ -4873,24 +4873,6 @@ tv:
         url: https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
-        name: OK Fulda
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okfulda.png
-        tvg_name: OK Fulda
-        url: https://s.ok54.de/mok-fu/livestream/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
-        name: OK Gießen
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okgiessen.png
-        tvg_name: OK Gießen
-        url: https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
         name: OK Kassel
         quality: sd
         radio: false
@@ -5033,24 +5015,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbw.png
         tvg_name: RBW
         url: https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
-        name: TV Halle
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvhalle.png
-        tvg_name: TV Halle
-        url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
-        name: ELBEKANAL
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/elbekanal.png
-        tvg_name: ELBEKANAL
-        url: http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: seenluft24
@@ -5424,15 +5388,6 @@ tv:
         tvg_name: More than Sports TV
         url: https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
       - group_title: IPTV-DE
-        group_title_kodi: Sport
-        name: DAZN FAST+
-        quality: hd
-        radio: false
-        tvg_id: daznfastplus.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daznfastplus.png
-        tvg_name: DAZN FAST+
-        url: https://d2606t9eyamzl3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ia6qw6xh7nd2w-ssai-prd/out/v1/64dc66ee167d48db833377ab85217dfd/DAZN-FAST-HLS-CMAF-DRM/index.m3u8
-      - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
         name: Dokusat
         quality: hd
@@ -5468,15 +5423,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png
         tvg_name: Lilo.TV
         url: https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Kinder / Jugend
-        name: Nickelodeon
-        quality: hd
-        radio: false
-        tvg_id: Nickelodeon.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png
-        tvg_name: Nickelodeon
-        url: https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
       - group_title: IPTV-AT
         group_title_kodi: Musik
         name: Ö3-VisualRadio
@@ -5533,15 +5479,6 @@ tv:
         url: https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
-        name: MTV Germany
-        quality: hd
-        radio: false
-        tvg_id: MTVGermany.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png
-        tvg_name: MTV Germany
-        url: https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
         name: DELUXE MUSIC
         quality: hd
         radio: false
@@ -5549,24 +5486,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png
         tvg_name: DELUXE MUSIC
         url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
-        name: DELUXE MUSIC ROCK
-        quality: hd
-        radio: false
-        tvg_id: DeLuxeMusicRock.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrock.png
-        tvg_name: DELUXE MUSIC ROCK
-        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
-        name: DELUXE MUSIC FLASHBACK
-        quality: hd
-        radio: false
-        tvg_id: DeLuxeMusicFlashback.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicflashback.png
-        tvg_name: DELUXE MUSIC FLASHBACK
-        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: DELUXE MUSIC DANCE
@@ -5720,15 +5639,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/visitxtv.png
         tvg_name: VISIT-X.tv
         url: https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Sonstiges
-        name: Wir24TV
-        quality: hd
-        radio: false
-        tvg_id: 'wir24.tv'
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wirtv24.png
-        tvg_name: wir24.tv
-        url: https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
     regional:
       id: 3
       streams:
