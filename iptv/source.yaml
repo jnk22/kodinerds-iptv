@@ -4219,7 +4219,7 @@ tv:
         tvg_id: DeutscheWelleES.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle (ES)
-        url: https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
+        url: https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
       - group_title: IPTV-IR
         group_title_kodi: International;Nachrichten
         name: Press TV
@@ -4690,7 +4690,7 @@ tv:
         tvg_id: Hamburg1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hamburg1.png
         tvg_name: Hamburg 1
-        url: https://stream.hamburg1.de/live_abr/hamburg1_abr/live/hamburg1_720p/chunks.m3u8
+        url: https://www.youtube.com/watch?v=_bvFj37lkuQ
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: KabelJournal
@@ -5032,7 +5032,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png
         tvg_name: oldenburg eins
-        url: https://oeins.de/live/studio.m3u8
+        url: https://streaming.oeins.de/memfs/fe62d6c9-adce-41af-93ed-50d891a9050b.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Potsdam TV
@@ -5104,7 +5104,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png
         tvg_name: Sylt1
-        url: https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/Playlist.m3u8
+        url: https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream999/chunklist_w676844554.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Niederbayern TV Passau
@@ -5212,7 +5212,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frf24.png
         tvg_name: frf24
-        url: https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
+        url: https://cdn.livespotting.com/vpu/so1795yx/0n5ikvr8.m3u8
     main:
       id: 1
       streams:
@@ -5260,7 +5260,7 @@ tv:
         tvg_id: DF1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png
         tvg_name: DF1 HD
-        url: https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
+        url: https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
         name: ARD-alpha
@@ -5341,7 +5341,7 @@ tv:
         tvg_id: euronews.com
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png
         tvg_name: euronews deutsch
-        url: https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+        url: https://www.youtube.com/embed/CQ3KsEbsYHs
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten;Dokumentationen
         name: Bild
@@ -5404,7 +5404,7 @@ tv:
         tvg_id: RiC.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ric.png
         tvg_name: RiC
-        url: https://www.youtube.com/embed/vRgu-o0chwI
+        url: https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Kinder / Jugend
         name: KiKA
@@ -5620,7 +5620,7 @@ tv:
         tvg_id: ERFeins.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png
         tvg_name: ERF 1
-        url: https://bcovlive-a.akamaihd.net/8d3c5f8c76724987a30eb69d4ba6ca80/eu-central-1/6194387526001/playlist.m3u8
+        url: https://bcovlive-a.akamaihd.net/b9f68a14d78144abb5b883067a0cdb84/eu-central-1/6194387526001/playlist.m3u8 
       - group_title: IPTV-DE
         group_title_kodi: Sport
         name: SPORT BILD TV
@@ -5920,7 +5920,7 @@ tv:
         tvg_id: DeutscheWelleEN.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle (EN)
-        url: https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/index.m3u8
+        url: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Südthüringer Regionalfernsehen
@@ -5977,7 +5977,7 @@ tv:
         tvg_id: QVC.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png
         tvg_name: QVC
-        url: https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
+        url: https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Teleshopping
         name: QVC PLUS
@@ -5986,7 +5986,7 @@ tv:
         tvg_id: QVCPlus.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png
         tvg_name: QVC PLUS
-        url: https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
+        url: https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Teleshopping
         name: QVC Beauty & Style
@@ -5995,7 +5995,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcbeautystyle.png
         tvg_name: QVC Beauty & Style
-        url: https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+        url: https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Teleshopping
         name: SonnenklarTV HD
