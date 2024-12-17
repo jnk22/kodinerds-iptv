@@ -5314,7 +5314,7 @@ tv:
         tvg_id: One.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png
         tvg_name: one HD
-        url: https://mcdn.one.ard.de/ardone/hls/master.m3u8
+        url: https://mcdn-one.ard.de/ardone/hls/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
         name: ZDFneo HD
