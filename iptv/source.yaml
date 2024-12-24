@@ -5260,7 +5260,7 @@ tv:
         tvg_id: DasErste.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png
         tvg_name: Das Erste HD
-        url: https://mcdn.daserste.de/daserste/de/master.m3u8
+        url: https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Vollprogramm
         name: ZDF HD
@@ -5314,7 +5314,7 @@ tv:
         tvg_id: One.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png
         tvg_name: one HD
-        url: https://mcdn.one.ard.de/ardone/hls/master.m3u8
+        url: https://mcdn-one.ard.de/ardone/hls/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
         name: ZDFneo HD
@@ -6005,12 +6005,12 @@ tv:
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Deutsche Welle (EN)
-        quality: sd
+        quality: hd
         radio: false
         tvg_id: DeutscheWelleEN.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle (EN)
-        url: https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/index.m3u8
+        url: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Südthüringer Regionalfernsehen
@@ -6359,6 +6359,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cnninternational.png
         tvg_name: CNN International Europe
         url: https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Nachrichten
+        name: CNN International
+        quality: hd
+        radio: false
+        tvg_id: CNNInternationalEurope.us
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cnninternational.png
+        tvg_name: CNN International
+        url: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
       - group_title: IPTV-UK
         group_title_kodi: International;Teleshopping
         name: Create & Craft TV
