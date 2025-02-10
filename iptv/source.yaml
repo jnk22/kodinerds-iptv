@@ -4153,7 +4153,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png
         tvg_name: EbS Live (Europe by Satellite)
-        url: https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
+        url: https://streams.prd.commavservices.eu/live/ebs/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra;Information / Bildung
         name: EbS+ Live (Europe by Satellite)
@@ -4162,7 +4162,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png
         tvg_name: EbS+ Live (Europe by Satellite)
-        url: https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
+        url: https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
     international:
       id: 8
       streams:
