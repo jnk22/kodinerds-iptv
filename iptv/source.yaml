@@ -5848,7 +5848,7 @@ tv:
         tvg_id: SWRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png
         tvg_name: 'SWR Baden-Württemberg HD '
-        url: https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+        url: https://mcdn.swr.de/swr/swrbwd/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: SWR Rheinland-Pfalz HD
@@ -5857,7 +5857,7 @@ tv:
         tvg_id: SWRFernsehen-rp.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png
         tvg_name: SWR Rheinland-Pfalz HD
-        url: https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+        url: https://mcdn.swr.de/swr/swrrpd/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: NDR Niedersachsen HD
@@ -5956,7 +5956,7 @@ tv:
         tvg_id: HR.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png
         tvg_name: hr-fernsehen
-        url: https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
+        url: https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: rbb Berlin HD
