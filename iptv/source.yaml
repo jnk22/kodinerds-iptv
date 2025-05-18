@@ -4219,7 +4219,7 @@ tv:
         tvg_id: DeutscheWelleES.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle (ES)
-        url: https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
+        url: https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
       - group_title: IPTV-IR
         group_title_kodi: International;Nachrichten
         name: Press TV
