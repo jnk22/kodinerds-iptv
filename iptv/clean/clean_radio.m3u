@@ -82,7 +82,7 @@ https://stream.radioaktiv.org/VeryHiFi
 #EXTINF:-1 tvg-name="Campusradio Passau (Campus Crew)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/campuscrew.png",Campusradio Passau (Campus Crew)
 http://server14575.streamplus.de/listen.mp3
 #EXTINF:-1 tvg-name="Campusradio Universität Duisburg-Essen (CampusFM)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/campusfm.png",Campusradio Universität Duisburg-Essen (CampusFM)
-http://campusfm.de
+https://www.campusfm.info/api/radio-stream
 #EXTINF:-1 tvg-name="Campusradio Bochum (CT das radio)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ctdasradio.png",Campusradio Bochum (CT das radio)
 http://live.ctdasradio.de:8008/web-playlist
 #EXTINF:-1 tvg-name="Campusradio Regensburg (Studentenfunk)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/studentenfunk.png",Campusradio Regensburg (Studentenfunk)
