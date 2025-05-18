@@ -612,7 +612,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/campusfm.png
         tvg_name: Campusradio Universität Duisburg-Essen (CampusFM)
-        url: http://campusfm.de
+        url: https://www.campusfm.info/api/radio-stream
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Campusradio Bochum (CT das radio)
