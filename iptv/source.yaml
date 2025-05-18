@@ -675,7 +675,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokit.png
         tvg_name: Campusradio Karlsruhe (Radio KIT)
-        url: http://campusradio.zak.kit.edu:8000/campusradiokitbib
+        url: https://campusradio.forum.kit.edu:8443/campusradiokitbib
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Campusradio Mittweida (99drei)
