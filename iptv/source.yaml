@@ -4228,7 +4228,7 @@ tv:
         tvg_id: PressTV.uk
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/presstv.png
         tvg_name: Press TV
-        url: https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+        url: https://live.presstv.ir/hls/presstv_5_482/index.m3u8
       - group_title: IPTV-CA
         group_title_kodi: International;Nachrichten
         name: CHCH
