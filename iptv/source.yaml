@@ -4807,7 +4807,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oknahetv.png
         tvg_name: OK naheTV (Idar-Oberstein)
-        url: https://s.ok54.de/nahetv/webstream/chunks.m3u8
+        url: https://s.ok54.de/abr_nahetv/webstream/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: OK RheinLokal (Worms)
@@ -4816,7 +4816,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinlokal.png
         tvg_name: OK RheinLokal (Worms)
-        url: https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
+        url: https://s.ok54.de/abr_rheinlokal/webstream/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: OK Suedwestpfalz
@@ -4825,7 +4825,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksuedwestpfalz.png
         tvg_name: OK Suedwestpfalz
-        url: https://s.ok54.de/okswp/test/chunks.m3u8
+        url: https://s.ok54.de/abr_okswp/webstream/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: OK Weinstraße (Neustadt)
@@ -4834,7 +4834,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png
         tvg_name: OK Weinstraße (Neustadt)
-        url: https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
+        url: https://s.ok54.de/abr_okwstr/live/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: OK Flensburg
