@@ -5701,7 +5701,7 @@ tv:
         tvg_id: ERFeins.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png
         tvg_name: ERF 1
-        url: https://bcovlive-a.akamaihd.net/8d3c5f8c76724987a30eb69d4ba6ca80/eu-central-1/6194387526001/playlist.m3u8
+        url: https://bcovlive-a.akamaihd.net/b9f68a14d78144abb5b883067a0cdb84/eu-central-1/6194387526001/profile_0/chunklist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Sport
         name: SPORT BILD TV
