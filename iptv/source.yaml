@@ -453,22 +453,13 @@ radio:
         url: https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: Bayern 2 Nord
+        name: Bayern 2
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png
-        tvg_name: Bayern 2 Nord
-        url: https://dispatcher.rndfnk.com/br/br2/nord/mp3/mid
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: Bayern 2 Süd
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png
-        tvg_name: Bayern 2 Süd
-        url: https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid
+        tvg_name: Bayern 2
+        url: https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Bayern 3
