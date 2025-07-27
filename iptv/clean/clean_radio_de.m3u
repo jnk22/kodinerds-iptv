@@ -47,10 +47,8 @@ https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid
 https://dispatcher.rndfnk.com/br/br1/nbopf/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 1 Schwaben" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",Bayern 1 Schwaben
 https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid
-#EXTINF:-1 tvg-name="Bayern 2 Nord" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",Bayern 2 Nord
-https://dispatcher.rndfnk.com/br/br2/nord/mp3/mid
-#EXTINF:-1 tvg-name="Bayern 2 Süd" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",Bayern 2 Süd
-https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid
+#EXTINF:-1 tvg-name="Bayern 2" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",Bayern 2
+https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
 #EXTINF:-1 tvg-name="Bayern 3" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png",Bayern 3
 https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
 #EXTINF:-1 tvg-name="bigFM" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bigfm.png",bigFM
