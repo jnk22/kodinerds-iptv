@@ -5497,6 +5497,15 @@ tv:
         url: https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
+        name: Panoramabilder
+        quality: hd
+        radio: false
+        tvg_id: panoramabilder
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/panoramabilder.png
+        tvg_name: Panoramabilder
+        url: https://brevent.akamaized.net/hls/live/2028222/event_05/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
         name: DASDING-VisualRadio
         quality: hd
         radio: false
