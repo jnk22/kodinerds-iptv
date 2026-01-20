@@ -3547,7 +3547,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/melodietv.png
         tvg_name: Melodie TV
-        url: https://www.youtube.com/embed/7ODUQKpsY9A
+        url: https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8
       - group_title: IPTV-CH
         group_title_kodi: International
         name: TeleZüri HD
