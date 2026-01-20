@@ -24,6 +24,15 @@ radio:
         url: https://orf-live.ors-shoutcast.at/oe3-q2a
       - group_title: Radio-AT
         group_title_kodi: Österreich
+        name: Austria First
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/austriafirst.png
+        tvg_name: Austria First
+        url: https://n01a-eu.rcs.revma.com/3zudpqfxh0cwv?rj-ttl=5&rj-tok=AAABm8uuzlsAWVPrc0mLiKWX-Q
+      - group_title: Radio-AT
+        group_title_kodi: Österreich
         name: Klassik Radio
         quality: ''
         radio: true
