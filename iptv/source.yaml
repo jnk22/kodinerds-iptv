@@ -6010,7 +6010,7 @@ tv:
         tvg_id: srf-online.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/suedthueringer_regionalfernsehen.png
         tvg_name: Südthüringer Regionalfernsehen
-        url: https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+        url: https://wowza.telvi.de/srf/stream_720p/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Rennsteig.tv
