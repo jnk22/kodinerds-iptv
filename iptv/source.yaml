@@ -3421,7 +3421,7 @@ tv:
         tvg_id: ServusTV.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png
         tvg_name: ServusTV HD (AT)
-        url: https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+        url: https://freqsyndlin.servustv.com/771_playlist.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International;Spartenprogramm
         name: Krone.TV
@@ -3430,7 +3430,7 @@ tv:
         tvg_id: KroneTV.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronetv.png
         tvg_name: Krone.TV
-        url: https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
+        url: https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International;Spartenprogramm
         name: Okto
@@ -4444,7 +4444,7 @@ tv:
         tvg_id: tvrain.ru
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvrain.png
         tvg_name: TV Rain
-        url: https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b4692000.m3u8
+        url: https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
       - group_title: IPTV-ID
         group_title_kodi: International;Nachrichten
         name: MetroTV
