@@ -5983,7 +5983,7 @@ tv:
         tvg_id: DeutscheWelleDE.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle
-        url: https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+        url: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Deutsche Welle+
