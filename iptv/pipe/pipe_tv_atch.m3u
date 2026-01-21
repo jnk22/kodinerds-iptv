@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-id="ServusTV.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",ServusTV HD (AT)
-pipe://ffmpeg -loglevel fatal -i https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8 -vcodec copy -acodec copy -metadata service_name=ServusTV\ HD\ (AT) -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+pipe://ffmpeg -loglevel fatal -i https://freqsyndlin.servustv.com/771_playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=ServusTV\ HD\ (AT) -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Krone.TV" tvg-id="KroneTV.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronetv.png",Krone.TV
-pipe://ffmpeg -loglevel fatal -i https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8 -vcodec copy -acodec copy -metadata service_name=Krone.TV -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+pipe://ffmpeg -loglevel fatal -i https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8 -vcodec copy -acodec copy -metadata service_name=Krone.TV -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
 pipe://ffmpeg -loglevel fatal -i https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Okto -metadata service_provider=IPTV-AT -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 #EXTINF:-1 tvg-name="ORF eins HD" tvg-id="ORF1.at" group-title="IPTV-AT" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF eins HD
