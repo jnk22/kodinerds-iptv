@@ -4873,24 +4873,6 @@ tv:
         url: https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
-        name: OK Fulda
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okfulda.png
-        tvg_name: OK Fulda
-        url: https://s.ok54.de/mok-fu/livestream/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
-        name: OK Gießen
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okgiessen.png
-        tvg_name: OK Gießen
-        url: https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
         name: OK Kassel
         quality: sd
         radio: false
