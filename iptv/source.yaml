@@ -1786,7 +1786,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosaw.png
         tvg_name: radio SAW
-        url: http://stream.radiosaw.de
+        url: https://stream.radiosaw.de/saw/mp3-192/radio-browser/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: radio TOP 40
