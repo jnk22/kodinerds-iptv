@@ -5278,7 +5278,7 @@ tv:
         tvg_id: DF1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png
         tvg_name: DF1 HD
-        url: https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
+        url: https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
         name: ARD-alpha
