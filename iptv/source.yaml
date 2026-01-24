@@ -2065,7 +2065,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandfm.png
         tvg_name: ROCKLAND.FM
-        url: http://stream.rockland-digital.de
+        url: https://stream.rockland-digital.de/rockland/mp3-192/radio-browser/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RPR1
