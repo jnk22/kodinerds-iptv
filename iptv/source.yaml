@@ -687,15 +687,6 @@ radio:
         url: http://netradio.ext.htwm.de:8000/live256
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: Campusradio Magdeburg (Guericke FM)
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/GuerickeFM.png
-        tvg_name: Campusradio Magdeburg (Guericke FM)
-        url: https://server14976.streamplus.de/stream.mp3
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
         name: Campusradio Ilmenau
         quality: ''
         radio: true
