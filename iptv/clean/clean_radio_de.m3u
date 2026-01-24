@@ -97,8 +97,6 @@ https://server28989.streamplus.de/stream.mp3
 https://campusradio.forum.kit.edu:8443/campusradiokitbib
 #EXTINF:-1 tvg-name="Campusradio Mittweida (99drei)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/99drei.png",Campusradio Mittweida (99drei)
 http://netradio.ext.htwm.de:8000/live256
-#EXTINF:-1 tvg-name="Campusradio Magdeburg (Guericke FM)" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/GuerickeFM.png",Campusradio Magdeburg (Guericke FM)
-https://server14976.streamplus.de/stream.mp3
 #EXTINF:-1 tvg-name="Campusradio Ilmenau" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hsf.png",Campusradio Ilmenau
 https://stream.radio-hsf.de/hsf.mp3
 #EXTINF:-1 tvg-name="DASDING" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png",DASDING
