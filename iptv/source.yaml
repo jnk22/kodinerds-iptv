@@ -1236,15 +1236,6 @@ radio:
         url: http://mp3.planetradio.de/planetradio/hqlivestream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: PULS
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/puls.png
-        tvg_name: PULS
-        url: https://dispatcher.rndfnk.com/br/puls/live/mp3/mid
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
         name: Radio 7
         quality: ''
         radio: true
