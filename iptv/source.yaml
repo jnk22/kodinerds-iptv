@@ -4717,7 +4717,7 @@ tv:
         tvg_id: MyTVplus.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mytvplus.png
         tvg_name: MyTVplus
-        url: https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+        url: https://h056.video-stream-hosting.de/easycast10-live/_definst_/mp4:livestreamhd82/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: noa4 Hamburg HD
