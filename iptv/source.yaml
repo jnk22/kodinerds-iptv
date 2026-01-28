@@ -5638,7 +5638,7 @@ tv:
         tvg_id: KTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png
         tvg_name: K-TV
-        url: http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+        url: https://streamcdnf34-a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Religion
         name: EWTN katholisches TV
