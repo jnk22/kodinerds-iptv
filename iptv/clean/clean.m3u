@@ -572,7 +572,7 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 #EXTINF:-1 tvg-name="ARTE HD (FR)" tvg-id="ARTE.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD (FR)
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master.m3u8
 #EXTINF:-1 tvg-name="France 24" tvg-id="France24.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png",France 24
-http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+https://www.youtube.com/c/FRANCE24/live
 #EXTINF:-1 tvg-name="BFMTV" tvg-id="BFMTV.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bfmtv.png",BFMTV
 https://bfmtvalive1-a.akamaihd.net/8a3483ffeb9d40f0a738c1392f2bcc14/eu-central-1/876450610001/profile_0/da8e1b0dc391423390d09277e66af0b9/chunklist_ssaiM.m3u8
 #EXTINF:-1 tvg-name="XITE" tvg-id="" group-title="IPTV-NL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/xite.png",XITE
