@@ -4735,7 +4735,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png
         tvg_name: noa4 Norderstedt HD
-        url: https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+        url: https://hls1.wtnet.de/noa4/apple/wifi.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: NRWision HD
