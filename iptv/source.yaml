@@ -6189,15 +6189,6 @@ tv:
         tvg_name: Adult Swim - Dream Corp LLC
         url: https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
       - group_title: IPTV-US
-        group_title_kodi: International;Religion;Kinder / Jugend
-        name: JUCE TV
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/jucetv.png
-        tvg_name: JUCE TV
-        url: http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
-      - group_title: IPTV-US
         group_title_kodi: International;Information / Bildung
         name: NASA TV
         quality: sd
