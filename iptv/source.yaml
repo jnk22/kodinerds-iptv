@@ -5203,7 +5203,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frf24.png
         tvg_name: frf24
-        url: https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
+        url: https://ch-fra-n14.livespotting.com/vpu/so1795yx/0n5ikvr8_720.m3u8
     main:
       id: 1
       streams:
