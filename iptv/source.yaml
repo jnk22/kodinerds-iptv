@@ -4924,7 +4924,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png
         tvg_name: Tide TV
-        url: https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+        url: https://h058.video-stream-hosting.de/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: BLK Regional TV
