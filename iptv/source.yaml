@@ -3583,7 +3583,7 @@ tv:
         tvg_id: TeleBielingue.ch
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebielingue.png
         tvg_name: TeleBielingue
-        url: https://edge15.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
+        url: https://edge21.vedge.infomaniak.com/livecast/ik:backup_5/manifest.m3u8
       - group_title: IPTV-CH
         group_title_kodi: International;Musik
         name: TVM3
