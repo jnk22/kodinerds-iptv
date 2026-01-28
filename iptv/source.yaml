@@ -6324,15 +6324,6 @@ tv:
         tvg_name: Sky News
         url: https://www.youtube.com/embed/9Auq9mYxFEE
       - group_title: IPTV-UK
-        group_title_kodi: International;Nachrichten
-        name: London Live
-        quality: hd
-        radio: false
-        tvg_id: LondonLive.uk
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png
-        tvg_name: London Live
-        url: http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-      - group_title: IPTV-UK
         group_title_kodi: Musik
         name: 4Music
         quality: sd
