@@ -5032,7 +5032,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png
         tvg_name: oldenburg eins
-        url: https://oeins.de/live/studio.m3u8
+        url: https://cdn.oeins.de/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Potsdam TV
