@@ -4264,7 +4264,7 @@ tv:
         tvg_id: France24.fr
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png
         tvg_name: France 24
-        url: http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+        url: https://www.youtube.com/c/FRANCE24/live
       - group_title: IPTV-FR
         group_title_kodi: International;Nachrichten
         name: BFMTV
