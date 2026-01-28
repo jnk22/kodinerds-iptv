@@ -4273,7 +4273,7 @@ tv:
         tvg_id: BFMTV.fr
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bfmtv.png
         tvg_name: BFMTV
-        url: https://bfmtvalive1-a.akamaihd.net/8a3483ffeb9d40f0a738c1392f2bcc14/eu-central-1/876450610001/profile_0/da8e1b0dc391423390d09277e66af0b9/chunklist_ssaiM.m3u8
+        url: https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
       - group_title: IPTV-NL
         group_title_kodi: International;Musik
         name: XITE
