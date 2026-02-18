@@ -5143,15 +5143,6 @@ tv:
         url: https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
-        name: Westerwald TV
-        quality: hd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png
-        tvg_name: Westerwald TV
-        url: https://live2.telvi.de/hls/wwtv.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
         name: teltOwkanal
         quality: sd
         radio: false
