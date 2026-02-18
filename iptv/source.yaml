@@ -4999,15 +4999,6 @@ tv:
         url: https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
-        name: ELBEKANAL
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/elbekanal.png
-        tvg_name: ELBEKANAL
-        url: http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
         name: seenluft24
         quality: sd
         radio: false
