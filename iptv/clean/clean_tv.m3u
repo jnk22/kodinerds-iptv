@@ -59,8 +59,6 @@ https://brevent.akamaized.net/hls/live/2028222/event_05/master.m3u8
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 tvg-name="NDR 1 Radio MV-VisualRadio" tvg-id="NDR1RadioMV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/ndr1radiomv.png",NDR 1 Radio MV-VisualRadio
 https://ndrvisualradiohls.akamaized.net/hls/live/2018951/ndrvr_mv_ndr1/master.m3u8
-#EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Germany
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-name="DELUXE MUSIC DANCE" tvg-id="DeLuxeMusicDance.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicdance.png",DELUXE MUSIC DANCE
