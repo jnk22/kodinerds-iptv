@@ -5470,15 +5470,6 @@ tv:
         url: https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
-        name: UNSERDING-VisualRadio
-        quality: hd
-        radio: false
-        tvg_id: Unserding.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png
-        tvg_name: UNSERDING-VisualRadio
-        url: https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/master-540p-1728.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
         name: NDR 1 Radio MV-VisualRadio
         quality: hd
         radio: false
