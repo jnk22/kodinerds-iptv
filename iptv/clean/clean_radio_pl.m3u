@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Planeta FM" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM
 https://pa04.cdn.eurozet.pl/pla-net.mp3
-#EXTINF:-1 tvg-name="Planeta FM Electronic Wave" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM Electronic Wave
-http://pla02.cdn.eurozet.pl:8228/PLAEDM.mp3
-#EXTINF:-1 tvg-name="Planeta FM Good Vibes" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM Good Vibes
-http://pla01.cdn.eurozet.pl:8204/PLACHI.mp3
-#EXTINF:-1 tvg-name="Planeta FM Indie Day Mood" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png",Planeta FM Indie Day Mood
-http://pla02.cdn.eurozet.pl:8230/PLAIDM.mp3
 #EXTINF:-1 tvg-name="Radio ZET" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET
 https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
 #EXTINF:-1 tvg-name="Radio ZET 2000" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET 2000
