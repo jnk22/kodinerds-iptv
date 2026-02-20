@@ -665,8 +665,6 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfsgc/bbc_world_service_news_internet.mpd
 #EXTINF:-1 tvg-name="Classic FM" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/classicfm.png",Classic FM
 http://media-ice.musicradio.com:80/ClassicFMMP3
-#EXTINF:-1 tvg-name="Classical 1" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/classical1.png",Classical 1
-http://185.80.221.113:8500/stream
 #EXTINF:-1 tvg-name="LBC (national)" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/lbc.png",LBC (national)
 https://media-ssl.musicradio.com/LBCUK
 #EXTINF:-1 tvg-name="Times Radio" group-title="Radio-UK" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/timesradio.png",Times Radio
