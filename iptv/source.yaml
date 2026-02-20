@@ -3172,7 +3172,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcasiannetwork.png
         tvg_name: BBC Asian Network
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_asian_network.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_asian_network.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 1
@@ -3181,7 +3181,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1.png
         tvg_name: BBC Radio 1
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_one.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 1Xtra
@@ -3190,7 +3190,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1xtra.png
         tvg_name: BBC Radio 1Xtra
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_1xtra.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_1xtra.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 2
@@ -3199,7 +3199,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio2.png
         tvg_name: BBC Radio 2
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_two.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_two.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 3
@@ -3208,7 +3208,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio3.png
         tvg_name: BBC Radio 3
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_three.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_three.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 4
@@ -3217,7 +3217,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4.png
         tvg_name: BBC Radio 4
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_fourfm.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aksgc/bbc_radio_fourfm.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 4 Extra
@@ -3226,7 +3226,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4extra.png
         tvg_name: BBC Radio 4 Extra
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_four_extra.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_four_extra.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 5 Live
@@ -3235,7 +3235,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio5live.png
         tvg_name: BBC Radio 5 Live
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_five_live.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_five_live.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 6 Music
@@ -3244,7 +3244,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio6music.png
         tvg_name: BBC Radio 6 Music
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_6music.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_6music.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio Cymru
@@ -3253,7 +3253,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiocymru.png
         tvg_name: BBC Radio Cymru
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_cymru.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_cymru.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio Foyle
@@ -3262,7 +3262,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiofoyle.png
         tvg_name: BBC Radio Foyle
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_foyle.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_foyle.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio nan Gàidheal
@@ -3271,7 +3271,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradionangaidheal.png
         tvg_name: BBC Radio nan Gàidheal
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_nan_gaidheal.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_nan_gaidheal.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio Scotland
@@ -3280,7 +3280,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioscotland.png
         tvg_name: BBC Radio Scotland
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_scotland_fm.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_scotland_fm.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio Ulster
@@ -3289,7 +3289,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioulster.png
         tvg_name: BBC Radio Ulster
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_ulster.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_ulster.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio Wales
@@ -3298,7 +3298,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiowales.png
         tvg_name: BBC Radio Wales
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_wales_fm.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_wales_fm.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC World Service
@@ -3307,7 +3307,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcworldservice.png
         tvg_name: BBC World Service
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_world_service.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfsgc/bbc_world_service_news_internet.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: Classic FM
