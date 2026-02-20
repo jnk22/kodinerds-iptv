@@ -6,7 +6,7 @@ https://orf-live.ors-shoutcast.at/oe3-q2a
 #EXTINF:-1 tvg-name="Austria First" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/austriafirst.png",Austria First
 https://n01a-eu.rcs.revma.com/3zudpqfxh0cwv?rj-ttl=5&rj-tok=AAABm8uuzlsAWVPrc0mLiKWX-Q
 #EXTINF:-1 tvg-name="Klassik Radio" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png",Klassik Radio
-https://edge61.streams.klassikradio.de/klassikradio-oesterreich/stream/mp3
+https://klassikr.streamabc.net/klr-krdnational-aac-128-3888428?sABC
 #EXTINF:-1 tvg-name="KRONEHIT" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT
 https://secureonair.krone.at/kronehit-hp.mp3
 #EXTINF:-1 tvg-name="KRONEHIT Dance" group-title="Österreich" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png",KRONEHIT Dance
