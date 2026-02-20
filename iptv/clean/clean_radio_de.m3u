@@ -390,7 +390,7 @@ https://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid
 #EXTINF:-1 tvg-name="rbb 88.8" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rbb888.png",rbb 88.8
 https://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
 #EXTINF:-1 tvg-name="reboot.fm" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rebootfm.png",reboot.fm
-http://87.118.122.220:8002/stream
+https://stream.reboot.fm/listen/reboot.fm/radio.mp3
 #EXTINF:-1 tvg-name="ROCK ANTENNE" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE
 http://mp3channels.webradio.rockantenne.de/rockantenne
 #EXTINF:-1 tvg-name="ROCK ANTENNE HEAVY-METAL" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rockantenne.png",ROCK ANTENNE HEAVY-METAL
