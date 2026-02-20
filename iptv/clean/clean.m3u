@@ -1031,8 +1031,6 @@ https://streams.rockland.de/dab/mp3-192/streams.rockland.de/
 https://stream.rockland-digital.de/rockland/mp3-192/radio-browser/
 #EXTINF:-1 tvg-name="RPR1" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png",RPR1
 http://streams.rpr1.de/rpr-koeln-128-mp3
-#EXTINF:-1 tvg-name="RTF.3" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rtf3.png",RTF.3
-http://37.187.93.104:8414/stream
 #EXTINF:-1 tvg-name="Schlagerparadies" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/schlagerparadies.png",Schlagerparadies
 https://webstream.schlagerparadies.de/schlagerparadies128.mp3
 #EXTINF:-1 tvg-name="SR 1 Europawelle" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sr1europawelle.png",SR 1 Europawelle
