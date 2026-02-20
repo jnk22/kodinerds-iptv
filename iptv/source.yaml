@@ -3088,15 +3088,6 @@ radio:
         url: http://zet.cdn.eurozet.pl/ZETPL1.mp3
       - group_title: Radio-PL
         group_title_kodi: Polen
-        name: Radio ZET Rock
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
-        tvg_name: Radio ZET Rock
-        url: http://zet.cdn.eurozet.pl/ZETROK.mp3
-      - group_title: Radio-PL
-        group_title_kodi: Polen
         name: RMF FM
         quality: ''
         radio: true
