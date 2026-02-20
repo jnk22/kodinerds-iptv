@@ -1347,8 +1347,6 @@ https://zt02.cdn.eurozet.pl/ZETLOV.mp3
 http://zet.cdn.eurozet.pl/ZETPAR.mp3
 #EXTINF:-1 tvg-name="Radio ZET PL" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET PL
 http://zet.cdn.eurozet.pl/ZETPL1.mp3
-#EXTINF:-1 tvg-name="Radio ZET Rock" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png",Radio ZET Rock
-http://zet.cdn.eurozet.pl/ZETROK.mp3
 #EXTINF:-1 tvg-name="RMF FM" group-title="Radio-PL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rmffm.png",RMF FM
 https://rs103-krk.rmfstream.pl/RMFFM48
 #EXTINF:-1 tvg-name="Radio Manele" group-title="Radio-RO" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiomanele.png",Radio Manele
