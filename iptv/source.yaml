@@ -3007,33 +3007,6 @@ radio:
         url: https://pa04.cdn.eurozet.pl/pla-net.mp3
       - group_title: Radio-PL
         group_title_kodi: Polen
-        name: Planeta FM Electronic Wave
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
-        tvg_name: Planeta FM Electronic Wave
-        url: http://pla02.cdn.eurozet.pl:8228/PLAEDM.mp3
-      - group_title: Radio-PL
-        group_title_kodi: Polen
-        name: Planeta FM Good Vibes
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
-        tvg_name: Planeta FM Good Vibes
-        url: http://pla01.cdn.eurozet.pl:8204/PLACHI.mp3
-      - group_title: Radio-PL
-        group_title_kodi: Polen
-        name: Planeta FM Indie Day Mood
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
-        tvg_name: Planeta FM Indie Day Mood
-        url: http://pla02.cdn.eurozet.pl:8230/PLAIDM.mp3
-      - group_title: Radio-PL
-        group_title_kodi: Polen
         name: Radio ZET
         quality: ''
         radio: true
