@@ -1852,15 +1852,6 @@ radio:
         url: http://streamtdy.ir-media-tec.com/sc-thueringen/mp3-128/web/play.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: Radio TEDDY Deutsche Balladen
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png
-        tvg_name: Radio TEDDY Deutsche Balladen
-        url: http://streamtdy.ir-media-tec.com/softmix/mp3-128/web/play.mp3
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
         name: Radio TEDDY Deutsch-Pop Nonstop
         quality: ''
         radio: true
