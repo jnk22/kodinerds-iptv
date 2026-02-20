@@ -2002,7 +2002,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rebootfm.png
         tvg_name: reboot.fm
-        url: http://87.118.122.220:8002/stream
+        url: https://stream.reboot.fm/listen/reboot.fm/radio.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: ROCK ANTENNE
