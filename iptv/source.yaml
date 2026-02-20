@@ -1705,7 +1705,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png
         tvg_name: RADIO ENERGY Sachsen
-        url: https://scdn.nrjaudio.fm/adwz1/de/33013/mp3_128.mp3
+        url: http://nrj.de/sachsen
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO ENERGY Stuttgart
@@ -1714,7 +1714,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergystuttgart.png
         tvg_name: RADIO ENERGY Stuttgart
-        url: https://edge60.streamonkey.net/energy-stuttgart/stream/mp3
+        url: http://nrj.de/stuttgart
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO ENERGY Bremen
@@ -1723,7 +1723,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergybremen.png
         tvg_name: RADIO ENERGY Bremen
-        url: http://ffn-stream24.radiohost.de/energybremen_mp3-192
+        url: http://nrj.de/bremen
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Radio Horeb
