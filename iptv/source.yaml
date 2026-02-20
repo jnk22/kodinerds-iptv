@@ -3319,15 +3319,6 @@ radio:
         url: http://media-ice.musicradio.com:80/ClassicFMMP3
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
-        name: Scala
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/scala.png
-        tvg_name: Scala
-        url: https://stream-mz.planetradio.co.uk/scalahigh.aac
-      - group_title: Radio-UK
-        group_title_kodi: Großbritannien
         name: Classical 1 
         quality: ''
         radio: true
