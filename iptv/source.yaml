@@ -51,15 +51,6 @@ radio:
         url: https://secureonair.krone.at/kronehit-hp.mp3
       - group_title: Radio-AT
         group_title_kodi: Österreich
-        name: KRONEHIT Dance
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png
-        tvg_name: KRONEHIT Dance
-        url: https://secureonair.krone.at/kronehit23.mp3
-      - group_title: Radio-AT
-        group_title_kodi: Österreich
         name: Life Radio
         quality: ''
         radio: true
