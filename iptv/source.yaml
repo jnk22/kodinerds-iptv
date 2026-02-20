@@ -39,7 +39,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png
         tvg_name: Klassik Radio
-        url: https://edge61.streams.klassikradio.de/klassikradio-oesterreich/stream/mp3
+        url: https://klassikr.streamabc.net/klr-krdnational-aac-128-3888428?sABC
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: KRONEHIT
