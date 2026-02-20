@@ -2887,15 +2887,6 @@ radio:
       streams:
       - group_title: Radio-NL
         group_title_kodi: Niederlande
-        name: HitRadio Veronica
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioveronica.png
-        tvg_name: HitRadio Veronica
-        url: http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3
-      - group_title: Radio-NL
-        group_title_kodi: Niederlande
         name: Radio 538
         quality: ''
         radio: true
