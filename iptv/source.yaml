@@ -2050,15 +2050,6 @@ radio:
         url: http://streams.rpr1.de/rpr-koeln-128-mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: RTF.3
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rtf3.png
-        tvg_name: RTF.3
-        url: http://37.187.93.104:8414/stream
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
         name: Schlagerparadies
         quality: ''
         radio: true
