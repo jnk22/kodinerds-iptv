@@ -1242,7 +1242,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png
         tvg_name: radio B2
-        url: http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
+        url: https://stream.schlagerradio.de/b2-schlagerradio-national/mp3-192/?ref=f0d1
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! national
