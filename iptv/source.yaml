@@ -1188,7 +1188,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png
         tvg_name: nice
-        url: https://ice.cr5.streamzilla.xlcdn.com:8000/sz%3Dnice-broadcast-media-gmbh%3Dniceradio1-mp3-256
+        url: https://sd-radio.nice-radiotv.de
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: oldenburg eins
