@@ -91,8 +91,6 @@ https://stream.bonn.fm/live_high
 http://141.99.154.10:8002/;
 #EXTINF:-1 tvg-name="Campusradio TH OWL / Lemgo (Triquency)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/triquency.png",Campusradio TH OWL / Lemgo (Triquency)
 http://livestream.triquency.de:8000/live192.mp3
-#EXTINF:-1 tvg-name="Campusradio Meschede (radioFH!)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiofh.png",Campusradio Meschede (radioFH!)
-https://server28989.streamplus.de/stream.mp3
 #EXTINF:-1 tvg-name="Campusradio Karlsruhe (Radio KIT)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokit.png",Campusradio Karlsruhe (Radio KIT)
 https://campusradio.forum.kit.edu:8443/campusradiokitbib
 #EXTINF:-1 tvg-name="Campusradio Mittweida (99drei)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/99drei.png",Campusradio Mittweida (99drei)
