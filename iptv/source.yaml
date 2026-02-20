@@ -3319,15 +3319,6 @@ radio:
         url: http://media-ice.musicradio.com:80/ClassicFMMP3
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
-        name: Classical 1 
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/classical1.png
-        tvg_name: Classical 1
-        url: http://185.80.221.113:8500/stream
-      - group_title: Radio-UK
-        group_title_kodi: Großbritannien
         name: LBC (national) 
         quality: ''
         radio: true
