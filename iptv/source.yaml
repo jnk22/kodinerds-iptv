@@ -660,15 +660,6 @@ radio:
         url: http://livestream.triquency.de:8000/live192.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: Campusradio Meschede (radioFH!)
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiofh.png
-        tvg_name: Campusradio Meschede (radioFH!)
-        url: https://server28989.streamplus.de/stream.mp3
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
         name: Campusradio Karlsruhe (Radio KIT)
         quality: ''
         radio: true
