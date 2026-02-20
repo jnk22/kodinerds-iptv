@@ -850,7 +850,7 @@ https://streams.radio7.de/dab/aac-128/
 #EXTINF:-1 tvg-name="Radio 90.1" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio901.png",Radio 90.1
 http://mp3.radiomg.c.nmdn.net/radiomg/livestream.mp3
 #EXTINF:-1 tvg-name="radio B2" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png",radio B2
-http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
+https://stream.schlagerradio.de/b2-schlagerradio-national/mp3-192/?ref=f0d1
 #EXTINF:-1 tvg-name="RADIO BOB! national" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! national
 https://streams.radiobob.de/bob-national/mp3-192/mediaplayer
 #EXTINF:-1 tvg-name="RADIO BOB! NRW" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiobob.png",RADIO BOB! NRW
