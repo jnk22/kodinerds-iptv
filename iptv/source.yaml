@@ -2860,7 +2860,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio2000it.png
         tvg_name: Radio 2000
-        url: http://159.69.217.78:8000/?radio=radio2000.mp3
+        url: https://stream.radio2000.it
     fr:
       id: 5
       streams:
