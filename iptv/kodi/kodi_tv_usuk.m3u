@@ -31,8 +31,6 @@ https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_7.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_7.m3u8
 #EXTINF:-1 tvg-name="Adult Swim - Dream Corp LLC" tvg-id="" group-title="International;Comedy" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim (Dream Corp LLC Marathon)
 https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
-#EXTINF:-1 tvg-name="JUCE TV" tvg-id="" group-title="International;Religion;Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/jucetv.png",JUCE TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
 #EXTINF:-1 tvg-name="NASA TV" tvg-id="NASA.us" group-title="International;Information / Bildung" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nasatv.png",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-name="CBS News" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbsn.png",CBSN
@@ -57,11 +55,11 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-name="CNN International Europe" tvg-id="CNNInternationalEurope.us" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cnninternational.png",CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN International" tvg-id="CNNInternationalEurope.us" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cnninternational.png",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="Create & Craft TV" tvg-id="CreateCraft.uk" group-title="International;Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/createandcraft.png",Create & Craft TV
 https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
 #EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skynews.png",Sky News
 plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE
-#EXTINF:-1 tvg-name="London Live" tvg-id="LondonLive.uk" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 #EXTINF:-1 tvg-name="4Music" tvg-id="4Music.uk" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/4music.png",4Music
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/

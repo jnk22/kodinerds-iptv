@@ -24,13 +24,22 @@ radio:
         url: https://orf-live.ors-shoutcast.at/oe3-q2a
       - group_title: Radio-AT
         group_title_kodi: Österreich
+        name: Austria First
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/austriafirst.png
+        tvg_name: Austria First
+        url: https://n01a-eu.rcs.revma.com/3zudpqfxh0cwv?rj-ttl=5&rj-tok=AAABm8uuzlsAWVPrc0mLiKWX-Q
+      - group_title: Radio-AT
+        group_title_kodi: Österreich
         name: Klassik Radio
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/klassikradio.png
         tvg_name: Klassik Radio
-        url: https://edge61.streams.klassikradio.de/klassikradio-oesterreich/stream/mp3
+        url: https://klassikr.streamabc.net/klr-krdnational-aac-128-3888428?sABC
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: KRONEHIT
@@ -40,15 +49,6 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png
         tvg_name: KRONEHIT
         url: https://secureonair.krone.at/kronehit-hp.mp3
-      - group_title: Radio-AT
-        group_title_kodi: Österreich
-        name: KRONEHIT Dance
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kronehit.png
-        tvg_name: KRONEHIT Dance
-        url: https://secureonair.krone.at/kronehit23.mp3
       - group_title: Radio-AT
         group_title_kodi: Österreich
         name: Life Radio
@@ -453,22 +453,13 @@ radio:
         url: https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: Bayern 2 Nord
+        name: Bayern 2
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png
-        tvg_name: Bayern 2 Nord
-        url: https://dispatcher.rndfnk.com/br/br2/nord/mp3/mid
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: Bayern 2 Süd
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png
-        tvg_name: Bayern 2 Süd
-        url: https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid
+        tvg_name: Bayern 2
+        url: https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Bayern 3
@@ -612,7 +603,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/campusfm.png
         tvg_name: Campusradio Universität Duisburg-Essen (CampusFM)
-        url: http://campusfm.de
+        url: https://www.campusfm.info/stream?x=y
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Campusradio Bochum (CT das radio)
@@ -660,22 +651,13 @@ radio:
         url: http://livestream.triquency.de:8000/live192.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: Campusradio Meschede (radioFH!)
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiofh.png
-        tvg_name: Campusradio Meschede (radioFH!)
-        url: https://server28989.streamplus.de/stream.mp3
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
         name: Campusradio Karlsruhe (Radio KIT)
         quality: ''
         radio: true
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiokit.png
         tvg_name: Campusradio Karlsruhe (Radio KIT)
-        url: http://campusradio.zak.kit.edu:8000/campusradiokitbib
+        url: https://campusradio.forum.kit.edu:8443/campusradiokitbib
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Campusradio Mittweida (99drei)
@@ -685,15 +667,6 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/99drei.png
         tvg_name: Campusradio Mittweida (99drei)
         url: http://netradio.ext.htwm.de:8000/live256
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: Campusradio Magdeburg (Guericke FM)
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/GuerickeFM.png
-        tvg_name: Campusradio Magdeburg (Guericke FM)
-        url: https://server14976.streamplus.de/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Campusradio Ilmenau
@@ -801,7 +774,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/donau3fm.png
         tvg_name: DONAU 3 FM
-        url: http://mp3.donau3fm.c.nmdn.net/donau3fm/live.mp3
+        url: https://frontend.streamonkey.net/donau3fm-live/stream/mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: egoFM
@@ -1206,7 +1179,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/nice.png
         tvg_name: nice
-        url: https://ice.cr5.streamzilla.xlcdn.com:8000/sz%3Dnice-broadcast-media-gmbh%3Dniceradio1-mp3-256
+        url: https://sd-radio.nice-radiotv.de
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: oldenburg eins
@@ -1236,15 +1209,6 @@ radio:
         url: http://mp3.planetradio.de/planetradio/hqlivestream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
-        name: PULS
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/puls.png
-        tvg_name: PULS
-        url: https://dispatcher.rndfnk.com/br/puls/live/mp3/mid
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
         name: Radio 7
         quality: ''
         radio: true
@@ -1269,7 +1233,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiob2.png
         tvg_name: radio B2
-        url: http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
+        url: https://stream.schlagerradio.de/b2-schlagerradio-national/mp3-192/?ref=f0d1
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO BOB! national
@@ -1732,7 +1696,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergysachsen.png
         tvg_name: RADIO ENERGY Sachsen
-        url: https://scdn.nrjaudio.fm/adwz1/de/33013/mp3_128.mp3
+        url: http://nrj.de/sachsen
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO ENERGY Stuttgart
@@ -1741,7 +1705,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergystuttgart.png
         tvg_name: RADIO ENERGY Stuttgart
-        url: https://edge60.streamonkey.net/energy-stuttgart/stream/mp3
+        url: http://nrj.de/stuttgart
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RADIO ENERGY Bremen
@@ -1750,7 +1714,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioenergybremen.png
         tvg_name: RADIO ENERGY Bremen
-        url: http://ffn-stream24.radiohost.de/energybremen_mp3-192
+        url: http://nrj.de/bremen
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Radio Horeb
@@ -1786,7 +1750,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiosaw.png
         tvg_name: radio SAW
-        url: http://stream.radiosaw.de
+        url: https://stream.radiosaw.de/saw/mp3-192/radio-browser/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: radio TOP 40
@@ -1877,15 +1841,6 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png
         tvg_name: Radio TEDDY Thüringen
         url: http://streamtdy.ir-media-tec.com/sc-thueringen/mp3-128/web/play.mp3
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: Radio TEDDY Deutsche Balladen
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioteddy.png
-        tvg_name: Radio TEDDY Deutsche Balladen
-        url: http://streamtdy.ir-media-tec.com/softmix/mp3-128/web/play.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Radio TEDDY Deutsch-Pop Nonstop
@@ -2038,7 +1993,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rebootfm.png
         tvg_name: reboot.fm
-        url: http://87.118.122.220:8002/stream
+        url: https://stream.reboot.fm/listen/reboot.fm/radio.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: ROCK ANTENNE
@@ -2074,7 +2029,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rocklandfm.png
         tvg_name: ROCKLAND.FM
-        url: http://stream.rockland-digital.de
+        url: https://stream.rockland-digital.de/rockland/mp3-192/radio-browser/
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: RPR1
@@ -2084,15 +2039,6 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rpr1.png
         tvg_name: RPR1
         url: http://streams.rpr1.de/rpr-koeln-128-mp3
-      - group_title: Radio-DE
-        group_title_kodi: Deutschland
-        name: RTF.3
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/rtf3.png
-        tvg_name: RTF.3
-        url: http://37.187.93.104:8414/stream
       - group_title: Radio-DE
         group_title_kodi: Deutschland
         name: Schlagerparadies
@@ -2914,7 +2860,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio2000it.png
         tvg_name: Radio 2000
-        url: http://159.69.217.78:8000/?radio=radio2000.mp3
+        url: https://stream.radio2000.it
     fr:
       id: 5
       streams:
@@ -2939,15 +2885,6 @@ radio:
     nl:
       id: 6
       streams:
-      - group_title: Radio-NL
-        group_title_kodi: Niederlande
-        name: HitRadio Veronica
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioveronica.png
-        tvg_name: HitRadio Veronica
-        url: http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3
       - group_title: Radio-NL
         group_title_kodi: Niederlande
         name: Radio 538
@@ -3070,42 +3007,6 @@ radio:
         url: https://pa04.cdn.eurozet.pl/pla-net.mp3
       - group_title: Radio-PL
         group_title_kodi: Polen
-        name: Planeta FM Dope Hits
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
-        tvg_name: Planeta FM Dope Hits
-        url: http://pla02.cdn.eurozet.pl:8208/PLAHOU.mp3
-      - group_title: Radio-PL
-        group_title_kodi: Polen
-        name: Planeta FM Electronic Wave
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
-        tvg_name: Planeta FM Electronic Wave
-        url: http://pla02.cdn.eurozet.pl:8228/PLAEDM.mp3
-      - group_title: Radio-PL
-        group_title_kodi: Polen
-        name: Planeta FM Good Vibes
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
-        tvg_name: Planeta FM Good Vibes
-        url: http://pla01.cdn.eurozet.pl:8204/PLACHI.mp3
-      - group_title: Radio-PL
-        group_title_kodi: Polen
-        name: Planeta FM Indie Day Mood
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/planetafm.png
-        tvg_name: Planeta FM Indie Day Mood
-        url: http://pla02.cdn.eurozet.pl:8230/PLAIDM.mp3
-      - group_title: Radio-PL
-        group_title_kodi: Polen
         name: Radio ZET
         quality: ''
         radio: true
@@ -3187,15 +3088,6 @@ radio:
         url: http://zet.cdn.eurozet.pl/ZETPL1.mp3
       - group_title: Radio-PL
         group_title_kodi: Polen
-        name: Radio ZET Rock
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radiozet.png
-        tvg_name: Radio ZET Rock
-        url: http://zet.cdn.eurozet.pl/ZETROK.mp3
-      - group_title: Radio-PL
-        group_title_kodi: Polen
         name: RMF FM
         quality: ''
         radio: true
@@ -3226,7 +3118,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcasiannetwork.png
         tvg_name: BBC Asian Network
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_asian_network.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_asian_network.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 1
@@ -3235,7 +3127,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1.png
         tvg_name: BBC Radio 1
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_one.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 1Xtra
@@ -3244,7 +3136,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio1xtra.png
         tvg_name: BBC Radio 1Xtra
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_1xtra.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_1xtra.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 2
@@ -3253,7 +3145,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio2.png
         tvg_name: BBC Radio 2
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_two.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_two.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 3
@@ -3262,7 +3154,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio3.png
         tvg_name: BBC Radio 3
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_three.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_three.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 4
@@ -3271,7 +3163,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4.png
         tvg_name: BBC Radio 4
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_fourfm.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aksgc/bbc_radio_fourfm.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 4 Extra
@@ -3280,7 +3172,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio4extra.png
         tvg_name: BBC Radio 4 Extra
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_four_extra.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_four_extra.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 5 Live
@@ -3289,7 +3181,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio5live.png
         tvg_name: BBC Radio 5 Live
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_five_live.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_five_live.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio 6 Music
@@ -3298,7 +3190,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradio6music.png
         tvg_name: BBC Radio 6 Music
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_6music.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_6music.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio Cymru
@@ -3307,7 +3199,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiocymru.png
         tvg_name: BBC Radio Cymru
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_cymru.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_cymru.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio Foyle
@@ -3316,7 +3208,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiofoyle.png
         tvg_name: BBC Radio Foyle
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_foyle.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_foyle.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio nan Gàidheal
@@ -3325,7 +3217,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradionangaidheal.png
         tvg_name: BBC Radio nan Gàidheal
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_nan_gaidheal.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_nan_gaidheal.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio Scotland
@@ -3334,7 +3226,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioscotland.png
         tvg_name: BBC Radio Scotland
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_scotland_fm.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_scotland_fm.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio Ulster
@@ -3343,7 +3235,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradioulster.png
         tvg_name: BBC Radio Ulster
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_ulster.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_ulster.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC Radio Wales
@@ -3352,7 +3244,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcradiowales.png
         tvg_name: BBC Radio Wales
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_wales_fm.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_wales_fm.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: BBC World Service
@@ -3361,7 +3253,7 @@ radio:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bbcworldservice.png
         tvg_name: BBC World Service
-        url: https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_world_service.mpd
+        url: https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfsgc/bbc_world_service_news_internet.mpd
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: Classic FM
@@ -3371,24 +3263,6 @@ radio:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/classicfm.png
         tvg_name: Classic FM
         url: http://media-ice.musicradio.com:80/ClassicFMMP3
-      - group_title: Radio-UK
-        group_title_kodi: Großbritannien
-        name: Scala
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/scala.png
-        tvg_name: Scala
-        url: https://stream-mz.planetradio.co.uk/scalahigh.aac
-      - group_title: Radio-UK
-        group_title_kodi: Großbritannien
-        name: Classical 1 
-        quality: ''
-        radio: true
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/classical1.png
-        tvg_name: Classical 1
-        url: http://185.80.221.113:8500/stream
       - group_title: Radio-UK
         group_title_kodi: Großbritannien
         name: LBC (national) 
@@ -3421,7 +3295,7 @@ tv:
         tvg_id: ServusTV.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png
         tvg_name: ServusTV HD (AT)
-        url: https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+        url: https://freqsyndlin.servustv.com/771_playlist.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International;Spartenprogramm
         name: Krone.TV
@@ -3430,7 +3304,7 @@ tv:
         tvg_id: KroneTV.at
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronetv.png
         tvg_name: Krone.TV
-        url: https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
+        url: https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
       - group_title: IPTV-AT
         group_title_kodi: International;Spartenprogramm
         name: Okto
@@ -3556,7 +3430,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/melodietv.png
         tvg_name: Melodie TV
-        url: https://www.youtube.com/embed/7ODUQKpsY9A
+        url: https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8
       - group_title: IPTV-CH
         group_title_kodi: International
         name: TeleZüri HD
@@ -3601,7 +3475,7 @@ tv:
         tvg_id: TeleBielingue.ch
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebielingue.png
         tvg_name: TeleBielingue
-        url: https://edge15.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
+        url: https://edge21.vedge.infomaniak.com/livecast/ik:backup_5/manifest.m3u8
       - group_title: IPTV-CH
         group_title_kodi: International;Musik
         name: TVM3
@@ -3619,7 +3493,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telebasel.png
         tvg_name: Telebasel
-        url: http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+        url: https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/playlist.m3u8
     extra:
       id: 5
       streams:
@@ -4153,7 +4027,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png
         tvg_name: EbS Live (Europe by Satellite)
-        url: https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
+        url: https://streams.prd.commavservices.eu/live/ebs/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Extra;Information / Bildung
         name: EbS+ Live (Europe by Satellite)
@@ -4162,7 +4036,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png
         tvg_name: EbS+ Live (Europe by Satellite)
-        url: https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
+        url: https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
     international:
       id: 8
       streams:
@@ -4219,7 +4093,7 @@ tv:
         tvg_id: DeutscheWelleES.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle (ES)
-        url: https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
+        url: https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
       - group_title: IPTV-IR
         group_title_kodi: International;Nachrichten
         name: Press TV
@@ -4228,7 +4102,7 @@ tv:
         tvg_id: PressTV.uk
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/presstv.png
         tvg_name: Press TV
-        url: https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+        url: https://live.presstv.ir/hls/presstv_5_482/index.m3u8
       - group_title: IPTV-CA
         group_title_kodi: International;Nachrichten
         name: CHCH
@@ -4282,7 +4156,7 @@ tv:
         tvg_id: France24.fr
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png
         tvg_name: France 24
-        url: http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+        url: https://www.youtube.com/c/FRANCE24/live
       - group_title: IPTV-FR
         group_title_kodi: International;Nachrichten
         name: BFMTV
@@ -4291,7 +4165,7 @@ tv:
         tvg_id: BFMTV.fr
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bfmtv.png
         tvg_name: BFMTV
-        url: https://bfmtvalive1-a.akamaihd.net/8a3483ffeb9d40f0a738c1392f2bcc14/eu-central-1/876450610001/profile_0/da8e1b0dc391423390d09277e66af0b9/chunklist_ssaiM.m3u8
+        url: https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
       - group_title: IPTV-NL
         group_title_kodi: International;Musik
         name: XITE
@@ -4435,7 +4309,7 @@ tv:
         tvg_id: TRTworld.nws
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trtworld.png
         tvg_name: TRT World HD
-        url: https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+        url: https://tv-trtworld.medya.trt.com.tr/master.m3u8
       - group_title: IPTV-RU
         group_title_kodi: International;Nachrichten
         name: TV Rain (Doschd)
@@ -4444,7 +4318,7 @@ tv:
         tvg_id: tvrain.ru
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvrain.png
         tvg_name: TV Rain
-        url: https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b4692000.m3u8
+        url: https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
       - group_title: IPTV-ID
         group_title_kodi: International;Nachrichten
         name: MetroTV
@@ -4462,7 +4336,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png
         tvg_name: NHK WORLD TV
-        url: https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+        url: https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
       - group_title: IPTV-QA
         group_title_kodi: International;Nachrichten
         name: Al Jazeera Arabic
@@ -4480,7 +4354,7 @@ tv:
         tvg_id: AlJazeera.nws
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png
         tvg_name: Al Jazeera English
-        url: https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+        url: https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
       - group_title: IPTV-AE
         group_title_kodi: International;Filme / Serien
         name: Dubai One
@@ -4636,7 +4510,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png
         tvg_name: ALEX Berlin
-        url: https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+        url: https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/manifest.mpd
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: allgäu.tv
@@ -4654,7 +4528,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png
         tvg_name: Baden TV
-        url: http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+        url: https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Chemnitz Fernsehen
@@ -4735,7 +4609,7 @@ tv:
         tvg_id: MyTVplus.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mytvplus.png
         tvg_name: MyTVplus
-        url: https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+        url: https://h056.video-stream-hosting.de/easycast10-live/_definst_/mp4:livestreamhd82/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: noa4 Hamburg HD
@@ -4753,7 +4627,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png
         tvg_name: noa4 Norderstedt HD
-        url: https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+        url: https://hls1.wtnet.de/noa4/apple/wifi.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: NRWision HD
@@ -4807,7 +4681,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oknahetv.png
         tvg_name: OK naheTV (Idar-Oberstein)
-        url: https://s.ok54.de/nahetv/webstream/chunks.m3u8
+        url: https://s.ok54.de/abr_nahetv/webstream/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: OK RheinLokal (Worms)
@@ -4816,7 +4690,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinlokal.png
         tvg_name: OK RheinLokal (Worms)
-        url: https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
+        url: https://s.ok54.de/abr_rheinlokal/webstream/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: OK Suedwestpfalz
@@ -4825,7 +4699,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksuedwestpfalz.png
         tvg_name: OK Suedwestpfalz
-        url: https://s.ok54.de/okswp/test/chunks.m3u8
+        url: https://s.ok54.de/abr_okswp/webstream/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: OK Weinstraße (Neustadt)
@@ -4834,7 +4708,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png
         tvg_name: OK Weinstraße (Neustadt)
-        url: https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
+        url: https://s.ok54.de/abr_okwstr/live/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: OK Flensburg
@@ -4871,24 +4745,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinmain.png
         tvg_name: OK Rhein-Main (Offenbach Frankfurt)
         url: https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
-        name: OK Fulda
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okfulda.png
-        tvg_name: OK Fulda
-        url: https://s.ok54.de/mok-fu/livestream/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
-        name: OK Gießen
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okgiessen.png
-        tvg_name: OK Gießen
-        url: https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: OK Kassel
@@ -4960,7 +4816,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png
         tvg_name: Tide TV
-        url: https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+        url: https://h058.video-stream-hosting.de/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: BLK Regional TV
@@ -5035,24 +4891,6 @@ tv:
         url: https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
-        name: TV Halle
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvhalle.png
-        tvg_name: TV Halle
-        url: https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
-        name: ELBEKANAL
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/elbekanal.png
-        tvg_name: ELBEKANAL
-        url: http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
         name: seenluft24
         quality: sd
         radio: false
@@ -5068,16 +4906,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png
         tvg_name: oldenburg eins
-        url: https://oeins.de/live/studio.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
-        name: Potsdam TV
-        quality: hd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png
-        tvg_name: Potsdam TV
-        url: https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+        url: https://cdn.oeins.de/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Regio TV Bodensee
@@ -5113,7 +4942,7 @@ tv:
         tvg_id: Oberbayern.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png
         tvg_name: RFO
-        url: https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+        url: https://stream01.welocal.stream/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Rhein Neckar Fernsehen
@@ -5125,22 +4954,13 @@ tv:
         url: https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
-        name: rheinmaintv
-        quality: sd
-        radio: false
-        tvg_id: rheinmaintv.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png
-        tvg_name: rheinmaintv
-        url: https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
         name: Sylt1
         quality: sd
         radio: false
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png
         tvg_name: Sylt1
-        url: https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/Playlist.m3u8
+        url: https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream999/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: Niederbayern TV Passau
@@ -5167,7 +4987,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png
         tvg_name: TV Mittelrhein
-        url: https://live2.telvi.de/hls/tvm_hd720.m3u8
+        url: https://wowza.telvi.de/slive/tv-mittelrhein.stream_720p/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
         name: TV Mainfranken
@@ -5215,15 +5035,6 @@ tv:
         url: https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Lokal
-        name: Westerwald TV
-        quality: hd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png
-        tvg_name: Westerwald TV
-        url: https://live2.telvi.de/hls/wwtv.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Lokal
         name: teltOwkanal
         quality: sd
         radio: false
@@ -5248,7 +5059,7 @@ tv:
         tvg_id: ''
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frf24.png
         tvg_name: frf24
-        url: https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
+        url: https://ch-fra-n14.livespotting.com/vpu/so1795yx/0n5ikvr8_720.m3u8
     main:
       id: 1
       streams:
@@ -5260,7 +5071,7 @@ tv:
         tvg_id: DasErste.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png
         tvg_name: Das Erste HD
-        url: https://mcdn.daserste.de/daserste/de/master.m3u8
+        url: https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Vollprogramm
         name: ZDF HD
@@ -5296,7 +5107,7 @@ tv:
         tvg_id: DF1.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png
         tvg_name: DF1 HD
-        url: https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
+        url: https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
         name: ARD-alpha
@@ -5314,7 +5125,7 @@ tv:
         tvg_id: One.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png
         tvg_name: one HD
-        url: https://mcdn.one.ard.de/ardone/hls/master.m3u8
+        url: https://mcdn-one.ard.de/ardone/hls/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Spartenprogramm
         name: ZDFneo HD
@@ -5377,7 +5188,7 @@ tv:
         tvg_id: euronews.com
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png
         tvg_name: euronews deutsch
-        url: https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+        url: https://www.youtube.com/euronewsde/live
       - group_title: IPTV-DE
         group_title_kodi: Nachrichten;Dokumentationen
         name: Bild
@@ -5497,6 +5308,15 @@ tv:
         url: https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
+        name: Panoramabilder
+        quality: hd
+        radio: false
+        tvg_id: panoramabilder
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/panoramabilder.png
+        tvg_name: Panoramabilder
+        url: https://brevent.akamaized.net/hls/live/2028222/event_05/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
         name: DASDING-VisualRadio
         quality: hd
         radio: false
@@ -5504,15 +5324,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/dasding.png
         tvg_name: DASDING-VisualRadio
         url: https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
-        name: UNSERDING-VisualRadio
-        quality: hd
-        radio: false
-        tvg_id: Unserding.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/unserding.png
-        tvg_name: UNSERDING-VisualRadio
-        url: https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/master-540p-1728.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: NDR 1 Radio MV-VisualRadio
@@ -5524,24 +5335,6 @@ tv:
         url: https://ndrvisualradiohls.akamaized.net/hls/live/2018951/ndrvr_mv_ndr1/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
-        name: Rockland TV
-        quality: hd
-        radio: false
-        tvg_id: Rockland.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rocklandtv.png
-        tvg_name: Rockland TV
-        url: https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
-        name: MTV Germany
-        quality: hd
-        radio: false
-        tvg_id: MTVGermany.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png
-        tvg_name: MTV Germany
-        url: https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
         name: DELUXE MUSIC
         quality: hd
         radio: false
@@ -5549,24 +5342,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png
         tvg_name: DELUXE MUSIC
         url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
-        name: DELUXE MUSIC ROCK
-        quality: hd
-        radio: false
-        tvg_id: DeLuxeMusicRock.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicrock.png
-        tvg_name: DELUXE MUSIC ROCK
-        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
-        name: DELUXE MUSIC FLASHBACK
-        quality: hd
-        radio: false
-        tvg_id: DeLuxeMusicFlashback.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusicflashback.png
-        tvg_name: DELUXE MUSIC FLASHBACK
-        url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: DELUXE MUSIC DANCE
@@ -5593,7 +5368,7 @@ tv:
         tvg_id: FolxTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/folxtv.png
         tvg_name: Folx TV
-        url: https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
+        url: https://cdne.folxplay.tv/fxt/streams/ch-4/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: One 1 Music TV
@@ -5602,7 +5377,7 @@ tv:
         tvg_id: One1MusicTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/one1musictv.png
         tvg_name: One 1 Music TV
-        url: https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
+        url: https://cdne.folxplay.tv/fxt/streams/ch-3/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Zwei 2 Music TV
@@ -5611,7 +5386,7 @@ tv:
         tvg_id: Zwei2MusicTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zwei2musictv.png
         tvg_name: Zwei 2 Music TV
-        url: https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
+        url: https://cdne.folxplay.tv/fxt/streams/ch-2/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
         name: Deutsches Musik Fernsehen
@@ -5630,24 +5405,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/schlagerdeluxe.png
         tvg_name: Schlager Deluxe
         url: https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
-        name: Magenta Musik 360 1
-        quality: hd
-        radio: false
-        tvg_id: MagentaMusik1.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png
-        tvg_name: Magenta Musik 360 1
-        url: https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
-      - group_title: IPTV-DE
-        group_title_kodi: Musik
-        name: Magenta Musik 360 2
-        quality: hd
-        radio: false
-        tvg_id: MagentaMusik2.de
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/magentamusik.png
-        tvg_name: Magenta Musik 360 2
-        url: https://streaming.magentamusik.de/csm/573871/magentamusik2/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Religion
         name: Bibel TV
@@ -5683,7 +5440,7 @@ tv:
         tvg_id: KTV.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png
         tvg_name: K-TV
-        url: http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+        url: https://streamcdnf34-a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Religion
         name: EWTN katholisches TV
@@ -5701,7 +5458,7 @@ tv:
         tvg_id: ERFeins.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png
         tvg_name: ERF 1
-        url: https://bcovlive-a.akamaihd.net/8d3c5f8c76724987a30eb69d4ba6ca80/eu-central-1/6194387526001/playlist.m3u8
+        url: https://bcovlive-a.akamaihd.net/b9f68a14d78144abb5b883067a0cdb84/eu-central-1/6194387526001/profile_0/chunklist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Sport
         name: SPORT BILD TV
@@ -5740,7 +5497,7 @@ tv:
         tvg_id: WDRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png
         tvg_name: WDR HD
-        url: https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+        url: https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: WDR Aachen HD
@@ -5920,7 +5677,7 @@ tv:
         tvg_id: BRFernsehen.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png
         tvg_name: BR Fernsehen Süd HD
-        url: https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+        url: https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: MDR Sachsen HD
@@ -5992,7 +5749,7 @@ tv:
         tvg_id: DeutscheWelleDE.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle
-        url: https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+        url: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Deutsche Welle+
@@ -6005,12 +5762,12 @@ tv:
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Deutsche Welle (EN)
-        quality: sd
+        quality: hd
         radio: false
         tvg_id: DeutscheWelleEN.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png
         tvg_name: Deutsche Welle (EN)
-        url: https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/index.m3u8
+        url: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Südthüringer Regionalfernsehen
@@ -6019,7 +5776,7 @@ tv:
         tvg_id: srf-online.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/suedthueringer_regionalfernsehen.png
         tvg_name: Südthüringer Regionalfernsehen
-        url: https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+        url: https://wowza.telvi.de/srf/stream_720p/playlist.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Regional
         name: Rennsteig.tv
@@ -6067,7 +5824,7 @@ tv:
         tvg_id: QVC.de
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png
         tvg_name: QVC
-        url: https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
+        url: https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Teleshopping
         name: QVC PLUS
@@ -6243,15 +6000,6 @@ tv:
         tvg_name: Adult Swim - Dream Corp LLC
         url: https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_7.m3u8
       - group_title: IPTV-US
-        group_title_kodi: International;Religion;Kinder / Jugend
-        name: JUCE TV
-        quality: sd
-        radio: false
-        tvg_id: ''
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/jucetv.png
-        tvg_name: JUCE TV
-        url: http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
-      - group_title: IPTV-US
         group_title_kodi: International;Information / Bildung
         name: NASA TV
         quality: sd
@@ -6359,6 +6107,15 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cnninternational.png
         tvg_name: CNN International Europe
         url: https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+      - group_title: IPTV-US
+        group_title_kodi: International;Nachrichten
+        name: CNN International
+        quality: hd
+        radio: false
+        tvg_id: CNNInternationalEurope.us
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cnninternational.png
+        tvg_name: CNN International
+        url: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
       - group_title: IPTV-UK
         group_title_kodi: International;Teleshopping
         name: Create & Craft TV
@@ -6377,15 +6134,6 @@ tv:
         tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skynews.png
         tvg_name: Sky News
         url: https://www.youtube.com/embed/9Auq9mYxFEE
-      - group_title: IPTV-UK
-        group_title_kodi: International;Nachrichten
-        name: London Live
-        quality: hd
-        radio: false
-        tvg_id: LondonLive.uk
-        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png
-        tvg_name: London Live
-        url: http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
       - group_title: IPTV-UK
         group_title_kodi: Musik
         name: 4Music

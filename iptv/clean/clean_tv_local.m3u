@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="ALEX Berlin" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/alexberlin.png",ALEX Berlin
-https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/manifest.mpd
 #EXTINF:-1 tvg-name="allgäu.tv" tvg-id="AllgauTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Baden TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png",Baden TV
-http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Chemnitz Fernsehen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chemnitzfernsehen.png",Chemnitz Fernsehen
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Dresden Fernsehen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png",Dresden Fernsehen
@@ -24,11 +24,11 @@ https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist
 #EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",münchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="MyTVplus" tvg-id="MyTVplus.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mytvplus.png",MyTVplus
-https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+https://h056.video-stream-hosting.de/easycast10-live/_definst_/mp4:livestreamhd82/playlist.m3u8
 #EXTINF:-1 tvg-name="noa4 Hamburg HD" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Hamburg HD
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-name="noa4 Norderstedt HD" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Norderstedt HD
-https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+https://hls1.wtnet.de/noa4/apple/wifi.m3u8
 #EXTINF:-1 tvg-name="NRWision HD" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png",NRWision HD
 https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
 #EXTINF:-1 tvg-name="Oberpfalz TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oberpfalztv.png",Oberpfalz TV
@@ -40,13 +40,13 @@ https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="OK Kaiserslautern" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkaiserslautern.png",OK Kaiserslautern
 https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
 #EXTINF:-1 tvg-name="OK naheTV (Idar-Oberstein)" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oknahetv.png",OK naheTV (Idar-Oberstein)
-https://s.ok54.de/nahetv/webstream/chunks.m3u8
+https://s.ok54.de/abr_nahetv/webstream/playlist.m3u8
 #EXTINF:-1 tvg-name="OK RheinLokal (Worms)" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinlokal.png",OK RheinLokal (Worms)
-https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
+https://s.ok54.de/abr_rheinlokal/webstream/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Suedwestpfalz" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksuedwestpfalz.png",OK Suedwestpfalz
-https://s.ok54.de/okswp/test/chunks.m3u8
+https://s.ok54.de/abr_okswp/webstream/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Weinstraße (Neustadt)" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png",OK Weinstraße (Neustadt)
-https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
+https://s.ok54.de/abr_okwstr/live/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Flensburg" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fltv.png",OK Flensburg
 https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
 #EXTINF:-1 tvg-name="OK Kiel" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kieltv.png",OK Kiel
@@ -55,10 +55,6 @@ https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Rhein-Main (Offenbach Frankfurt)" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinmain.png",OK Rhein-Main (Offenbach Frankfurt)
 https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Fulda" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okfulda.png",OK Fulda
-https://s.ok54.de/mok-fu/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Gießen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okgiessen.png",OK Gießen
-https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Kassel" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkassel.png",OK Kassel
 https://s.ok54.de/mok-ks/kassel/playlist.m3u8
 #EXTINF:-1 tvg-name="OK Ludwigshafen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okludwigshafen.png",OK Ludwigshafen
@@ -74,7 +70,7 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high
 #EXTINF:-1 tvg-name="OK Wernigerode" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png",OK Wernigerode
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
 #EXTINF:-1 tvg-name="Tide TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png",Tide TV
-https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+https://h058.video-stream-hosting.de/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="BLK Regional TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blkregionaltv.png",BLK Regional TV
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
 #EXTINF:-1 tvg-name="kulturmd" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kulturmd.png",kulturmd
@@ -91,16 +87,10 @@ https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-wettin_high
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
 #EXTINF:-1 tvg-name="RBW" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbw.png",RBW
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Halle" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvhalle.png",TV Halle
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
-#EXTINF:-1 tvg-name="ELBEKANAL" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/elbekanal.png",ELBEKANAL
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
 #EXTINF:-1 tvg-name="seenluft24" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png",seenluft24
 https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8
 #EXTINF:-1 tvg-name="oldenburg eins" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oldenburgeins.png",oldenburg eins
-https://oeins.de/live/studio.m3u8
-#EXTINF:-1 tvg-name="Potsdam TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png",Potsdam TV
-https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+https://cdn.oeins.de/index.m3u8
 #EXTINF:-1 tvg-name="Regio TV Bodensee" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png",Regio TV Bodensee
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="Regio TV Schwaben" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png",Regio TV Schwaben
@@ -108,19 +98,17 @@ https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playli
 #EXTINF:-1 tvg-name="Regio TV Stuttgart" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/regiotvschwaben.png",Regio TV Stuttgart
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="RFO" tvg-id="Oberbayern.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO
-https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+https://stream01.welocal.stream/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Rhein Neckar Fernsehen" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png",Rhein Neckar Fernsehen
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="rheinmaintv" tvg-id="rheinmaintv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rheinmaintv.png",rheinmaintv
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Sylt1" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png",Sylt1
-https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/Playlist.m3u8
+https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream999/playlist.m3u8
 #EXTINF:-1 tvg-name="Niederbayern TV Passau" tvg-id="niederbayerntv.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/niederbayerntv.png",Niederbayern TV Passau
 https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="tv.ingolstadt" tvg-id="tvingolstadt.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvingolstadt.png",tv.ingolstadt
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mittelrhein" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png",TV Mittelrhein
-https://live2.telvi.de/hls/tvm_hd720.m3u8
+https://wowza.telvi.de/slive/tv-mittelrhein.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mainfranken" tvg-id="tvmainfranken.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png",TV Mainfranken
 https://stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Würzburg" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wuerzburgtv.png",TV Würzburg
@@ -131,11 +119,9 @@ https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-name="TVO" tvg-id="tvo.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png",TVO
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Westerwald TV" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png",Westerwald TV
-https://live2.telvi.de/hls/wwtv.m3u8
 #EXTINF:-1 tvg-name="teltOwkanal" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/teltOwkanal.png",teltOwkanal
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
 #EXTINF:-1 tvg-name="emstv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/emstv.png",Ems TV
 https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="frf24" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frf24.png",FRF24
-https://583548fa0d82b.streamlock.net/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
+https://ch-fra-n14.livespotting.com/vpu/so1795yx/0n5ikvr8_720.m3u8

@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Radio 2000" group-title="Radio-IT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio2000it.png",Radio 2000
-pipe://ffmpeg -loglevel fatal -i http://159.69.217.78:8000/?radio=radio2000.mp3 -vcodec copy -acodec copy -metadata service_name=Radio\ 2000 -metadata service_provider=Radio-IT -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1
+pipe://ffmpeg -loglevel fatal -i https://stream.radio2000.it -vcodec copy -acodec copy -metadata service_name=Radio\ 2000 -metadata service_provider=Radio-IT -mpegts_service_type advanced_codec_digital_radio -f mpegts pipe:1

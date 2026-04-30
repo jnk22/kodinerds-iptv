@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="HitRadio Veronica" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/hitradioveronica.png",HitRadio Veronica
-http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3
 #EXTINF:-1 tvg-name="Radio 538" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png",Radio 538
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
 #EXTINF:-1 tvg-name="Radio 538 Zomer" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio538.png",Radio 538 Zomer

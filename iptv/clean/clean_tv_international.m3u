@@ -10,9 +10,9 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 #EXTINF:-1 tvg-name="Activa TV" tvg-id="ActivaTV.es" group-title="IPTV-ES" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/activatv.png",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle (ES)" tvg-id="DeutscheWelleES.de" group-title="IPTV-ES" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle (ES)
-https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-name="Press TV" tvg-id="PressTV.uk" group-title="IPTV-IR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/presstv.png",Press TV
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-name="CHCH" tvg-id="CHCH.cdn" group-title="IPTV-CA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chch.png",CHCH
 https://bcovlive-a.akamaihd.net/45a29af6ec4341539ddd3dd505c4b669/us-west-2/5644964886001/playlist.m3u8
 #EXTINF:-1 tvg-name="TVNZ 1" tvg-id="" group-title="IPTV-NZ" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvnz1.png",TVNZ 1
@@ -24,9 +24,9 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 #EXTINF:-1 tvg-name="ARTE HD (FR)" tvg-id="ARTE.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD (FR)
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master.m3u8
 #EXTINF:-1 tvg-name="France 24" tvg-id="France24.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/france24.png",France 24
-http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+https://www.youtube.com/c/FRANCE24/live
 #EXTINF:-1 tvg-name="BFMTV" tvg-id="BFMTV.fr" group-title="IPTV-FR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bfmtv.png",BFMTV
-https://bfmtvalive1-a.akamaihd.net/8a3483ffeb9d40f0a738c1392f2bcc14/eu-central-1/876450610001/profile_0/da8e1b0dc391423390d09277e66af0b9/chunklist_ssaiM.m3u8
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-name="XITE" tvg-id="" group-title="IPTV-NL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/xite.png",XITE
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV 538" tvg-id="TV538.nl" group-title="IPTV-NL" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tv538.png",TV 538
@@ -58,17 +58,17 @@ http://37.187.158.217:8081/telma/telma_360pp/playlist.m3u8
 #EXTINF:-1 tvg-name="24 Vesti" tvg-id="" group-title="IPTV-MK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/24vesti.png",24 Vesti
 http://37.187.158.217:8081/24vesti/24vesti/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT World HD" tvg-id="TRTworld.nws" group-title="IPTV-TR" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trtworld.png",TRT World HD
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TV Rain" tvg-id="tvrain.ru" group-title="IPTV-RU" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvrain.png",TV Rain (Doschd)
-https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b4692000.m3u8
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-name="MetroTV" tvg-id="" group-title="IPTV-ID" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/metrotv.png",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1 tvg-name="NHK WORLD TV" tvg-id="" group-title="IPTV-JP" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png",NHK WORLD TV
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-id="AlJazeeraArabe.nws" group-title="IPTV-QA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeera.png",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-id="AlJazeera.nws" group-title="IPTV-QA" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/aljazeeraenglish.png",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-name="Dubai One" tvg-id="DubaiOne.net" group-title="IPTV-AE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dubaione.png",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-name="KVF" tvg-id="" group-title="IPTV-FO" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kvf.png",KVF
