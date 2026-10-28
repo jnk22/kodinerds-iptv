@@ -5317,6 +5317,15 @@ tv:
         url: https://brevent.akamaized.net/hls/live/2028222/event_05/master.m3u8
       - group_title: IPTV-DE
         group_title_kodi: Musik
+        name: Servus TV 24 Stunden-Wetterpanorama
+        quality: hd
+        radio: false
+        tvg_id: servus-tv-wetterpanorama
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png
+        tvg_name: Servus TV 24 Stunden-Wetterpanorama
+        url: https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
+      - group_title: IPTV-DE
+        group_title_kodi: Musik
         name: DASDING-VisualRadio
         quality: hd
         radio: false
