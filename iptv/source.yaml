@@ -2590,6 +2590,15 @@ radio:
         url: https://dispatcher.rndfnk.com/swr/swr4/rp/mp3/128/stream.mp3
       - group_title: Radio-DE
         group_title_kodi: Deutschland
+        name: Toggo Radio
+        quality: ''
+        radio: true
+        tvg_id: ''
+        tvg_logo: https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/toggoradio.png
+        tvg_name: Toggo Radio
+        url: https://radio.toggo.de/live/mp3-192/radio.toggo.de/
+      - group_title: Radio-DE
+        group_title_kodi: Deutschland
         name: UNSERDING
         quality: ''
         radio: true
